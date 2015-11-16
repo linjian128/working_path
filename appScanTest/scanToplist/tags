@@ -1,0 +1,78 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APP	upload_toplist.py	/^        APP = False$/;"	v
+APP	upload_toplist.py	/^        APP = True$/;"	v
+FREE	upload_toplist.py	/^        FREE=False$/;"	v
+FREE	upload_toplist.py	/^        FREE=True$/;"	v
+GAME	upload_toplist.py	/^        GAME = False$/;"	v
+GAME	upload_toplist.py	/^        GAME = True$/;"	v
+PAID	upload_toplist.py	/^        PAID=False$/;"	v
+PAID	upload_toplist.py	/^        PAID=True$/;"	v
+all_sqls	upload_toplist.py	/^all_sqls = []$/;"	v
+app_name	upload_toplist.py	/^        app_name = values[2].strip()$/;"	v
+app_version	upload_toplist.py	/^            app_version = "VWD"$/;"	v
+app_version	upload_toplist.py	/^        app_version = app_version.strip()$/;"	v
+app_version	upload_toplist.py	/^        app_version = values[4].strip()$/;"	v
+buildOpener	getTopList.py	/^def buildOpener(email, password):$/;"	f
+category	upload_toplist.py	/^        category = values[8].strip()$/;"	v
+conn	upload_toplist.py	/^    conn = mydb.connect('apptestserver','root','intel123','cv2', charset='utf8')$/;"	v
+cookielib	getTopList.py	/^import cookielib$/;"	i
+count	upload_toplist.py	/^        count=count+1$/;"	v
+count	upload_toplist.py	/^    count=0$/;"	v
+csv	getTopList.py	/^import csv$/;"	i
+cur	upload_toplist.py	/^    cur = conn.cursor()$/;"	v
+date	getTopList.py	/^    from datetime import date$/;"	i
+division	getTopList.py	/^from __future__ import division$/;"	i
+download	upload_toplist.py	/^        download = values[6].strip()$/;"	v
+getAppDetailInfo	getTopList.py	/^def getAppDetailInfo(opener,appinfo):$/;"	f
+getOneCollection	getTopList.py	/^def getOneCollection(cur_opener, url_prefix, index):$/;"	f
+getOneTopList	getTopList.py	/^def getOneTopList(ListType):$/;"	f
+getpass	getTopList.py	/^import getpass$/;"	i
+html	getTopList.py	/^import lxml.html$/;"	i
+ispaid	upload_toplist.py	/^        ispaid = ispaid.strip()$/;"	v
+ispaid	upload_toplist.py	/^        ispaid="0"$/;"	v
+ispaid	upload_toplist.py	/^        ispaid="1"$/;"	v
+lxml	getTopList.py	/^import lxml.html$/;"	i
+mydb	upload_toplist.py	/^import MySQLdb as mydb$/;"	i
+ndk_info	upload_toplist.py	/^            ndk_info = "Incomp"$/;"	v
+ndk_info	upload_toplist.py	/^        ndk_info = ndk_info.strip()$/;"	v
+ndk_info	upload_toplist.py	/^        ndk_info = values[13].strip()$/;"	v
+one_record	upload_toplist.py	/^        one_record = [app_name,pkg_name,app_version,publish_date,ranking,ispaid,price,size,download,rating,category,top_list,ndk_info,update_date]$/;"	v
+open_workbook	upload_toplist.py	/^from xlrd import open_workbook$/;"	i
+os	getTopList.py	/^import os$/;"	i
+pkg_name	upload_toplist.py	/^        pkg_name = values[11].strip()$/;"	v
+price	upload_toplist.py	/^        price = values[1].strip()$/;"	v
+publish_date	upload_toplist.py	/^        publish_date = publish_date.replace(" ","-").replace("January","1").replace("February","2").replace("March","3").replace("April","4").replace("May","5").replace("June","6").replace("July","7").replace("August","8").replace("September","9").replace("October","10").replace("November","11").replace("December","12")$/;"	v
+publish_date	upload_toplist.py	/^        publish_date = publish_date.strip()$/;"	v
+publish_date	upload_toplist.py	/^        publish_date = tmp[2] + "-" + tmp[0] + "-" + tmp[1]$/;"	v
+publish_date	upload_toplist.py	/^        publish_date = values[3].strip()$/;"	v
+ranking	upload_toplist.py	/^        ranking = values[0].strip()$/;"	v
+rating	upload_toplist.py	/^        rating = values[7].strip()$/;"	v
+re	getTopList.py	/^import re$/;"	i
+size	upload_toplist.py	/^            size = "VWD"$/;"	v
+size	upload_toplist.py	/^        size = size.strip()$/;"	v
+size	upload_toplist.py	/^        size = values[5].strip()$/;"	v
+socket	getTopList.py	/^import socket$/;"	i
+socks	getTopList.py	/^import socks$/;"	i
+sql	upload_toplist.py	/^            sql="insert into cv2.google_play_app_dynamic (app_name, pkg_name, app_version, publish_date, ranking, ispaid, price, size, download, rating, category, top_list, ndk_info, update_date) values('"+ app_name + "','" + pkg_name + "','" + app_version + "','" + publish_date + "','" + ranking + "','" + ispaid + "','" + price + "','" + size + "','" + download + "','" + rating + "','" + category + "','" + top_list + "','" + ndk_info + "','" + update_date + "'" + ")"$/;"	v
+sys	getTopList.py	/^import sys$/;"	i
+sys	upload_toplist.py	/^import sys$/;"	i
+tmp	upload_toplist.py	/^        tmp = publish_date.split("-")$/;"	v
+top_list	upload_toplist.py	/^            top_list = "TopFree"$/;"	v
+top_list	upload_toplist.py	/^            top_list = "TopFreeGame"$/;"	v
+top_list	upload_toplist.py	/^            top_list = "TopPaid"$/;"	v
+top_list	upload_toplist.py	/^            top_list = "TopPaidGame"$/;"	v
+top_list	upload_toplist.py	/^        top_list = top_list.strip()$/;"	v
+types	upload_toplist.py	/^import types$/;"	i
+update_date	upload_toplist.py	/^        update_date = update_date.strip()$/;"	v
+update_date	upload_toplist.py	/^update_date = sys.argv[1]$/;"	v
+urllib	getTopList.py	/^import urllib$/;"	i
+urllib2	getTopList.py	/^import urllib2$/;"	i
+values	upload_toplist.py	/^        values = []$/;"	v
+version	upload_toplist.py	/^    version = cur.fetchone()$/;"	v
+xls_file	upload_toplist.py	/^xls_file    = sys.argv[2]$/;"	v
+xls_result	upload_toplist.py	/^xls_result = open_workbook(xls_file,"rb")$/;"	v
