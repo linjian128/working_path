@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/10 Starting processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.smon.normal.freefull.google.kr.android.common-1.apk is  2.0.4  
+Done processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+3/10 Starting processing com.drbeef.quakecardboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.drbeef.quakecardboard ......
+Success to get info from Play Store
+The lastest version of com.drbeef.quakecardboard-1.apk is 
+Done processing com.drbeef.quakecardboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/10 Starting processing com.f2zentertainment.pandemic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.f2zentertainment.pandemic ......
+Success to get info from Play Store
+The lastest version of com.f2zentertainment.pandemic-1.apk is  1.1.22  
+Done processing com.f2zentertainment.pandemic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+5/10 Starting processing com.iUnity.angryBots2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iUnity.angryBots2 ......
+Success to get info from Play Store
+The lastest version of com.iUnity.angryBots2-1.apk is  2.18  
+Done processing com.iUnity.angryBots2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+6/10 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.62.23  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+7/10 Starting processing com.lionmobi.battery-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lionmobi.battery ......
+Success to get info from Play Store
+The lastest version of com.lionmobi.battery-1.apk is  1.3.7  
+Done processing com.lionmobi.battery-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+8/10 Starting processing com.snapchat.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snapchat.android ......
+Success to get info from Play Store
+The lastest version of com.snapchat.android-1.apk is    Varies with device  
+Done processing com.snapchat.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+9/10 Starting processing com.uken.BingoPop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.uken.BingoPop ......
+Success to get info from Play Store
+The lastest version of com.uken.BingoPop-1.apk is  2.6.64  
+Done processing com.uken.BingoPop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 47 Seconds
+
+============================================================================
+10/10 Starting processing com.youku.phone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youku.phone ......
+Success to get info from Play Store
+The lastest version of com.youku.phone-1.apk is  5.4  
+Done processing com.youku.phone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 52 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 52 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-29-13-21-16.csv
+**************************************************************

@@ -1,0 +1,83 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/MOFD  ......
+
+============================================================================
+1/9 Starting processing com.akazam.android.wlandialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.akazam.android.wlandialer ......
+Success to get info from Play Store
+The lastest version of com.akazam.android.wlandialer-1.apk is  2.1.0  
+Done processing com.akazam.android.wlandialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.blovestorm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.blovestorm ......
+Success to get info from Play Store
+The lastest version of com.blovestorm-1.apk is  2.0.3  
+ 5.3.10  
+Done processing com.blovestorm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/9 Starting processing com.chaozh.iReaderFree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chaozh.iReaderFree ......
+Success to get info from Play Store
+The lastest version of com.chaozh.iReaderFree-1.apk is  5.1.0  
+Done processing com.chaozh.iReaderFree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/9 Starting processing com.cleanmaster.mguard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.mguard ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.mguard-1.apk is    Varies with device  
+Done processing com.cleanmaster.mguard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+5/9 Starting processing com.evy.guessword-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.evy.guessword ......
+Success to get info from Play Store
+The lastest version of com.evy.guessword-1.apk is  3.0.20  
+Done processing com.evy.guessword-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+6/9 Starting processing com.ijinshan.duba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.duba ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.duba-1.apk is  3.3.1  
+Done processing com.ijinshan.duba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+7/9 Starting processing com.kiloo.subwaysurf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf ......
+Success to get info from Play Store
+The lastest version of com.kiloo.subwaysurf-1.apk is  1.32.0  
+Done processing com.kiloo.subwaysurf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+8/9 Starting processing com.mydream.wifi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mydream.wifi ......
+Success to get info from Play Store
+The lastest version of com.mydream.wifi-1.apk is  2.0.3  
+Done processing com.mydream.wifi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+9/9 Starting processing com.sogou.map.android.maps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sogou.map.android.maps ......
+Success to get info from Play Store
+The lastest version of com.sogou.map.android.maps-1.apk is  5.1.0  
+Done processing com.sogou.map.android.maps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 40 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-18-17-53-24.csv
+**************************************************************

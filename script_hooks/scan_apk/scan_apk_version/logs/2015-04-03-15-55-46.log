@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/2 Starting processing com.android.hjsanguo16.dj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.hjsanguo16.dj ......
+Success to get info from Play Store
+The lastest version of com.android.hjsanguo16.dj-1.apk is 
+Done processing com.android.hjsanguo16.dj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/2 Starting processing com.yinhan.hunter.dksdk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yinhan.hunter.dksdk ......
+Success to get info from Play Store
+The lastest version of com.yinhan.hunter.dksdk-1.apk is 
+Done processing com.yinhan.hunter.dksdk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-04-03-15-55-46.csv
+**************************************************************

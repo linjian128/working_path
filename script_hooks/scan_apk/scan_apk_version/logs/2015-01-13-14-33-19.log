@@ -1,0 +1,98 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.creativemobile.dr2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.creativemobile.dr2 ......
+Success to get info from Play Store
+The lastest version of com.creativemobile.dr2-1.apk is    Varies with device  
+Done processing com.creativemobile.dr2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.ea.game.simcitymobile_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simcitymobile_row-1.apk is  1.2.23.20736  
+Done processing com.ea.game.simcitymobile_row-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/11 Starting processing com.igg.android.godsrush_en-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.android.godsrush_en ......
+Success to get info from Play Store
+The lastest version of com.igg.android.godsrush_en-1.apk is  1.1.18  
+Done processing com.igg.android.godsrush_en-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/11 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is  1.43.1  
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/11 Starting processing com.nhnent.SKQUEST-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nhnent.SKQUEST ......
+Success to get info from Play Store
+The lastest version of com.nhnent.SKQUEST-1.apk is  1.2.6.KG  
+Done processing com.nhnent.SKQUEST-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/11 Starting processing com.pinterest-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pinterest ......
+Success to get info from Play Store
+The lastest version of com.pinterest-1.apk is    Varies with device  
+Done processing com.pinterest-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/11 Starting processing com.pixelberrystudios.hwuandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixelberrystudios.hwuandroid ......
+Success to get info from Play Store
+The lastest version of com.pixelberrystudios.hwuandroid-1.apk is  1.1.0  
+Done processing com.pixelberrystudios.hwuandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/11 Starting processing com.sega.sonicdash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sega.sonicdash ......
+Success to get info from Play Store
+The lastest version of com.sega.sonicdash-1.apk is  2.0.0.Go  
+Done processing com.sega.sonicdash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+9/11 Starting processing com.tosmart.chessroad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tosmart.chessroad ......
+Success to get info from Play Store
+The lastest version of com.tosmart.chessroad-1.apk is  2.12  
+Done processing com.tosmart.chessroad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+10/11 Starting processing kr.co.tictocplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.co.tictocplus ......
+Success to get info from Play Store
+The lastest version of kr.co.tictocplus-1.apk is  4.0.3  
+Done processing kr.co.tictocplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+11/11 Starting processing me.pou.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.pou.app ......
+Success to get info from Play Store
+The lastest version of me.pou.app-1.apk is  1.4.66  
+Done processing me.pou.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-13-14-33-19.csv
+**************************************************************

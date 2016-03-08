@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.baidu.browser.apps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.browser.apps ......
+Success to get info from Play Store
+The lastest version of com.baidu.browser.apps-1.apk is  4.2.13.3  
+Done processing com.baidu.browser.apps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/5 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/5 Starting processing com.guildsoftware.vendetta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta ......
+Success to get info from Play Store
+The lastest version of com.guildsoftware.vendetta-1.apk is  1.8.269  
+Done processing com.guildsoftware.vendetta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/5 Starting processing com.shopkick.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shopkick.app ......
+Success to get info from Play Store
+The lastest version of com.shopkick.app-1.apk is  4.1  
+Done processing com.shopkick.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/5 Starting processing com.tencent.qqpim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqpim ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqpim-1.apk is  4.5.5  
+Done processing com.tencent.qqpim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-06-17-27-42.csv
+**************************************************************

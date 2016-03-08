@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.ad60.songza-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ad60.songza ......
+Success to get info from Play Store
+The lastest version of com.ad60.songza-1.apk is 4.1.6
+Done processing com.ad60.songza-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/10 Starting processing com.bigtime.NightRider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bigtime.NightRider ......
+Success to get info from Play Store
+The lastest version of com.bigtime.NightRider-1.apk is 1.0.5
+Done processing com.bigtime.NightRider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/10 Starting processing com.djinnworks.RopeFly.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.RopeFly.lite ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.RopeFly.lite-1.apk is 1.6
+Done processing com.djinnworks.RopeFly.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/10 Starting processing com.djinnworks.linerunnerfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.linerunnerfree ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.linerunnerfree-1.apk is 3.8
+Done processing com.djinnworks.linerunnerfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/10 Starting processing com.gamehivecorp.kicktheboss.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamehivecorp.kicktheboss.android ......
+Success to get info from Play Store
+The lastest version of com.gamehivecorp.kicktheboss.android-1.apk is 2.5
+Done processing com.gamehivecorp.kicktheboss.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/10 Starting processing com.inisoft.mediaplayer.a-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.inisoft.mediaplayer.a ......
+Success to get info from Play Store
+The lastest version of com.inisoft.mediaplayer.a-1.apk is 2.0.21
+Done processing com.inisoft.mediaplayer.a-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+7/10 Starting processing com.mobo.video.player.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobo.video.player.pro ......
+Success to get info from Play Store
+The lastest version of com.mobo.video.player.pro-1.apk is 1.1.7
+Done processing com.mobo.video.player.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/10 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is 1.9.32
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+9/10 Starting processing com.vectorunit.yellow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vectorunit.yellow ......
+Success to get info from Play Store
+The lastest version of com.vectorunit.yellow-1.apk is 1.2.1
+Done processing com.vectorunit.yellow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+10/10 Starting processing de.joergjahnke.mario.android.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=de.joergjahnke.mario.android.free ......
+Success to get info from Play Store
+The lastest version of de.joergjahnke.mario.android.free-1.apk is 2.12.2
+Done processing de.joergjahnke.mario.android.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-01-23-16-05-54.csv
+**************************************************************

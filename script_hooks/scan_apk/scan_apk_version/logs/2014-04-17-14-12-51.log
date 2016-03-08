@@ -1,0 +1,95 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.cootek.smartdialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cootek.smartdialer ......
+Success to get info from Play Store
+The lastest version of com.cootek.smartdialer-1.apk is  4.8.3.6  
+Done processing com.cootek.smartdialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.google.android.gms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gms ......
+Success to get info from Play Store
+The lastest version of com.google.android.gms-1.apk is    Varies with device  
+Done processing com.google.android.gms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/11 Starting processing com.intsig.camscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intsig.camscanner ......
+Success to get info from Play Store
+The lastest version of com.intsig.camscanner-1.apk is  3.2.0.20140311  
+Done processing com.intsig.camscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/11 Starting processing com.pacificinteractive.HouseOfFun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pacificinteractive.HouseOfFun ......
+Success to get info from Play Store
+The lastest version of com.pacificinteractive.HouseOfFun-1.apk is    Varies with device  
+Done processing com.pacificinteractive.HouseOfFun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/11 Starting processing com.pixel.gun3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixel.gun3d ......
+Success to get info from Play Store
+The lastest version of com.pixel.gun3d-1.apk is  6.0.1  
+Done processing com.pixel.gun3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/11 Starting processing com.playfirst.playground.dinerdashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.dinerdashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.dinerdashdeluxe-1.apk is  3.34.6  
+Done processing com.playfirst.playground.dinerdashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/11 Starting processing com.psidevelopment.pacificfleet-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.psidevelopment.pacificfleet ......
+Success to get info from Play Store
+The lastest version of com.psidevelopment.pacificfleet-1.apk is  2.09  
+Done processing com.psidevelopment.pacificfleet-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/11 Starting processing com.qihoo360.mobilesafe_mtk6573-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qihoo360.mobilesafe_mtk6573 ......
+[ERROR] : Cannot find info of com.qihoo360.mobilesafe_mtk6573-1.apk on https://play.google.com/store/apps/details?id=com.qihoo360.mobilesafe_mtk6573 !!!
+Done processing com.qihoo360.mobilesafe_mtk6573-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+9/11 Starting processing com.qqgame.happymj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.happymj ......
+[ERROR] : Cannot find info of com.qqgame.happymj-1.apk on https://play.google.com/store/apps/details?id=com.qqgame.happymj !!!
+Done processing com.qqgame.happymj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+10/11 Starting processing com.qqgame.hlddz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.hlddz ......
+Success to get info from Play Store
+The lastest version of com.qqgame.hlddz-1.apk is  1.2.0  
+Done processing com.qqgame.hlddz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+11/11 Starting processing com.qvod.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qvod.player ......
+[ERROR] : Cannot find info of com.qvod.player-1.apk on https://play.google.com/store/apps/details?id=com.qvod.player !!!
+Done processing com.qvod.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-17-14-12-51.csv
+**************************************************************

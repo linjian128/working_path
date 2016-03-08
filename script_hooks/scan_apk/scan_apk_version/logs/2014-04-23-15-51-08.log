@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing air.com.befunky.BeFunkyPhotoEditor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor ......
+Success to get info from Play Store
+The lastest version of air.com.befunky.BeFunkyPhotoEditor-1.apk is  4.0.7  
+Done processing air.com.befunky.BeFunkyPhotoEditor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-23-15-51-08.csv
+**************************************************************

@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.glu.deerhunt2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deerhunt2 ......
+Success to get info from Play Store
+The lastest version of com.glu.deerhunt2-1.apk is  2.3.0  
+Done processing com.glu.deerhunt2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+2/2 Starting processing com.namcobandaigames.soulcaliburgp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.namcobandaigames.soulcaliburgp ......
+Success to get info from Play Store
+The lastest version of com.namcobandaigames.soulcaliburgp-1.apk is  1.0.5  
+Done processing com.namcobandaigames.soulcaliburgp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-05-10-25-20.csv
+**************************************************************

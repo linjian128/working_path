@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing cn.konami.contraevo.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.konami.contraevo.gp ......
+Success to get info from Play Store
+The lastest version of cn.konami.contraevo.gp-1.apk is  1.3.2  
+Done processing cn.konami.contraevo.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.arcsoft.perfect365-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.arcsoft.perfect365 ......
+Success to get info from Play Store
+The lastest version of com.arcsoft.perfect365-1.apk is    Varies with device  
+Done processing com.arcsoft.perfect365-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.google.android.talk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.talk ......
+Success to get info from Play Store
+The lastest version of com.google.android.talk-1.apk is  2.1.076  
+Done processing com.google.android.talk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/8 Starting processing com.oceanhouse_media.bookgreeneggsandham_app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oceanhouse_media.bookgreeneggsandham_app ......
+Success to get info from Play Store
+The lastest version of com.oceanhouse_media.bookgreeneggsandham_app-1.apk is  1.46  
+Done processing com.oceanhouse_media.bookgreeneggsandham_app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.picadelic.fxguru-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picadelic.fxguru ......
+Success to get info from Play Store
+The lastest version of com.picadelic.fxguru-1.apk is  2.4.0  
+Done processing com.picadelic.fxguru-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/8 Starting processing com.playfirst.playground.dinerdashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.dinerdashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.dinerdashdeluxe-1.apk is  3.34.10  
+Done processing com.playfirst.playground.dinerdashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/8 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  3.90  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/8 Starting processing com.trueaxis.trueskate-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.trueaxis.trueskate ......
+Success to get info from Play Store
+The lastest version of com.trueaxis.trueskate-1.apk is  1.2.5  
+Done processing com.trueaxis.trueskate-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-25-10-06-47.csv
+**************************************************************

@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.degoo.android.pregnantdoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.pregnantdoctor ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.pregnantdoctor-1.apk is  1.0.10  
+Done processing com.degoo.android.pregnantdoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.dreamsky.DiabloLOL-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dreamsky.DiabloLOL ......
+Success to get info from Play Store
+The lastest version of com.dreamsky.DiabloLOL-1.apk is  1.4.0  
+Done processing com.dreamsky.DiabloLOL-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.glu.deerhunt2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deerhunt2 ......
+Success to get info from Play Store
+The lastest version of com.glu.deerhunt2-1.apk is  2.11.4  
+Done processing com.glu.deerhunt2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/9 Starting processing com.igg.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash-1.apk is  1.2.791  
+Done processing com.igg.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/9 Starting processing com.miniclip.eightballpool-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miniclip.eightballpool ......
+Success to get info from Play Store
+The lastest version of com.miniclip.eightballpool-1.apk is  3.4.0  
+Done processing com.miniclip.eightballpool-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/9 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/9 Starting processing com.x3m.tx4-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.x3m.tx4 ......
+Success to get info from Play Store
+The lastest version of com.x3m.tx4-1.apk is  1.6.5  
+Done processing com.x3m.tx4-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/9 Starting processing com.youku.phone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youku.phone ......
+Success to get info from Play Store
+The lastest version of com.youku.phone-1.apk is  5.3.1  
+Done processing com.youku.phone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/9 Starting processing jp.gungho.padEN-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gungho.padEN ......
+Success to get info from Play Store
+The lastest version of jp.gungho.padEN-1.apk is  8.4.1  
+Done processing jp.gungho.padEN-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-12-14-23-18-46.csv
+**************************************************************

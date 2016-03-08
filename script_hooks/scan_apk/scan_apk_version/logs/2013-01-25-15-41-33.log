@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.hoverdog.offroadnation.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.hoverdog.offroadnation.pro ......
+Success to get info from Play Store
+The lastest version of air.com.hoverdog.offroadnation.pro-1.apk is 2.0.3
+Done processing air.com.hoverdog.offroadnation.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing br.cloneme-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=br.cloneme ......
+Success to get info from Play Store
+The lastest version of br.cloneme-1.apk is 1.3.2
+Done processing br.cloneme-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/5 Starting processing com.distractionware.superhexagon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.distractionware.superhexagon ......
+Success to get info from Play Store
+The lastest version of com.distractionware.superhexagon-1.apk is 1.0.2
+Done processing com.distractionware.superhexagon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/5 Starting processing com.hg.gunsandglory3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hg.gunsandglory3 ......
+Success to get info from Play Store
+The lastest version of com.hg.gunsandglory3-1.apk is 1.0.2
+Done processing com.hg.gunsandglory3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/5 Starting processing com.hiptic.ShaqDown-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hiptic.ShaqDown ......
+Success to get info from Play Store
+The lastest version of com.hiptic.ShaqDown-1.apk is 28
+Done processing com.hiptic.ShaqDown-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-01-25-15-41-33.csv
+**************************************************************

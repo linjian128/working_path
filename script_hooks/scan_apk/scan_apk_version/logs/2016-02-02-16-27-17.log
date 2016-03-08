@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.air.SugarSugar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.air.SugarSugar ......
+Success to get info from Play Store
+The lastest version of air.air.SugarSugar-1.apk is  2.1  
+Done processing air.air.SugarSugar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+2/9 Starting processing air.com.buffalo_studios.newflashbingo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo ......
+Success to get info from Play Store
+The lastest version of air.com.buffalo_studios.newflashbingo-1.apk is  3.28.0  
+Done processing air.com.buffalo_studios.newflashbingo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/9 Starting processing com.dotemu.neogeo.mslugx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.neogeo.mslugx ......
+Success to get info from Play Store
+The lastest version of com.dotemu.neogeo.mslugx-1.apk is  1.1  
+Done processing com.dotemu.neogeo.mslugx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+4/9 Starting processing com.fortafygames.colorswitch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fortafygames.colorswitch ......
+Success to get info from Play Store
+The lastest version of com.fortafygames.colorswitch-1.apk is  1.7.1  
+Done processing com.fortafygames.colorswitch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+5/9 Starting processing com.gamecircus.bbh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamecircus.bbh ......
+Success to get info from Play Store
+The lastest version of com.gamecircus.bbh-1.apk is  1.1  
+Done processing com.gamecircus.bbh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+6/9 Starting processing com.king.candycrushjellysaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushjellysaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushjellysaga-1.apk is  1.7.2  
+Done processing com.king.candycrushjellysaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+7/9 Starting processing com.mobirix.fishinghook-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobirix.fishinghook ......
+Success to get info from Play Store
+The lastest version of com.mobirix.fishinghook-1.apk is  1.2.3  
+Done processing com.mobirix.fishinghook-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+8/9 Starting processing com.playstudios.mykonami-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playstudios.mykonami ......
+Success to get info from Play Store
+The lastest version of com.playstudios.mykonami-1.apk is  1.3.0  
+Done processing com.playstudios.mykonami-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 44 Seconds
+
+============================================================================
+9/9 Starting processing com.spacegame.solitaire.basic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.spacegame.solitaire.basic ......
+Success to get info from Play Store
+The lastest version of com.spacegame.solitaire.basic-1.apk is  1.0.90  
+Done processing com.spacegame.solitaire.basic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 49 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 49 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-02-16-27-17.csv
+**************************************************************

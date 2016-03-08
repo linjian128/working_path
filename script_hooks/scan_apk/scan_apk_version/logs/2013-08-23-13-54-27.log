@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.amazon.kindle-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.amazon.kindle ......
+Success to get info from Play Store
+The lastest version of com.amazon.kindle-1.apk is    Varies with device  
+Done processing com.amazon.kindle-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/5 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is  4.4.1  
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/5 Starting processing com.genina.android.blackjack.view-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.genina.android.blackjack.view ......
+Success to get info from Play Store
+The lastest version of com.genina.android.blackjack.view-1.apk is    Varies with device  
+Done processing com.genina.android.blackjack.view-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/5 Starting processing com.google.android.apps.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.plus ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.plus-1.apk is    Varies with device  
+Done processing com.google.android.apps.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/5 Starting processing com.google.android.talk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.talk ......
+Success to get info from Play Store
+The lastest version of com.google.android.talk-1.apk is  1.1.2.778356  
+Done processing com.google.android.talk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-23-13-54-27.csv
+**************************************************************

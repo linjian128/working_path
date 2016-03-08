@@ -1,0 +1,76 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.ijinshan.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.browser ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.browser-1.apk is  2.10.2  
+Done processing com.ijinshan.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.kunpo.baba91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kunpo.baba91 ......
+[ERROR] : Cannot find info of com.kunpo.baba91-1.apk on https://play.google.com/store/apps/details?id=com.kunpo.baba91 !!!
+Done processing com.kunpo.baba91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/9 Starting processing com.qqgame.hlddz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.hlddz ......
+Success to get info from Play Store
+The lastest version of com.qqgame.hlddz-1.apk is  1.2.0  
+Done processing com.qqgame.hlddz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/9 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/9 Starting processing com.tencent.game.rhythmmaster-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.rhythmmaster ......
+[ERROR] : Cannot find info of com.tencent.game.rhythmmaster-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.rhythmmaster !!!
+Done processing com.tencent.game.rhythmmaster-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/9 Starting processing com.tencent.hero-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.hero ......
+[ERROR] : Cannot find info of com.tencent.hero-1.apk on https://play.google.com/store/apps/details?id=com.tencent.hero !!!
+Done processing com.tencent.hero-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+7/9 Starting processing com.tencent.lian-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.lian ......
+[ERROR] : Cannot find info of com.tencent.lian-1.apk on https://play.google.com/store/apps/details?id=com.tencent.lian !!!
+Done processing com.tencent.lian-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+8/9 Starting processing com.yinhan.hunter.yh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yinhan.hunter.yh ......
+[ERROR] : Cannot find info of com.yinhan.hunter.yh-1.apk on https://play.google.com/store/apps/details?id=com.yinhan.hunter.yh !!!
+Done processing com.yinhan.hunter.yh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+9/9 Starting processing com.yx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yx ......
+Success to get info from Play Store
+The lastest version of com.yx-1.apk is  2.12.0  
+Done processing com.yx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-15-16-12-04.csv
+**************************************************************

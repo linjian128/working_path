@@ -1,0 +1,48 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing cld.navi.mainframe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cld.navi.mainframe ......
+[ERROR] : Cannot find info of cld.navi.mainframe-1.apk on https://play.google.com/store/apps/details?id=cld.navi.mainframe !!!
+Done processing cld.navi.mainframe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/5 Starting processing com.mgyun.shua.su-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mgyun.shua.su ......
+[ERROR] : Cannot find info of com.mgyun.shua.su-1.apk on https://play.google.com/store/apps/details?id=com.mgyun.shua.su !!!
+Done processing com.mgyun.shua.su-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/5 Starting processing com.mogujie-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mogujie ......
+Success to get info from Play Store
+The lastest version of com.mogujie-1.apk is  6.0.0  
+Done processing com.mogujie-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/5 Starting processing com.tongcheng.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tongcheng.android ......
+Success to get info from Play Store
+The lastest version of com.tongcheng.android-1.apk is  6.3.0  
+Done processing com.tongcheng.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/5 Starting processing com.tongwei.toiletGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tongwei.toiletGame ......
+Success to get info from Play Store
+The lastest version of com.tongwei.toiletGame-1.apk is    Varies with device  
+Done processing com.tongwei.toiletGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-03-15-54-02.csv
+**************************************************************

@@ -1,0 +1,22 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing HoudiniVersionVerify.apk ......
+Error ouccus when processing HoudiniVersionVerify.apk : Cnnot get apk info by aapt !
+============================================================================
+1/4 Starting processing com.morgoo.launcher-1.apk ......
+Error ouccus when processing com.morgoo.launcher-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/4 Starting processing com.plugmind.cbtest-1.apk ......
+Error ouccus when processing com.plugmind.cbtest-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/4 Starting processing com.southwindsgames.am2m-1.apk ......
+Error ouccus when processing com.southwindsgames.am2m-1.apk : Cnnot get apk info by aapt !
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:    Days  Hours  Minutes  Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-29-15-11-46.csv
+**************************************************************

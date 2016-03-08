@@ -1,0 +1,91 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/11 Starting processing com.akazam.android.wlandialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.akazam.android.wlandialer ......
+[ERROR] : Cannot find info of com.akazam.android.wlandialer-1.apk on https://play.google.com/store/apps/details?id=com.akazam.android.wlandialer !!!
+Done processing com.akazam.android.wlandialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/11 Starting processing com.centurysoft.fruityrobo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.centurysoft.fruityrobo ......
+[ERROR] : Cannot find info of com.centurysoft.fruityrobo-1.apk on https://play.google.com/store/apps/details?id=com.centurysoft.fruityrobo !!!
+Done processing com.centurysoft.fruityrobo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/11 Starting processing com.fenbi.android.solar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fenbi.android.solar ......
+Success to get info from Play Store
+The lastest version of com.fenbi.android.solar-1.apk is  3.9.0  
+Done processing com.fenbi.android.solar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/11 Starting processing com.gau.go.launcherex-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gau.go.launcherex ......
+Success to get info from Play Store
+The lastest version of com.gau.go.launcherex-1.apk is    Varies with device  
+Done processing com.gau.go.launcherex-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/11 Starting processing com.hexin.plat.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hexin.plat.android ......
+[ERROR] : Cannot find info of com.hexin.plat.android-1.apk on https://play.google.com/store/apps/details?id=com.hexin.plat.android !!!
+Done processing com.hexin.plat.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/11 Starting processing com.hf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hf ......
+[ERROR] : Cannot find info of com.hf-1.apk on https://play.google.com/store/apps/details?id=com.hf !!!
+Done processing com.hf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/11 Starting processing com.immomo.momo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.immomo.momo ......
+Success to get info from Play Store
+The lastest version of com.immomo.momo-1.apk is  6.5.3_visitor  
+Done processing com.immomo.momo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/11 Starting processing com.jm.android.jumei-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jm.android.jumei ......
+[ERROR] : Cannot find info of com.jm.android.jumei-1.apk on https://play.google.com/store/apps/details?id=com.jm.android.jumei !!!
+Done processing com.jm.android.jumei-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/11 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is  5.2.8  
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+10/11 Starting processing com.snda.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.wifilocating ......
+[ERROR] : Cannot find info of com.snda.wifilocating-1.apk on https://play.google.com/store/apps/details?id=com.snda.wifilocating !!!
+Done processing com.snda.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+11/11 Starting processing in.huohua.Yuki-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=in.huohua.Yuki ......
+[ERROR] : Cannot find info of in.huohua.Yuki-1.apk on https://play.google.com/store/apps/details?id=in.huohua.Yuki !!!
+Done processing in.huohua.Yuki-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-27-23-26-03.csv
+**************************************************************

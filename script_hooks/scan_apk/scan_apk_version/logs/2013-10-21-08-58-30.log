@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.eti.uzzu.unalis-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.eti.uzzu.unalis ......
+Success to get info from Play Store
+The lastest version of air.eti.uzzu.unalis-1.apk is  1.8.1  
+Done processing air.eti.uzzu.unalis-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/5 Starting processing com.bushiroad.bushidora-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bushiroad.bushidora ......
+Success to get info from Play Store
+The lastest version of com.bushiroad.bushidora-1.apk is  2.04  
+Done processing com.bushiroad.bushidora-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/5 Starting processing com.madhead.tos.zh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madhead.tos.zh ......
+Success to get info from Play Store
+The lastest version of com.madhead.tos.zh-1.apk is  3.21  
+Done processing com.madhead.tos.zh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/5 Starting processing com.square_enix.android_googleplay.guardiancrossE-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.guardiancrossE ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.guardiancrossE-1.apk is  1.1.1  
+Done processing com.square_enix.android_googleplay.guardiancrossE-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/5 Starting processing tw.mobage.g23000046-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tw.mobage.g23000046 ......
+Success to get info from Play Store
+The lastest version of tw.mobage.g23000046-1.apk is  4.1.1  
+Done processing tw.mobage.g23000046-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-21-08-58-30.csv
+**************************************************************

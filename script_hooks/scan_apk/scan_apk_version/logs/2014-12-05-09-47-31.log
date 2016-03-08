@@ -1,0 +1,64 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ECS  ......
+
+============================================================================
+1/7 Starting processing com.cubic.autohome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cubic.autohome ......
+Success to get info from Play Store
+The lastest version of com.cubic.autohome-1.apk is  4.3.1  
+Done processing com.cubic.autohome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.lenovo.anyshare-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lenovo.anyshare ......
+[ERROR] : Cannot find info of com.lenovo.anyshare-1.apk on https://play.google.com/store/apps/details?id=com.lenovo.anyshare !!!
+Done processing com.lenovo.anyshare-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.nekki.shadowfight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nekki.shadowfight ......
+Success to get info from Play Store
+The lastest version of com.nekki.shadowfight-1.apk is  1.8.0  
+Done processing com.nekki.shadowfight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/7 Starting processing com.pikpok.bbl.play-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pikpok.bbl.play ......
+Success to get info from Play Store
+The lastest version of com.pikpok.bbl.play-1.apk is  1.1.0  
+Done processing com.pikpok.bbl.play-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/7 Starting processing com.shortbreakstudios.hr-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shortbreakstudios.hr ......
+Success to get info from Play Store
+The lastest version of com.shortbreakstudios.hr-1.apk is    Varies with device  
+Done processing com.shortbreakstudios.hr-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+6/7 Starting processing com.ucamera.ucam-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ucamera.ucam ......
+Success to get info from Play Store
+The lastest version of com.ucamera.ucam-1.apk is  5.1.2.111814  
+Done processing com.ucamera.ucam-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+7/7 Starting processing pinkdiary.xiaoxiaotu.com-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=pinkdiary.xiaoxiaotu.com ......
+[ERROR] : Cannot find info of pinkdiary.xiaoxiaotu.com-1.apk on https://play.google.com/store/apps/details?id=pinkdiary.xiaoxiaotu.com !!!
+Done processing pinkdiary.xiaoxiaotu.com-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-05-09-47-31.csv
+**************************************************************

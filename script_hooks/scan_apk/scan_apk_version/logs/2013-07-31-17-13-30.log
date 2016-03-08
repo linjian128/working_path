@@ -1,0 +1,17 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing air.com.littlebridgeworld.littlebridgeenglish1samsung-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.littlebridgeworld.littlebridgeenglish1samsung ......
+[ERROR] : Cannot find info of air.com.littlebridgeworld.littlebridgeenglish1samsung-1.apk on https://play.google.com/store/apps/details?id=air.com.littlebridgeworld.littlebridgeenglish1samsung !!!
+Done processing air.com.littlebridgeworld.littlebridgeenglish1samsung-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-31-17-13-30.csv
+**************************************************************

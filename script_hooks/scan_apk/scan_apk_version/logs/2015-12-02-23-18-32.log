@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.cardinalblue.piccollage.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cardinalblue.piccollage.google ......
+Success to get info from Play Store
+The lastest version of com.cardinalblue.piccollage.google-1.apk is    Varies with device  
+Done processing com.cardinalblue.piccollage.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.foosegames.pepiskate3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.foosegames.pepiskate3d ......
+Success to get info from Play Store
+The lastest version of com.foosegames.pepiskate3d-1.apk is  40  
+Done processing com.foosegames.pepiskate3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/6 Starting processing com.lightricks.facetune-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lightricks.facetune ......
+Success to get info from Play Store
+The lastest version of com.lightricks.facetune-1.apk is  1.0.16  
+Done processing com.lightricks.facetune-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/6 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/6 Starting processing com.pennypop.monsters.live-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pennypop.monsters.live ......
+Success to get info from Play Store
+The lastest version of com.pennypop.monsters.live-1.apk is  3.2.5  
+Done processing com.pennypop.monsters.live-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/6 Starting processing com.square_enix.android_googleplay.FFIV_GP-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIV_GP ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFIV_GP-1.apk is  1.5.3  
+Done processing com.square_enix.android_googleplay.FFIV_GP-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-12-02-23-18-32.csv
+**************************************************************

@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ARM-V8  ......
+
+============================================================================
+1/4 Starting processing com.hotelclub-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotelclub ......
+Success to get info from Play Store
+The lastest version of com.hotelclub-1.apk is    Varies with device  
+Done processing com.hotelclub-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.mapmyrunplus.android2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapmyrunplus.android2 ......
+Success to get info from Play Store
+The lastest version of com.mapmyrunplus.android2-1.apk is  3.11.1  
+Done processing com.mapmyrunplus.android2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.momondo.flightsearch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.momondo.flightsearch ......
+Success to get info from Play Store
+The lastest version of com.momondo.flightsearch-1.apk is    Varies with device  
+Done processing com.momondo.flightsearch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/4 Starting processing net.zhuoweizhang.pocketinveditor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.zhuoweizhang.pocketinveditor ......
+Success to get info from Play Store
+The lastest version of net.zhuoweizhang.pocketinveditor-1.apk is  1.16  
+Done processing net.zhuoweizhang.pocketinveditor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-19-09-56-42.csv
+**************************************************************

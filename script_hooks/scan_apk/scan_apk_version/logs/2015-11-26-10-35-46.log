@@ -1,0 +1,57 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/6 Starting processing cn.kuwo.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.kuwo.player ......
+Success to get info from Play Store
+The lastest version of cn.kuwo.player-1.apk is  7.0.4.0  
+Done processing cn.kuwo.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.halfbrick.fruitninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.fruitninja ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.fruitninja-1.apk is  2.3.2  
+Done processing com.halfbrick.fruitninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/6 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is  5.2.3  
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/6 Starting processing com.snda.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.wifilocating ......
+[ERROR] : Cannot find info of com.snda.wifilocating-1.apk on https://play.google.com/store/apps/details?id=com.snda.wifilocating !!!
+Done processing com.snda.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/6 Starting processing com.tencent.qqlite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlite ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlite-1.apk is  3.4.0  
+Done processing com.tencent.qqlite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/6 Starting processing com.tudou.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tudou.android ......
+Success to get info from Play Store
+The lastest version of com.tudou.android-1.apk is  5.5  
+Done processing com.tudou.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-26-10-35-46.csv
+**************************************************************

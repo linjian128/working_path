@@ -1,0 +1,49 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.google.android.googlequicksearchbox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox ......
+Success to get info from Play Store
+The lastest version of com.google.android.googlequicksearchbox-1.apk is    Varies with device  
+Done processing com.google.android.googlequicksearchbox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/5 Starting processing com.google.android.inputmethod.pinyin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.inputmethod.pinyin ......
+Success to get info from Play Store
+The lastest version of com.google.android.inputmethod.pinyin-1.apk is    Varies with device  
+Done processing com.google.android.inputmethod.pinyin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/5 Starting processing com.google.android.talk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.talk ......
+Success to get info from Play Store
+The lastest version of com.google.android.talk-1.apk is  2.0.217  
+Done processing com.google.android.talk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/5 Starting processing com.intel.ubt.puppy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intel.ubt.puppy ......
+[ERROR] : Cannot find info of com.intel.ubt.puppy-1.apk on https://play.google.com/store/apps/details?id=com.intel.ubt.puppy !!!
+Done processing com.intel.ubt.puppy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/5 Starting processing com.square_enix.android_googleplay.guardiancrossE-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.guardiancrossE ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.guardiancrossE-1.apk is  1.2.1  
+Done processing com.square_enix.android_googleplay.guardiancrossE-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-17-10-07-56.csv
+**************************************************************

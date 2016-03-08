@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.bigfishgames.fairwaysolitaire2.google.full-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.bigfishgames.fairwaysolitaire2.google.full ......
+Success to get info from Play Store
+The lastest version of air.com.bigfishgames.fairwaysolitaire2.google.full-1.apk is    Varies with device  
+Done processing air.com.bigfishgames.fairwaysolitaire2.google.full-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/8 Starting processing com.bbc.swysdrwho-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bbc.swysdrwho ......
+Success to get info from Play Store
+The lastest version of com.bbc.swysdrwho-1.apk is  3.5.2  
+Done processing com.bbc.swysdrwho-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.beancreative.superwhy.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.beancreative.superwhy.android ......
+Success to get info from Play Store
+The lastest version of com.beancreative.superwhy.android-1.apk is  2.3  
+Done processing com.beancreative.superwhy.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/8 Starting processing com.bulkypix.typerider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bulkypix.typerider ......
+Success to get info from Play Store
+The lastest version of com.bulkypix.typerider-1.apk is  1.0  
+Done processing com.bulkypix.typerider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/8 Starting processing com.mtvn.tmntrooftoprun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mtvn.tmntrooftoprun ......
+Success to get info from Play Store
+The lastest version of com.mtvn.tmntrooftoprun-1.apk is  1.01  
+Done processing com.mtvn.tmntrooftoprun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/8 Starting processing com.skobbler.forevermapng-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skobbler.forevermapng ......
+Success to get info from Play Store
+The lastest version of com.skobbler.forevermapng-1.apk is  4.0  
+Done processing com.skobbler.forevermapng-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+7/8 Starting processing com.thrusterapps.aobaseball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.thrusterapps.aobaseball ......
+Success to get info from Play Store
+The lastest version of com.thrusterapps.aobaseball-1.apk is  1.1.0  
+Done processing com.thrusterapps.aobaseball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+8/8 Starting processing ppl.unity.lostcubesdx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=ppl.unity.lostcubesdx ......
+Success to get info from Play Store
+The lastest version of ppl.unity.lostcubesdx-1.apk is  1.00.02  
+Done processing ppl.unity.lostcubesdx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-19-11-53-49.csv
+**************************************************************

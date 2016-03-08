@@ -1,0 +1,97 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.chaozh.iReaderFree15-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chaozh.iReaderFree15 ......
+[ERROR] : Cannot find info of com.chaozh.iReaderFree15-1.apk on https://play.google.com/store/apps/details?id=com.chaozh.iReaderFree15 !!!
+Done processing com.chaozh.iReaderFree15-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/11 Starting processing com.ebay.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ebay.mobile ......
+Success to get info from Play Store
+The lastest version of com.ebay.mobile-1.apk is    Varies with device  
+Done processing com.ebay.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/11 Starting processing com.happylatte.HN2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happylatte.HN2 ......
+Success to get info from Play Store
+The lastest version of com.happylatte.HN2-1.apk is  2.3.0.34  
+Done processing com.happylatte.HN2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/11 Starting processing com.igg.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash-1.apk is  1.2.61  
+Done processing com.igg.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/11 Starting processing com.mapbar.android.mapbarmap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapbar.android.mapbarmap ......
+Success to get info from Play Store
+The lastest version of com.mapbar.android.mapbarmap-1.apk is  8.1.2.185732  
+Done processing com.mapbar.android.mapbarmap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+6/11 Starting processing com.miclos.google.games.outthere-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miclos.google.games.outthere ......
+Success to get info from Play Store
+The lastest version of com.miclos.google.games.outthere-1.apk is    Varies with device  
+Done processing com.miclos.google.games.outthere-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+7/11 Starting processing com.omgpop.dstpaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstpaid ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstpaid-1.apk is  2.333.303  
+Done processing com.omgpop.dstpaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+8/11 Starting processing com.tamalaki.hogblackstonemysteries-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tamalaki.hogblackstonemysteries ......
+Success to get info from Play Store
+The lastest version of com.tamalaki.hogblackstonemysteries-1.apk is  2.88  
+Done processing com.tamalaki.hogblackstonemysteries-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+9/11 Starting processing jp.co.applibot.legend.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.applibot.legend.android ......
+Success to get info from Play Store
+The lastest version of jp.co.applibot.legend.android-1.apk is  8.5  
+Done processing jp.co.applibot.legend.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+10/11 Starting processing ly.pp.justpiano-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=ly.pp.justpiano ......
+Success to get info from Play Store
+The lastest version of ly.pp.justpiano-1.apk is  3.9  
+Done processing ly.pp.justpiano-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+11/11 Starting processing net.froemling.bombsquad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.froemling.bombsquad ......
+Success to get info from Play Store
+The lastest version of net.froemling.bombsquad-1.apk is  1.4.8  
+Done processing net.froemling.bombsquad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-11-25-10-29-29.csv
+**************************************************************

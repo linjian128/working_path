@@ -1,0 +1,33 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing air.com.snagfilms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.snagfilms ......
+Success to get info from Play Store
+The lastest version of air.com.snagfilms-1.apk is  2.11  
+Done processing air.com.snagfilms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/3 Starting processing com.mdc.francetv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mdc.francetv ......
+[ERROR] : Cannot find info of com.mdc.francetv-1.apk on https://play.google.com/store/apps/details?id=com.mdc.francetv !!!
+Done processing com.mdc.francetv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/3 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is  2.4.0  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-25-15-37-41.csv
+**************************************************************

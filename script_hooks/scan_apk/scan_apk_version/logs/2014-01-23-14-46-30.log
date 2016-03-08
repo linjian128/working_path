@@ -1,0 +1,17 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing cn.mobage.g13000279-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.mobage.g13000279 ......
+[ERROR] : Cannot find info of cn.mobage.g13000279-1.apk on https://play.google.com/store/apps/details?id=cn.mobage.g13000279 !!!
+Done processing cn.mobage.g13000279-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-23-14-46-30.csv
+**************************************************************

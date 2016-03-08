@@ -1,0 +1,120 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/14 Starting processing cloudtv.hdwidgets-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cloudtv.hdwidgets ......
+Success to get info from Play Store
+The lastest version of cloudtv.hdwidgets-1.apk is  4.0.5  
+Done processing cloudtv.hdwidgets-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/14 Starting processing com.SternGrove.TestPrepareApp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.SternGrove.TestPrepareApp ......
+[ERROR] : Cannot find info of com.SternGrove.TestPrepareApp-1.apk on https://play.google.com/store/apps/details?id=com.SternGrove.TestPrepareApp !!!
+Done processing com.SternGrove.TestPrepareApp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/14 Starting processing com.foxfi.key-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.foxfi.key ......
+Success to get info from Play Store
+The lastest version of com.foxfi.key-1.apk is  1.03  
+Done processing com.foxfi.key-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/14 Starting processing com.glu.deerhunt2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deerhunt2 ......
+Success to get info from Play Store
+The lastest version of com.glu.deerhunt2-1.apk is  2.1.2  
+Done processing com.glu.deerhunt2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/14 Starting processing com.google.android.play.games-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.play.games ......
+Success to get info from Play Store
+The lastest version of com.google.android.play.games-1.apk is    Varies with device  
+Done processing com.google.android.play.games-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/14 Starting processing com.kuyue.paojiao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kuyue.paojiao ......
+[ERROR] : Cannot find info of com.kuyue.paojiao-1.apk on https://play.google.com/store/apps/details?id=com.kuyue.paojiao !!!
+Done processing com.kuyue.paojiao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+7/14 Starting processing com.plexapp.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.plexapp.android ......
+Success to get info from Play Store
+The lastest version of com.plexapp.android-1.apk is  3.3.2.137  
+Done processing com.plexapp.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+8/14 Starting processing com.qzone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qzone ......
+Success to get info from Play Store
+The lastest version of com.qzone-1.apk is  4.5.5.115  
+Done processing com.qzone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+9/14 Starting processing com.speedsoftware.rootexplorer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.speedsoftware.rootexplorer ......
+Success to get info from Play Store
+The lastest version of com.speedsoftware.rootexplorer-1.apk is    Varies with device  
+Done processing com.speedsoftware.rootexplorer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+10/14 Starting processing com.touchtype.swiftkey-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.touchtype.swiftkey ......
+Success to get info from Play Store
+The lastest version of com.touchtype.swiftkey-1.apk is    Varies with device  
+Done processing com.touchtype.swiftkey-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+11/14 Starting processing com.wb.headsup-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.headsup ......
+Success to get info from Play Store
+The lastest version of com.wb.headsup-1.apk is  1.6  
+Done processing com.wb.headsup-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+12/14 Starting processing com.whatsapp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.whatsapp ......
+Success to get info from Play Store
+The lastest version of com.whatsapp-1.apk is  2.11.238  
+Done processing com.whatsapp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+13/14 Starting processing net.dinglisch.android.taskerm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm ......
+Success to get info from Play Store
+The lastest version of net.dinglisch.android.taskerm-1.apk is    Varies with device  
+Done processing net.dinglisch.android.taskerm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+14/14 Starting processing org.prowl.torque-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.prowl.torque ......
+Success to get info from Play Store
+The lastest version of org.prowl.torque-1.apk is  1.8.32  
+Done processing org.prowl.torque-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 49 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 49 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-20-17-03-10.csv
+**************************************************************

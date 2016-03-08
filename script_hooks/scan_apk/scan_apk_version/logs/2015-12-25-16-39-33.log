@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.bigfishgames.shiverlrgoogfull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bigfishgames.shiverlrgoogfull ......
+Success to get info from Play Store
+The lastest version of com.bigfishgames.shiverlrgoogfull-1.apk is  1.0.0  
+Done processing com.bigfishgames.shiverlrgoogfull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-12-25-16-39-33.csv
+**************************************************************

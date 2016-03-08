@@ -1,0 +1,73 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.alibaba.mobileim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alibaba.mobileim ......
+Success to get info from Play Store
+The lastest version of com.alibaba.mobileim-1.apk is  2.8.9  
+Done processing com.alibaba.mobileim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.gau.go.launcherex-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gau.go.launcherex ......
+Success to get info from Play Store
+The lastest version of com.gau.go.launcherex-1.apk is  4.11  
+Done processing com.gau.go.launcherex-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.hunantv.imgo.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity ......
+Success to get info from Play Store
+The lastest version of com.hunantv.imgo.activity-1.apk is  3.3.2  
+Done processing com.hunantv.imgo.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/8 Starting processing com.ifeng.video-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ifeng.video ......
+Success to get info from Play Store
+The lastest version of com.ifeng.video-1.apk is  4.1.0  
+Done processing com.ifeng.video-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.storm.smart-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.storm.smart ......
+Success to get info from Play Store
+The lastest version of com.storm.smart-1.apk is  3.8.98  
+Done processing com.storm.smart-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/8 Starting processing com.tigerknows-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tigerknows ......
+Success to get info from Play Store
+The lastest version of com.tigerknows-1.apk is  5.7.3.20131221A  
+Done processing com.tigerknows-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/8 Starting processing com.uc.browser.hd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.uc.browser.hd ......
+Success to get info from Play Store
+The lastest version of com.uc.browser.hd-1.apk is  2.5.0.350  
+Done processing com.uc.browser.hd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+8/8 Starting processing z.a-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=z.a ......
+[ERROR] : Cannot find info of z.a-1.apk on https://play.google.com/store/apps/details?id=z.a !!!
+Done processing z.a-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-15-15-58-39.csv
+**************************************************************

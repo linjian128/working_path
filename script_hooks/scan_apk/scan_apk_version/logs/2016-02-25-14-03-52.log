@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.disney.jakesneverland_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.jakesneverland_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.jakesneverland_goo-1.apk is  1.0.7  
+Done processing com.disney.jakesneverland_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+2/6 Starting processing com.gamehouse.d5gp2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamehouse.d5gp2 ......
+Success to get info from Play Store
+The lastest version of com.gamehouse.d5gp2-1.apk is  8.0  
+Done processing com.gamehouse.d5gp2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+3/6 Starting processing com.noodlecake.altosadventure-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.noodlecake.altosadventure ......
+Success to get info from Play Store
+The lastest version of com.noodlecake.altosadventure-1.apk is  1.1  
+Done processing com.noodlecake.altosadventure-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+4/6 Starting processing com.pbs.danieltiger_day_and_night_android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pbs.danieltiger_day_and_night_android ......
+Success to get info from Play Store
+The lastest version of com.pbs.danieltiger_day_and_night_android-1.apk is  1.4  
+Done processing com.pbs.danieltiger_day_and_night_android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+5/6 Starting processing com.tinyco.avengers-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.avengers ......
+Success to get info from Play Store
+The lastest version of com.tinyco.avengers-1.apk is 
+Done processing com.tinyco.avengers-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+6/6 Starting processing com.yuanyuanhd.clashofcommanders-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yuanyuanhd.clashofcommanders ......
+Success to get info from Play Store
+The lastest version of com.yuanyuanhd.clashofcommanders-1.apk is  1.0.1  
+Done processing com.yuanyuanhd.clashofcommanders-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 45 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-25-14-03-52.csv
+**************************************************************

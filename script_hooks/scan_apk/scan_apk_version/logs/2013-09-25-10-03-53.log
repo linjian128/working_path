@@ -1,0 +1,34 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.gameloft.android.ANMP.GloftUOHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftUOHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftUOHM-1.apk is  1.2.0  
+Done processing com.gameloft.android.ANMP.GloftUOHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/3 Starting processing com.igg.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash-1.apk is  1.2.12  
+Done processing com.igg.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/3 Starting processing com.tencent.mtt.x86-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mtt.x86 ......
+Success to get info from Play Store
+The lastest version of com.tencent.mtt.x86-1.apk is  4.3.2.452  
+Done processing com.tencent.mtt.x86-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-25-10-03-53.csv
+**************************************************************

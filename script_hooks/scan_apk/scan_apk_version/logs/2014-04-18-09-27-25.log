@@ -1,0 +1,71 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.UCMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.UCMobile ......
+Success to get info from Play Store
+The lastest version of com.UCMobile-1.apk is  9.6.1  
+Done processing com.UCMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/8 Starting processing com.tencent.pao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.pao ......
+[ERROR] : Cannot find info of com.tencent.pao-1.apk on https://play.google.com/store/apps/details?id=com.tencent.pao !!!
+Done processing com.tencent.pao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.tencent.peng-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.peng ......
+[ERROR] : Cannot find info of com.tencent.peng-1.apk on https://play.google.com/store/apps/details?id=com.tencent.peng !!!
+Done processing com.tencent.peng-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/8 Starting processing com.tencent.qqgame.qqTexaswvga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqgame.qqTexaswvga ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqgame.qqTexaswvga-1.apk is  v3.1  
+Done processing com.tencent.qqgame.qqTexaswvga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/8 Starting processing com.tesseractmobile.solitairemulti-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tesseractmobile.solitairemulti ......
+Success to get info from Play Store
+The lastest version of com.tesseractmobile.solitairemulti-1.apk is  12.4  
+Done processing com.tesseractmobile.solitairemulti-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/8 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is    Varies with device  
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/8 Starting processing com.ultimateguitar.tabs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs ......
+Success to get info from Play Store
+The lastest version of com.ultimateguitar.tabs-1.apk is  3.3.0  
+Done processing com.ultimateguitar.tabs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+8/8 Starting processing com.ux-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ux ......
+[ERROR] : Cannot find info of com.ux-1.apk on https://play.google.com/store/apps/details?id=com.ux !!!
+Done processing com.ux-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-18-09-27-25.csv
+**************************************************************

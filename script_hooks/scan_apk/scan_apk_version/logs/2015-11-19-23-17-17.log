@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/2 Starting processing com.happyelements.happyfishandroidcns-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happyelements.happyfishandroidcns ......
+Success to get info from Play Store
+The lastest version of com.happyelements.happyfishandroidcns-1.apk is  5.1.89  
+Done processing com.happyelements.happyfishandroidcns-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.yibasan.lizhifm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yibasan.lizhifm ......
+Success to get info from Play Store
+The lastest version of com.yibasan.lizhifm-1.apk is  3.3.0  
+Done processing com.yibasan.lizhifm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-19-23-17-17.csv
+**************************************************************

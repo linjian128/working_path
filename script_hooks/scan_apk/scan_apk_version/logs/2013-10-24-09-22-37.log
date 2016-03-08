@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.amazon.kindle-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.amazon.kindle ......
+Success to get info from Play Store
+The lastest version of com.amazon.kindle-1.apk is    Varies with device  
+Done processing com.amazon.kindle-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.bubblezapgames.supergnes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bubblezapgames.supergnes ......
+Success to get info from Play Store
+The lastest version of com.bubblezapgames.supergnes-1.apk is  1.3.15  
+Done processing com.bubblezapgames.supergnes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/6 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.115  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/6 Starting processing com.kii.safe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kii.safe ......
+Success to get info from Play Store
+The lastest version of com.kii.safe-1.apk is    Varies with device  
+Done processing com.kii.safe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+5/6 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is  3.0.1  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/6 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is    Varies with device  
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-24-09-22-37.csv
+**************************************************************

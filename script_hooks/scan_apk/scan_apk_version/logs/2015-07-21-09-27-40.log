@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.avidionmedia.iGunHD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.avidionmedia.iGunHD ......
+Success to get info from Play Store
+The lastest version of com.avidionmedia.iGunHD-1.apk is  5.18.1  
+Done processing com.avidionmedia.iGunHD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.crowdstar.covetfashion-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.crowdstar.covetfashion ......
+Success to get info from Play Store
+The lastest version of com.crowdstar.covetfashion-1.apk is  2.19.30  
+Done processing com.crowdstar.covetfashion-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/10 Starting processing com.google.android.tts-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.tts ......
+Success to get info from Play Store
+The lastest version of com.google.android.tts-1.apk is    Varies with device  
+Done processing com.google.android.tts-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/10 Starting processing com.imo.android.imoim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imo.android.imoim ......
+Success to get info from Play Store
+The lastest version of com.imo.android.imoim-1.apk is  8.9.2  
+Done processing com.imo.android.imoim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/10 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.48.6  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+6/10 Starting processing com.midasplayer.apps.bubblewitchsaga2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitchsaga2 ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitchsaga2-1.apk is 
+Done processing com.midasplayer.apps.bubblewitchsaga2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+7/10 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+8/10 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is    Varies with device  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+9/10 Starting processing com.tinyco.familyguy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.familyguy ......
+Success to get info from Play Store
+The lastest version of com.tinyco.familyguy-1.apk is 
+Done processing com.tinyco.familyguy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+10/10 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is    Varies with device  
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 45 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-21-09-27-40.csv
+**************************************************************

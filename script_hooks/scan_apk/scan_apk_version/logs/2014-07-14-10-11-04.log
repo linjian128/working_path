@@ -1,0 +1,98 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.gameinsight.battletowersandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameinsight.battletowersandroid ......
+Success to get info from Play Store
+The lastest version of com.gameinsight.battletowersandroid-1.apk is  2.61  
+Done processing com.gameinsight.battletowersandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/11 Starting processing com.gun.bnc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gun.bnc ......
+Success to get info from Play Store
+The lastest version of com.gun.bnc-1.apk is    Varies with device  
+Done processing com.gun.bnc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/11 Starting processing com.halfbrick.ageofzombies-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.ageofzombies ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.ageofzombies-1.apk is  1.2.4  
+Done processing com.halfbrick.ageofzombies-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/11 Starting processing com.happylatte.HN2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happylatte.HN2 ......
+Success to get info from Play Store
+The lastest version of com.happylatte.HN2-1.apk is  2.1.2.27  
+Done processing com.happylatte.HN2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/11 Starting processing com.jumpgames.RealSteel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jumpgames.RealSteel ......
+Success to get info from Play Store
+The lastest version of com.jumpgames.RealSteel-1.apk is  1.5.8  
+Done processing com.jumpgames.RealSteel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/11 Starting processing com.melodis.midomiMusicIdentifier-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/11 Starting processing com.mindblocks.blocks-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mindblocks.blocks ......
+Success to get info from Play Store
+The lastest version of com.mindblocks.blocks-1.apk is  9.1  
+Done processing com.mindblocks.blocks-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/11 Starting processing com.playcreek.DeathWorm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playcreek.DeathWorm ......
+Success to get info from Play Store
+The lastest version of com.playcreek.DeathWorm-1.apk is  1.26  
+Done processing com.playcreek.DeathWorm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/11 Starting processing com.telenav.app.android.scout_us-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.telenav.app.android.scout_us ......
+Success to get info from Play Store
+The lastest version of com.telenav.app.android.scout_us-1.apk is    Varies with device  
+Done processing com.telenav.app.android.scout_us-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+10/11 Starting processing com.wildtangent.polarbowleradventure-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wildtangent.polarbowleradventure ......
+Success to get info from Play Store
+The lastest version of com.wildtangent.polarbowleradventure-1.apk is  1.1.2  
+Done processing com.wildtangent.polarbowleradventure-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+11/11 Starting processing joybits.doodlegod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=joybits.doodlegod ......
+Success to get info from Play Store
+The lastest version of joybits.doodlegod-1.apk is  2.5.5  
+Done processing joybits.doodlegod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-14-10-11-04.csv
+**************************************************************

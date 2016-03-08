@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.disney.WMP-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.WMP ......
+Success to get info from Play Store
+The lastest version of com.disney.WMP-1.apk is  1.5.0  
+Done processing com.disney.WMP-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/5 Starting processing com.droidhen.game.magicera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.droidhen.game.magicera ......
+Success to get info from Play Store
+The lastest version of com.droidhen.game.magicera-1.apk is  1.0.4  
+Done processing com.droidhen.game.magicera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/5 Starting processing com.hemispheregames.osmos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hemispheregames.osmos ......
+Success to get info from Play Store
+The lastest version of com.hemispheregames.osmos-1.apk is    Varies with device  
+Done processing com.hemispheregames.osmos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/5 Starting processing com.mediocre.grannysmith-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mediocre.grannysmith ......
+Success to get info from Play Store
+The lastest version of com.mediocre.grannysmith-1.apk is  1.3.2  
+Done processing com.mediocre.grannysmith-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+5/5 Starting processing com.nuance.swype.dtc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nuance.swype.dtc ......
+Success to get info from Play Store
+The lastest version of com.nuance.swype.dtc-1.apk is  1.5.6.16934  
+Done processing com.nuance.swype.dtc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-01-09-01-20.csv
+**************************************************************

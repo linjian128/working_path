@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.and.games505.TerrariaPaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid ......
+Success to get info from Play Store
+The lastest version of com.and.games505.TerrariaPaid-1.apk is  1.1.5960  
+Done processing com.and.games505.TerrariaPaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.asobimo.avabel_gp_b3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.asobimo.avabel_gp_b3 ......
+Success to get info from Play Store
+The lastest version of com.asobimo.avabel_gp_b3-1.apk is  3.5.4  
+Done processing com.asobimo.avabel_gp_b3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-28-13-24-09.csv
+**************************************************************

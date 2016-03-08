@@ -1,0 +1,60 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/7 Starting processing android.zhibo8-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=android.zhibo8 ......
+[ERROR] : Cannot find info of android.zhibo8-1.apk on https://play.google.com/store/apps/details?id=android.zhibo8 !!!
+Done processing android.zhibo8-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/7 Starting processing com.autohome.mycar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.autohome.mycar ......
+Success to get info from Play Store
+The lastest version of com.autohome.mycar-1.apk is  3.2.0  
+Done processing com.autohome.mycar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/7 Starting processing com.caspeed.carzyfruits-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.caspeed.carzyfruits ......
+[ERROR] : Cannot find info of com.caspeed.carzyfruits-1.apk on https://play.google.com/store/apps/details?id=com.caspeed.carzyfruits !!!
+Done processing com.caspeed.carzyfruits-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/7 Starting processing com.cgame.cycck-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cgame.cycck ......
+[ERROR] : Cannot find info of com.cgame.cycck-1.apk on https://play.google.com/store/apps/details?id=com.cgame.cycck !!!
+Done processing com.cgame.cycck-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/7 Starting processing com.octinn.birthdayplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.octinn.birthdayplus ......
+[ERROR] : Cannot find info of com.octinn.birthdayplus-1.apk on https://play.google.com/store/apps/details?id=com.octinn.birthdayplus !!!
+Done processing com.octinn.birthdayplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+6/7 Starting processing com.tianjigames.fruitsplash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tianjigames.fruitsplash ......
+[ERROR] : Cannot find info of com.tianjigames.fruitsplash-1.apk on https://play.google.com/store/apps/details?id=com.tianjigames.fruitsplash !!!
+Done processing com.tianjigames.fruitsplash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+7/7 Starting processing org.cocos2dx.VirusVsVirus2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.cocos2dx.VirusVsVirus2 ......
+[ERROR] : Cannot find info of org.cocos2dx.VirusVsVirus2-1.apk on https://play.google.com/store/apps/details?id=org.cocos2dx.VirusVsVirus2 !!!
+Done processing org.cocos2dx.VirusVsVirus2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-07-15-23-12.csv
+**************************************************************

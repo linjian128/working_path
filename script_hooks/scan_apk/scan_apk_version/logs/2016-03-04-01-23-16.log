@@ -1,0 +1,89 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.daysofwonder.Splendor.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.daysofwonder.Splendor.gp ......
+Success to get info from Play Store
+The lastest version of com.daysofwonder.Splendor.gp-1.apk is  1.1.5  
+Done processing com.daysofwonder.Splendor.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.ea.game.fifa15_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.fifa15_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.fifa15_row-1.apk is  1.7.0  
+Done processing com.ea.game.fifa15_row-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/10 Starting processing com.gau.go.launcherex-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gau.go.launcherex ......
+Success to get info from Play Store
+The lastest version of com.gau.go.launcherex-1.apk is    Varies with device  
+Done processing com.gau.go.launcherex-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/10 Starting processing com.hunantv.imgo.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity ......
+[ERROR] : Cannot find info of com.hunantv.imgo.activity-1.apk on https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity !!!
+Done processing com.hunantv.imgo.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/10 Starting processing com.innogames.foeandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.innogames.foeandroid ......
+Success to get info from Play Store
+The lastest version of com.innogames.foeandroid-1.apk is  1.70.0  
+Done processing com.innogames.foeandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/10 Starting processing com.king.blossomblast-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.blossomblast ......
+Success to get info from Play Store
+The lastest version of com.king.blossomblast-1.apk is  1.5.1  
+Done processing com.king.blossomblast-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/10 Starting processing com.productmadness.hovmobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.productmadness.hovmobile ......
+Success to get info from Play Store
+The lastest version of com.productmadness.hovmobile-1.apk is  2.11.25  
+Done processing com.productmadness.hovmobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/10 Starting processing com.yibasan.lizhifm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yibasan.lizhifm ......
+Success to get info from Play Store
+The lastest version of com.yibasan.lizhifm-1.apk is  3.6.1  
+Done processing com.yibasan.lizhifm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+9/10 Starting processing com.yuanyuanhd.clashofcommanders-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yuanyuanhd.clashofcommanders ......
+Success to get info from Play Store
+The lastest version of com.yuanyuanhd.clashofcommanders-1.apk is  1.1.0  
+Done processing com.yuanyuanhd.clashofcommanders-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+10/10 Starting processing es.socialpoint.MonsterLegends-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=es.socialpoint.MonsterLegends ......
+Success to get info from Play Store
+The lastest version of es.socialpoint.MonsterLegends-1.apk is 
+Done processing es.socialpoint.MonsterLegends-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-03-04-01-23-16.csv
+**************************************************************

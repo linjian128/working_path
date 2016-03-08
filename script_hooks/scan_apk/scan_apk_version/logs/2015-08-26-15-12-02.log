@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing br.pipacombate.maiworm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=br.pipacombate.maiworm ......
+Success to get info from Play Store
+The lastest version of br.pipacombate.maiworm-1.apk is  1.5  
+Done processing br.pipacombate.maiworm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/7 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is  4.16.4  
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/7 Starting processing com.emoji.coolkeyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emoji.coolkeyboard ......
+Success to get info from Play Store
+The lastest version of com.emoji.coolkeyboard-1.apk is  2.9.9  
+Done processing com.emoji.coolkeyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/7 Starting processing com.miniclip.eightballpool-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miniclip.eightballpool ......
+Success to get info from Play Store
+The lastest version of com.miniclip.eightballpool-1.apk is  3.3.0  
+Done processing com.miniclip.eightballpool-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/7 Starting processing com.naturalmotion.clumsyninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.clumsyninja ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.clumsyninja-1.apk is 
+Done processing com.naturalmotion.clumsyninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/7 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+7/7 Starting processing com.zynga.FarmVille2CountryEscape-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.FarmVille2CountryEscape ......
+Success to get info from Play Store
+The lastest version of com.zynga.FarmVille2CountryEscape-1.apk is  3.6.323  
+Done processing com.zynga.FarmVille2CountryEscape-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 29 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-08-26-15-12-02.csv
+**************************************************************

@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.ArtInGames.AirAttackHD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttackHD ......
+Success to get info from Play Store
+The lastest version of com.ArtInGames.AirAttackHD-1.apk is  1.5  
+Done processing com.ArtInGames.AirAttackHD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.gameinsight.battletowersandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameinsight.battletowersandroid ......
+Success to get info from Play Store
+The lastest version of com.gameinsight.battletowersandroid-1.apk is  2.0  
+Done processing com.gameinsight.battletowersandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.miniclip.eightballpool-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miniclip.eightballpool ......
+Success to get info from Play Store
+The lastest version of com.miniclip.eightballpool-1.apk is  2.2.6  
+Done processing com.miniclip.eightballpool-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/4 Starting processing com.ninjakiwi.bloonstd5-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd5 ......
+Success to get info from Play Store
+The lastest version of com.ninjakiwi.bloonstd5-1.apk is  2.3.1  
+Done processing com.ninjakiwi.bloonstd5-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-02-13-29-54.csv
+**************************************************************

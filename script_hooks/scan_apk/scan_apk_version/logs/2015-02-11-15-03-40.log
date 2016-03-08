@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/FUGU  ......
+
+============================================================================
+1/2 Starting processing com.jackboxgames.JackboxPartyLoaderFull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jackboxgames.JackboxPartyLoaderFull ......
+Success to get info from Play Store
+The lastest version of com.jackboxgames.JackboxPartyLoaderFull-1.apk is 
+Done processing com.jackboxgames.JackboxPartyLoaderFull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.ubisoft.adventure.valiant_hearts_ggtv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ubisoft.adventure.valiant_hearts_ggtv ......
+Success to get info from Play Store
+The lastest version of com.ubisoft.adventure.valiant_hearts_ggtv-1.apk is 
+Done processing com.ubisoft.adventure.valiant_hearts_ggtv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-11-15-03-40.csv
+**************************************************************

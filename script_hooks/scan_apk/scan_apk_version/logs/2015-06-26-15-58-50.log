@@ -1,0 +1,40 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/4 Starting processing com.HappyAlliance.ClassicFruit-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.HappyAlliance.ClassicFruit ......
+[ERROR] : Cannot find info of com.HappyAlliance.ClassicFruit-1.apk on https://play.google.com/store/apps/details?id=com.HappyAlliance.ClassicFruit !!!
+Done processing com.HappyAlliance.ClassicFruit-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.kiloo.subwaysurf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf ......
+Success to get info from Play Store
+The lastest version of com.kiloo.subwaysurf-1.apk is  1.40.0  
+Done processing com.kiloo.subwaysurf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/4 Starting processing com.supercell.clashofclans-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.supercell.clashofclans ......
+Success to get info from Play Store
+The lastest version of com.supercell.clashofclans-1.apk is  7.65.5  
+Done processing com.supercell.clashofclans-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/4 Starting processing com.tencent.modoomarble-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.modoomarble ......
+[ERROR] : Cannot find info of com.tencent.modoomarble-1.apk on https://play.google.com/store/apps/details?id=com.tencent.modoomarble !!!
+Done processing com.tencent.modoomarble-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-26-15-58-50.csv
+**************************************************************

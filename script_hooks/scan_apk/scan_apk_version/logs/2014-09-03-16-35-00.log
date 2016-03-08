@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing air.MSPMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.MSPMobile ......
+Success to get info from Play Store
+The lastest version of air.MSPMobile-1.apk is  2.3.0  
+Done processing air.MSPMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.avast.android.mobilesecurity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity ......
+Success to get info from Play Store
+The lastest version of com.avast.android.mobilesecurity-1.apk is  3.0.7801  
+Done processing com.avast.android.mobilesecurity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.disney.frozensaga_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.frozensaga_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.frozensaga_goo-1.apk is  1.8.0  
+Done processing com.disney.frozensaga_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.fdgentertainment.tentaclewars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fdgentertainment.tentaclewars ......
+Success to get info from Play Store
+The lastest version of com.fdgentertainment.tentaclewars-1.apk is  2.0.14  
+Done processing com.fdgentertainment.tentaclewars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/7 Starting processing com.tap4fun.galaxyempire2_android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tap4fun.galaxyempire2_android ......
+Success to get info from Play Store
+The lastest version of com.tap4fun.galaxyempire2_android-1.apk is  1.4.0  
+Done processing com.tap4fun.galaxyempire2_android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/7 Starting processing com.topnewfree.coinrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.topnewfree.coinrush ......
+Success to get info from Play Store
+The lastest version of com.topnewfree.coinrush-1.apk is  1.17  
+Done processing com.topnewfree.coinrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/7 Starting processing com.ubisoft.mightandmagic.clashofheroes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ubisoft.mightandmagic.clashofheroes ......
+Success to get info from Play Store
+The lastest version of com.ubisoft.mightandmagic.clashofheroes-1.apk is  1.2  
+Done processing com.ubisoft.mightandmagic.clashofheroes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-03-16-35-00.csv
+**************************************************************

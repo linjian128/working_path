@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ARM-V8  ......
+
+============================================================================
+1/2 Starting processing com.studiosol.palcomp3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.studiosol.palcomp3 ......
+Success to get info from Play Store
+The lastest version of com.studiosol.palcomp3-1.apk is  3.3.6  
+Done processing com.studiosol.palcomp3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.zentertain.photocollage2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zentertain.photocollage2 ......
+Success to get info from Play Store
+The lastest version of com.zentertain.photocollage2-1.apk is  1.66  
+Done processing com.zentertain.photocollage2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-19-11-36-01.csv
+**************************************************************

@@ -1,0 +1,81 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.sfbgames.HauntTheHouseTerrortown-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sfbgames.HauntTheHouseTerrortown ......
+Success to get info from Play Store
+The lastest version of air.com.sfbgames.HauntTheHouseTerrortown-1.apk is  1.2.3  
+Done processing air.com.sfbgames.HauntTheHouseTerrortown-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/9 Starting processing air.com.stoicstudio.BannerSaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.stoicstudio.BannerSaga ......
+Success to get info from Play Store
+The lastest version of air.com.stoicstudio.BannerSaga-1.apk is  1.1.57  
+Done processing air.com.stoicstudio.BannerSaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/9 Starting processing com.brighthouse.whitetiles4And-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.brighthouse.whitetiles4And ......
+Success to get info from Play Store
+The lastest version of com.brighthouse.whitetiles4And-1.apk is  4.54  
+Done processing com.brighthouse.whitetiles4And-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/9 Starting processing com.google.android.youtube-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.youtube ......
+Success to get info from Play Store
+The lastest version of com.google.android.youtube-1.apk is    Varies with device  
+Done processing com.google.android.youtube-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+5/9 Starting processing com.mapquest.android.ace-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapquest.android.ace ......
+Success to get info from Play Store
+The lastest version of com.mapquest.android.ace-1.apk is    Varies with device  
+Done processing com.mapquest.android.ace-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+6/9 Starting processing com.melodis.midomiMusicIdentifier.freemium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier.freemium-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier.freemium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+7/9 Starting processing com.tencent.west-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.west ......
+[ERROR] : Cannot find info of com.tencent.west-1.apk on https://play.google.com/store/apps/details?id=com.tencent.west !!!
+Done processing com.tencent.west-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+8/9 Starting processing com.zynga.hititrich-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.hititrich ......
+Success to get info from Play Store
+The lastest version of com.zynga.hititrich-1.apk is  1.4.4575  
+Done processing com.zynga.hititrich-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+9/9 Starting processing cz.aponia.bor3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cz.aponia.bor3 ......
+Success to get info from Play Store
+The lastest version of cz.aponia.bor3-1.apk is 
+Done processing cz.aponia.bor3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 37 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-21-17-37-20.csv
+**************************************************************

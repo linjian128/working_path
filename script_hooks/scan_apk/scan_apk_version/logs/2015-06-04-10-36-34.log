@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.activision.callofduty.heroes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.activision.callofduty.heroes ......
+Success to get info from Play Store
+The lastest version of com.activision.callofduty.heroes-1.apk is  1.7.0  
+Done processing com.activision.callofduty.heroes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/7 Starting processing com.codemasters.cmrally-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.codemasters.cmrally ......
+Success to get info from Play Store
+The lastest version of com.codemasters.cmrally-1.apk is  1.11  
+Done processing com.codemasters.cmrally-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/7 Starting processing com.com2us.acefishing.normal.freefull.google.global.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.acefishing.normal.freefull.google.global.android.common-1.apk is  2.0.0  
+Done processing com.com2us.acefishing.normal.freefull.google.global.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/7 Starting processing com.crowdstar.covetfashion-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.crowdstar.covetfashion ......
+Success to get info from Play Store
+The lastest version of com.crowdstar.covetfashion-1.apk is  2.18.44  
+Done processing com.crowdstar.covetfashion-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+5/7 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is  1.54.0.2  
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+6/7 Starting processing com.playcreek.DeathWorm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playcreek.DeathWorm ......
+Success to get info from Play Store
+The lastest version of com.playcreek.DeathWorm-1.apk is  1.40  
+Done processing com.playcreek.DeathWorm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+7/7 Starting processing net.playq.charmking-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.playq.charmking ......
+Success to get info from Play Store
+The lastest version of net.playq.charmking-1.apk is  2.6.0  
+Done processing net.playq.charmking-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 36 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-04-10-36-34.csv
+**************************************************************

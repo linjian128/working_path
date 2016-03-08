@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.befunky.BeFunkyPhotoEditor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor ......
+Success to get info from Play Store
+The lastest version of air.com.befunky.BeFunkyPhotoEditor-1.apk is  4.0.6  
+Done processing air.com.befunky.BeFunkyPhotoEditor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/6 Starting processing com.bubblezapgames.supergnes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bubblezapgames.supergnes ......
+Success to get info from Play Store
+The lastest version of com.bubblezapgames.supergnes-1.apk is    Varies with device  
+Done processing com.bubblezapgames.supergnes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/6 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.129  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/6 Starting processing com.lookout-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lookout ......
+Success to get info from Play Store
+The lastest version of com.lookout-1.apk is    Varies with device  
+Done processing com.lookout-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/6 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/6 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  3.89  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-15-09-28-35.csv
+**************************************************************

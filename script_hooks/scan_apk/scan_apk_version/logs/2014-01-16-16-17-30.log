@@ -1,0 +1,16 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing new.com.imangi.templerun2-1.apk ......
+Error ouccus when processing new.com.imangi.templerun2-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/2 Starting processing new.com.pandora.android-1.apk ......
+Error ouccus when processing new.com.pandora.android-1.apk : Cnnot get apk info by aapt !
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:    Days  Hours  Minutes  Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-16-16-17-30.csv
+**************************************************************

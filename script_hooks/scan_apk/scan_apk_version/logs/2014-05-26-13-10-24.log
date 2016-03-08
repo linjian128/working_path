@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing air.com.sgn.cookiejam.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.cookiejam.gp-1.apk is  2.0.21  
+Done processing air.com.sgn.cookiejam.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing radiotime.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=radiotime.player ......
+Success to get info from Play Store
+The lastest version of radiotime.player-1.apk is    Varies with device  
+Done processing radiotime.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-26-13-10-24.csv
+**************************************************************

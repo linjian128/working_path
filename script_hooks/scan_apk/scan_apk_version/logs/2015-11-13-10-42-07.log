@@ -1,0 +1,344 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/44 Starting processing android.zhibo8-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=android.zhibo8 ......
+[ERROR] : Cannot find info of android.zhibo8-1.apk on https://play.google.com/store/apps/details?id=android.zhibo8 !!!
+Done processing android.zhibo8-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/44 Starting processing cn.chono.yopper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.chono.yopper ......
+[ERROR] : Cannot find info of cn.chono.yopper-1.apk on https://play.google.com/store/apps/details?id=cn.chono.yopper !!!
+Done processing cn.chono.yopper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/44 Starting processing cn.jingling.motu.photowonder-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.jingling.motu.photowonder ......
+Success to get info from Play Store
+The lastest version of cn.jingling.motu.photowonder-1.apk is  3.6.5  
+Done processing cn.jingling.motu.photowonder-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/44 Starting processing cn.opda.a.phonoalbumshoushou-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.opda.a.phonoalbumshoushou ......
+[ERROR] : Cannot find info of cn.opda.a.phonoalbumshoushou-1.apk on https://play.google.com/store/apps/details?id=cn.opda.a.phonoalbumshoushou !!!
+Done processing cn.opda.a.phonoalbumshoushou-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/44 Starting processing com.baidu.BaiduMap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.BaiduMap ......
+Success to get info from Play Store
+The lastest version of com.baidu.BaiduMap-1.apk is  8.7.6  
+Done processing com.baidu.BaiduMap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/44 Starting processing com.baidu.baiducamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.baiducamera ......
+Success to get info from Play Store
+The lastest version of com.baidu.baiducamera-1.apk is  1.5.3  
+Done processing com.baidu.baiducamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+7/44 Starting processing com.baidu.baidutranslate-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.baidutranslate ......
+Success to get info from Play Store
+The lastest version of com.baidu.baidutranslate-1.apk is  6.5.1  
+Done processing com.baidu.baidutranslate-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+8/44 Starting processing com.baidu.easyroot-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.easyroot ......
+[ERROR] : Cannot find info of com.baidu.easyroot-1.apk on https://play.google.com/store/apps/details?id=com.baidu.easyroot !!!
+Done processing com.baidu.easyroot-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+9/44 Starting processing com.baidu.iknow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.iknow ......
+Success to get info from Play Store
+The lastest version of com.baidu.iknow-1.apk is  5.4.1  
+Done processing com.baidu.iknow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+10/44 Starting processing com.baidu.input-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.input ......
+Success to get info from Play Store
+The lastest version of com.baidu.input-1.apk is  6.0.1.4  
+Done processing com.baidu.input-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+11/44 Starting processing com.baidu.navi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.navi ......
+Success to get info from Play Store
+The lastest version of com.baidu.navi-1.apk is  3.5.0  
+Done processing com.baidu.navi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+12/44 Starting processing com.baidu.netdisk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.netdisk ......
+[ERROR] : Cannot find info of com.baidu.netdisk-1.apk on https://play.google.com/store/apps/details?id=com.baidu.netdisk !!!
+Done processing com.baidu.netdisk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+13/44 Starting processing com.baidu.news-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.news ......
+Success to get info from Play Store
+The lastest version of com.baidu.news-1.apk is  5.5.3.0  
+Done processing com.baidu.news-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+14/44 Starting processing com.baidu.tieba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.tieba ......
+[ERROR] : Cannot find info of com.baidu.tieba-1.apk on https://play.google.com/store/apps/details?id=com.baidu.tieba !!!
+Done processing com.baidu.tieba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+15/44 Starting processing com.baidu.video-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.video ......
+[ERROR] : Cannot find info of com.baidu.video-1.apk on https://play.google.com/store/apps/details?id=com.baidu.video !!!
+Done processing com.baidu.video-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+16/44 Starting processing com.baihe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baihe ......
+[ERROR] : Cannot find info of com.baihe-1.apk on https://play.google.com/store/apps/details?id=com.baihe !!!
+Done processing com.baihe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+17/44 Starting processing com.budejie.www-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.budejie.www ......
+[ERROR] : Cannot find info of com.budejie.www-1.apk on https://play.google.com/store/apps/details?id=com.budejie.www !!!
+Done processing com.budejie.www-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+18/44 Starting processing com.esvideo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.esvideo ......
+[ERROR] : Cannot find info of com.esvideo-1.apk on https://play.google.com/store/apps/details?id=com.esvideo !!!
+Done processing com.esvideo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+19/44 Starting processing com.fenbi.android.gaozhong-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fenbi.android.gaozhong ......
+Success to get info from Play Store
+The lastest version of com.fenbi.android.gaozhong-1.apk is  5.3.0  
+Done processing com.fenbi.android.gaozhong-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 43 Seconds
+
+============================================================================
+20/44 Starting processing com.happy.lock-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happy.lock ......
+Success to get info from Play Store
+The lastest version of com.happy.lock-1.apk is  1.1.1.1  
+Done processing com.happy.lock-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+21/44 Starting processing com.husor.mizhe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.husor.mizhe ......
+[ERROR] : Cannot find info of com.husor.mizhe-1.apk on https://play.google.com/store/apps/details?id=com.husor.mizhe !!!
+Done processing com.husor.mizhe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+22/44 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is 
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 49 Seconds
+
+============================================================================
+23/44 Starting processing com.iooly.android.lockscreen-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iooly.android.lockscreen ......
+[ERROR] : Cannot find info of com.iooly.android.lockscreen-1.apk on https://play.google.com/store/apps/details?id=com.iooly.android.lockscreen !!!
+Done processing com.iooly.android.lockscreen-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 50 Seconds
+
+============================================================================
+24/44 Starting processing com.jiongji.andriod.card-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jiongji.andriod.card ......
+[ERROR] : Cannot find info of com.jiongji.andriod.card-1.apk on https://play.google.com/store/apps/details?id=com.jiongji.andriod.card !!!
+Done processing com.jiongji.andriod.card-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 52 Seconds
+
+============================================================================
+25/44 Starting processing com.kamitu.drawsth.standalone.free.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kamitu.drawsth.standalone.free.android ......
+[ERROR] : Cannot find info of com.kamitu.drawsth.standalone.free.android-1.apk on https://play.google.com/store/apps/details?id=com.kamitu.drawsth.standalone.free.android !!!
+Done processing com.kamitu.drawsth.standalone.free.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 53 Seconds
+
+============================================================================
+26/44 Starting processing com.meilishuo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meilishuo ......
+[ERROR] : Cannot find info of com.meilishuo-1.apk on https://play.google.com/store/apps/details?id=com.meilishuo !!!
+Done processing com.meilishuo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 54 Seconds
+
+============================================================================
+27/44 Starting processing com.mt.mtxx.mtxx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mt.mtxx.mtxx ......
+Success to get info from Play Store
+The lastest version of com.mt.mtxx.mtxx-1.apk is  4.8.0  
+Done processing com.mt.mtxx.mtxx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 59 Seconds
+
+============================================================================
+28/44 Starting processing com.netease.cloudmusic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netease.cloudmusic ......
+[ERROR] : Cannot find info of com.netease.cloudmusic-1.apk on https://play.google.com/store/apps/details?id=com.netease.cloudmusic !!!
+Done processing com.netease.cloudmusic-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 0 Seconds
+
+============================================================================
+29/44 Starting processing com.netease.mobimail-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netease.mobimail ......
+Success to get info from Play Store
+The lastest version of com.netease.mobimail-1.apk is  3.9.2  
+Done processing com.netease.mobimail-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 3 Seconds
+
+============================================================================
+30/44 Starting processing com.netease.newsreader.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netease.newsreader.activity ......
+Success to get info from Play Store
+The lastest version of com.netease.newsreader.activity-1.apk is  5.4.1  
+Done processing com.netease.newsreader.activity-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 7 Seconds
+
+============================================================================
+31/44 Starting processing com.netease.pris-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netease.pris ......
+Success to get info from Play Store
+The lastest version of com.netease.pris-1.apk is  4.9.5  
+Done processing com.netease.pris-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 12 Seconds
+
+============================================================================
+32/44 Starting processing com.netease.vopen-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netease.vopen ......
+Success to get info from Play Store
+The lastest version of com.netease.vopen-1.apk is  3.3.2  
+Done processing com.netease.vopen-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 15 Seconds
+
+============================================================================
+33/44 Starting processing com.nuomi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nuomi ......
+Success to get info from Play Store
+The lastest version of com.nuomi-1.apk is  5.12.0  
+Done processing com.nuomi-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 18 Seconds
+
+============================================================================
+34/44 Starting processing com.pipcamera.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pipcamera.activity ......
+Success to get info from Play Store
+The lastest version of com.pipcamera.activity-1.apk is  3.3.7  
+Done processing com.pipcamera.activity-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 21 Seconds
+
+============================================================================
+35/44 Starting processing com.ting.mp3.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ting.mp3.android ......
+[ERROR] : Cannot find info of com.ting.mp3.android-1.apk on https://play.google.com/store/apps/details?id=com.ting.mp3.android !!!
+Done processing com.ting.mp3.android-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 23 Seconds
+
+============================================================================
+36/44 Starting processing com.wantu.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wantu.activity ......
+Success to get info from Play Store
+The lastest version of com.wantu.activity-1.apk is  5.9.3  
+Done processing com.wantu.activity-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 26 Seconds
+
+============================================================================
+37/44 Starting processing com.xiaomi.channel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xiaomi.channel ......
+Success to get info from Play Store
+The lastest version of com.xiaomi.channel-1.apk is  7.3.32  
+Done processing com.xiaomi.channel-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 28 Seconds
+
+============================================================================
+38/44 Starting processing com.yixia.videoeditor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yixia.videoeditor ......
+Success to get info from Play Store
+The lastest version of com.yixia.videoeditor-1.apk is  6.2.1  
+Done processing com.yixia.videoeditor-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 32 Seconds
+
+============================================================================
+39/44 Starting processing com.youdao.dict-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youdao.dict ......
+Success to get info from Play Store
+The lastest version of com.youdao.dict-1.apk is  6.1.0  
+Done processing com.youdao.dict-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 35 Seconds
+
+============================================================================
+40/44 Starting processing com.yourdream.app.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yourdream.app.android ......
+Success to get info from Play Store
+The lastest version of com.yourdream.app.android-1.apk is  8.5.2  
+Done processing com.yourdream.app.android-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 37 Seconds
+
+============================================================================
+41/44 Starting processing com.zhihu.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zhihu.android ......
+Success to get info from Play Store
+The lastest version of com.zhihu.android-1.apk is  2.4.4  
+Done processing com.zhihu.android-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 41 Seconds
+
+============================================================================
+42/44 Starting processing my.beautyCamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=my.beautyCamera ......
+Success to get info from Play Store
+The lastest version of my.beautyCamera-1.apk is  2.5.0  
+Done processing my.beautyCamera-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 44 Seconds
+
+============================================================================
+43/44 Starting processing qsbk.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=qsbk.app ......
+[ERROR] : Cannot find info of qsbk.app-1.apk on https://play.google.com/store/apps/details?id=qsbk.app !!!
+Done processing qsbk.app-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 45 Seconds
+
+============================================================================
+44/44 Starting processing viva.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=viva.reader ......
+Success to get info from Play Store
+The lastest version of viva.reader-1.apk is  5.2.4  
+Done processing viva.reader-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 47 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 1 Minutes 47 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-13-10-42-07.csv
+**************************************************************

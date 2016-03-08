@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.140  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.happylatte.HN2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happylatte.HN2 ......
+Success to get info from Play Store
+The lastest version of com.happylatte.HN2-1.apk is  2.2.2.30  
+Done processing com.happylatte.HN2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/5 Starting processing jp.gungho.padEN-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gungho.padEN ......
+Success to get info from Play Store
+The lastest version of jp.gungho.padEN-1.apk is  6.5.5  
+Done processing jp.gungho.padEN-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/5 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is    Varies with device  
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/5 Starting processing net.playq.charmking-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.playq.charmking ......
+Success to get info from Play Store
+The lastest version of net.playq.charmking-1.apk is  1.9.0  
+Done processing net.playq.charmking-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-28-09-36-37.csv
+**************************************************************

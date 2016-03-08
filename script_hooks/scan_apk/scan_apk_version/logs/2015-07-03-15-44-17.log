@@ -1,0 +1,48 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/5 Starting processing com.baidu.BaiduMap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.BaiduMap ......
+Success to get info from Play Store
+The lastest version of com.baidu.BaiduMap-1.apk is  8.3.6  
+Done processing com.baidu.BaiduMap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/5 Starting processing com.tencent.feiji-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.feiji ......
+[ERROR] : Cannot find info of com.tencent.feiji-1.apk on https://play.google.com/store/apps/details?id=com.tencent.feiji !!!
+Done processing com.tencent.feiji-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/5 Starting processing dopool.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=dopool.player ......
+[ERROR] : Cannot find info of dopool.player-1.apk on https://play.google.com/store/apps/details?id=dopool.player !!!
+Done processing dopool.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/5 Starting processing my.beautyCamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=my.beautyCamera ......
+Success to get info from Play Store
+The lastest version of my.beautyCamera-1.apk is  2.5.0  
+Done processing my.beautyCamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/5 Starting processing qsbk.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=qsbk.app ......
+Success to get info from Play Store
+The lastest version of qsbk.app-1.apk is  7.1.1  
+Done processing qsbk.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-03-15-44-17.csv
+**************************************************************

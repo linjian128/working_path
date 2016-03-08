@@ -1,0 +1,122 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/15 Starting processing com.Qunar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Qunar ......
+Success to get info from Play Store
+The lastest version of com.Qunar-1.apk is  8.0.9  
+Done processing com.Qunar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/15 Starting processing com.android.dazhihui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.dazhihui ......
+[ERROR] : Cannot find info of com.android.dazhihui-1.apk on https://play.google.com/store/apps/details?id=com.android.dazhihui !!!
+Done processing com.android.dazhihui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/15 Starting processing com.androidesk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk ......
+[ERROR] : Cannot find info of com.androidesk-1.apk on https://play.google.com/store/apps/details?id=com.androidesk !!!
+Done processing com.androidesk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/15 Starting processing com.androidesk.livewallpaper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk.livewallpaper ......
+[ERROR] : Cannot find info of com.androidesk.livewallpaper-1.apk on https://play.google.com/store/apps/details?id=com.androidesk.livewallpaper !!!
+Done processing com.androidesk.livewallpaper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/15 Starting processing com.baidu.appsearch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.appsearch ......
+[ERROR] : Cannot find info of com.baidu.appsearch-1.apk on https://play.google.com/store/apps/details?id=com.baidu.appsearch !!!
+Done processing com.baidu.appsearch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+6/15 Starting processing com.chaozh.iReaderFree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chaozh.iReaderFree ......
+Success to get info from Play Store
+The lastest version of com.chaozh.iReaderFree-1.apk is  3.7.0  
+Done processing com.chaozh.iReaderFree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+7/15 Starting processing com.ganji.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ganji.android ......
+Success to get info from Play Store
+The lastest version of com.ganji.android-1.apk is  6.3.0  
+Done processing com.ganji.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/15 Starting processing com.google.android.gms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gms ......
+Success to get info from Play Store
+The lastest version of com.google.android.gms-1.apk is    Varies with device  
+Done processing com.google.android.gms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/15 Starting processing com.hunantv.imgo.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity ......
+[ERROR] : Cannot find info of com.hunantv.imgo.activity-1.apk on https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity !!!
+Done processing com.hunantv.imgo.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+10/15 Starting processing com.lenovo.anyshare-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lenovo.anyshare ......
+[ERROR] : Cannot find info of com.lenovo.anyshare-1.apk on https://play.google.com/store/apps/details?id=com.lenovo.anyshare !!!
+Done processing com.lenovo.anyshare-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+11/15 Starting processing com.netease.newsreader.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netease.newsreader.activity ......
+Success to get info from Play Store
+The lastest version of com.netease.newsreader.activity-1.apk is  5.0  
+Done processing com.netease.newsreader.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+12/15 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is  5.0.9  
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+13/15 Starting processing com.sinovatech.unicom.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sinovatech.unicom.ui ......
+[ERROR] : Cannot find info of com.sinovatech.unicom.ui-1.apk on https://play.google.com/store/apps/details?id=com.sinovatech.unicom.ui !!!
+Done processing com.sinovatech.unicom.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+14/15 Starting processing com.sohu.inputmethod.sogou-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sohu.inputmethod.sogou ......
+Success to get info from Play Store
+The lastest version of com.sohu.inputmethod.sogou-1.apk is  7.5.2  
+Done processing com.sohu.inputmethod.sogou-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+15/15 Starting processing com.tudou.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tudou.android ......
+[ERROR] : Cannot find info of com.tudou.android-1.apk on https://play.google.com/store/apps/details?id=com.tudou.android !!!
+Done processing com.tudou.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-25-11-40-42.csv
+**************************************************************

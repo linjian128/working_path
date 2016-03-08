@@ -1,0 +1,112 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/14 Starting processing com.alibaba.wireless-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alibaba.wireless ......
+[ERROR] : Cannot find info of com.alibaba.wireless-1.apk on https://play.google.com/store/apps/details?id=com.alibaba.wireless !!!
+Done processing com.alibaba.wireless-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/14 Starting processing com.baidu.appsearch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.appsearch ......
+[ERROR] : Cannot find info of com.baidu.appsearch-1.apk on https://play.google.com/store/apps/details?id=com.baidu.appsearch !!!
+Done processing com.baidu.appsearch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/14 Starting processing com.bilin.huijiao.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bilin.huijiao.activity ......
+Success to get info from Play Store
+The lastest version of com.bilin.huijiao.activity-1.apk is  3.7.3.1  
+Done processing com.bilin.huijiao.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/14 Starting processing com.duowan.kiwi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duowan.kiwi ......
+[ERROR] : Cannot find info of com.duowan.kiwi-1.apk on https://play.google.com/store/apps/details?id=com.duowan.kiwi !!!
+Done processing com.duowan.kiwi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/14 Starting processing com.icbc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.icbc ......
+[ERROR] : Cannot find info of com.icbc-1.apk on https://play.google.com/store/apps/details?id=com.icbc !!!
+Done processing com.icbc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/14 Starting processing com.icoolme.android.weather-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.icoolme.android.weather ......
+Success to get info from Play Store
+The lastest version of com.icoolme.android.weather-1.apk is  3.02.013.20141214  
+Done processing com.icoolme.android.weather-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/14 Starting processing com.lenovo.calendar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lenovo.calendar ......
+Success to get info from Play Store
+The lastest version of com.lenovo.calendar-1.apk is 
+Done processing com.lenovo.calendar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+8/14 Starting processing com.perfectworld.shenmo.downjoy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perfectworld.shenmo.downjoy ......
+[ERROR] : Cannot find info of com.perfectworld.shenmo.downjoy-1.apk on https://play.google.com/store/apps/details?id=com.perfectworld.shenmo.downjoy !!!
+Done processing com.perfectworld.shenmo.downjoy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+9/14 Starting processing com.shoujiduoduo.ringtone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone ......
+[ERROR] : Cannot find info of com.shoujiduoduo.ringtone-1.apk on https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone !!!
+Done processing com.shoujiduoduo.ringtone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+10/14 Starting processing com.storm.smart-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.storm.smart ......
+[ERROR] : Cannot find info of com.storm.smart-1.apk on https://play.google.com/store/apps/details?id=com.storm.smart !!!
+Done processing com.storm.smart-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+11/14 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+12/14 Starting processing com.tencent.qqgame.qqTexaswvga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqgame.qqTexaswvga ......
+[ERROR] : Cannot find info of com.tencent.qqgame.qqTexaswvga-1.apk on https://play.google.com/store/apps/details?id=com.tencent.qqgame.qqTexaswvga !!!
+Done processing com.tencent.qqgame.qqTexaswvga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+13/14 Starting processing com.xunlei.downloadprovider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xunlei.downloadprovider ......
+[ERROR] : Cannot find info of com.xunlei.downloadprovider-1.apk on https://play.google.com/store/apps/details?id=com.xunlei.downloadprovider !!!
+Done processing com.xunlei.downloadprovider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+14/14 Starting processing com.yiche.price-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yiche.price ......
+[ERROR] : Cannot find info of com.yiche.price-1.apk on https://play.google.com/store/apps/details?id=com.yiche.price !!!
+Done processing com.yiche.price-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 28 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-14-15-06-12.csv
+**************************************************************

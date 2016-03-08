@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.candyrufusgames.survivalcrafttrial-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcrafttrial ......
+Success to get info from Play Store
+The lastest version of com.candyrufusgames.survivalcrafttrial-1.apk is  1.22.3.0  
+Done processing com.candyrufusgames.survivalcrafttrial-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.teamlava.bakerystory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.bakerystory ......
+Success to get info from Play Store
+The lastest version of com.teamlava.bakerystory-1.apk is  1.5.5.7.6  
+Done processing com.teamlava.bakerystory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/4 Starting processing com.teamlava.fashionstory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.fashionstory ......
+Success to get info from Play Store
+The lastest version of com.teamlava.fashionstory-1.apk is  1.5.6.2  
+Done processing com.teamlava.fashionstory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+4/4 Starting processing com.teamlava.restaurantstory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.restaurantstory ......
+Success to get info from Play Store
+The lastest version of com.teamlava.restaurantstory-1.apk is  1.5.5.7.4  
+Done processing com.teamlava.restaurantstory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-29-17-47-20.csv
+**************************************************************

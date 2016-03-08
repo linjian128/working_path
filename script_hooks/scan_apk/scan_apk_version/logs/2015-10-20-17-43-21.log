@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing au.com.sightwords.parrotfish-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=au.com.sightwords.parrotfish ......
+Success to get info from Play Store
+The lastest version of au.com.sightwords.parrotfish-1.apk is  3.02  
+Done processing au.com.sightwords.parrotfish-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+2/8 Starting processing com.alawar.darkstrokes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alawar.darkstrokes ......
+Success to get info from Play Store
+The lastest version of com.alawar.darkstrokes-1.apk is 
+Done processing com.alawar.darkstrokes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+3/8 Starting processing com.bluefireventures.flashcardsunitedstates-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bluefireventures.flashcardsunitedstates ......
+Success to get info from Play Store
+The lastest version of com.bluefireventures.flashcardsunitedstates-1.apk is  1.0  
+Done processing com.bluefireventures.flashcardsunitedstates-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 42 Seconds
+
+============================================================================
+4/8 Starting processing com.errorsevendev.games.laserBreakPaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.errorsevendev.games.laserBreakPaid ......
+Success to get info from Play Store
+The lastest version of com.errorsevendev.games.laserBreakPaid-1.apk is  1.03  
+Done processing com.errorsevendev.games.laserBreakPaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+5/8 Starting processing com.fivebn.new_york_mysteries_hd_full-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fivebn.new_york_mysteries_hd_full ......
+Success to get info from Play Store
+The lastest version of com.fivebn.new_york_mysteries_hd_full-1.apk is  1.0.24  
+Done processing com.fivebn.new_york_mysteries_hd_full-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 48 Seconds
+
+============================================================================
+6/8 Starting processing com.flashpointgames.piratesshowdown-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flashpointgames.piratesshowdown ......
+Success to get info from Play Store
+The lastest version of com.flashpointgames.piratesshowdown-1.apk is    Varies with device  
+Done processing com.flashpointgames.piratesshowdown-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 51 Seconds
+
+============================================================================
+7/8 Starting processing com.glutenfreegames.velociraptorsimulator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glutenfreegames.velociraptorsimulator ......
+Success to get info from Play Store
+The lastest version of com.glutenfreegames.velociraptorsimulator-1.apk is  1.1  
+Done processing com.glutenfreegames.velociraptorsimulator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 53 Seconds
+
+============================================================================
+8/8 Starting processing com.nightanddaystudios.games.peekaboobarn-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nightanddaystudios.games.peekaboobarn ......
+Success to get info from Play Store
+The lastest version of com.nightanddaystudios.games.peekaboobarn-1.apk is  5.1.1  
+Done processing com.nightanddaystudios.games.peekaboobarn-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 56 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 56 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-10-20-17-43-21.csv
+**************************************************************

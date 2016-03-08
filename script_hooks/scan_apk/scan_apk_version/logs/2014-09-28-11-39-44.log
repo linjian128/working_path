@@ -1,0 +1,114 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.avast.android.mobilesecurity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity ......
+Success to get info from Play Store
+The lastest version of com.avast.android.mobilesecurity-1.apk is  3.0.7863  
+Done processing com.avast.android.mobilesecurity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/13 Starting processing com.capcommobile.smurfspuzzle-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.capcommobile.smurfspuzzle ......
+Success to get info from Play Store
+The lastest version of com.capcommobile.smurfspuzzle-1.apk is  1.2.2  
+Done processing com.capcommobile.smurfspuzzle-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/13 Starting processing com.doubleugames.DoubleUCasino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.doubleugames.DoubleUCasino ......
+Success to get info from Play Store
+The lastest version of com.doubleugames.DoubleUCasino-1.apk is  2.10.1  
+Done processing com.doubleugames.DoubleUCasino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/13 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.5.1  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/13 Starting processing com.fds.infiniteflight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fds.infiniteflight ......
+Success to get info from Play Store
+The lastest version of com.fds.infiniteflight-1.apk is  1.6.3  
+Done processing com.fds.infiniteflight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/13 Starting processing com.gameholic.ggplay.tkfy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameholic.ggplay.tkfy ......
+Success to get info from Play Store
+The lastest version of com.gameholic.ggplay.tkfy-1.apk is  1.6.3  
+Done processing com.gameholic.ggplay.tkfy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/13 Starting processing com.google.android.gms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gms ......
+Success to get info from Play Store
+The lastest version of com.google.android.gms-1.apk is    Varies with device  
+Done processing com.google.android.gms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/13 Starting processing com.hydrix.laurene-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hydrix.laurene ......
+Success to get info from Play Store
+The lastest version of com.hydrix.laurene-1.apk is  1.0.13  
+Done processing com.hydrix.laurene-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/13 Starting processing com.lightricks.facetune-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lightricks.facetune ......
+Success to get info from Play Store
+The lastest version of com.lightricks.facetune-1.apk is  1.0.9  
+Done processing com.lightricks.facetune-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+10/13 Starting processing com.pennypop.monsters.live-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pennypop.monsters.live ......
+Success to get info from Play Store
+The lastest version of com.pennypop.monsters.live-1.apk is  2.6.8  
+Done processing com.pennypop.monsters.live-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+11/13 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  4.03  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+12/13 Starting processing com.tribeplay.pandapet-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tribeplay.pandapet ......
+Success to get info from Play Store
+The lastest version of com.tribeplay.pandapet-1.apk is  1.1.3  
+Done processing com.tribeplay.pandapet-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+13/13 Starting processing com.turner.rigby-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.turner.rigby ......
+Success to get info from Play Store
+The lastest version of com.turner.rigby-1.apk is  1.0  
+Done processing com.turner.rigby-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-28-11-39-44.csv
+**************************************************************

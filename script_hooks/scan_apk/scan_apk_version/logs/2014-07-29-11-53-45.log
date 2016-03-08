@@ -1,0 +1,63 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.celliecraze.chesschess-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.celliecraze.chesschess ......
+[ERROR] : Cannot find info of com.celliecraze.chesschess-1.apk on https://play.google.com/store/apps/details?id=com.celliecraze.chesschess !!!
+Done processing com.celliecraze.chesschess-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/7 Starting processing com.mafia.mota-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mafia.mota ......
+[ERROR] : Cannot find info of com.mafia.mota-1.apk on https://play.google.com/store/apps/details?id=com.mafia.mota !!!
+Done processing com.mafia.mota-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/7 Starting processing com.soco.veggies2_baidu2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.soco.veggies2_baidu2 ......
+[ERROR] : Cannot find info of com.soco.veggies2_baidu2-1.apk on https://play.google.com/store/apps/details?id=com.soco.veggies2_baidu2 !!!
+Done processing com.soco.veggies2_baidu2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+4/7 Starting processing com.teamviewer.teamviewer.market.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile ......
+Success to get info from Play Store
+The lastest version of com.teamviewer.teamviewer.market.mobile-1.apk is    Varies with device  
+Done processing com.teamviewer.teamviewer.market.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/7 Starting processing com.uniqlo.ja.catalogue-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.uniqlo.ja.catalogue ......
+Success to get info from Play Store
+The lastest version of com.uniqlo.ja.catalogue-1.apk is  5.0.11  
+Done processing com.uniqlo.ja.catalogue-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/7 Starting processing com.vg.BusSimulators-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vg.BusSimulators ......
+Success to get info from Play Store
+The lastest version of com.vg.BusSimulators-1.apk is  1.1  
+Done processing com.vg.BusSimulators-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/7 Starting processing com.voltage.g.metr2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.voltage.g.metr2 ......
+Success to get info from Play Store
+The lastest version of com.voltage.g.metr2-1.apk is  1.4  
+Done processing com.voltage.g.metr2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-29-11-53-45.csv
+**************************************************************

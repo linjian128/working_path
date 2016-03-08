@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing cn.mozilla.firefox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.mozilla.firefox ......
+Success to get info from Play Store
+The lastest version of cn.mozilla.firefox-1.apk is  29.0  
+Done processing cn.mozilla.firefox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-04-16-47-03.csv
+**************************************************************

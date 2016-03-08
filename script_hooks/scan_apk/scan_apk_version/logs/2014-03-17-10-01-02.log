@@ -1,0 +1,114 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.all3media.thecube-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.all3media.thecube ......
+Success to get info from Play Store
+The lastest version of com.all3media.thecube-1.apk is    Varies with device  
+Done processing com.all3media.thecube-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/13 Starting processing com.appxplore.sporos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.appxplore.sporos ......
+Success to get info from Play Store
+The lastest version of com.appxplore.sporos-1.apk is  1.14  
+Done processing com.appxplore.sporos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/13 Starting processing com.debia.rebusisto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.debia.rebusisto ......
+Success to get info from Play Store
+The lastest version of com.debia.rebusisto-1.apk is  1.781  
+Done processing com.debia.rebusisto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/13 Starting processing com.dreamy.tankautoinnewyork-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dreamy.tankautoinnewyork ......
+Success to get info from Play Store
+The lastest version of com.dreamy.tankautoinnewyork-1.apk is  2.3  
+Done processing com.dreamy.tankautoinnewyork-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/13 Starting processing com.experience_game_3d.truck.parking-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.experience_game_3d.truck.parking ......
+Success to get info from Play Store
+The lastest version of com.experience_game_3d.truck.parking-1.apk is  9.0  
+Done processing com.experience_game_3d.truck.parking-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+6/13 Starting processing com.google.android.googlequicksearchbox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox ......
+Success to get info from Play Store
+The lastest version of com.google.android.googlequicksearchbox-1.apk is    Varies with device  
+Done processing com.google.android.googlequicksearchbox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+7/13 Starting processing com.google.android.youtube-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.youtube ......
+Success to get info from Play Store
+The lastest version of com.google.android.youtube-1.apk is  5.5.27  
+Done processing com.google.android.youtube-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+8/13 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is  1.8  
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+9/13 Starting processing com.jakyl.spirithd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jakyl.spirithd ......
+Success to get info from Play Store
+The lastest version of com.jakyl.spirithd-1.apk is  2.3.1  
+Done processing com.jakyl.spirithd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+10/13 Starting processing com.kiragames.unblockmefree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiragames.unblockmefree ......
+Success to get info from Play Store
+The lastest version of com.kiragames.unblockmefree-1.apk is  1.3.6.7  
+Done processing com.kiragames.unblockmefree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+11/13 Starting processing com.magisto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magisto ......
+Success to get info from Play Store
+The lastest version of com.magisto-1.apk is    Varies with device  
+Done processing com.magisto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 49 Seconds
+
+============================================================================
+12/13 Starting processing com.nubee.valkyriecrusade-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nubee.valkyriecrusade ......
+Success to get info from Play Store
+The lastest version of com.nubee.valkyriecrusade-1.apk is  2.2.0  
+Done processing com.nubee.valkyriecrusade-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 54 Seconds
+
+============================================================================
+13/13 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  3.83  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 59 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 59 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-17-10-01-02.csv
+**************************************************************

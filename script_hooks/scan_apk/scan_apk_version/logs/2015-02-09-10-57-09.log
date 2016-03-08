@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.adobe.pstouchphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.adobe.pstouchphone ......
+Success to get info from Play Store
+The lastest version of air.com.adobe.pstouchphone-1.apk is 
+Done processing air.com.adobe.pstouchphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/8 Starting processing aiy.lwh.games.mine-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=aiy.lwh.games.mine ......
+Success to get info from Play Store
+The lastest version of aiy.lwh.games.mine-1.apk is 
+Done processing aiy.lwh.games.mine-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+3/8 Starting processing com.bestgame.climb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bestgame.climb ......
+Success to get info from Play Store
+The lastest version of com.bestgame.climb-1.apk is 
+Done processing com.bestgame.climb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+4/8 Starting processing com.bossastudios.ss13touch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bossastudios.ss13touch ......
+Success to get info from Play Store
+The lastest version of com.bossastudios.ss13touch-1.apk is 
+Done processing com.bossastudios.ss13touch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+5/8 Starting processing com.guildsoftware.vendetta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta ......
+Success to get info from Play Store
+The lastest version of com.guildsoftware.vendetta-1.apk is 
+Done processing com.guildsoftware.vendetta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+6/8 Starting processing com.sixtostart.zombiesrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrun ......
+Success to get info from Play Store
+The lastest version of com.sixtostart.zombiesrun-1.apk is 
+Done processing com.sixtostart.zombiesrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+7/8 Starting processing com.wb.goog.scribbleremix-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.scribbleremix ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.scribbleremix-1.apk is 
+Done processing com.wb.goog.scribbleremix-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+8/8 Starting processing com.youku.phone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youku.phone ......
+Success to get info from Play Store
+The lastest version of com.youku.phone-1.apk is 
+Done processing com.youku.phone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-09-10-57-09.csv
+**************************************************************

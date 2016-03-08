@@ -1,0 +1,25 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.cpuid.cpu_z-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cpuid.cpu_z ......
+Success to get info from Play Store
+The lastest version of com.cpuid.cpu_z-1.apk is  1.07  
+Done processing com.cpuid.cpu_z-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.miui.miuilite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miui.miuilite ......
+[ERROR] : Cannot find info of com.miui.miuilite-1.apk on https://play.google.com/store/apps/details?id=com.miui.miuilite !!!
+Done processing com.miui.miuilite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-22-10-26-28.csv
+**************************************************************

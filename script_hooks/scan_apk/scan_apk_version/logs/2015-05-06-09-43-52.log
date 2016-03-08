@@ -1,0 +1,21 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/2 Starting processing com.alibaba.mobileim-1.apk ......
+Error ouccus when processing com.alibaba.mobileim-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/2 Starting processing im.yixin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=im.yixin ......
+Success to get info from Play Store
+The lastest version of im.yixin-1.apk is  3.4.0  
+Done processing im.yixin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-06-09-43-52.csv
+**************************************************************

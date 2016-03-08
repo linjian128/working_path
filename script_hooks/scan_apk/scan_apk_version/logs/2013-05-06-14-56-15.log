@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.alibaba.mobileim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alibaba.mobileim ......
+Success to get info from Play Store
+The lastest version of com.alibaba.mobileim-1.apk is 2.3.3
+Done processing com.alibaba.mobileim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is 3.9.62
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/6 Starting processing com.midasplayer.apps.bubblewitch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitch ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitch-1.apk is Varies with device
+Done processing com.midasplayer.apps.bubblewitch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/6 Starting processing com.tencent.research.drop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.research.drop ......
+Success to get info from Play Store
+The lastest version of com.tencent.research.drop-1.apk is 2.1.420
+Done processing com.tencent.research.drop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/6 Starting processing dopool.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=dopool.player ......
+Success to get info from Play Store
+The lastest version of dopool.player-1.apk is 3.2
+Done processing dopool.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/6 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is 3.6.7
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-05-06-14-56-15.csv
+**************************************************************

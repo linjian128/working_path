@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing se.nena.nenamark2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=se.nena.nenamark2 ......
+Success to get info from Play Store
+The lastest version of se.nena.nenamark2-1.apk is  2.4  
+Done processing se.nena.nenamark2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-17-10-24-06.csv
+**************************************************************

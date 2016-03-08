@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.flaregames.gameofknights-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flaregames.gameofknights ......
+Success to get info from Play Store
+The lastest version of com.flaregames.gameofknights-1.apk is  1.2.7  
+Done processing com.flaregames.gameofknights-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing me.pou.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.pou.app ......
+Success to get info from Play Store
+The lastest version of me.pou.app-1.apk is  1.4.32  
+Done processing me.pou.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-27-10-12-39.csv
+**************************************************************

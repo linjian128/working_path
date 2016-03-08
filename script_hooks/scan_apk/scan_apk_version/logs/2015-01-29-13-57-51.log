@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.sgn.cookiejam.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.cookiejam.gp-1.apk is  3.20.106  
+Done processing air.com.sgn.cookiejam.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing air.com.ubisoft.csi.HiddenCrimes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.ubisoft.csi.HiddenCrimes ......
+Success to get info from Play Store
+The lastest version of air.com.ubisoft.csi.HiddenCrimes-1.apk is  1.12.4  
+Done processing air.com.ubisoft.csi.HiddenCrimes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/10 Starting processing com.asobimo.avabel_gp_b3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.asobimo.avabel_gp_b3 ......
+Success to get info from Play Store
+The lastest version of com.asobimo.avabel_gp_b3-1.apk is  3.5.22  
+Done processing com.asobimo.avabel_gp_b3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/10 Starting processing com.cleanmaster.mguard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.mguard ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.mguard-1.apk is    Varies with device  
+Done processing com.cleanmaster.mguard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/10 Starting processing com.giantssoftware.fs2012-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.giantssoftware.fs2012 ......
+Success to get info from Play Store
+The lastest version of com.giantssoftware.fs2012-1.apk is  1.0.16  
+Done processing com.giantssoftware.fs2012-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/10 Starting processing com.glu.stardomkim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.stardomkim ......
+Success to get info from Play Store
+The lastest version of com.glu.stardomkim-1.apk is  2.5.0  
+Done processing com.glu.stardomkim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/10 Starting processing com.king.candycrushsodasaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsodasaga-1.apk is  1.34.30  
+Done processing com.king.candycrushsodasaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/10 Starting processing com.lego.juniors.quest-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lego.juniors.quest ......
+Success to get info from Play Store
+The lastest version of com.lego.juniors.quest-1.apk is  2.0.0  
+Done processing com.lego.juniors.quest-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+9/10 Starting processing com.rovio.gold-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.gold ......
+Success to get info from Play Store
+The lastest version of com.rovio.gold-1.apk is  1.2.3  
+Done processing com.rovio.gold-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+10/10 Starting processing com.seamatch.levelviewer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.seamatch.levelviewer ......
+Success to get info from Play Store
+The lastest version of com.seamatch.levelviewer-1.apk is  1.1.2  
+Done processing com.seamatch.levelviewer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 38 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-29-13-57-51.csv
+**************************************************************

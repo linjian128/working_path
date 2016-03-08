@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.fds.infiniteflight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fds.infiniteflight ......
+Success to get info from Play Store
+The lastest version of com.fds.infiniteflight-1.apk is  1.3.2  
+Done processing com.fds.infiniteflight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.sonicjump.sonicjump-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sonicjump.sonicjump ......
+Success to get info from Play Store
+The lastest version of com.sonicjump.sonicjump-1.apk is    Varies with device  
+Done processing com.sonicjump.sonicjump-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/4 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is  2.3.12  
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/4 Starting processing es.socialpoint.DragonCity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=es.socialpoint.DragonCity ......
+Success to get info from Play Store
+The lastest version of es.socialpoint.DragonCity-1.apk is  2.6.2  
+Done processing es.socialpoint.DragonCity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-17-16-27-34.csv
+**************************************************************

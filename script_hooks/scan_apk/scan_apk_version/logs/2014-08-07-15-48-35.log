@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.playtika.slotomania-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.playtika.slotomania ......
+Success to get info from Play Store
+The lastest version of air.com.playtika.slotomania-1.apk is    Varies with device  
+Done processing air.com.playtika.slotomania-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing air.com.sarahnorthway.rebuild2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sarahnorthway.rebuild2 ......
+Success to get info from Play Store
+The lastest version of air.com.sarahnorthway.rebuild2-1.apk is    Varies with device  
+Done processing air.com.sarahnorthway.rebuild2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/10 Starting processing com.Alper.GravityProject-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Alper.GravityProject ......
+Success to get info from Play Store
+The lastest version of com.Alper.GravityProject-1.apk is  1.5  
+Done processing com.Alper.GravityProject-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/10 Starting processing com.amazon.mShop.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.amazon.mShop.android ......
+Success to get info from Play Store
+The lastest version of com.amazon.mShop.android-1.apk is    Varies with device  
+Done processing com.amazon.mShop.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/10 Starting processing com.ea.games.simsfreeplay_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.games.simsfreeplay_na ......
+Success to get info from Play Store
+The lastest version of com.ea.games.simsfreeplay_na-1.apk is  5.4.0  
+Done processing com.ea.games.simsfreeplay_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/10 Starting processing com.guildsoftware.vendetta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta ......
+Success to get info from Play Store
+The lastest version of com.guildsoftware.vendetta-1.apk is  1.8.301  
+Done processing com.guildsoftware.vendetta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+7/10 Starting processing jp.co.applibot.legend.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.applibot.legend.android ......
+Success to get info from Play Store
+The lastest version of jp.co.applibot.legend.android-1.apk is  7.7  
+Done processing jp.co.applibot.legend.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+8/10 Starting processing jp.naver.linecamera.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.linecamera.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.linecamera.android-1.apk is  8.3.1  
+Done processing jp.naver.linecamera.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+9/10 Starting processing net.zhuoweizhang.mcpelauncher.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher.pro ......
+Success to get info from Play Store
+The lastest version of net.zhuoweizhang.mcpelauncher.pro-1.apk is  1.7.7  
+Done processing net.zhuoweizhang.mcpelauncher.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+10/10 Starting processing tunein.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tunein.player ......
+Success to get info from Play Store
+The lastest version of tunein.player-1.apk is    Varies with device  
+Done processing tunein.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-07-15-48-35.csv
+**************************************************************

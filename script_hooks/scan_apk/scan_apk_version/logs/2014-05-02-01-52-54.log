@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.gamevil.monster.global-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamevil.monster.global ......
+Success to get info from Play Store
+The lastest version of com.gamevil.monster.global-1.apk is  1.2.8  
+Done processing com.gamevil.monster.global-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.genina.android.blackjack.view-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.genina.android.blackjack.view ......
+Success to get info from Play Store
+The lastest version of com.genina.android.blackjack.view-1.apk is    Varies with device  
+Done processing com.genina.android.blackjack.view-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/10 Starting processing com.ghunting.FishingHunter-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ghunting.FishingHunter ......
+Success to get info from Play Store
+The lastest version of com.ghunting.FishingHunter-1.apk is  7.331  
+Done processing com.ghunting.FishingHunter-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/10 Starting processing com.igg.clashoflords2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.clashoflords2 ......
+Success to get info from Play Store
+The lastest version of com.igg.clashoflords2-1.apk is  1.0.114  
+Done processing com.igg.clashoflords2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/10 Starting processing com.kitkatandroid.keyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kitkatandroid.keyboard ......
+Success to get info from Play Store
+The lastest version of com.kitkatandroid.keyboard-1.apk is  1.9.4  
+Done processing com.kitkatandroid.keyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/10 Starting processing com.perblue.greedforglory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perblue.greedforglory ......
+Success to get info from Play Store
+The lastest version of com.perblue.greedforglory-1.apk is    Varies with device  
+Done processing com.perblue.greedforglory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/10 Starting processing com.roguerocketgames.m3s-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roguerocketgames.m3s ......
+Success to get info from Play Store
+The lastest version of com.roguerocketgames.m3s-1.apk is  0.9.2  
+Done processing com.roguerocketgames.m3s-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/10 Starting processing com.skippy.mountain.sniper.shooting-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skippy.mountain.sniper.shooting ......
+Success to get info from Play Store
+The lastest version of com.skippy.mountain.sniper.shooting-1.apk is  1.3  
+Done processing com.skippy.mountain.sniper.shooting-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/10 Starting processing jp.colopl.enslingshot-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.colopl.enslingshot ......
+Success to get info from Play Store
+The lastest version of jp.colopl.enslingshot-1.apk is  1.0.18  
+Done processing jp.colopl.enslingshot-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+10/10 Starting processing net.flixster.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.flixster.android ......
+Success to get info from Play Store
+The lastest version of net.flixster.android-1.apk is    Varies with device  
+Done processing net.flixster.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-02-01-52-54.csv
+**************************************************************

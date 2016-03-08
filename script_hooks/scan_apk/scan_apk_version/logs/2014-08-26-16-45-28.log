@@ -1,0 +1,34 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.lightricks.facetune-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lightricks.facetune ......
+Success to get info from Play Store
+The lastest version of com.lightricks.facetune-1.apk is  1.0.8  
+Done processing com.lightricks.facetune-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/3 Starting processing com.marvel.guardiansofthegalaxy_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.marvel.guardiansofthegalaxy_goo ......
+Success to get info from Play Store
+The lastest version of com.marvel.guardiansofthegalaxy_goo-1.apk is  1.2  
+Done processing com.marvel.guardiansofthegalaxy_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/3 Starting processing com.overllc.over-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.overllc.over ......
+Success to get info from Play Store
+The lastest version of com.overllc.over-1.apk is  1.0.18  
+Done processing com.overllc.over-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-26-16-45-28.csv
+**************************************************************

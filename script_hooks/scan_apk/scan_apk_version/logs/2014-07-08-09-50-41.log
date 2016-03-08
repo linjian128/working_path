@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.boondogglestudios.sillywalks-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.boondogglestudios.sillywalks ......
+Success to get info from Play Store
+The lastest version of com.boondogglestudios.sillywalks-1.apk is  1.0.3  
+Done processing com.boondogglestudios.sillywalks-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.disney.brave_google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.brave_google ......
+Success to get info from Play Store
+The lastest version of com.disney.brave_google-1.apk is  1.5.1  
+Done processing com.disney.brave_google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/6 Starting processing com.ea.game.maddenmobile2014_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.maddenmobile2014_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.maddenmobile2014_na-1.apk is    Varies with device  
+Done processing com.ea.game.maddenmobile2014_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/6 Starting processing com.limbic.ac130-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.limbic.ac130 ......
+Success to get info from Play Store
+The lastest version of com.limbic.ac130-1.apk is    Varies with device  
+Done processing com.limbic.ac130-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/6 Starting processing com.madfingergames.deadtrigger2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madfingergames.deadtrigger2 ......
+Success to get info from Play Store
+The lastest version of com.madfingergames.deadtrigger2-1.apk is    Varies with device  
+Done processing com.madfingergames.deadtrigger2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/6 Starting processing com.zenstudios.StarWarsPinball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zenstudios.StarWarsPinball ......
+Success to get info from Play Store
+The lastest version of com.zenstudios.StarWarsPinball-1.apk is  3.0.1  
+Done processing com.zenstudios.StarWarsPinball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-08-09-50-41.csv
+**************************************************************

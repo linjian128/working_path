@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.ea.game.maddenmobile15_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.maddenmobile15_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.maddenmobile15_row-1.apk is 
+Done processing com.ea.game.maddenmobile15_row-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 1 Minutes 15 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-16-17-07-54.csv
+**************************************************************

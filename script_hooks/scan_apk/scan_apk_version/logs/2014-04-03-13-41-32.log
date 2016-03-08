@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.adsk.sketchbookhd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.adsk.sketchbookhd ......
+Success to get info from Play Store
+The lastest version of com.adsk.sketchbookhd-1.apk is  2.9.3  
+Done processing com.adsk.sketchbookhd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.ea.game.dungeonkeeper_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.dungeonkeeper_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.dungeonkeeper_na-1.apk is  1.0.60  
+Done processing com.ea.game.dungeonkeeper_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/10 Starting processing com.estrongs.android.pop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estrongs.android.pop ......
+Success to get info from Play Store
+The lastest version of com.estrongs.android.pop-1.apk is    Varies with device  
+Done processing com.estrongs.android.pop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/10 Starting processing com.hiddenvariable.bagit-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hiddenvariable.bagit ......
+Success to get info from Play Store
+The lastest version of com.hiddenvariable.bagit-1.apk is  3.2  
+Done processing com.hiddenvariable.bagit-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+5/10 Starting processing com.joybits.doodlekingdom-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.joybits.doodlekingdom ......
+Success to get info from Play Store
+The lastest version of com.joybits.doodlekingdom-1.apk is  2.0.1  
+Done processing com.joybits.doodlekingdom-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+6/10 Starting processing com.king.farmheroessaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.farmheroessaga ......
+Success to get info from Play Store
+The lastest version of com.king.farmheroessaga-1.apk is  2.4.4  
+Done processing com.king.farmheroessaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+7/10 Starting processing com.omgpop.dstpaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstpaid ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstpaid-1.apk is  2.222.225  
+Done processing com.omgpop.dstpaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+8/10 Starting processing com.roviostars.tinythief-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roviostars.tinythief ......
+Success to get info from Play Store
+The lastest version of com.roviostars.tinythief-1.apk is  1.2.1  
+Done processing com.roviostars.tinythief-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+9/10 Starting processing joybits.doodlegod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=joybits.doodlegod ......
+Success to get info from Play Store
+The lastest version of joybits.doodlegod-1.apk is  2.5.2  
+Done processing joybits.doodlegod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+10/10 Starting processing mobi.mgeek.TunnyBrowser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser ......
+Success to get info from Play Store
+The lastest version of mobi.mgeek.TunnyBrowser-1.apk is    Varies with device  
+Done processing mobi.mgeek.TunnyBrowser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 45 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-03-13-41-32.csv
+**************************************************************

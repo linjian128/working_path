@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.doubleTwist.androidPlayerProKey-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.doubleTwist.androidPlayerProKey ......
+Success to get info from Play Store
+The lastest version of com.doubleTwist.androidPlayerProKey-1.apk is  1.8.0  
+Done processing com.doubleTwist.androidPlayerProKey-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing craigslist.pro.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=craigslist.pro.plus ......
+Success to get info from Play Store
+The lastest version of craigslist.pro.plus-1.apk is  1.983  
+Done processing craigslist.pro.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-16-14-43-22.csv
+**************************************************************

@@ -1,0 +1,106 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing com.ScnStudios.PoliceCarDriver3D-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ScnStudios.PoliceCarDriver3D ......
+Success to get info from Play Store
+The lastest version of com.ScnStudios.PoliceCarDriver3D-1.apk is  1.0.3  
+Done processing com.ScnStudios.PoliceCarDriver3D-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/12 Starting processing com.ebay.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ebay.mobile ......
+Success to get info from Play Store
+The lastest version of com.ebay.mobile-1.apk is    Varies with device  
+Done processing com.ebay.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/12 Starting processing com.estoty.game2048-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estoty.game2048 ......
+Success to get info from Play Store
+The lastest version of com.estoty.game2048-1.apk is  6.06  
+Done processing com.estoty.game2048-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/12 Starting processing com.igg.clashoflords2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.clashoflords2 ......
+Success to get info from Play Store
+The lastest version of com.igg.clashoflords2-1.apk is  1.0.131  
+Done processing com.igg.clashoflords2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/12 Starting processing com.instagram.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.instagram.android ......
+Success to get info from Play Store
+The lastest version of com.instagram.android-1.apk is    Varies with device  
+Done processing com.instagram.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/12 Starting processing com.king.farmheroessaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.farmheroessaga ......
+Success to get info from Play Store
+The lastest version of com.king.farmheroessaga-1.apk is  2.7.11  
+Done processing com.king.farmheroessaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/12 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.20.5  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/12 Starting processing com.kiwi.westbound-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiwi.westbound ......
+Success to get info from Play Store
+The lastest version of com.kiwi.westbound-1.apk is    Varies with device  
+Done processing com.kiwi.westbound-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+9/12 Starting processing com.supercell.clashofclans-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.supercell.clashofclans ......
+Success to get info from Play Store
+The lastest version of com.supercell.clashofclans-1.apk is  6.108.5  
+Done processing com.supercell.clashofclans-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+10/12 Starting processing com.surpax.ledflashlight.panel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel ......
+Success to get info from Play Store
+The lastest version of com.surpax.ledflashlight.panel-1.apk is  1.0.3  
+Done processing com.surpax.ledflashlight.panel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+11/12 Starting processing com.tinyco.familyguy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.familyguy ......
+Success to get info from Play Store
+The lastest version of com.tinyco.familyguy-1.apk is    Varies with device  
+Done processing com.tinyco.familyguy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+12/12 Starting processing com.umonistudio.tile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.umonistudio.tile ......
+Success to get info from Play Store
+The lastest version of com.umonistudio.tile-1.apk is  2.3.8  
+Done processing com.umonistudio.tile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 51 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 51 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-09-17-09-13.csv
+**************************************************************

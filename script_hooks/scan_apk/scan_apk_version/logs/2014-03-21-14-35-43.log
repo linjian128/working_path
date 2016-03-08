@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.forshared-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.forshared ......
+Success to get info from Play Store
+The lastest version of com.forshared-1.apk is  2.4.4  
+Done processing com.forshared-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.gameloft.android.ANMP.GloftUOHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftUOHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftUOHM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftUOHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/4 Starting processing com.linecorp.LGCOOKIE-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.linecorp.LGCOOKIE ......
+Success to get info from Play Store
+The lastest version of com.linecorp.LGCOOKIE-1.apk is  1.0.3  
+Done processing com.linecorp.LGCOOKIE-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/4 Starting processing com.worldcraft.mine-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.worldcraft.mine ......
+Success to get info from Play Store
+The lastest version of com.worldcraft.mine-1.apk is  1.0  
+Done processing com.worldcraft.mine-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-21-14-35-43.csv
+**************************************************************

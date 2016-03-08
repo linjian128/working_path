@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is  1.38.0  
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+2/6 Starting processing com.opera.mini.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.opera.mini.android ......
+Success to get info from Play Store
+The lastest version of com.opera.mini.android-1.apk is  7.6.0  
+Done processing com.opera.mini.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+3/6 Starting processing com.outfit7.mytalkingtomfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree ......
+Success to get info from Play Store
+The lastest version of com.outfit7.mytalkingtomfree-1.apk is  1.9.3  
+Done processing com.outfit7.mytalkingtomfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+4/6 Starting processing com.picsart.studio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picsart.studio ......
+Success to get info from Play Store
+The lastest version of com.picsart.studio-1.apk is    Varies with device  
+Done processing com.picsart.studio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 42 Seconds
+
+============================================================================
+5/6 Starting processing com.supercell.hayday-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.supercell.hayday ......
+Success to get info from Play Store
+The lastest version of com.supercell.hayday-1.apk is  1.20.124  
+Done processing com.supercell.hayday-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 51 Seconds
+
+============================================================================
+6/6 Starting processing com.ubisoft.assassin.pirates-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ubisoft.assassin.pirates ......
+Success to get info from Play Store
+The lastest version of com.ubisoft.assassin.pirates-1.apk is  1.6.0  
+Done processing com.ubisoft.assassin.pirates-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 1 Minutes 1 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-17-08-37-28.csv
+**************************************************************

@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.3.2  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.fds.infiniteflight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fds.infiniteflight ......
+Success to get info from Play Store
+The lastest version of com.fds.infiniteflight-1.apk is  1.4  
+Done processing com.fds.infiniteflight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is    Varies with device  
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/9 Starting processing com.kongregate.mobile.run.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kongregate.mobile.run.google ......
+Success to get info from Play Store
+The lastest version of com.kongregate.mobile.run.google-1.apk is  1.7  
+Done processing com.kongregate.mobile.run.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/9 Starting processing com.midasplayer.apps.bubblewitch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitch ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitch-1.apk is  3.1.7  
+Done processing com.midasplayer.apps.bubblewitch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/9 Starting processing com.playfirst.playground.cookingdashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.cookingdashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.cookingdashdeluxe-1.apk is  2.25.4  
+Done processing com.playfirst.playground.cookingdashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/9 Starting processing com.teamlava.jewel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.jewel ......
+Success to get info from Play Store
+The lastest version of com.teamlava.jewel-1.apk is  1.1.9.11g  
+Done processing com.teamlava.jewel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+8/9 Starting processing com.wb.goog.injustice-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.injustice ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.injustice-1.apk is    Varies with device  
+Done processing com.wb.goog.injustice-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+9/9 Starting processing jp.gungho.padEN-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gungho.padEN ......
+Success to get info from Play Store
+The lastest version of jp.gungho.padEN-1.apk is  6.4.5  
+Done processing jp.gungho.padEN-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 28 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-30-09-47-19.csv
+**************************************************************

@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.elextech.happyfarm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.elextech.happyfarm ......
+Success to get info from Play Store
+The lastest version of air.com.elextech.happyfarm-1.apk is    Varies with device  
+Done processing air.com.elextech.happyfarm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/8 Starting processing air.com.playtika.slotomania-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.playtika.slotomania ......
+Success to get info from Play Store
+The lastest version of air.com.playtika.slotomania-1.apk is    Varies with device  
+Done processing air.com.playtika.slotomania-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.creativemobile.DragRacing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.creativemobile.DragRacing ......
+Success to get info from Play Store
+The lastest version of com.creativemobile.DragRacing-1.apk is  1.6.20  
+Done processing com.creativemobile.DragRacing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/8 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.2.8  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.estoty.game2048-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estoty.game2048 ......
+Success to get info from Play Store
+The lastest version of com.estoty.game2048-1.apk is  6.01  
+Done processing com.estoty.game2048-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/8 Starting processing com.g6677.android.cdentist-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.g6677.android.cdentist ......
+Success to get info from Play Store
+The lastest version of com.g6677.android.cdentist-1.apk is  1.0.11  
+Done processing com.g6677.android.cdentist-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/8 Starting processing com.qihoo.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qihoo.security ......
+Success to get info from Play Store
+The lastest version of com.qihoo.security-1.apk is  1.8.0  
+Done processing com.qihoo.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/8 Starting processing com.tap4fun.kings_empire-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tap4fun.kings_empire ......
+Success to get info from Play Store
+The lastest version of com.tap4fun.kings_empire-1.apk is  1.7.0  
+Done processing com.tap4fun.kings_empire-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-26-03-12-14.csv
+**************************************************************

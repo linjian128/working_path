@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is Varies with device
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.lima.doodlejump-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lima.doodlejump ......
+Success to get info from Play Store
+The lastest version of com.lima.doodlejump-1.apk is Varies with device
+Done processing com.lima.doodlejump-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/9 Starting processing com.madfingergames.deadzone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madfingergames.deadzone ......
+Success to get info from Play Store
+The lastest version of com.madfingergames.deadzone-1.apk is Varies with device
+Done processing com.madfingergames.deadzone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/9 Starting processing com.midasplayer.apps.bubblewitch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitch ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitch-1.apk is Varies with device
+Done processing com.midasplayer.apps.bubblewitch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/9 Starting processing com.outfit7.talkingtom2free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free ......
+Success to get info from Play Store
+The lastest version of com.outfit7.talkingtom2free-1.apk is Varies with device
+Done processing com.outfit7.talkingtom2free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+6/9 Starting processing com.picsart.studio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picsart.studio ......
+Success to get info from Play Store
+The lastest version of com.picsart.studio-1.apk is Varies with device
+Done processing com.picsart.studio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+7/9 Starting processing com.wooga.diamonddash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wooga.diamonddash ......
+Success to get info from Play Store
+The lastest version of com.wooga.diamonddash-1.apk is Varies with device
+Done processing com.wooga.diamonddash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+8/9 Starting processing org.mozilla.firefox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.mozilla.firefox ......
+Success to get info from Play Store
+The lastest version of org.mozilla.firefox-1.apk is Varies with device
+Done processing org.mozilla.firefox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+9/9 Starting processing ru.redspell.whattheword-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=ru.redspell.whattheword ......
+Success to get info from Play Store
+The lastest version of ru.redspell.whattheword-1.apk is Varies with device
+Done processing ru.redspell.whattheword-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-04-24-13-40-13.csv
+**************************************************************

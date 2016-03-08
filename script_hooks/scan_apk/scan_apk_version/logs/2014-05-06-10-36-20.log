@@ -1,0 +1,46 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.Declan.box-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Declan.box ......
+[ERROR] : Cannot find info of com.Declan.box-1.apk on https://play.google.com/store/apps/details?id=com.Declan.box !!!
+Done processing com.Declan.box-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+2/5 Starting processing com.baidu.appsearch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.appsearch ......
+[ERROR] : Cannot find info of com.baidu.appsearch-1.apk on https://play.google.com/store/apps/details?id=com.baidu.appsearch !!!
+Done processing com.baidu.appsearch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+3/5 Starting processing com.popcap.pvzthird-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.popcap.pvzthird ......
+[ERROR] : Cannot find info of com.popcap.pvzthird-1.apk on https://play.google.com/store/apps/details?id=com.popcap.pvzthird !!!
+Done processing com.popcap.pvzthird-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+4/5 Starting processing com.skycarpenter.fantashooting-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skycarpenter.fantashooting ......
+Success to get info from Play Store
+The lastest version of com.skycarpenter.fantashooting-1.apk is  2.125  
+Done processing com.skycarpenter.fantashooting-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+5/5 Starting processing com.sxiaoao.car3d3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sxiaoao.car3d3 ......
+[ERROR] : Cannot find info of com.sxiaoao.car3d3-1.apk on https://play.google.com/store/apps/details?id=com.sxiaoao.car3d3 !!!
+Done processing com.sxiaoao.car3d3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 33 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-06-10-36-20.csv
+**************************************************************

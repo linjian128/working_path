@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.d3p.mpq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.d3p.mpq ......
+Success to get info from Play Store
+The lastest version of com.d3p.mpq-1.apk is  80.292746  
+Done processing com.d3p.mpq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/8 Starting processing com.degoo.android.washpet-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.washpet ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.washpet-1.apk is  1.3.8  
+Done processing com.degoo.android.washpet-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/8 Starting processing com.king.farmheroessaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.farmheroessaga ......
+Success to get info from Play Store
+The lastest version of com.king.farmheroessaga-1.apk is  2.31.7  
+Done processing com.king.farmheroessaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/8 Starting processing com.pinger.textfree.call-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pinger.textfree.call ......
+Success to get info from Play Store
+The lastest version of com.pinger.textfree.call-1.apk is    Varies with device  
+Done processing com.pinger.textfree.call-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/8 Starting processing com.roblox.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roblox.client ......
+Success to get info from Play Store
+The lastest version of com.roblox.client-1.apk is  2.206.62132  
+Done processing com.roblox.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/8 Starting processing com.snkplaymore.android007-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snkplaymore.android007 ......
+Success to get info from Play Store
+The lastest version of com.snkplaymore.android007-1.apk is  1.3  
+Done processing com.snkplaymore.android007-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+7/8 Starting processing com.square_enix.android_googleplay.subarashikikonosekai_solo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.subarashikikonosekai_solo ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.subarashikikonosekai_solo-1.apk is  1.0.3  
+Done processing com.square_enix.android_googleplay.subarashikikonosekai_solo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+8/8 Starting processing jp.gungho.bm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gungho.bm ......
+Success to get info from Play Store
+The lastest version of jp.gungho.bm-1.apk is  3.11.3  
+Done processing jp.gungho.bm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-08-05-13-34-04.csv
+**************************************************************

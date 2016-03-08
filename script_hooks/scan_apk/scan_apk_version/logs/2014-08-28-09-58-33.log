@@ -1,0 +1,63 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.baidu.browser.apps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.browser.apps ......
+[ERROR] : Cannot find info of com.baidu.browser.apps-1.apk on https://play.google.com/store/apps/details?id=com.baidu.browser.apps !!!
+Done processing com.baidu.browser.apps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/7 Starting processing com.funcity.taxi.passenger-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.funcity.taxi.passenger ......
+Success to get info from Play Store
+The lastest version of com.funcity.taxi.passenger-1.apk is  3.3  
+Done processing com.funcity.taxi.passenger-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/7 Starting processing com.iflytek.inputmethod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iflytek.inputmethod ......
+[ERROR] : Cannot find info of com.iflytek.inputmethod-1.apk on https://play.google.com/store/apps/details?id=com.iflytek.inputmethod !!!
+Done processing com.iflytek.inputmethod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/7 Starting processing com.moxiu.launcher-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.moxiu.launcher ......
+[ERROR] : Cannot find info of com.moxiu.launcher-1.apk on https://play.google.com/store/apps/details?id=com.moxiu.launcher !!!
+Done processing com.moxiu.launcher-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/7 Starting processing com.qihoo360.mobilesafe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qihoo360.mobilesafe ......
+Success to get info from Play Store
+The lastest version of com.qihoo360.mobilesafe-1.apk is  5.2.5  
+Done processing com.qihoo360.mobilesafe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/7 Starting processing com.xinmei365.font-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xinmei365.font ......
+Success to get info from Play Store
+The lastest version of com.xinmei365.font-1.apk is  4.3  
+Done processing com.xinmei365.font-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/7 Starting processing me.papa-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.papa ......
+Success to get info from Play Store
+The lastest version of me.papa-1.apk is  4.2.5  
+Done processing me.papa-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-28-09-58-33.csv
+**************************************************************

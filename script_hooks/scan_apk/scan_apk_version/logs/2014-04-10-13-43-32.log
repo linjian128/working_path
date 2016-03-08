@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.jrummy.liberty.toolboxpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jrummy.liberty.toolboxpro ......
+Success to get info from Play Store
+The lastest version of com.jrummy.liberty.toolboxpro-1.apk is  6.0.2  
+Done processing com.jrummy.liberty.toolboxpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/4 Starting processing com.levelup.beautifulwidgets-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.levelup.beautifulwidgets ......
+Success to get info from Play Store
+The lastest version of com.levelup.beautifulwidgets-1.apk is  5.6.1  
+Done processing com.levelup.beautifulwidgets-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/4 Starting processing com.sirma.mobile.bible.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android ......
+Success to get info from Play Store
+The lastest version of com.sirma.mobile.bible.android-1.apk is    Varies with device  
+Done processing com.sirma.mobile.bible.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/4 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is  2.3.11  
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-10-13-43-32.csv
+**************************************************************

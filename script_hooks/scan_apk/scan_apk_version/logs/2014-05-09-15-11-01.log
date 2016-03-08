@@ -1,0 +1,80 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.ea.wallpaper.tetris-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.wallpaper.tetris ......
+[ERROR] : Cannot find info of com.ea.wallpaper.tetris-1.apk on https://play.google.com/store/apps/details?id=com.ea.wallpaper.tetris !!!
+Done processing com.ea.wallpaper.tetris-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.google.android.apps.cloudprint-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.cloudprint ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.cloudprint-1.apk is  0.9.10  
+Done processing com.google.android.apps.cloudprint-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.google.android.apps.docs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.docs ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.docs-1.apk is    Varies with device  
+Done processing com.google.android.apps.docs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/9 Starting processing com.google.android.apps.maps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.maps ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.maps-1.apk is    Varies with device  
+Done processing com.google.android.apps.maps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.google.android.googlequicksearchbox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox ......
+Success to get info from Play Store
+The lastest version of com.google.android.googlequicksearchbox-1.apk is    Varies with device  
+Done processing com.google.android.googlequicksearchbox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/9 Starting processing com.google.android.music-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.music ......
+Success to get info from Play Store
+The lastest version of com.google.android.music-1.apk is    Varies with device  
+Done processing com.google.android.music-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/9 Starting processing com.google.android.play.games-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.play.games ......
+Success to get info from Play Store
+The lastest version of com.google.android.play.games-1.apk is    Varies with device  
+Done processing com.google.android.play.games-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/9 Starting processing com.tencent.feiji-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.feiji ......
+[ERROR] : Cannot find info of com.tencent.feiji-1.apk on https://play.google.com/store/apps/details?id=com.tencent.feiji !!!
+Done processing com.tencent.feiji-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/9 Starting processing org.deadbeef.android.freeplugins-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.deadbeef.android.freeplugins ......
+Success to get info from Play Store
+The lastest version of org.deadbeef.android.freeplugins-1.apk is  1.8  
+Done processing org.deadbeef.android.freeplugins-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-09-15-11-01.csv
+**************************************************************

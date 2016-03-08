@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.MSPMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.MSPMobile ......
+Success to get info from Play Store
+The lastest version of air.MSPMobile-1.apk is  1.7.1  
+Done processing air.MSPMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.jpn.gemstone.numer0n.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jpn.gemstone.numer0n.android ......
+Success to get info from Play Store
+The lastest version of com.jpn.gemstone.numer0n.android-1.apk is  3.0.0  
+Done processing com.jpn.gemstone.numer0n.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/6 Starting processing com.ndjh.nddaily-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ndjh.nddaily ......
+Success to get info from Play Store
+The lastest version of com.ndjh.nddaily-1.apk is  1.4.4  
+Done processing com.ndjh.nddaily-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/6 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is  3.1.2  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+5/6 Starting processing com.scopely.minigolf.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.scopely.minigolf.free ......
+Success to get info from Play Store
+The lastest version of com.scopely.minigolf.free-1.apk is  2.4.0  
+Done processing com.scopely.minigolf.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/6 Starting processing de.joergjahnke.mario.android.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=de.joergjahnke.mario.android.free ......
+Success to get info from Play Store
+The lastest version of de.joergjahnke.mario.android.free-1.apk is  2.20.3  
+Done processing de.joergjahnke.mario.android.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-20-15-25-04.csv
+**************************************************************

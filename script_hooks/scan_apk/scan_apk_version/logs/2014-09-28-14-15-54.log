@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing kb.Blek-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kb.Blek ......
+Success to get info from Play Store
+The lastest version of kb.Blek-1.apk is  1.0.2  
+Done processing kb.Blek-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-28-14-15-54.csv
+**************************************************************

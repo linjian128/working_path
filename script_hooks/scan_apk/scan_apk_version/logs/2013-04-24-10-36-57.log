@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.befunky.BeFunkyPhotoEditor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor ......
+Success to get info from Play Store
+The lastest version of air.com.befunky.BeFunkyPhotoEditor-1.apk is Varies with device
+Done processing air.com.befunky.BeFunkyPhotoEditor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing air.com.playtika.slotomania-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.playtika.slotomania ......
+Success to get info from Play Store
+The lastest version of air.com.playtika.slotomania-1.apk is Varies with device
+Done processing air.com.playtika.slotomania-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/9 Starting processing com.clearchannel.iheartradio.controller-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller ......
+Success to get info from Play Store
+The lastest version of com.clearchannel.iheartradio.controller-1.apk is Varies with device
+Done processing com.clearchannel.iheartradio.controller-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/9 Starting processing com.cootek.smartdialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cootek.smartdialer ......
+Success to get info from Play Store
+The lastest version of com.cootek.smartdialer-1.apk is 4.5.9
+Done processing com.cootek.smartdialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/9 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is 4.2.1
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/9 Starting processing com.kabam.fortress-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kabam.fortress ......
+Success to get info from Play Store
+The lastest version of com.kabam.fortress-1.apk is Varies with device
+Done processing com.kabam.fortress-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/9 Starting processing com.mapbar.android.mapbarmap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapbar.android.mapbarmap ......
+Success to get info from Play Store
+The lastest version of com.mapbar.android.mapbarmap-1.apk is 7.1.2.152729
+Done processing com.mapbar.android.mapbarmap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/9 Starting processing com.namcobandaigames.tamagotchilife-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.namcobandaigames.tamagotchilife ......
+Success to get info from Play Store
+The lastest version of com.namcobandaigames.tamagotchilife-1.apk is 1.02
+Done processing com.namcobandaigames.tamagotchilife-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+9/9 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+Success to get info from Play Store
+The lastest version of com.sds.android.ttpod-1.apk is 5.2.0416
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-04-24-10-36-57.csv
+**************************************************************

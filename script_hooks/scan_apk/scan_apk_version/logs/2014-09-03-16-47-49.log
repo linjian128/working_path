@@ -1,0 +1,96 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.bigduckgames.flow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bigduckgames.flow ......
+Success to get info from Play Store
+The lastest version of com.bigduckgames.flow-1.apk is  2.7  
+Done processing com.bigduckgames.flow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/11 Starting processing com.cootek.smartdialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cootek.smartdialer ......
+Success to get info from Play Store
+The lastest version of com.cootek.smartdialer-1.apk is  5.1.4.3  
+Done processing com.cootek.smartdialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/11 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.141  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/11 Starting processing com.funshion.video.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.funshion.video.mobile ......
+[ERROR] : Cannot find info of com.funshion.video.mobile-1.apk on https://play.google.com/store/apps/details?id=com.funshion.video.mobile !!!
+Done processing com.funshion.video.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/11 Starting processing com.good.android.gfe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.good.android.gfe ......
+Success to get info from Play Store
+The lastest version of com.good.android.gfe-1.apk is    Varies with device  
+Done processing com.good.android.gfe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/11 Starting processing com.ijinshan.duba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.duba ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.duba-1.apk is  3.3.1  
+Done processing com.ijinshan.duba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/11 Starting processing com.intsig.camscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intsig.camscanner ......
+Success to get info from Play Store
+The lastest version of com.intsig.camscanner-1.apk is  3.5.0.20140730  
+Done processing com.intsig.camscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/11 Starting processing com.jingdong.app.mall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jingdong.app.mall ......
+Success to get info from Play Store
+The lastest version of com.jingdong.app.mall-1.apk is  3.4.6  
+Done processing com.jingdong.app.mall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/11 Starting processing com.kunpo.baba91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kunpo.baba91 ......
+[ERROR] : Cannot find info of com.kunpo.baba91-1.apk on https://play.google.com/store/apps/details?id=com.kunpo.baba91 !!!
+Done processing com.kunpo.baba91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+10/11 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+11/11 Starting processing com.tocaboca.tocalab-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tocaboca.tocalab ......
+Success to get info from Play Store
+The lastest version of com.tocaboca.tocalab-1.apk is  1.0.3  
+Done processing com.tocaboca.tocalab-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-03-16-47-49.csv
+**************************************************************

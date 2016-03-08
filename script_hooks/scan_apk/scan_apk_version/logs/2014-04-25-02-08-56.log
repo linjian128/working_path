@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.elextech.happyfarm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.elextech.happyfarm ......
+Success to get info from Play Store
+The lastest version of air.com.elextech.happyfarm-1.apk is    Varies with device  
+Done processing air.com.elextech.happyfarm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing air.com.mobigrow.canyouescapetower-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.mobigrow.canyouescapetower ......
+Success to get info from Play Store
+The lastest version of air.com.mobigrow.canyouescapetower-1.apk is  1.0.10  
+Done processing air.com.mobigrow.canyouescapetower-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.creativemobile.nno-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.creativemobile.nno ......
+Success to get info from Play Store
+The lastest version of com.creativemobile.nno-1.apk is  3.1.4  
+Done processing com.creativemobile.nno-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/9 Starting processing com.genina.android.blackjack.view-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.genina.android.blackjack.view ......
+Success to get info from Play Store
+The lastest version of com.genina.android.blackjack.view-1.apk is    Varies with device  
+Done processing com.genina.android.blackjack.view-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.kabam.ff6android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kabam.ff6android ......
+Success to get info from Play Store
+The lastest version of com.kabam.ff6android-1.apk is  4.0.0  
+Done processing com.kabam.ff6android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/9 Starting processing com.slotsfairytale.slots.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.slotsfairytale.slots.android ......
+Success to get info from Play Store
+The lastest version of com.slotsfairytale.slots.android-1.apk is  1.107  
+Done processing com.slotsfairytale.slots.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/9 Starting processing com.tabtale.babycareanddressup-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tabtale.babycareanddressup ......
+Success to get info from Play Store
+The lastest version of com.tabtale.babycareanddressup-1.apk is  1.0.3  
+Done processing com.tabtale.babycareanddressup-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/9 Starting processing com.umonistudio.tile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.umonistudio.tile ......
+Success to get info from Play Store
+The lastest version of com.umonistudio.tile-1.apk is  2.2.2  
+Done processing com.umonistudio.tile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/9 Starting processing es.socialpoint.DragonCity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=es.socialpoint.DragonCity ......
+Success to get info from Play Store
+The lastest version of es.socialpoint.DragonCity-1.apk is  2.7  
+Done processing es.socialpoint.DragonCity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-25-02-08-56.csv
+**************************************************************

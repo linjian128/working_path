@@ -1,0 +1,17 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/1 Starting processing net.crimoon.pmdk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.crimoon.pmdk ......
+[ERROR] : Cannot find info of net.crimoon.pmdk-1.apk on https://play.google.com/store/apps/details?id=net.crimoon.pmdk !!!
+Done processing net.crimoon.pmdk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-25-14-19-31.csv
+**************************************************************

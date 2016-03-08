@@ -1,0 +1,70 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/8 Starting processing cn.cntv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.cntv ......
+Success to get info from Play Store
+The lastest version of cn.cntv-1.apk is  6.0.2.2  
+Done processing cn.cntv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/8 Starting processing com.cubic.autohome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cubic.autohome ......
+Success to get info from Play Store
+The lastest version of com.cubic.autohome-1.apk is  5.4.5  
+Done processing com.cubic.autohome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.halfbrick.fruitninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.fruitninja ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.fruitninja-1.apk is  2.3.4  
+Done processing com.halfbrick.fruitninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+4/8 Starting processing com.iooly.android.lockscreen-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iooly.android.lockscreen ......
+[ERROR] : Cannot find info of com.iooly.android.lockscreen-1.apk on https://play.google.com/store/apps/details?id=com.iooly.android.lockscreen !!!
+Done processing com.iooly.android.lockscreen-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+5/8 Starting processing com.jm.android.jumei-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jm.android.jumei ......
+[ERROR] : Cannot find info of com.jm.android.jumei-1.apk on https://play.google.com/store/apps/details?id=com.jm.android.jumei !!!
+Done processing com.jm.android.jumei-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/8 Starting processing com.qq.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qq.reader ......
+Success to get info from Play Store
+The lastest version of com.qq.reader-1.apk is  5.7.1.889  
+Done processing com.qq.reader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+7/8 Starting processing com.zhiqupk.root-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zhiqupk.root ......
+[ERROR] : Cannot find info of com.zhiqupk.root-1.apk on https://play.google.com/store/apps/details?id=com.zhiqupk.root !!!
+Done processing com.zhiqupk.root-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+8/8 Starting processing one.hh.oneclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=one.hh.oneclient ......
+[ERROR] : Cannot find info of one.hh.oneclient-1.apk on https://play.google.com/store/apps/details?id=one.hh.oneclient !!!
+Done processing one.hh.oneclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 30 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-26-09-57-11.csv
+**************************************************************

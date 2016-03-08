@@ -1,0 +1,47 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.bo.games.runningeveryday-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bo.games.runningeveryday ......
+[ERROR] : Cannot find info of com.bo.games.runningeveryday-1.apk on https://play.google.com/store/apps/details?id=com.bo.games.runningeveryday !!!
+Done processing com.bo.games.runningeveryday-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/5 Starting processing me.hypertext.local.jiong2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.hypertext.local.jiong2 ......
+Success to get info from Play Store
+The lastest version of me.hypertext.local.jiong2-1.apk is  5.3.5  
+Done processing me.hypertext.local.jiong2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/5 Starting processing org.cocos2d.fishingjoy3.qihu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.cocos2d.fishingjoy3.qihu ......
+[ERROR] : Cannot find info of org.cocos2d.fishingjoy3.qihu-1.apk on https://play.google.com/store/apps/details?id=org.cocos2d.fishingjoy3.qihu !!!
+Done processing org.cocos2d.fishingjoy3.qihu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/5 Starting processing org.cocos2dx.GoldenFishGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.cocos2dx.GoldenFishGame ......
+[ERROR] : Cannot find info of org.cocos2dx.GoldenFishGame-1.apk on https://play.google.com/store/apps/details?id=org.cocos2dx.GoldenFishGame !!!
+Done processing org.cocos2dx.GoldenFishGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/5 Starting processing yong.universalplayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=yong.universalplayer ......
+Success to get info from Play Store
+The lastest version of yong.universalplayer-1.apk is  3.0.4  
+Done processing yong.universalplayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-26-09-09-38.csv
+**************************************************************

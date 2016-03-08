@@ -1,0 +1,98 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/11 Starting processing com.akazam.android.wlandialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.akazam.android.wlandialer ......
+Success to get info from Play Store
+The lastest version of com.akazam.android.wlandialer-1.apk is 
+Done processing com.akazam.android.wlandialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/11 Starting processing com.hisunflytone.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hisunflytone.android ......
+Success to get info from Play Store
+The lastest version of com.hisunflytone.android-1.apk is 
+Done processing com.hisunflytone.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/11 Starting processing com.husor.mizhe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.husor.mizhe ......
+Success to get info from Play Store
+The lastest version of com.husor.mizhe-1.apk is 
+Done processing com.husor.mizhe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/11 Starting processing com.maoxian1014.chuangguan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.maoxian1014.chuangguan ......
+Success to get info from Play Store
+The lastest version of com.maoxian1014.chuangguan-1.apk is 
+Done processing com.maoxian1014.chuangguan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/11 Starting processing com.mencon.xiaochu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mencon.xiaochu ......
+Success to get info from Play Store
+The lastest version of com.mencon.xiaochu-1.apk is 
+Done processing com.mencon.xiaochu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+6/11 Starting processing com.nekki.china.shadowfight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nekki.china.shadowfight ......
+Success to get info from Play Store
+The lastest version of com.nekki.china.shadowfight-1.apk is 
+Done processing com.nekki.china.shadowfight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+7/11 Starting processing com.wallpaper.wcb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wallpaper.wcb ......
+Success to get info from Play Store
+The lastest version of com.wallpaper.wcb-1.apk is 
+Done processing com.wallpaper.wcb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+8/11 Starting processing com.wifi.share1128-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wifi.share1128 ......
+Success to get info from Play Store
+The lastest version of com.wifi.share1128-1.apk is 
+Done processing com.wifi.share1128-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+9/11 Starting processing com.zhiqupk.root-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zhiqupk.root ......
+Success to get info from Play Store
+The lastest version of com.zhiqupk.root-1.apk is 
+Done processing com.zhiqupk.root-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+10/11 Starting processing com.zhiqupk.ziti-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zhiqupk.ziti ......
+Success to get info from Play Store
+The lastest version of com.zhiqupk.ziti-1.apk is 
+Done processing com.zhiqupk.ziti-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+11/11 Starting processing qqblw.cn-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=qqblw.cn ......
+Success to get info from Play Store
+The lastest version of qqblw.cn-1.apk is 
+Done processing qqblw.cn-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-03-31-16-47-50.csv
+**************************************************************

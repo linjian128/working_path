@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.google.android.apps.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.plus ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.plus-1.apk is    Varies with device  
+Done processing com.google.android.apps.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.google.android.videos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.videos ......
+Success to get info from Play Store
+The lastest version of com.google.android.videos-1.apk is    Varies with device  
+Done processing com.google.android.videos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing com.outfit7.talkingtom2free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free ......
+Success to get info from Play Store
+The lastest version of com.outfit7.talkingtom2free-1.apk is    Varies with device  
+Done processing com.outfit7.talkingtom2free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/6 Starting processing com.socialquantum.acityint-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.socialquantum.acityint ......
+Success to get info from Play Store
+The lastest version of com.socialquantum.acityint-1.apk is  1.6  
+Done processing com.socialquantum.acityint-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/6 Starting processing net.flixster.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.flixster.android ......
+Success to get info from Play Store
+The lastest version of net.flixster.android-1.apk is    Varies with device  
+Done processing net.flixster.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+6/6 Starting processing tunein.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tunein.player ......
+Success to get info from Play Store
+The lastest version of tunein.player-1.apk is  9.1  
+Done processing tunein.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-10-11-17-40.csv
+**************************************************************

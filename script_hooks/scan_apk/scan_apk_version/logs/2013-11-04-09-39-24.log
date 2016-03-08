@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.P3D.Pixlgun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.P3D.Pixlgun ......
+Success to get info from Play Store
+The lastest version of com.P3D.Pixlgun-1.apk is    Varies with device  
+Done processing com.P3D.Pixlgun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.deckedbuilder.deckedbuilder-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.deckedbuilder.deckedbuilder ......
+Success to get info from Play Store
+The lastest version of com.deckedbuilder.deckedbuilder-1.apk is  2.2.3  
+Done processing com.deckedbuilder.deckedbuilder-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.fde.avpevolution-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fde.avpevolution ......
+Success to get info from Play Store
+The lastest version of com.fde.avpevolution-1.apk is    Varies with device  
+Done processing com.fde.avpevolution-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/4 Starting processing com.zenstudios.StarWarsPinball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zenstudios.StarWarsPinball ......
+Success to get info from Play Store
+The lastest version of com.zenstudios.StarWarsPinball-1.apk is  2.1  
+Done processing com.zenstudios.StarWarsPinball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-04-09-39-24.csv
+**************************************************************

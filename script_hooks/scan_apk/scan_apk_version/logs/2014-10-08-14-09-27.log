@@ -1,0 +1,23 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk/  ......
+
+============================================================================
+1/3 Starting processing com.dianxinos.dxhome-1.apk ......
+Error ouccus when processing com.dianxinos.dxhome-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/3 Starting processing com.wuba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wuba ......
+[ERROR] : Cannot find info of com.wuba-1.apk on https://play.google.com/store/apps/details?id=com.wuba !!!
+Done processing com.wuba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/3 Starting processing org.a360jiekou-1.apk ......
+Error ouccus when processing org.a360jiekou-1.apk : Cnnot get apk info by aapt !
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-10-08-14-09-27.csv
+**************************************************************

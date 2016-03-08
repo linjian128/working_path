@@ -1,0 +1,57 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.gamevil.darknessreborn2.android.google.global.normal-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamevil.darknessreborn2.android.google.global.normal ......
+Success to get info from Play Store
+The lastest version of com.gamevil.darknessreborn2.android.google.global.normal-1.apk is  1.1.9  
+Done processing com.gamevil.darknessreborn2.android.google.global.normal-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+2/6 Starting processing com.google.android.apps.docs.editors.docs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.docs.editors.docs-1.apk is 
+Done processing com.google.android.apps.docs.editors.docs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/6 Starting processing com.google.android.talk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.talk ......
+Success to get info from Play Store
+The lastest version of com.google.android.talk-1.apk is    Varies with device  
+Done processing com.google.android.talk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/6 Starting processing com.tencent.game.VXDGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame ......
+[ERROR] : Cannot find info of com.tencent.game.VXDGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame !!!
+Done processing com.tencent.game.VXDGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/6 Starting processing com.tencent.mtt-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mtt ......
+Success to get info from Play Store
+The lastest version of com.tencent.mtt-1.apk is  5.8.0.1460  
+Done processing com.tencent.mtt-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/6 Starting processing kr.co.tictocplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.co.tictocplus ......
+Success to get info from Play Store
+The lastest version of kr.co.tictocplus-1.apk is  4.0.8  
+Done processing kr.co.tictocplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-04-30-16-53-55.csv
+**************************************************************

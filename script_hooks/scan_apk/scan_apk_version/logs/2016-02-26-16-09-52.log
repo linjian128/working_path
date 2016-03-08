@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.bigfishgames.dmccgoogfull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bigfishgames.dmccgoogfull ......
+Success to get info from Play Store
+The lastest version of com.bigfishgames.dmccgoogfull-1.apk is  1.0  
+Done processing com.bigfishgames.dmccgoogfull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/6 Starting processing com.fotoable.fotobeauty-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fotoable.fotobeauty ......
+Success to get info from Play Store
+The lastest version of com.fotoable.fotobeauty-1.apk is  3.9.2  
+Done processing com.fotoable.fotobeauty-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+3/6 Starting processing com.gamelounge.chroomakeyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamelounge.chroomakeyboard ......
+Success to get info from Play Store
+The lastest version of com.gamelounge.chroomakeyboard-1.apk is  1.5.4  
+Done processing com.gamelounge.chroomakeyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+4/6 Starting processing com.gamevil.cartoonwars3.android.google.global.normal-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamevil.cartoonwars3.android.google.global.normal ......
+Success to get info from Play Store
+The lastest version of com.gamevil.cartoonwars3.android.google.global.normal-1.apk is  1.0.7  
+Done processing com.gamevil.cartoonwars3.android.google.global.normal-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+5/6 Starting processing com.skype.raider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skype.raider ......
+Success to get info from Play Store
+The lastest version of com.skype.raider-1.apk is    Varies with device  
+Done processing com.skype.raider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 42 Seconds
+
+============================================================================
+6/6 Starting processing com.wb.goog.scribblenauts3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.scribblenauts3 ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.scribblenauts3-1.apk is  1.09  
+Done processing com.wb.goog.scribblenauts3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 54 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 54 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-26-16-09-52.csv
+**************************************************************

@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.kvadgroup.photostudio_pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kvadgroup.photostudio_pro ......
+Success to get info from Play Store
+The lastest version of com.kvadgroup.photostudio_pro-1.apk is  1.2.1  
+Done processing com.kvadgroup.photostudio_pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing net.zhuoweizhang.mcpelauncher.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher.pro ......
+Success to get info from Play Store
+The lastest version of net.zhuoweizhang.mcpelauncher.pro-1.apk is  1.6.10  
+Done processing net.zhuoweizhang.mcpelauncher.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-29-13-38-10.csv
+**************************************************************

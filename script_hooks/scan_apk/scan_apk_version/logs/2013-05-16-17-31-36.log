@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.facebook.orca-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.orca ......
+Success to get info from Play Store
+The lastest version of com.facebook.orca-1.apk is 2.5.1-release
+Done processing com.facebook.orca-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is 1.2
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-05-16-17-31-36.csv
+**************************************************************

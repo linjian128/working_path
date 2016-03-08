@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.com2us.homerunbattle2.normal.freefull.google.global.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.homerunbattle2.normal.freefull.google.global.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.homerunbattle2.normal.freefull.google.global.android.common-1.apk is  1.2.2.0  
+Done processing com.com2us.homerunbattle2.normal.freefull.google.global.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.freshgames.escapethetitanic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.freshgames.escapethetitanic ......
+Success to get info from Play Store
+The lastest version of com.freshgames.escapethetitanic-1.apk is  1.0.19  
+Done processing com.freshgames.escapethetitanic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.google.android.inputmethod.pinyin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.inputmethod.pinyin ......
+Success to get info from Play Store
+The lastest version of com.google.android.inputmethod.pinyin-1.apk is    Varies with device  
+Done processing com.google.android.inputmethod.pinyin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/4 Starting processing com.intsig.camscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intsig.camscanner ......
+Success to get info from Play Store
+The lastest version of com.intsig.camscanner-1.apk is  3.2.0.20140311  
+Done processing com.intsig.camscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-28-16-07-06.csv
+**************************************************************

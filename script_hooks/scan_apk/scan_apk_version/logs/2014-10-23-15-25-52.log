@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing Adrenaline.Crew-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=Adrenaline.Crew ......
+Success to get info from Play Store
+The lastest version of Adrenaline.Crew-1.apk is  1.11  
+Done processing Adrenaline.Crew-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-10-23-15-25-52.csv
+**************************************************************

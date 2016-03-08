@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.com2us.acefishing.normal.freefull.google.global.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.acefishing.normal.freefull.google.global.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.acefishing.normal.freefull.google.global.android.common-1.apk is  1.0.9  
+Done processing com.com2us.acefishing.normal.freefull.google.global.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.degoo.android.xdoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.xdoctor ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.xdoctor-1.apk is  1.0.5  
+Done processing com.degoo.android.xdoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.2.9  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/9 Starting processing com.feelingtouch.dipan.slggameglobal-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.feelingtouch.dipan.slggameglobal ......
+Success to get info from Play Store
+The lastest version of com.feelingtouch.dipan.slggameglobal-1.apk is  1.04  
+Done processing com.feelingtouch.dipan.slggameglobal-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is  5.43  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/9 Starting processing com.ovilex.bussimulator3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ovilex.bussimulator3d ......
+Success to get info from Play Store
+The lastest version of com.ovilex.bussimulator3d-1.apk is  1.8.4  
+Done processing com.ovilex.bussimulator3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/9 Starting processing com.rdio.android.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rdio.android.ui ......
+Success to get info from Play Store
+The lastest version of com.rdio.android.ui-1.apk is    Varies with device  
+Done processing com.rdio.android.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/9 Starting processing com.roguerocketgames.m3s-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roguerocketgames.m3s ......
+Success to get info from Play Store
+The lastest version of com.roguerocketgames.m3s-1.apk is  0.9.1  
+Done processing com.roguerocketgames.m3s-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/9 Starting processing me.pou.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.pou.app ......
+Success to get info from Play Store
+The lastest version of me.pou.app-1.apk is  1.4.37  
+Done processing me.pou.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-01-02-43-17.csv
+**************************************************************

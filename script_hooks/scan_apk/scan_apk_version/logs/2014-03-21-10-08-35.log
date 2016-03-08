@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.creativemobile.roadsmash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.creativemobile.roadsmash ......
+Success to get info from Play Store
+The lastest version of com.creativemobile.roadsmash-1.apk is    Varies with device  
+Done processing com.creativemobile.roadsmash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/7 Starting processing com.gameloft.android.ANMP.GloftDMHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftDMHM-1.apk is  1.7.2  
+Done processing com.gameloft.android.ANMP.GloftDMHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/7 Starting processing com.roidapp.photogrid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roidapp.photogrid ......
+Success to get info from Play Store
+The lastest version of com.roidapp.photogrid-1.apk is  4.703  
+Done processing com.roidapp.photogrid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/7 Starting processing com.rovio.angrybirds-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.angrybirds ......
+Success to get info from Play Store
+The lastest version of com.rovio.angrybirds-1.apk is  4.1.0  
+Done processing com.rovio.angrybirds-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/7 Starting processing com.withbuddies.dice.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.withbuddies.dice.free ......
+Success to get info from Play Store
+The lastest version of com.withbuddies.dice.free-1.apk is    Varies with device  
+Done processing com.withbuddies.dice.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/7 Starting processing kik.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kik.android ......
+Success to get info from Play Store
+The lastest version of kik.android-1.apk is  7.0.1.76  
+Done processing kik.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+7/7 Starting processing net.zedge.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.zedge.android ......
+Success to get info from Play Store
+The lastest version of net.zedge.android-1.apk is  4.1.1  
+Done processing net.zedge.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 23 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-21-10-08-35.csv
+**************************************************************

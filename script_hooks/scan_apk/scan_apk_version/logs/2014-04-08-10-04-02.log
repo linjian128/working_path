@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.android.chrome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.chrome ......
+Success to get info from Play Store
+The lastest version of com.android.chrome-1.apk is    Varies with device  
+Done processing com.android.chrome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/4 Starting processing com.disney.wheresmymickey_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.wheresmymickey_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.wheresmymickey_goo-1.apk is  1.1.1  
+Done processing com.disney.wheresmymickey_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/4 Starting processing com.facebook.orca-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.orca ......
+Success to get info from Play Store
+The lastest version of com.facebook.orca-1.apk is    Varies with device  
+Done processing com.facebook.orca-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/4 Starting processing com.fastemulator.gba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fastemulator.gba ......
+Success to get info from Play Store
+The lastest version of com.fastemulator.gba-1.apk is  1.5.24  
+Done processing com.fastemulator.gba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-08-10-04-02.csv
+**************************************************************

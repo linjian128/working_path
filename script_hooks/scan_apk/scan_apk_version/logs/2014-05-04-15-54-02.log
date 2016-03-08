@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.kfactormedia.mycalendarmobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kfactormedia.mycalendarmobile ......
+Success to get info from Play Store
+The lastest version of com.kfactormedia.mycalendarmobile-1.apk is  3.01  
+Done processing com.kfactormedia.mycalendarmobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-04-15-54-02.csv
+**************************************************************

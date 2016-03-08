@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/8 Starting processing cn.jingling.motu.photowonder-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.jingling.motu.photowonder ......
+Success to get info from Play Store
+The lastest version of cn.jingling.motu.photowonder-1.apk is 
+Done processing cn.jingling.motu.photowonder-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/8 Starting processing com.android.chrome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.chrome ......
+Success to get info from Play Store
+The lastest version of com.android.chrome-1.apk is 
+Done processing com.android.chrome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+3/8 Starting processing com.sogou.map.android.maps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sogou.map.android.maps ......
+Success to get info from Play Store
+The lastest version of com.sogou.map.android.maps-1.apk is 
+Done processing com.sogou.map.android.maps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/8 Starting processing com.tencent.peng-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.peng ......
+Success to get info from Play Store
+The lastest version of com.tencent.peng-1.apk is 
+Done processing com.tencent.peng-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/8 Starting processing com.ting.mp3.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ting.mp3.android ......
+Success to get info from Play Store
+The lastest version of com.ting.mp3.android-1.apk is 
+Done processing com.ting.mp3.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+6/8 Starting processing com.tongcheng.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tongcheng.android ......
+Success to get info from Play Store
+The lastest version of com.tongcheng.android-1.apk is 
+Done processing com.tongcheng.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+7/8 Starting processing com.ucamera.ucam-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ucamera.ucam ......
+Success to get info from Play Store
+The lastest version of com.ucamera.ucam-1.apk is 
+Done processing com.ucamera.ucam-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+8/8 Starting processing com.vlambeer.RidiculousFishing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vlambeer.RidiculousFishing ......
+Success to get info from Play Store
+The lastest version of com.vlambeer.RidiculousFishing-1.apk is 
+Done processing com.vlambeer.RidiculousFishing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-04-14-14-05-09.csv
+**************************************************************

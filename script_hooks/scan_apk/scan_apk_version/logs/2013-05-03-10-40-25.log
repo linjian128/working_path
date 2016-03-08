@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.bubblezapgames.supergnes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bubblezapgames.supergnes ......
+Success to get info from Play Store
+The lastest version of com.bubblezapgames.supergnes-1.apk is 1.3.10
+Done processing com.bubblezapgames.supergnes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.gameloft.android.ANMP.GloftIMHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftIMHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftIMHM-1.apk is 1.0.1
+Done processing com.gameloft.android.ANMP.GloftIMHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.instagram.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.instagram.android ......
+Success to get info from Play Store
+The lastest version of com.instagram.android-1.apk is 3.5.1
+Done processing com.instagram.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/9 Starting processing com.kiloo.subwaysurf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf ......
+Success to get info from Play Store
+The lastest version of com.kiloo.subwaysurf-1.apk is 1.10.0
+Done processing com.kiloo.subwaysurf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is Varies with device
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/9 Starting processing com.path-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.path ......
+Success to get info from Play Store
+The lastest version of com.path-1.apk is Varies with device
+Done processing com.path-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/9 Starting processing com.picsart.studio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picsart.studio ......
+Success to get info from Play Store
+The lastest version of com.picsart.studio-1.apk is Varies with device
+Done processing com.picsart.studio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/9 Starting processing com.sidheinteractive.sif.DR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sidheinteractive.sif.DR ......
+Success to get info from Play Store
+The lastest version of com.sidheinteractive.sif.DR-1.apk is 1.3.4
+Done processing com.sidheinteractive.sif.DR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/9 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is Varies with device
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-05-03-10-40-25.csv
+**************************************************************

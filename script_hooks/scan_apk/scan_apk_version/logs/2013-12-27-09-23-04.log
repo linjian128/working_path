@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.cyworld.camera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cyworld.camera ......
+Success to get info from Play Store
+The lastest version of com.cyworld.camera-1.apk is  1.4.4  
+Done processing com.cyworld.camera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.ea.game.simpsons4_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_row-1.apk is  4.6.0  
+Done processing com.ea.game.simpsons4_row-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.gotv.nflgamecenter.us.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gotv.nflgamecenter.us.lite ......
+Success to get info from Play Store
+The lastest version of com.gotv.nflgamecenter.us.lite-1.apk is  8.2.8  
+Done processing com.gotv.nflgamecenter.us.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/4 Starting processing com.igg.clash_of_lords-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.clash_of_lords ......
+Success to get info from Play Store
+The lastest version of com.igg.clash_of_lords-1.apk is  1.0.281  
+Done processing com.igg.clash_of_lords-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-27-09-23-04.csv
+**************************************************************

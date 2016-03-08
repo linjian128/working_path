@@ -1,0 +1,56 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing cn.eclicks.wzsearch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.eclicks.wzsearch ......
+Success to get info from Play Store
+The lastest version of cn.eclicks.wzsearch-1.apk is  4.3.5  
+Done processing cn.eclicks.wzsearch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.gameloft.android.ANMP.GloftDMCN-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMCN ......
+[ERROR] : Cannot find info of com.gameloft.android.ANMP.GloftDMCN-1.apk on https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMCN !!!
+Done processing com.gameloft.android.ANMP.GloftDMCN-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/6 Starting processing com.meitu.meipaimv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meitu.meipaimv ......
+Success to get info from Play Store
+The lastest version of com.meitu.meipaimv-1.apk is  1.9.5  
+Done processing com.meitu.meipaimv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/6 Starting processing com.suning.mobile.ebuy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy ......
+Success to get info from Play Store
+The lastest version of com.suning.mobile.ebuy-1.apk is  2.4.0  
+Done processing com.suning.mobile.ebuy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/6 Starting processing com.tp.android.newborn-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tp.android.newborn ......
+Success to get info from Play Store
+The lastest version of com.tp.android.newborn-1.apk is  1.0.3  
+Done processing com.tp.android.newborn-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+6/6 Starting processing fm.xiami.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fm.xiami.main ......
+[ERROR] : Cannot find info of fm.xiami.main-1.apk on https://play.google.com/store/apps/details?id=fm.xiami.main !!!
+Done processing fm.xiami.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-16-16-07-54.csv
+**************************************************************

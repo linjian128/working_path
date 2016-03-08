@@ -1,0 +1,81 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/9 Starting processing cn.kuwo.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.kuwo.player ......
+Success to get info from Play Store
+The lastest version of cn.kuwo.player-1.apk is  6.8.1.0  
+Done processing cn.kuwo.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/9 Starting processing com.baidu.BaiduMap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.BaiduMap ......
+Success to get info from Play Store
+The lastest version of com.baidu.BaiduMap-1.apk is  8.2.0  
+Done processing com.baidu.BaiduMap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/9 Starting processing com.duowan.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duowan.mobile ......
+Success to get info from Play Store
+The lastest version of com.duowan.mobile-1.apk is  3.9.4  
+Done processing com.duowan.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/9 Starting processing com.google.android.apps.docs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.docs ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.docs-1.apk is    Varies with device  
+Done processing com.google.android.apps.docs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+5/9 Starting processing com.jingdong.app.mall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jingdong.app.mall ......
+Success to get info from Play Store
+The lastest version of com.jingdong.app.mall-1.apk is  3.4.6  
+Done processing com.jingdong.app.mall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+6/9 Starting processing com.mogujie-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mogujie ......
+Success to get info from Play Store
+The lastest version of com.mogujie-1.apk is  7.1.0.150512012  
+Done processing com.mogujie-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+7/9 Starting processing com.snda.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.wifilocating ......
+[ERROR] : Cannot find info of com.snda.wifilocating-1.apk on https://play.google.com/store/apps/details?id=com.snda.wifilocating !!!
+Done processing com.snda.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/9 Starting processing com.tencent.WBlog-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.WBlog ......
+Success to get info from Play Store
+The lastest version of com.tencent.WBlog-1.apk is  6.0.2  
+Done processing com.tencent.WBlog-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+9/9 Starting processing com.tencent.qqmusic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqmusic ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqmusic-1.apk is  5.2.0.19  
+Done processing com.tencent.qqmusic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-21-11-41-45.csv
+**************************************************************

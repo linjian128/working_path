@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.gameloft.android.ANMP.GloftA7HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA7HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftA7HM-1.apk is  1.0.6  
+Done processing com.gameloft.android.ANMP.GloftA7HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-23-15-25-29.csv
+**************************************************************

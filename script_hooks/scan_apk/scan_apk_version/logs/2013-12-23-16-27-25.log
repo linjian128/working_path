@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.mobigrow.canyouescape-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.mobigrow.canyouescape ......
+Success to get info from Play Store
+The lastest version of air.com.mobigrow.canyouescape-1.apk is  1.1.9  
+Done processing air.com.mobigrow.canyouescape-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/5 Starting processing com.igg.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash-1.apk is    Varies with device  
+Done processing com.igg.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/5 Starting processing com.sparklingsociety.cityisland-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland ......
+Success to get info from Play Store
+The lastest version of com.sparklingsociety.cityisland-1.apk is  2.14.4  
+Done processing com.sparklingsociety.cityisland-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/5 Starting processing com.square_enix.chaosringsomega.googleplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.chaosringsomega.googleplay ......
+Success to get info from Play Store
+The lastest version of com.square_enix.chaosringsomega.googleplay-1.apk is  1.1.6  
+Done processing com.square_enix.chaosringsomega.googleplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/5 Starting processing net.defensezone.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.defensezone.lite ......
+Success to get info from Play Store
+The lastest version of net.defensezone.lite-1.apk is  1.6.5  
+Done processing net.defensezone.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-23-16-27-25.csv
+**************************************************************

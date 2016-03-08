@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.smon.normal.freefull.google.kr.android.common-1.apk is  1.7.7  
+Done processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/8 Starting processing com.ea.game.pvz2_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.pvz2_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.pvz2_na-1.apk is  4.0.1  
+Done processing com.ea.game.pvz2_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/8 Starting processing com.google.android.videos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.videos ......
+Success to get info from Play Store
+The lastest version of com.google.android.videos-1.apk is    Varies with device  
+Done processing com.google.android.videos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/8 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/8 Starting processing com.playfirst.cookingdashx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.cookingdashx ......
+Success to get info from Play Store
+The lastest version of com.playfirst.cookingdashx-1.apk is  1.5.8  
+Done processing com.playfirst.cookingdashx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/8 Starting processing com.tp.android.surgerysim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tp.android.surgerysim ......
+Success to get info from Play Store
+The lastest version of com.tp.android.surgerysim-1.apk is  2.0.2  
+Done processing com.tp.android.surgerysim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+8/8 Starting processing com.zentertain.bigcasino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zentertain.bigcasino ......
+Success to get info from Play Store
+The lastest version of com.zentertain.bigcasino-1.apk is  1.4.1  
+Done processing com.zentertain.bigcasino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-10-19-23-19-42.csv
+**************************************************************

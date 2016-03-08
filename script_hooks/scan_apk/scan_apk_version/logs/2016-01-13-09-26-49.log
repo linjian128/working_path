@@ -1,0 +1,64 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/7 Starting processing cn.com.fetion-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.com.fetion ......
+Success to get info from Play Store
+The lastest version of cn.com.fetion-1.apk is  5.3.2  
+Done processing cn.com.fetion-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.duowan.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duowan.mobile ......
+[ERROR] : Cannot find info of com.duowan.mobile-1.apk on https://play.google.com/store/apps/details?id=com.duowan.mobile !!!
+Done processing com.duowan.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.eg.android.AlipayGphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone ......
+Success to get info from Play Store
+The lastest version of com.eg.android.AlipayGphone-1.apk is  9.3.0.111811  
+Done processing com.eg.android.AlipayGphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/7 Starting processing com.meilishuo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meilishuo ......
+[ERROR] : Cannot find info of com.meilishuo-1.apk on https://play.google.com/store/apps/details?id=com.meilishuo !!!
+Done processing com.meilishuo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/7 Starting processing com.taobao.taobao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.taobao.taobao ......
+Success to get info from Play Store
+The lastest version of com.taobao.taobao-1.apk is  5.4.7  
+Done processing com.taobao.taobao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/7 Starting processing com.tencent.qqlite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlite ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlite-1.apk is  3.4.1  
+Done processing com.tencent.qqlite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/7 Starting processing im.yixin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=im.yixin ......
+Success to get info from Play Store
+The lastest version of im.yixin-1.apk is  4.0.0  
+Done processing im.yixin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-13-09-26-49.csv
+**************************************************************

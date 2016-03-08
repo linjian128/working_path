@@ -1,0 +1,49 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.freshplanet.games.WaM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.WaM ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.WaM-1.apk is  1.26.16  
+Done processing air.com.freshplanet.games.WaM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/5 Starting processing air.com.slotgalaxy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.slotgalaxy ......
+Success to get info from Play Store
+The lastest version of air.com.slotgalaxy-1.apk is 
+Done processing air.com.slotgalaxy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/5 Starting processing air.com.snagfilms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.snagfilms ......
+Success to get info from Play Store
+The lastest version of air.com.snagfilms-1.apk is    Varies with device  
+Done processing air.com.snagfilms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/5 Starting processing com.boyaa.lordland.sina-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.boyaa.lordland.sina ......
+[ERROR] : Cannot find info of com.boyaa.lordland.sina-1.apk on https://play.google.com/store/apps/details?id=com.boyaa.lordland.sina !!!
+Done processing com.boyaa.lordland.sina-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/5 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-09-28-23-19-15.csv
+**************************************************************

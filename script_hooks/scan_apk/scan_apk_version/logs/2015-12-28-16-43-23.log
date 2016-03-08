@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.sgn.juicejam.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.juicejam.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.juicejam.gp-1.apk is  1.13.13  
+Done processing air.com.sgn.juicejam.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.cardinalblue.piccollage.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cardinalblue.piccollage.google ......
+Success to get info from Play Store
+The lastest version of com.cardinalblue.piccollage.google-1.apk is    Varies with device  
+Done processing com.cardinalblue.piccollage.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/6 Starting processing com.emoji.ikeyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emoji.ikeyboard ......
+Success to get info from Play Store
+The lastest version of com.emoji.ikeyboard-1.apk is    Varies with device  
+Done processing com.emoji.ikeyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/6 Starting processing com.i6.policecardrivingsim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.i6.policecardrivingsim ......
+Success to get info from Play Store
+The lastest version of com.i6.policecardrivingsim-1.apk is  1.18  
+Done processing com.i6.policecardrivingsim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+5/6 Starting processing com.square_enix.android_googleplay.FFVI-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFVI-1.apk is  2.1.6  
+Done processing com.square_enix.android_googleplay.FFVI-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+6/6 Starting processing nl.palatamedia.miner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=nl.palatamedia.miner ......
+Success to get info from Play Store
+The lastest version of nl.palatamedia.miner-1.apk is  1.6.3  
+Done processing nl.palatamedia.miner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 31 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-12-28-16-43-23.csv
+**************************************************************

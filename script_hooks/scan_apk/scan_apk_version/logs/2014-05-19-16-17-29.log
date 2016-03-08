@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.dataviz.docstogoapp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dataviz.docstogoapp ......
+Success to get info from Play Store
+The lastest version of com.dataviz.docstogoapp-1.apk is    Varies with device  
+Done processing com.dataviz.docstogoapp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.google.android.apps.magazines-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.magazines ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.magazines-1.apk is  3.2.1  
+Done processing com.google.android.apps.magazines-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/4 Starting processing com.gtp.nextlauncher-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gtp.nextlauncher ......
+Success to get info from Play Store
+The lastest version of com.gtp.nextlauncher-1.apk is  3.11  
+Done processing com.gtp.nextlauncher-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/4 Starting processing vo.threes.exclaim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=vo.threes.exclaim ......
+Success to get info from Play Store
+The lastest version of vo.threes.exclaim-1.apk is  1.0.4  
+Done processing vo.threes.exclaim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-19-16-17-29.csv
+**************************************************************

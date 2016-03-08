@@ -1,0 +1,17 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Other  ......
+
+============================================================================
+1/1 Starting processing com.yt.sz.szbank-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yt.sz.szbank ......
+[ERROR] : Cannot find info of com.yt.sz.szbank-1.apk on https://play.google.com/store/apps/details?id=com.yt.sz.szbank !!!
+Done processing com.yt.sz.szbank-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-02-10-56-13.csv
+**************************************************************

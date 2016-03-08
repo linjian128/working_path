@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.playtika.slotomania-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.playtika.slotomania ......
+Success to get info from Play Store
+The lastest version of air.com.playtika.slotomania-1.apk is    Varies with device  
+Done processing air.com.playtika.slotomania-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/9 Starting processing com.emoji.ikeyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emoji.ikeyboard ......
+Success to get info from Play Store
+The lastest version of com.emoji.ikeyboard-1.apk is  3.6.2  
+Done processing com.emoji.ikeyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/9 Starting processing com.hotheadgames.google.free.rawsniper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.rawsniper ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.rawsniper-1.apk is  1.9  
+Done processing com.hotheadgames.google.free.rawsniper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/9 Starting processing com.nianticproject.ingress-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nianticproject.ingress ......
+Success to get info from Play Store
+The lastest version of com.nianticproject.ingress-1.apk is  1.77.1  
+Done processing com.nianticproject.ingress-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+6/9 Starting processing com.skype.raider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skype.raider ......
+Success to get info from Play Store
+The lastest version of com.skype.raider-1.apk is    Varies with device  
+Done processing com.skype.raider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+7/9 Starting processing com.tap4fun.galaxyempire2_android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tap4fun.galaxyempire2_android ......
+Success to get info from Play Store
+The lastest version of com.tap4fun.galaxyempire2_android-1.apk is  1.5.1  
+Done processing com.tap4fun.galaxyempire2_android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+8/9 Starting processing com.tinyco.familyguy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.familyguy ......
+Success to get info from Play Store
+The lastest version of com.tinyco.familyguy-1.apk is 
+Done processing com.tinyco.familyguy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+9/9 Starting processing com.vitotechnology.StarWalk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk ......
+Success to get info from Play Store
+The lastest version of com.vitotechnology.StarWalk-1.apk is  1.0.9.2  
+Done processing com.vitotechnology.StarWalk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 37 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-04-10-47-20.csv
+**************************************************************

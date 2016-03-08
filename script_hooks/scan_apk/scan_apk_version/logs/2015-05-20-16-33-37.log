@@ -1,0 +1,19 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing cn.eclicks.wzsearch-1.apk ......
+Error ouccus when processing cn.eclicks.wzsearch-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/3 Starting processing com.suning.mobile.ebuy-1.apk ......
+Error ouccus when processing com.suning.mobile.ebuy-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/3 Starting processing com.xunlei.kankan-1.apk ......
+Error ouccus when processing com.xunlei.kankan-1.apk : Cnnot get apk info by aapt !
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:    Days  Hours  Minutes  Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-20-16-33-37.csv
+**************************************************************

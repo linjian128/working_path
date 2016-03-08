@@ -1,0 +1,49 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.android.vending-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.vending ......
+[ERROR] : Cannot find info of com.android.vending-1.apk on https://play.google.com/store/apps/details?id=com.android.vending !!!
+Done processing com.android.vending-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is  4.9.2  
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/5 Starting processing com.omgpop.dstpaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstpaid ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstpaid-1.apk is  2.333.222  
+Done processing com.omgpop.dstpaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/5 Starting processing com.playtika.wsop.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playtika.wsop.gp ......
+Success to get info from Play Store
+The lastest version of com.playtika.wsop.gp-1.apk is  2.4.0  
+Done processing com.playtika.wsop.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/5 Starting processing com.roguerocketgames.m3s-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roguerocketgames.m3s ......
+Success to get info from Play Store
+The lastest version of com.roguerocketgames.m3s-1.apk is  1.2.2  
+Done processing com.roguerocketgames.m3s-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-05-10-22-21.csv
+**************************************************************

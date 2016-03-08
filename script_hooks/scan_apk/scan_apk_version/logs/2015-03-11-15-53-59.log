@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Other  ......
+
+============================================================================
+1/5 Starting processing com.guidedways.iQuranPro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.guidedways.iQuranPro ......
+Success to get info from Play Store
+The lastest version of com.guidedways.iQuranPro-1.apk is 
+Done processing com.guidedways.iQuranPro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/5 Starting processing com.mapquest.android.ace-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapquest.android.ace ......
+Success to get info from Play Store
+The lastest version of com.mapquest.android.ace-1.apk is 
+Done processing com.mapquest.android.ace-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/5 Starting processing com.voice.changer.monte.sounds-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.voice.changer.monte.sounds ......
+Success to get info from Play Store
+The lastest version of com.voice.changer.monte.sounds-1.apk is 
+Done processing com.voice.changer.monte.sounds-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/5 Starting processing io.wifimap.wifimap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=io.wifimap.wifimap ......
+Success to get info from Play Store
+The lastest version of io.wifimap.wifimap-1.apk is 
+Done processing io.wifimap.wifimap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/5 Starting processing it.nicola.calcioveneto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=it.nicola.calcioveneto ......
+Success to get info from Play Store
+The lastest version of it.nicola.calcioveneto-1.apk is 
+Done processing it.nicola.calcioveneto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-03-11-15-53-59.csv
+**************************************************************

@@ -1,0 +1,60 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.madhead.tos.zh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madhead.tos.zh ......
+Success to get info from Play Store
+The lastest version of com.madhead.tos.zh-1.apk is  7.03  
+Done processing com.madhead.tos.zh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/7 Starting processing com.qqgame.happymj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.happymj ......
+[ERROR] : Cannot find info of com.qqgame.happymj-1.apk on https://play.google.com/store/apps/details?id=com.qqgame.happymj !!!
+Done processing com.qqgame.happymj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.tencent.Mtown-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.Mtown ......
+[ERROR] : Cannot find info of com.tencent.Mtown-1.apk on https://play.google.com/store/apps/details?id=com.tencent.Mtown !!!
+Done processing com.tencent.Mtown-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/7 Starting processing com.tencent.clover-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.clover ......
+[ERROR] : Cannot find info of com.tencent.clover-1.apk on https://play.google.com/store/apps/details?id=com.tencent.clover !!!
+Done processing com.tencent.clover-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/7 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/7 Starting processing com.tencent.hero-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.hero ......
+[ERROR] : Cannot find info of com.tencent.hero-1.apk on https://play.google.com/store/apps/details?id=com.tencent.hero !!!
+Done processing com.tencent.hero-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/7 Starting processing com.tencent.peng-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.peng ......
+[ERROR] : Cannot find info of com.tencent.peng-1.apk on https://play.google.com/store/apps/details?id=com.tencent.peng !!!
+Done processing com.tencent.peng-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-22-10-34-23.csv
+**************************************************************

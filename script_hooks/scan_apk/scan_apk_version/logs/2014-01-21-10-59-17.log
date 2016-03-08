@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing cn.kuwo.player.hd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.kuwo.player.hd ......
+Success to get info from Play Store
+The lastest version of cn.kuwo.player.hd-1.apk is  0.6.1.4  
+Done processing cn.kuwo.player.hd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/7 Starting processing com.enerco.drawpad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.enerco.drawpad ......
+Success to get info from Play Store
+The lastest version of com.enerco.drawpad-1.apk is  4.1  
+Done processing com.enerco.drawpad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/7 Starting processing com.hg.dynamitefishingfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hg.dynamitefishingfree ......
+Success to get info from Play Store
+The lastest version of com.hg.dynamitefishingfree-1.apk is    Varies with device  
+Done processing com.hg.dynamitefishingfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/7 Starting processing com.iflytek.inputmethod.pad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iflytek.inputmethod.pad ......
+Success to get info from Play Store
+The lastest version of com.iflytek.inputmethod.pad-1.apk is  4.0.1447  
+Done processing com.iflytek.inputmethod.pad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/7 Starting processing com.pstudio.pexwall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pstudio.pexwall ......
+Success to get info from Play Store
+The lastest version of com.pstudio.pexwall-1.apk is  1.08  
+Done processing com.pstudio.pexwall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/7 Starting processing net.hexage.radiant.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.hexage.radiant.lite ......
+Success to get info from Play Store
+The lastest version of net.hexage.radiant.lite-1.apk is  3.16.2  
+Done processing net.hexage.radiant.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/7 Starting processing uk.co.aifactory.sudokufree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=uk.co.aifactory.sudokufree ......
+Success to get info from Play Store
+The lastest version of uk.co.aifactory.sudokufree-1.apk is  1.42  
+Done processing uk.co.aifactory.sudokufree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-21-10-59-17.csv
+**************************************************************

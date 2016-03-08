@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.bubblezapgames.supergnes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bubblezapgames.supergnes ......
+Success to get info from Play Store
+The lastest version of com.bubblezapgames.supergnes-1.apk is    Varies with device  
+Done processing com.bubblezapgames.supergnes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/5 Starting processing com.duowan.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duowan.mobile ......
+Success to get info from Play Store
+The lastest version of com.duowan.mobile-1.apk is  2.11.0  
+Done processing com.duowan.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/5 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.133  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/5 Starting processing com.estrongs.android.pop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estrongs.android.pop ......
+Success to get info from Play Store
+The lastest version of com.estrongs.android.pop-1.apk is    Varies with device  
+Done processing com.estrongs.android.pop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/5 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is    Varies with device  
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-06-13-28-19.csv
+**************************************************************

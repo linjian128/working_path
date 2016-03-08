@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.iugome.lilknights-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iugome.lilknights ......
+Success to get info from Play Store
+The lastest version of com.iugome.lilknights-1.apk is    Varies with device  
+Done processing com.iugome.lilknights-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is    Varies with device  
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/4 Starting processing com.lookout-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lookout ......
+Success to get info from Play Store
+The lastest version of com.lookout-1.apk is    Varies with device  
+Done processing com.lookout-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-22-21-08-47.csv
+**************************************************************

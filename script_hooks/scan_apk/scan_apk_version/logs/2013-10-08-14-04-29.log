@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.sarahnorthway.rebuild2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sarahnorthway.rebuild2 ......
+Success to get info from Play Store
+The lastest version of air.com.sarahnorthway.rebuild2-1.apk is  3.10  
+Done processing air.com.sarahnorthway.rebuild2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+2/8 Starting processing com.dama.camera2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.camera2 ......
+Success to get info from Play Store
+The lastest version of com.dama.camera2-1.apk is  1.2.0  
+Done processing com.dama.camera2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/8 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is  4.1.21  
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/8 Starting processing com.qvod.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qvod.player ......
+Success to get info from Play Store
+The lastest version of com.qvod.player-1.apk is  3.1.78  
+Done processing com.qvod.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/8 Starting processing com.sega.sonic4ep2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sega.sonic4ep2 ......
+Success to get info from Play Store
+The lastest version of com.sega.sonic4ep2-1.apk is  1.4  
+Done processing com.sega.sonic4ep2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/8 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  3.53  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+7/8 Starting processing it.navionics.singleAppUsa-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=it.navionics.singleAppUsa ......
+Success to get info from Play Store
+The lastest version of it.navionics.singleAppUsa-1.apk is  2.9.5  
+Done processing it.navionics.singleAppUsa-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+8/8 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is  3.9.3  
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-08-14-04-29.csv
+**************************************************************

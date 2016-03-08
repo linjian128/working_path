@@ -1,0 +1,4 @@
+lib,vabd.f32,vadd.i64,vld1.16,vld1.32,vld1.8,vld2.32,vmax.s8,vmla.i32,vmla.i8,vmlal.s32,vmlal.s8,vmov.i16,vmov.i32,vmull.s32,vmvn.i32,vorr,vpadd.i32,vpadd.i8,vpmax.s8,vpmin.u8,vqrshl.s8,vrev64.32,vshr.s64,vst1.16,vst1.8,vst2.32,vst2.8,vst4.8,vsub.i32,vzip.16
+com.ultimateguitar.tabs-1(libbassmidi),1,8,8,8,0,0,1,0,2,24,1,1,2,8,1,8,0,1,1,1,1,0,0,1,2,1,1,2,0,8
+com.ultimateguitar.tabs-1(libbass),0,4,4,8,4,6,0,2,0,12,0,0,8,2,0,2,2,0,0,0,0,4,2,0,0,0,1,0,2,0
+total,1,12,12,16,4,6,1,2,2,36,1,1,10,10,1,10,2,1,1,1,1,4,2,1,2,1,2,2,2,8

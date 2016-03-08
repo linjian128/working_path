@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.gameloft.android.ANMP.GloftA8HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftA8HM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftA8HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/5 Starting processing com.mint-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mint ......
+Success to get info from Play Store
+The lastest version of com.mint-1.apk is  3.0.1  
+Done processing com.mint-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/5 Starting processing com.nbadigital.gametimelite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nbadigital.gametimelite ......
+Success to get info from Play Store
+The lastest version of com.nbadigital.gametimelite-1.apk is  4.09  
+Done processing com.nbadigital.gametimelite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/5 Starting processing com.opera.mini.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.opera.mini.android ......
+Success to get info from Play Store
+The lastest version of com.opera.mini.android-1.apk is  7.5.4  
+Done processing com.opera.mini.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+5/5 Starting processing vStudio.Android.Camera360-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=vStudio.Android.Camera360 ......
+Success to get info from Play Store
+The lastest version of vStudio.Android.Camera360-1.apk is  5.0beta4  
+Done processing vStudio.Android.Camera360-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-21-13-17-02.csv
+**************************************************************

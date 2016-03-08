@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.gameinsight.battletowersandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameinsight.battletowersandroid ......
+Success to get info from Play Store
+The lastest version of com.gameinsight.battletowersandroid-1.apk is  1.28  
+Done processing com.gameinsight.battletowersandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/7 Starting processing com.gameloft.android.ANMP.GloftA7HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA7HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftA7HM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftA7HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/7 Starting processing com.gcm.bndc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gcm.bndc ......
+Success to get info from Play Store
+The lastest version of com.gcm.bndc-1.apk is  5  
+Done processing com.gcm.bndc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/7 Starting processing com.gsn.android.casino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gsn.android.casino ......
+Success to get info from Play Store
+The lastest version of com.gsn.android.casino-1.apk is  3.0.1.61.2  
+Done processing com.gsn.android.casino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/7 Starting processing com.hz.game.cd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hz.game.cd ......
+Success to get info from Play Store
+The lastest version of com.hz.game.cd-1.apk is  1.2.9  
+Done processing com.hz.game.cd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/7 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is  3.8.5  
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/7 Starting processing jp.pascal.bassfishingfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.pascal.bassfishingfree ......
+Success to get info from Play Store
+The lastest version of jp.pascal.bassfishingfree-1.apk is  1.5.9  
+Done processing jp.pascal.bassfishingfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-28-09-40-07.csv
+**************************************************************

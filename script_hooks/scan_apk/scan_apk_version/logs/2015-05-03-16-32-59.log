@@ -1,0 +1,93 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/11 Starting processing com.Qunar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Qunar ......
+Success to get info from Play Store
+The lastest version of com.Qunar-1.apk is  8.0.7  
+Done processing com.Qunar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/11 Starting processing com.androidesk.livewallpaper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk.livewallpaper ......
+[ERROR] : Cannot find info of com.androidesk.livewallpaper-1.apk on https://play.google.com/store/apps/details?id=com.androidesk.livewallpaper !!!
+Done processing com.androidesk.livewallpaper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/11 Starting processing com.autonavi.minimap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.autonavi.minimap ......
+Success to get info from Play Store
+The lastest version of com.autonavi.minimap-1.apk is  7.3.0.2036  
+Done processing com.autonavi.minimap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/11 Starting processing com.chaozh.iReaderFree15-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chaozh.iReaderFree15 ......
+[ERROR] : Cannot find info of com.chaozh.iReaderFree15-1.apk on https://play.google.com/store/apps/details?id=com.chaozh.iReaderFree15 !!!
+Done processing com.chaozh.iReaderFree15-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/11 Starting processing com.handsgo.jiakao.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.handsgo.jiakao.android ......
+Success to get info from Play Store
+The lastest version of com.handsgo.jiakao.android-1.apk is  5.8  
+Done processing com.handsgo.jiakao.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+6/11 Starting processing com.shoujiduoduo.ringtone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone ......
+[ERROR] : Cannot find info of com.shoujiduoduo.ringtone-1.apk on https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone !!!
+Done processing com.shoujiduoduo.ringtone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/11 Starting processing com.snda.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.wifilocating ......
+[ERROR] : Cannot find info of com.snda.wifilocating-1.apk on https://play.google.com/store/apps/details?id=com.snda.wifilocating !!!
+Done processing com.snda.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/11 Starting processing com.suning.mobile.ebuy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy ......
+[ERROR] : Cannot find info of com.suning.mobile.ebuy-1.apk on https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy !!!
+Done processing com.suning.mobile.ebuy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+9/11 Starting processing com.ucamera.ucam-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ucamera.ucam ......
+Success to get info from Play Store
+The lastest version of com.ucamera.ucam-1.apk is  5.2.7.040815  
+Done processing com.ucamera.ucam-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+10/11 Starting processing com.yipiao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yipiao ......
+Success to get info from Play Store
+The lastest version of com.yipiao-1.apk is  2.5.2  
+Done processing com.yipiao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+11/11 Starting processing fm.qingting.qtradio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fm.qingting.qtradio ......
+Success to get info from Play Store
+The lastest version of fm.qingting.qtradio-1.apk is  4.7.4  
+Done processing fm.qingting.qtradio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 29 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-03-16-32-59.csv
+**************************************************************

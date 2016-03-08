@@ -1,0 +1,70 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/8 Starting processing cn.shuangshuangfei-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.shuangshuangfei ......
+[ERROR] : Cannot find info of cn.shuangshuangfei-1.apk on https://play.google.com/store/apps/details?id=cn.shuangshuangfei !!!
+Done processing cn.shuangshuangfei-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.anjuke.android.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.anjuke.android.app ......
+[ERROR] : Cannot find info of com.anjuke.android.app-1.apk on https://play.google.com/store/apps/details?id=com.anjuke.android.app !!!
+Done processing com.anjuke.android.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/8 Starting processing com.dangdang.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dangdang.reader ......
+Success to get info from Play Store
+The lastest version of com.dangdang.reader-1.apk is  4.8.4  
+Done processing com.dangdang.reader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/8 Starting processing com.ibox.flashlight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ibox.flashlight ......
+Success to get info from Play Store
+The lastest version of com.ibox.flashlight-1.apk is    Varies with device  
+Done processing com.ibox.flashlight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/8 Starting processing com.shcc.microcredit-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shcc.microcredit ......
+[ERROR] : Cannot find info of com.shcc.microcredit-1.apk on https://play.google.com/store/apps/details?id=com.shcc.microcredit !!!
+Done processing com.shcc.microcredit-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/8 Starting processing com.sohu.sohuvideo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sohu.sohuvideo ......
+Success to get info from Play Store
+The lastest version of com.sohu.sohuvideo-1.apk is  4.3.5  
+Done processing com.sohu.sohuvideo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/8 Starting processing com.talkweb.babystorys-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.talkweb.babystorys ......
+[ERROR] : Cannot find info of com.talkweb.babystorys-1.apk on https://play.google.com/store/apps/details?id=com.talkweb.babystorys !!!
+Done processing com.talkweb.babystorys-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+8/8 Starting processing com.yuedong.sport-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yuedong.sport ......
+Success to get info from Play Store
+The lastest version of com.yuedong.sport-1.apk is  2.5.0.2  
+Done processing com.yuedong.sport-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-29-10-19-37.csv
+**************************************************************

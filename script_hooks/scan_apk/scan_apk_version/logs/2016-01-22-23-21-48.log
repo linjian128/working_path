@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.playrix.township-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playrix.township ......
+Success to get info from Play Store
+The lastest version of com.playrix.township-1.apk is  3.4.2  
+Done processing com.playrix.township-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.sidheinteractive.sif.DR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sidheinteractive.sif.DR ......
+Success to get info from Play Store
+The lastest version of com.sidheinteractive.sif.DR-1.apk is    Varies with device  
+Done processing com.sidheinteractive.sif.DR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/4 Starting processing es.socialpoint.MonsterLegends-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=es.socialpoint.MonsterLegends ......
+Success to get info from Play Store
+The lastest version of es.socialpoint.MonsterLegends-1.apk is 
+Done processing es.socialpoint.MonsterLegends-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-22-23-21-48.csv
+**************************************************************

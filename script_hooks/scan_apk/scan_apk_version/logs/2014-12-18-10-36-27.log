@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.atari.mobile.rct4m-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.atari.mobile.rct4m ......
+Success to get info from Play Store
+The lastest version of com.atari.mobile.rct4m-1.apk is  1.2.0  
+Done processing com.atari.mobile.rct4m-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.com2us.golfstarworldtour.normal.freefull.google.global.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.golfstarworldtour.normal.freefull.google.global.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.golfstarworldtour.normal.freefull.google.global.android.common-1.apk is  2.2.6  
+Done processing com.com2us.golfstarworldtour.normal.freefull.google.global.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.gameloft.android.ANMP.GloftF3HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftF3HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftF3HM-1.apk is  1.5.4f  
+Done processing com.gameloft.android.ANMP.GloftF3HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/7 Starting processing com.king.pyramidsolitairesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.pyramidsolitairesaga ......
+Success to get info from Play Store
+The lastest version of com.king.pyramidsolitairesaga-1.apk is  1.12.5  
+Done processing com.king.pyramidsolitairesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/7 Starting processing com.noodlecake.pumpedbmx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.noodlecake.pumpedbmx ......
+Success to get info from Play Store
+The lastest version of com.noodlecake.pumpedbmx-1.apk is    Varies with device  
+Done processing com.noodlecake.pumpedbmx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/7 Starting processing com.shortbreakstudios.hr-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shortbreakstudios.hr ......
+Success to get info from Play Store
+The lastest version of com.shortbreakstudios.hr-1.apk is    Varies with device  
+Done processing com.shortbreakstudios.hr-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/7 Starting processing kr.co.tictocplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.co.tictocplus ......
+Success to get info from Play Store
+The lastest version of kr.co.tictocplus-1.apk is  4.0.2  
+Done processing kr.co.tictocplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-18-10-36-27.csv
+**************************************************************

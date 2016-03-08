@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing jp.naver.SJLGWR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.SJLGWR ......
+Success to get info from Play Store
+The lastest version of jp.naver.SJLGWR-1.apk is  2.2.5  
+Done processing jp.naver.SJLGWR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing net.defensezone.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.defensezone.lite ......
+Success to get info from Play Store
+The lastest version of net.defensezone.lite-1.apk is  1.6.11  
+Done processing net.defensezone.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-07-12-23-51.csv
+**************************************************************

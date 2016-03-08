@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.halfbrick.fruitninjafree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.fruitninjafree-1.apk is    Varies with device  
+Done processing com.halfbrick.fruitninjafree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-12-12-46-02.csv
+**************************************************************

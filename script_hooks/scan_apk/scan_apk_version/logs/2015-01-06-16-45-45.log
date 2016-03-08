@@ -1,0 +1,17 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.yitong.cgbydyx.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yitong.cgbydyx.android ......
+[ERROR] : Cannot find info of com.yitong.cgbydyx.android-1.apk on https://play.google.com/store/apps/details?id=com.yitong.cgbydyx.android !!!
+Done processing com.yitong.cgbydyx.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-06-16-45-45.csv
+**************************************************************

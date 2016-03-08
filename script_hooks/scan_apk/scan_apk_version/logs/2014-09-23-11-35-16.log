@@ -1,0 +1,87 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.funshion.video.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.funshion.video.mobile ......
+[ERROR] : Cannot find info of com.funshion.video.mobile-1.apk on https://play.google.com/store/apps/details?id=com.funshion.video.mobile !!!
+Done processing com.funshion.video.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/10 Starting processing com.icoolme.android.weather-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.icoolme.android.weather ......
+Success to get info from Play Store
+The lastest version of com.icoolme.android.weather-1.apk is  3.02.011.20140905  
+Done processing com.icoolme.android.weather-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/10 Starting processing com.mogujie-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mogujie ......
+Success to get info from Play Store
+The lastest version of com.mogujie-1.apk is  6.0.0  
+Done processing com.mogujie-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/10 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is  4.0.4  
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/10 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+[ERROR] : Cannot find info of com.sds.android.ttpod-1.apk on https://play.google.com/store/apps/details?id=com.sds.android.ttpod !!!
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/10 Starting processing com.skycarpenter.fantashooting-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skycarpenter.fantashooting ......
+Success to get info from Play Store
+The lastest version of com.skycarpenter.fantashooting-1.apk is  2.125  
+Done processing com.skycarpenter.fantashooting-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/10 Starting processing com.skype.raider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skype.raider ......
+Success to get info from Play Store
+The lastest version of com.skype.raider-1.apk is    Varies with device  
+Done processing com.skype.raider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+9/10 Starting processing com.snda.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.wifilocating ......
+[ERROR] : Cannot find info of com.snda.wifilocating-1.apk on https://play.google.com/store/apps/details?id=com.snda.wifilocating !!!
+Done processing com.snda.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+10/10 Starting processing com.ss.android.article.news-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ss.android.article.news ......
+Success to get info from Play Store
+The lastest version of com.ss.android.article.news-1.apk is  3.6.3  
+Done processing com.ss.android.article.news-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-23-11-35-16.csv
+**************************************************************

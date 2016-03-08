@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.estoty.game2048-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estoty.game2048 ......
+Success to get info from Play Store
+The lastest version of com.estoty.game2048-1.apk is  5.6  
+Done processing com.estoty.game2048-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.kitkatandroid.keyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kitkatandroid.keyboard ......
+Success to get info from Play Store
+The lastest version of com.kitkatandroid.keyboard-1.apk is  1.90  
+Done processing com.kitkatandroid.keyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-06-20-16-06.csv
+**************************************************************

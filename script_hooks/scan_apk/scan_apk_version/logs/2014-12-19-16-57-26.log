@@ -1,0 +1,52 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.tencent.Alice-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.Alice ......
+[ERROR] : Cannot find info of com.tencent.Alice-1.apk on https://play.google.com/store/apps/details?id=com.tencent.Alice !!!
+Done processing com.tencent.Alice-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.tencent.Q108-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.Q108 ......
+[ERROR] : Cannot find info of com.tencent.Q108-1.apk on https://play.google.com/store/apps/details?id=com.tencent.Q108 !!!
+Done processing com.tencent.Q108-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.tencent.android.qqdownloader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.android.qqdownloader ......
+[ERROR] : Cannot find info of com.tencent.android.qqdownloader-1.apk on https://play.google.com/store/apps/details?id=com.tencent.android.qqdownloader !!!
+Done processing com.tencent.android.qqdownloader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/6 Starting processing com.tencent.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.castleclash ......
+[ERROR] : Cannot find info of com.tencent.castleclash-1.apk on https://play.google.com/store/apps/details?id=com.tencent.castleclash !!!
+Done processing com.tencent.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/6 Starting processing com.tencent.game.VXDGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame ......
+[ERROR] : Cannot find info of com.tencent.game.VXDGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame !!!
+Done processing com.tencent.game.VXDGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/6 Starting processing com.tencent.myelf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.myelf ......
+[ERROR] : Cannot find info of com.tencent.myelf-1.apk on https://play.google.com/store/apps/details?id=com.tencent.myelf !!!
+Done processing com.tencent.myelf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-19-16-57-26.csv
+**************************************************************

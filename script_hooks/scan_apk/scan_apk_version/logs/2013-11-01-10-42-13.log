@@ -1,0 +1,113 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.android.vending-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.vending ......
+[ERROR] : Cannot find info of com.android.vending-1.apk on https://play.google.com/store/apps/details?id=com.android.vending !!!
+Done processing com.android.vending-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/13 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/13 Starting processing com.facebook.orca-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.orca ......
+Success to get info from Play Store
+The lastest version of com.facebook.orca-1.apk is    Varies with device  
+Done processing com.facebook.orca-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/13 Starting processing com.fgol.HungrySharkEvolution-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fgol.HungrySharkEvolution ......
+Success to get info from Play Store
+The lastest version of com.fgol.HungrySharkEvolution-1.apk is  2.1.1  
+Done processing com.fgol.HungrySharkEvolution-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/13 Starting processing com.gamecircus.songz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamecircus.songz ......
+Success to get info from Play Store
+The lastest version of com.gamecircus.songz-1.apk is    Varies with device  
+Done processing com.gamecircus.songz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/13 Starting processing com.igg.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash-1.apk is  1.2.21  
+Done processing com.igg.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/13 Starting processing com.mapfactor.navigator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapfactor.navigator ......
+Success to get info from Play Store
+The lastest version of com.mapfactor.navigator-1.apk is  1.0.35  
+Done processing com.mapfactor.navigator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+8/13 Starting processing com.melodis.midomiMusicIdentifier.freemium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier.freemium-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier.freemium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+9/13 Starting processing com.oovoo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oovoo ......
+Success to get info from Play Store
+The lastest version of com.oovoo-1.apk is  2.0.4  
+Done processing com.oovoo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+10/13 Starting processing com.spotify.mobile.android.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.spotify.mobile.android.ui ......
+Success to get info from Play Store
+The lastest version of com.spotify.mobile.android.ui-1.apk is    Varies with device  
+Done processing com.spotify.mobile.android.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+11/13 Starting processing com.sygic.aura-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sygic.aura ......
+Success to get info from Play Store
+The lastest version of com.sygic.aura-1.apk is  13.2.2  
+Done processing com.sygic.aura-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 43 Seconds
+
+============================================================================
+12/13 Starting processing com.webprancer.google.garfieldpethospital-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.webprancer.google.garfieldpethospital ......
+Success to get info from Play Store
+The lastest version of com.webprancer.google.garfieldpethospital-1.apk is  1.0.3  
+Done processing com.webprancer.google.garfieldpethospital-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 47 Seconds
+
+============================================================================
+13/13 Starting processing tunein.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tunein.player ......
+Success to get info from Play Store
+The lastest version of tunein.player-1.apk is  10.0  
+Done processing tunein.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 51 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 51 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-01-10-42-13.csv
+**************************************************************

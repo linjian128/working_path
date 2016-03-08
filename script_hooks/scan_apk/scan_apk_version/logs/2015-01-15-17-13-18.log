@@ -1,0 +1,65 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.and.games505.TerrariaPaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid ......
+Success to get info from Play Store
+The lastest version of com.and.games505.TerrariaPaid-1.apk is  1.2.6787  
+Done processing com.and.games505.TerrariaPaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.lenovo.anyshare-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lenovo.anyshare ......
+[ERROR] : Cannot find info of com.lenovo.anyshare-1.apk on https://play.google.com/store/apps/details?id=com.lenovo.anyshare !!!
+Done processing com.lenovo.anyshare-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.purplekiwii.mb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.purplekiwii.mb ......
+Success to get info from Play Store
+The lastest version of com.purplekiwii.mb-1.apk is  1.2.12  
+Done processing com.purplekiwii.mb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/7 Starting processing com.umonistudio.tile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.umonistudio.tile ......
+Success to get info from Play Store
+The lastest version of com.umonistudio.tile-1.apk is  3.3.0  
+Done processing com.umonistudio.tile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/7 Starting processing es.socialpoint.MonsterLegends-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=es.socialpoint.MonsterLegends ......
+Success to get info from Play Store
+The lastest version of es.socialpoint.MonsterLegends-1.apk is    Varies with device  
+Done processing es.socialpoint.MonsterLegends-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/7 Starting processing net.zhuoweizhang.mcpelauncher.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher.pro ......
+Success to get info from Play Store
+The lastest version of net.zhuoweizhang.mcpelauncher.pro-1.apk is  1.8.3  
+Done processing net.zhuoweizhang.mcpelauncher.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-15-17-13-18.csv
+**************************************************************

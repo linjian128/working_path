@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.com2us.HB3D-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.HB3D ......
+Success to get info from Play Store
+The lastest version of com.com2us.HB3D-1.apk is  1.8.5  
+Done processing com.com2us.HB3D-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.koushikdutta.cast.license-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.koushikdutta.cast.license ......
+Success to get info from Play Store
+The lastest version of com.koushikdutta.cast.license-1.apk is  1.0.0.7  
+Done processing com.koushikdutta.cast.license-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.rovio.angrybirdsspace.premium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.angrybirdsspace.premium ......
+Success to get info from Play Store
+The lastest version of com.rovio.angrybirdsspace.premium-1.apk is  1.6.9  
+Done processing com.rovio.angrybirdsspace.premium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/8 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is    Varies with device  
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/8 Starting processing com.ubisoft.rabbids.bigbang.ggp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ubisoft.rabbids.bigbang.ggp ......
+Success to get info from Play Store
+The lastest version of com.ubisoft.rabbids.bigbang.ggp-1.apk is  2.1.2  
+Done processing com.ubisoft.rabbids.bigbang.ggp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/8 Starting processing com.urbandroid.sleep.full.key-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.urbandroid.sleep.full.key ......
+Success to get info from Play Store
+The lastest version of com.urbandroid.sleep.full.key-1.apk is    Varies with device  
+Done processing com.urbandroid.sleep.full.key-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/8 Starting processing mikado.bizcalpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=mikado.bizcalpro ......
+Success to get info from Play Store
+The lastest version of mikado.bizcalpro-1.apk is  1.4.6.1  
+Done processing mikado.bizcalpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/8 Starting processing se.maginteractive.rumble-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=se.maginteractive.rumble ......
+Success to get info from Play Store
+The lastest version of se.maginteractive.rumble-1.apk is  1.6.21  
+Done processing se.maginteractive.rumble-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-23-15-37-28.csv
+**************************************************************

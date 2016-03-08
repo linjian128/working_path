@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.aceviral.angrygranrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aceviral.angrygranrun ......
+Success to get info from Play Store
+The lastest version of com.aceviral.angrygranrun-1.apk is  1.11.0.0  
+Done processing com.aceviral.angrygranrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing com.g6677.android.cdentist-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.g6677.android.cdentist ......
+Success to get info from Play Store
+The lastest version of com.g6677.android.cdentist-1.apk is  1.0.15  
+Done processing com.g6677.android.cdentist-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-09-09-02-30.csv
+**************************************************************

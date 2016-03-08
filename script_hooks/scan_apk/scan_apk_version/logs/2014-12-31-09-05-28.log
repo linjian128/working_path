@@ -1,0 +1,65 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing air.com.playtika.slotomania-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.playtika.slotomania ......
+Success to get info from Play Store
+The lastest version of air.com.playtika.slotomania-1.apk is    Varies with device  
+Done processing air.com.playtika.slotomania-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.kiwi.westbound-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiwi.westbound ......
+Success to get info from Play Store
+The lastest version of com.kiwi.westbound-1.apk is    Varies with device  
+Done processing com.kiwi.westbound-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.laserdog.alone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.laserdog.alone ......
+Success to get info from Play Store
+The lastest version of com.laserdog.alone-1.apk is  1.0.9  
+Done processing com.laserdog.alone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.mohitdev.minebuild-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mohitdev.minebuild ......
+Success to get info from Play Store
+The lastest version of com.mohitdev.minebuild-1.apk is  3.3  
+Done processing com.mohitdev.minebuild-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/7 Starting processing com.nexonm.loh.usios-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nexonm.loh.usios ......
+Success to get info from Play Store
+The lastest version of com.nexonm.loh.usios-1.apk is  1.4.25  
+Done processing com.nexonm.loh.usios-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/7 Starting processing com.omgpop.dstfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstfree ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstfree-1.apk is  2.333.306  
+Done processing com.omgpop.dstfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/7 Starting processing com.tencent.tmgp.zhanxian-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.tmgp.zhanxian ......
+[ERROR] : Cannot find info of com.tencent.tmgp.zhanxian-1.apk on https://play.google.com/store/apps/details?id=com.tencent.tmgp.zhanxian !!!
+Done processing com.tencent.tmgp.zhanxian-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-31-09-05-28.csv
+**************************************************************

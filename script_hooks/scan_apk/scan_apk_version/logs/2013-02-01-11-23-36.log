@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.coldbeamgames.beathazardultragooglefull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.coldbeamgames.beathazardultragooglefull ......
+Success to get info from Play Store
+The lastest version of com.coldbeamgames.beathazardultragooglefull-1.apk is 1.6
+Done processing com.coldbeamgames.beathazardultragooglefull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.dotemu.raidenlegacy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.raidenlegacy ......
+Success to get info from Play Store
+The lastest version of com.dotemu.raidenlegacy-1.apk is 1.7
+Done processing com.dotemu.raidenlegacy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/5 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is 3.9.43
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/5 Starting processing com.herocraft.game.tinybangstory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.herocraft.game.tinybangstory ......
+Success to get info from Play Store
+The lastest version of com.herocraft.game.tinybangstory-1.apk is 1.0.18
+Done processing com.herocraft.game.tinybangstory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/5 Starting processing com.hg.gunsandglory3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hg.gunsandglory3 ......
+Success to get info from Play Store
+The lastest version of com.hg.gunsandglory3-1.apk is 1.0.3
+Done processing com.hg.gunsandglory3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-01-11-23-36.csv
+**************************************************************

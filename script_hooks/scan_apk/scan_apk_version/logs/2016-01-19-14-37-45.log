@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ARM-V8  ......
+
+============================================================================
+1/6 Starting processing com.campmobile.snow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.campmobile.snow ......
+Success to get info from Play Store
+The lastest version of com.campmobile.snow-1.apk is  1.4.4  
+Done processing com.campmobile.snow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/6 Starting processing com.fw.appshare-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fw.appshare ......
+Success to get info from Play Store
+The lastest version of com.fw.appshare-1.apk is    Varies with device  
+Done processing com.fw.appshare-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+3/6 Starting processing com.nzn.tdg-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nzn.tdg ......
+Success to get info from Play Store
+The lastest version of com.nzn.tdg-1.apk is    Varies with device  
+Done processing com.nzn.tdg-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+4/6 Starting processing com.smartemojiandroidkeyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smartemojiandroidkeyboard ......
+Success to get info from Play Store
+The lastest version of com.smartemojiandroidkeyboard-1.apk is  1.12  
+Done processing com.smartemojiandroidkeyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+5/6 Starting processing com.tumblr-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tumblr ......
+Success to get info from Play Store
+The lastest version of com.tumblr-1.apk is    Varies with device  
+Done processing com.tumblr-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+6/6 Starting processing net.slideshare.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.slideshare.mobile ......
+Success to get info from Play Store
+The lastest version of net.slideshare.mobile-1.apk is    Varies with device  
+Done processing net.slideshare.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 37 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-19-14-37-45.csv
+**************************************************************

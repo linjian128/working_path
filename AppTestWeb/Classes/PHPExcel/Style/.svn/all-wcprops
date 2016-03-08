@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style
+END
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Border.php
+END
+Alignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Alignment.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Color.php
+END
+Borders.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Borders.php
+END
+NumberFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/NumberFormat.php
+END
+Conditional.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Conditional.php
+END
+Fill.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Fill.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Font.php
+END
+Protection.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Style/Protection.php
+END

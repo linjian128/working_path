@@ -1,0 +1,55 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.google.android.gm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gm ......
+Success to get info from Play Store
+The lastest version of com.google.android.gm-1.apk is    Varies with device  
+Done processing com.google.android.gm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.ijinshan.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.browser ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.browser-1.apk is  2.10.2  
+Done processing com.ijinshan.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/6 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/6 Starting processing com.tencent.pao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.pao ......
+[ERROR] : Cannot find info of com.tencent.pao-1.apk on https://play.google.com/store/apps/details?id=com.tencent.pao !!!
+Done processing com.tencent.pao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/6 Starting processing com.yinhan.hunter.yh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yinhan.hunter.yh ......
+[ERROR] : Cannot find info of com.yinhan.hunter.yh-1.apk on https://play.google.com/store/apps/details?id=com.yinhan.hunter.yh !!!
+Done processing com.yinhan.hunter.yh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/6 Starting processing com.yx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yx ......
+Success to get info from Play Store
+The lastest version of com.yx-1.apk is  2.12.0  
+Done processing com.yx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-22-17-09-49.csv
+**************************************************************

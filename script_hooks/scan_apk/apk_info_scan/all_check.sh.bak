@@ -1,0 +1,194 @@
+#!/bin/bash
+#set -x
+
+apk=$1
+third_lib_list="ThirdPartySO"
+unzip_tmp="temp_unzip"
+temp_file="temp_file"
+
+check_3rd_lib(){
+		contain_3rd_lib=0
+		if aapt l "$1" |grep -E $2 >/dev/null; then
+			contain_3rd_lib=1
+		fi
+		if [ $contain_3rd_lib -ne 0 ]; then
+			echo -e "\033[32m$1,$3 \033[0m"
+			echo "$3 " >> $temp_file
+		fi
+}
+check_tencent_protection(){
+        if aapt l "$1" |grep "libshell.so" >/dev/null && aapt l "$1" |grep "libmain.so" >/dev/null; then
+            echo -e "\033[32m$1, 腾讯加固  \033[0m"
+            echo "腾讯加固" >> $temp_file
+        fi
+}
+
+check_aijiami_protection(){
+    if aapt l "$1" |grep "libexec.so" >/dev/null && aapt l "$1" |grep "libexecmain.so" >/dev/null; then
+        echo -e "\033[32m$1, 爱加密  \033[0m"
+        echo "爱加密" >> $temp_file
+    fi
+}
+
+check_cmcc(){
+    if aapt l "$1" |grep "libmegjb.so" >/dev/null; then
+        echo -e "\033[32m$1, CMCC(libmegjb.so)  \033[0m"
+        echo "CMCC(libmegjb.so)" >> $temp_file
+    fi
+    if aapt l "$1" |grep "libmegbpp" >/dev/null; then
+        cmcc_lib=`aapt l "$1" |grep "libmegbpp"`
+        lib_name=`echo $cmcc_lib|awk -F'/' '{print $NF}'`
+        echo -e "\033[32m$1, CMCC($lib_name)  \033[0m"
+        echo "CMCC($lib_name)" >> $temp_file
+    fi
+}
+
+
+x86_missing_check() {
+	#apk both contains lib/x86 & lib/arm* libs need to be checked
+	if aapt l "$1"|grep '^lib/x86/*'>/dev/null && aapt l "$1"|grep '^lib/armeabi*/*'>/dev/null; then  
+		#if contain v7 folder, scan v7, else scan v5
+		if aapt l "$1" |grep '^lib/armeabi-v7a/*' >/dev/null; then 
+			need_to_check_user_lib="Yes"
+			missing_user_lib="No"
+
+			aapt l "$1" |grep '^lib/armeabi-v7a/*' | while read line
+			do
+				v7_lib_tmp=${line#*lib/armeabi-v7a/lib}
+				v7_lib=${v7_lib_tmp%%.so*}
+				if [ "X${v7_lib}" == "X" ]
+				then
+					continue
+				fi
+				#If this v7 lib is 3rd lib, need a same name lib under x86/ folder, or it would be missing x86 app
+				if grep $v7_lib  /home/Git-Apk/code_resource/script_hooks/scan_apk/apk_info_scan/$third_lib_list >/dev/null; then
+					if ! aapt l "$1" |grep '^lib/x86/*'|grep $v7_lib >/dev/null; then 
+						echo -e "\033[36m$1, X86 missing 3rd lib $v7_lib \033[0m"
+						echo "X86 missing 3rd lib $v7_lib" >> $temp_file
+						break
+					fi
+				# user lib
+				else 
+					if [ $need_to_check_user_lib == "Yes" ]; then
+						missing_user_lib="Yes"
+						if aapt l "$1" |grep '^lib/x86/*'|grep $v7_lib >/dev/null; then
+							missing_user_lib="No"
+							need_to_check_user_lib="No"
+							continue
+						fi
+					fi
+				fi
+			done
+			
+			if [ $missing_user_lib == "Yes" ]; then
+				echo -e "\033[36m$1, X86 missing user lib in lib/armeabi-v7a/ \033[0m"
+						echo "X86 missing user lib in lib/armeabi-v7a/" >> $temp_file
+			#else
+			#	echo $1, "not a missing x86 app"
+			fi
+
+		elif aapt l "$1" |grep '^lib/armeabi/*' >/dev/null; then
+			need_to_check_user_lib="Yes"
+			missing_user_lib="No"
+			
+			aapt l "$1" |grep '^lib/armeabi/*' | while read line
+				do
+					v5_lib_tmp=${line#*lib/armeabi/}
+					v5_lib=${v5_lib_tmp%%.so*}
+					if [ "X${v5_lib}" == "X" ]
+					then
+						continue
+					fi
+					need_to_check_user_lib="Yes"
+					#If this v5 lib is 3rd lib, need a same name lib under x86/ folder, or it would be missing x86 app
+					if grep $v5_lib  /home/Git-Apk/code_resource/script_hooks/scan_apk/apk_info_scan/$third_lib_list > /dev/null; then
+						if ! aapt l "$1" |grep '^lib/x86/*'|grep $v5_lib >/dev/null; then
+							echo -e "\033[36m$1, X86 missing 3rd lib $v5_lib \033[0m"
+							echo "X86 missing 3rd lib $v5_lib" >> $temp_file
+						break
+						fi
+					# user lib
+					else
+						if [[ $need_to_check_user_lib -eq "Yes" ]]; then
+							missing_user_lib="Yes"
+							if aapt l "$1" |grep '^lib/x86/*'|grep $v5_lib >/dev/null; then
+								missing_user_lib="No"
+								need_to_check_user_lib="No"
+								break
+							else
+								continue
+							fi
+						fi
+					fi
+				done
+				if [[ $missing_user_lib == "Yes" ]]; then
+					echo -e "\033[36m$1, X86 missing user lib lib/armeabi/ $v5_lib \033[0m"
+					echo "X86 missing user lib lib/armeabi/" >> $temp_file
+				#else
+				#	echo $1, "not a missing x86 app"
+				fi
+		fi
+	fi
+}
+
+mixed_javaArm_check(){
+	unzip "$1" -d $unzip_tmp >/dev/null
+	pushd $unzip_tmp >/dev/null
+	#echo Scaning $1 ...
+	find . -name "*.so"|grep '/lib/x86*' | while read line 
+	do
+		if readelf -h $line |grep Machine |grep ARM > /dev/null; then
+			echo -e "\033[33m$1, Mixed app \033[0m"
+			echo "Mixed app" >> ../$temp_file
+			break
+		fi
+	done
+	popd > /dev/null
+
+	#	echo $1, not arm only
+    if ! aapt d badging "$1" |grep nativecode >/dev/null; then
+		find assets/ -name "*.so" | while read line
+		do
+			if readelf -h $line |grep Machine |grep ARM >/dev/null; then
+				echo -e "\033[31m$1, PureJava app contains at least one arm lib: $line \033[0m"
+				echo "PureJava app contains at least one arm lib: $line" >> ../$temp_file
+				break
+			fi
+		done
+	fi
+
+	rm -rf $unzip_tmp
+}
+
+if [ ! -f $third_lib_list ]; then 
+	echo -e "\033[31mNeed file $third_lib_list in this folder to scan missing x86! \033[0m"
+	exit
+fi
+
+if [ -f $temp_file ]; then
+	rm -rf $temp_file
+fi
+
+if [ -d $unzip_tmp ] ; then 
+	rm -rf $unzip_tmp
+fi
+
+	x86_missing_check			"$apk"
+	mixed_javaArm_check			"$apk"
+
+	check_3rd_lib "$apk" "libsecexe.so|libsecmain.so|libsecexe.x86.so|libsecmain.x86.so|libsecpreload.x86.so|libsecpreload.so"        梆梆加固
+	check_3rd_lib "$apk" "libnqshield.so|libnqshieldx86.so"   网秦安全盾
+	check_3rd_lib "$apk" "libprotectClass.so|libprotectClass_x86.so"  360加固
+    check_3rd_lib "$apk" "libjiagu_art.so|libjiagu.so"  360加固_V2
+	check_3rd_lib "$apk" "libDexHelper.so|libDexHelper-x86.so"        "梆梆加固(付费版)"
+	check_3rd_lib "$apk" "libchaosvmp.so|/artl$|/encode.dex$"     娜迦加固
+	check_3rd_lib "$apk" "libCtxTFE.so"       "Citrix XenMobile"
+	check_3rd_lib "$apk" "dexmaker.jar"       DexMaker
+	check_3rd_lib "$apk" "libegis-x86.so|libegis.so|libegis_security.so"      "通付盾 Payegi"
+
+    check_tencent_protection "$apk"
+    check_aijiami_protection "$apk"
+    check_cmcc "$apk"
+
+
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend
+END
+logarithmicBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend/logarithmicBestFitClass.php
+END
+polynomialBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend/polynomialBestFitClass.php
+END
+exponentialBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend/exponentialBestFitClass.php
+END
+linearBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend/linearBestFitClass.php
+END
+trendClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend/trendClass.php
+END
+powerBestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend/powerBestFitClass.php
+END
+bestFitClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/trend/bestFitClass.php
+END

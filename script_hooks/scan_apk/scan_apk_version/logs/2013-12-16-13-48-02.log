@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.freshplanet.games.MoviePopPlus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.MoviePopPlus ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.MoviePopPlus-1.apk is  1.0.12  
+Done processing air.com.freshplanet.games.MoviePopPlus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.elevenbitstudios.anomaly2game-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elevenbitstudios.anomaly2game ......
+Success to get info from Play Store
+The lastest version of com.elevenbitstudios.anomaly2game-1.apk is    Varies with device  
+Done processing com.elevenbitstudios.anomaly2game-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/10 Starting processing com.gun.bnc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gun.bnc ......
+Success to get info from Play Store
+The lastest version of com.gun.bnc-1.apk is    Varies with device  
+Done processing com.gun.bnc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/10 Starting processing com.jumpgames.pacificrim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jumpgames.pacificrim ......
+Success to get info from Play Store
+The lastest version of com.jumpgames.pacificrim-1.apk is  1.8.1  
+Done processing com.jumpgames.pacificrim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/10 Starting processing com.jundroo.simplerockets-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jundroo.simplerockets ......
+Success to get info from Play Store
+The lastest version of com.jundroo.simplerockets-1.apk is  1.4.9  
+Done processing com.jundroo.simplerockets-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/10 Starting processing com.noodlecake.randomheroes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.noodlecake.randomheroes ......
+Success to get info from Play Store
+The lastest version of com.noodlecake.randomheroes-1.apk is  1.4.0.2  
+Done processing com.noodlecake.randomheroes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/10 Starting processing com.snkplaymore.android001-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snkplaymore.android001 ......
+Success to get info from Play Store
+The lastest version of com.snkplaymore.android001-1.apk is  1.0  
+Done processing com.snkplaymore.android001-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+8/10 Starting processing com.teamspeak.ts3client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamspeak.ts3client ......
+Success to get info from Play Store
+The lastest version of com.teamspeak.ts3client-1.apk is  3.0.13.3  
+Done processing com.teamspeak.ts3client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+9/10 Starting processing com.ubisoft.rabbids.bigbang.ggp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ubisoft.rabbids.bigbang.ggp ......
+Success to get info from Play Store
+The lastest version of com.ubisoft.rabbids.bigbang.ggp-1.apk is  1.0.8  
+Done processing com.ubisoft.rabbids.bigbang.ggp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+10/10 Starting processing com.yawsum.ScoopExcavator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yawsum.ScoopExcavator ......
+Success to get info from Play Store
+The lastest version of com.yawsum.ScoopExcavator-1.apk is  1.0.1  
+Done processing com.yawsum.ScoopExcavator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 40 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-16-13-48-02.csv
+**************************************************************

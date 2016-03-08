@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing au.com.shiftyjelly.pocketcasts-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts ......
+Success to get info from Play Store
+The lastest version of au.com.shiftyjelly.pocketcasts-1.apk is  4.8.4  
+Done processing au.com.shiftyjelly.pocketcasts-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.flyersoft.moonreaderp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp ......
+Success to get info from Play Store
+The lastest version of com.flyersoft.moonreaderp-1.apk is  2.6.8  
+Done processing com.flyersoft.moonreaderp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/6 Starting processing com.mobisystems.editor.office_registered-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobisystems.editor.office_registered ......
+Success to get info from Play Store
+The lastest version of com.mobisystems.editor.office_registered-1.apk is  8.0.2434  
+Done processing com.mobisystems.editor.office_registered-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/6 Starting processing eu.chainfire.supersu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=eu.chainfire.supersu ......
+Success to get info from Play Store
+The lastest version of eu.chainfire.supersu-1.apk is  2.37  
+Done processing eu.chainfire.supersu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/6 Starting processing eu.chainfire.supersu.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=eu.chainfire.supersu.pro ......
+Success to get info from Play Store
+The lastest version of eu.chainfire.supersu.pro-1.apk is  2.05  
+Done processing eu.chainfire.supersu.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/6 Starting processing radiotime.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=radiotime.player ......
+Success to get info from Play Store
+The lastest version of radiotime.player-1.apk is    Varies with device  
+Done processing radiotime.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-10-12-42-11.csv
+**************************************************************

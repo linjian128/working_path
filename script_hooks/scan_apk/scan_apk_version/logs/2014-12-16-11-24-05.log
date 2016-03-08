@@ -1,0 +1,33 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.ea.game.fifa15_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.fifa15_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.fifa15_row-1.apk is  1.2.1  
+Done processing com.ea.game.fifa15_row-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/3 Starting processing com.gsn.android.casino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gsn.android.casino ......
+Success to get info from Play Store
+The lastest version of com.gsn.android.casino-1.apk is  3.10.0.95.72  
+Done processing com.gsn.android.casino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/3 Starting processing com.wuba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wuba ......
+[ERROR] : Cannot find info of com.wuba-1.apk on https://play.google.com/store/apps/details?id=com.wuba !!!
+Done processing com.wuba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-16-11-24-05.csv
+**************************************************************

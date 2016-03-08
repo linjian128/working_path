@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.disney.TempleRunOz.goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.TempleRunOz.goo ......
+Success to get info from Play Store
+The lastest version of com.disney.TempleRunOz.goo-1.apk is  1.6.1  
+Done processing com.disney.TempleRunOz.goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.gau.go.launcherex.key-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gau.go.launcherex.key ......
+Success to get info from Play Store
+The lastest version of com.gau.go.launcherex.key-1.apk is  2.0  
+Done processing com.gau.go.launcherex.key-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/10 Starting processing com.giantssoftware.fs14-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.giantssoftware.fs14 ......
+Success to get info from Play Store
+The lastest version of com.giantssoftware.fs14-1.apk is    Varies with device  
+Done processing com.giantssoftware.fs14-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/10 Starting processing com.ironhidegames.android.kingdomrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush ......
+Success to get info from Play Store
+The lastest version of com.ironhidegames.android.kingdomrush-1.apk is  2.3.1  
+Done processing com.ironhidegames.android.kingdomrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/10 Starting processing com.ironhidegames.android.kingdomrushfrontiers-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushfrontiers ......
+Success to get info from Play Store
+The lastest version of com.ironhidegames.android.kingdomrushfrontiers-1.apk is  1.3.1  
+Done processing com.ironhidegames.android.kingdomrushfrontiers-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/10 Starting processing com.slingmedia.slingPlayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.slingmedia.slingPlayer ......
+Success to get info from Play Store
+The lastest version of com.slingmedia.slingPlayer-1.apk is    Varies with device  
+Done processing com.slingmedia.slingPlayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/10 Starting processing com.sonypicturestelevision.wheeloffortune30-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sonypicturestelevision.wheeloffortune30 ......
+Success to get info from Play Store
+The lastest version of com.sonypicturestelevision.wheeloffortune30-1.apk is  1.3.8  
+Done processing com.sonypicturestelevision.wheeloffortune30-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/10 Starting processing com.wb.goog.scribbleremix-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.scribbleremix ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.scribbleremix-1.apk is  5.70  
+Done processing com.wb.goog.scribbleremix-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+9/10 Starting processing org.zooper.zwpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.zooper.zwpro ......
+Success to get info from Play Store
+The lastest version of org.zooper.zwpro-1.apk is  2.50  
+Done processing org.zooper.zwpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+10/10 Starting processing se.maginteractive.rumble-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=se.maginteractive.rumble ......
+Success to get info from Play Store
+The lastest version of se.maginteractive.rumble-1.apk is    Varies with device  
+Done processing se.maginteractive.rumble-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 29 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-27-09-36-48.csv
+**************************************************************

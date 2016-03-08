@@ -1,0 +1,63 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.duomi.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duomi.android ......
+[ERROR] : Cannot find info of com.duomi.android-1.apk on https://play.google.com/store/apps/details?id=com.duomi.android !!!
+Done processing com.duomi.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/7 Starting processing com.gamelion.slots-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamelion.slots ......
+Success to get info from Play Store
+The lastest version of com.gamelion.slots-1.apk is  1.4.269  
+Done processing com.gamelion.slots-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/7 Starting processing com.good.android.gfe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.good.android.gfe ......
+Success to get info from Play Store
+The lastest version of com.good.android.gfe-1.apk is    Varies with device  
+Done processing com.good.android.gfe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/7 Starting processing com.mobage.ww.a1287.History_Attacks_Android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobage.ww.a1287.History_Attacks_Android ......
+[ERROR] : Cannot find info of com.mobage.ww.a1287.History_Attacks_Android-1.apk on https://play.google.com/store/apps/details?id=com.mobage.ww.a1287.History_Attacks_Android !!!
+Done processing com.mobage.ww.a1287.History_Attacks_Android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/7 Starting processing com.perblue.greedforglory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perblue.greedforglory ......
+Success to get info from Play Store
+The lastest version of com.perblue.greedforglory-1.apk is    Varies with device  
+Done processing com.perblue.greedforglory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/7 Starting processing com.perf.fpsshow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perf.fpsshow ......
+[ERROR] : Cannot find info of com.perf.fpsshow-1.apk on https://play.google.com/store/apps/details?id=com.perf.fpsshow !!!
+Done processing com.perf.fpsshow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+7/7 Starting processing com.wooga.diamonddash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wooga.diamonddash ......
+Success to get info from Play Store
+The lastest version of com.wooga.diamonddash-1.apk is    Varies with device  
+Done processing com.wooga.diamonddash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-12-16-50-46.csv
+**************************************************************

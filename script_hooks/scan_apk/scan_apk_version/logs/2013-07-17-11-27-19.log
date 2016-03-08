@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.candyrufusgames.survivalcraft-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft ......
+Success to get info from Play Store
+The lastest version of com.candyrufusgames.survivalcraft-1.apk is  1.22.1.0  
+Done processing com.candyrufusgames.survivalcraft-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.disney.WMW-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.WMW ......
+Success to get info from Play Store
+The lastest version of com.disney.WMW-1.apk is  1.12.0  
+Done processing com.disney.WMW-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.111  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/6 Starting processing com.gamewhizzes.fangzHD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamewhizzes.fangzHD ......
+Success to get info from Play Store
+The lastest version of com.gamewhizzes.fangzHD-1.apk is  1.11  
+Done processing com.gamewhizzes.fangzHD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/6 Starting processing com.halfbrick.jetpackjoyride-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.jetpackjoyride-1.apk is  1.5  
+Done processing com.halfbrick.jetpackjoyride-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/6 Starting processing com.igg.heroes_monsters-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.heroes_monsters ......
+Success to get info from Play Store
+The lastest version of com.igg.heroes_monsters-1.apk is  3.0  
+Done processing com.igg.heroes_monsters-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-17-11-27-19.csv
+**************************************************************

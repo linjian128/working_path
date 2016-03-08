@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.hoteltonight.android.prod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hoteltonight.android.prod ......
+Success to get info from Play Store
+The lastest version of com.hoteltonight.android.prod-1.apk is  4.2.13  
+Done processing com.hoteltonight.android.prod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.ximad.mpuzzle.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ximad.mpuzzle.android ......
+Success to get info from Play Store
+The lastest version of com.ximad.mpuzzle.android-1.apk is    Varies with device  
+Done processing com.ximad.mpuzzle.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-27-10-09-41.csv
+**************************************************************

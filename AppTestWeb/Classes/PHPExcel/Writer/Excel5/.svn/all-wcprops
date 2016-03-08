@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5/Escher.php
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5/Worksheet.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5/Parser.php
+END
+Workbook.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5/Workbook.php
+END
+Xf.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5/Xf.php
+END
+BIFFwriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5/BIFFwriter.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Writer/Excel5/Font.php
+END

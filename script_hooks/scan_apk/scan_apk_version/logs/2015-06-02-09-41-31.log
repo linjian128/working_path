@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.hitentertainment.ThomasLiftandHaul_HT-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.hitentertainment.ThomasLiftandHaul_HT ......
+Success to get info from Play Store
+The lastest version of air.com.hitentertainment.ThomasLiftandHaul_HT-1.apk is  1.2.5  
+Done processing air.com.hitentertainment.ThomasLiftandHaul_HT-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/8 Starting processing com.fungames.sniper3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fungames.sniper3d ......
+Success to get info from Play Store
+The lastest version of com.fungames.sniper3d-1.apk is  1.6.1  
+Done processing com.fungames.sniper3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.google.android.videos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.videos ......
+Success to get info from Play Store
+The lastest version of com.google.android.videos-1.apk is    Varies with device  
+Done processing com.google.android.videos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/8 Starting processing com.halfbrick.fruitninjafree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.fruitninjafree-1.apk is  2.2.8  
+Done processing com.halfbrick.fruitninjafree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/8 Starting processing com.lvlup.buddhify-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lvlup.buddhify ......
+Success to get info from Play Store
+The lastest version of com.lvlup.buddhify-1.apk is  1.0.19  
+Done processing com.lvlup.buddhify-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/8 Starting processing com.naturalmotion.clumsyninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.clumsyninja ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.clumsyninja-1.apk is 
+Done processing com.naturalmotion.clumsyninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/8 Starting processing net.flixster.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.flixster.android ......
+Success to get info from Play Store
+The lastest version of net.flixster.android-1.apk is    Varies with device  
+Done processing net.flixster.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+8/8 Starting processing tunein.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tunein.player ......
+Success to get info from Play Store
+The lastest version of tunein.player-1.apk is    Varies with device  
+Done processing tunein.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 43 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 43 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-02-09-41-31.csv
+**************************************************************

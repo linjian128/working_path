@@ -1,0 +1,33 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.escapistgames.starchart-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.escapistgames.starchart ......
+Success to get info from Play Store
+The lastest version of com.escapistgames.starchart-1.apk is Varies with device
+Done processing com.escapistgames.starchart-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/3 Starting processing com.mapbar.android.mapbarmap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapbar.android.mapbarmap ......
+Success to get info from Play Store
+The lastest version of com.mapbar.android.mapbarmap-1.apk is 6.9.148588
+Done processing com.mapbar.android.mapbarmap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/3 Starting processing com.yinhan.hunter.yh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yinhan.hunter.yh ......
+[ERROR] : Cannot find info of com.yinhan.hunter.yh-1.apk on https://play.google.com/store/apps/details?id=com.yinhan.hunter.yh !!!
+Done processing com.yinhan.hunter.yh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-22-14-29-01.csv
+**************************************************************

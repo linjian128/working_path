@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.disney.MonstersUniversity.goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.MonstersUniversity.goo ......
+Success to get info from Play Store
+The lastest version of com.disney.MonstersUniversity.goo-1.apk is  1.1.0  
+Done processing com.disney.MonstersUniversity.goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/5 Starting processing com.fastemulator.gba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fastemulator.gba ......
+Success to get info from Play Store
+The lastest version of com.fastemulator.gba-1.apk is  1.5.21  
+Done processing com.fastemulator.gba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/5 Starting processing com.magisto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magisto ......
+Success to get info from Play Store
+The lastest version of com.magisto-1.apk is  3.0.3648  
+Done processing com.magisto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/5 Starting processing com.namcowireless.flightcontrol-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.namcowireless.flightcontrol ......
+Success to get info from Play Store
+The lastest version of com.namcowireless.flightcontrol-1.apk is  4.9  
+Done processing com.namcowireless.flightcontrol-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/5 Starting processing com.naquatic.guncraft-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naquatic.guncraft ......
+Success to get info from Play Store
+The lastest version of com.naquatic.guncraft-1.apk is  1.6  
+Done processing com.naquatic.guncraft-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-13-09-42-28.csv
+**************************************************************

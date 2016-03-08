@@ -1,0 +1,65 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is  4.8.0  
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.2.7  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.132  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/7 Starting processing com.facebook.orca-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.orca ......
+Success to get info from Play Store
+The lastest version of com.facebook.orca-1.apk is    Varies with device  
+Done processing com.facebook.orca-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/7 Starting processing com.fastemulator.gba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fastemulator.gba ......
+Success to get info from Play Store
+The lastest version of com.fastemulator.gba-1.apk is  1.5.25  
+Done processing com.fastemulator.gba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/7 Starting processing org.cocos2dx.yijianmietian_91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.cocos2dx.yijianmietian_91 ......
+[ERROR] : Cannot find info of org.cocos2dx.yijianmietian_91-1.apk on https://play.google.com/store/apps/details?id=org.cocos2dx.yijianmietian_91 !!!
+Done processing org.cocos2dx.yijianmietian_91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-21-18-35-57.csv
+**************************************************************

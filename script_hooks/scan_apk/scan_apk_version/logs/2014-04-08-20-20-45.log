@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.MSPMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.MSPMobile ......
+Success to get info from Play Store
+The lastest version of air.MSPMobile-1.apk is  1.9  
+Done processing air.MSPMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.bdddd.floppy3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bdddd.floppy3d ......
+Success to get info from Play Store
+The lastest version of com.bdddd.floppy3d-1.apk is  2.2  
+Done processing com.bdddd.floppy3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.madhead.tos.zh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madhead.tos.zh ......
+Success to get info from Play Store
+The lastest version of com.madhead.tos.zh-1.apk is  5.04  
+Done processing com.madhead.tos.zh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/4 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-08-20-20-45.csv
+**************************************************************

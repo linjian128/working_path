@@ -1,0 +1,31 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/3 Starting processing com.hlgames.raiden.baidu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hlgames.raiden.baidu ......
+[ERROR] : Cannot find info of com.hlgames.raiden.baidu-1.apk on https://play.google.com/store/apps/details?id=com.hlgames.raiden.baidu !!!
+Done processing com.hlgames.raiden.baidu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/3 Starting processing com.joym.happybubble.lenovo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.joym.happybubble.lenovo ......
+[ERROR] : Cannot find info of com.joym.happybubble.lenovo-1.apk on https://play.google.com/store/apps/details?id=com.joym.happybubble.lenovo !!!
+Done processing com.joym.happybubble.lenovo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/3 Starting processing com.xiaoao.moto3d2.lenovo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xiaoao.moto3d2.lenovo ......
+[ERROR] : Cannot find info of com.xiaoao.moto3d2.lenovo-1.apk on https://play.google.com/store/apps/details?id=com.xiaoao.moto3d2.lenovo !!!
+Done processing com.xiaoao.moto3d2.lenovo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-08-26-15-49-20.csv
+**************************************************************

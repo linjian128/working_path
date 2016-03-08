@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/2 Starting processing com.show.android.beauty-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.show.android.beauty ......
+Success to get info from Play Store
+The lastest version of com.show.android.beauty-1.apk is  3.8.0  
+Done processing com.show.android.beauty-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.tieyou.train.ark-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tieyou.train.ark ......
+Success to get info from Play Store
+The lastest version of com.tieyou.train.ark-1.apk is  4.0.2  
+Done processing com.tieyou.train.ark-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-10-10-16-43-41.csv
+**************************************************************

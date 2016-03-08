@@ -1,0 +1,57 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/MOFD  ......
+
+============================================================================
+1/6 Starting processing com.audiocn.kalaok-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.audiocn.kalaok ......
+[ERROR] : Cannot find info of com.audiocn.kalaok-1.apk on https://play.google.com/store/apps/details?id=com.audiocn.kalaok !!!
+Done processing com.audiocn.kalaok-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.bamnetworks.mobile.android.gameday.atbat-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bamnetworks.mobile.android.gameday.atbat ......
+Success to get info from Play Store
+The lastest version of com.bamnetworks.mobile.android.gameday.atbat-1.apk is    Varies with device  
+Done processing com.bamnetworks.mobile.android.gameday.atbat-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.google.android.apps.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.plus ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.plus-1.apk is    Varies with device  
+Done processing com.google.android.apps.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/6 Starting processing com.google.android.talk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.talk ......
+Success to get info from Play Store
+The lastest version of com.google.android.talk-1.apk is    Varies with device  
+Done processing com.google.android.talk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/6 Starting processing com.microsoft.xboxmusic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.microsoft.xboxmusic ......
+Success to get info from Play Store
+The lastest version of com.microsoft.xboxmusic-1.apk is  2.0.40929  
+Done processing com.microsoft.xboxmusic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/6 Starting processing tv.danmaku.bili-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tv.danmaku.bili ......
+Success to get info from Play Store
+The lastest version of tv.danmaku.bili-1.apk is  2.8.2  
+Done processing tv.danmaku.bili-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-10-13-12-42-36.csv
+**************************************************************

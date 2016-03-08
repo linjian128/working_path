@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/1 Starting processing com.tencent.news-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.news ......
+Success to get info from Play Store
+The lastest version of com.tencent.news-1.apk is  4.7.3  
+Done processing com.tencent.news-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-17-15-15-40.csv
+**************************************************************

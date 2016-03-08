@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/4 Starting processing com.autoconnectwifi.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.autoconnectwifi.app ......
+Success to get info from Play Store
+The lastest version of com.autoconnectwifi.app-1.apk is 
+Done processing com.autoconnectwifi.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/4 Starting processing com.dobest.new2048-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dobest.new2048 ......
+Success to get info from Play Store
+The lastest version of com.dobest.new2048-1.apk is 
+Done processing com.dobest.new2048-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+3/4 Starting processing com.tencent.qqlauncher-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlauncher ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlauncher-1.apk is 
+Done processing com.tencent.qqlauncher-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+4/4 Starting processing com.wolfxu.toplay.starsbaopo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wolfxu.toplay.starsbaopo ......
+Success to get info from Play Store
+The lastest version of com.wolfxu.toplay.starsbaopo-1.apk is 
+Done processing com.wolfxu.toplay.starsbaopo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-03-13-15-55-43.csv
+**************************************************************

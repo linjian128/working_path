@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.gameloft.android.ANMP.GloftM4HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM4HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftM4HM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftM4HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing tunein.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tunein.player ......
+Success to get info from Play Store
+The lastest version of tunein.player-1.apk is    Varies with device  
+Done processing tunein.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-21-11-03-45.csv
+**************************************************************

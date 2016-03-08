@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.ammonite.blockops2Free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ammonite.blockops2Free ......
+Success to get info from Play Store
+The lastest version of com.ammonite.blockops2Free-1.apk is  2.02  
+Done processing com.ammonite.blockops2Free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing kr.co.tictocplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.co.tictocplus ......
+Success to get info from Play Store
+The lastest version of kr.co.tictocplus-1.apk is  3.1.6  
+Done processing kr.co.tictocplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-16-17-22-20.csv
+**************************************************************

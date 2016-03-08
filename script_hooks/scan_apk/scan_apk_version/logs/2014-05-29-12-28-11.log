@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.beamdog.baldursgateenhancededition-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.beamdog.baldursgateenhancededition ......
+Success to get info from Play Store
+The lastest version of com.beamdog.baldursgateenhancededition-1.apk is    Varies with device  
+Done processing com.beamdog.baldursgateenhancededition-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/8 Starting processing com.feelingtouch.dipan.slggameglobal-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.feelingtouch.dipan.slggameglobal ......
+Success to get info from Play Store
+The lastest version of com.feelingtouch.dipan.slggameglobal-1.apk is  1.05  
+Done processing com.feelingtouch.dipan.slggameglobal-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is  5.45  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/8 Starting processing com.madhead.tos.zh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madhead.tos.zh ......
+Success to get info from Play Store
+The lastest version of com.madhead.tos.zh-1.apk is  6.03  
+Done processing com.madhead.tos.zh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/8 Starting processing com.naturalmotion.clumsyninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.clumsyninja ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.clumsyninja-1.apk is    Varies with device  
+Done processing com.naturalmotion.clumsyninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/8 Starting processing com.naturalmotion.csrclassics-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.csrclassics ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.csrclassics-1.apk is  1.3.0  
+Done processing com.naturalmotion.csrclassics-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/8 Starting processing com.sega.sonic4epi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sega.sonic4epi ......
+Success to get info from Play Store
+The lastest version of com.sega.sonic4epi-1.apk is  1.00  
+Done processing com.sega.sonic4epi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/8 Starting processing me.pou.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.pou.app ......
+Success to get info from Play Store
+The lastest version of me.pou.app-1.apk is  1.4.41  
+Done processing me.pou.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 30 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-29-12-28-11.csv
+**************************************************************

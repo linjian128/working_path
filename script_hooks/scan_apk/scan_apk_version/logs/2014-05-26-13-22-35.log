@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.buffalo_studios.newflashbingo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo ......
+Success to get info from Play Store
+The lastest version of air.com.buffalo_studios.newflashbingo-1.apk is  2.63.0  
+Done processing air.com.buffalo_studios.newflashbingo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing air.com.sgn.cookiejam.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.cookiejam.gp-1.apk is  2.0.21  
+Done processing air.com.sgn.cookiejam.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.android.chrome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.chrome ......
+Success to get info from Play Store
+The lastest version of com.android.chrome-1.apk is    Varies with device  
+Done processing com.android.chrome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/9 Starting processing com.google.android.gm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gm ......
+Success to get info from Play Store
+The lastest version of com.google.android.gm-1.apk is    Varies with device  
+Done processing com.google.android.gm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/9 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.19.4  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/9 Starting processing com.rdio.android.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rdio.android.ui ......
+Success to get info from Play Store
+The lastest version of com.rdio.android.ui-1.apk is    Varies with device  
+Done processing com.rdio.android.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/9 Starting processing com.zeptolab.ctr2.f2p.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zeptolab.ctr2.f2p.google ......
+Success to get info from Play Store
+The lastest version of com.zeptolab.ctr2.f2p.google-1.apk is    Varies with device  
+Done processing com.zeptolab.ctr2.f2p.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/9 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is  4.4.0  
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+9/9 Starting processing me.pou.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.pou.app ......
+Success to get info from Play Store
+The lastest version of me.pou.app-1.apk is  1.4.40  
+Done processing me.pou.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-26-13-22-35.csv
+**************************************************************

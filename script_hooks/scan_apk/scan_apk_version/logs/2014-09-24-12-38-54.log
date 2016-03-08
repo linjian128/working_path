@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.dotemu.ddtrilogy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.ddtrilogy ......
+Success to get info from Play Store
+The lastest version of com.dotemu.ddtrilogy-1.apk is  1.5  
+Done processing com.dotemu.ddtrilogy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.noodlecake.waywardsouls-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.noodlecake.waywardsouls ......
+Success to get info from Play Store
+The lastest version of com.noodlecake.waywardsouls-1.apk is  1.22  
+Done processing com.noodlecake.waywardsouls-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-24-12-38-54.csv
+**************************************************************

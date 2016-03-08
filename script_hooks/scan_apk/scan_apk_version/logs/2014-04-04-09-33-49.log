@@ -1,0 +1,106 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing air.com.freshplanet.games.SongPopPremium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.SongPopPremium ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.SongPopPremium-1.apk is  1.13.4  
+Done processing air.com.freshplanet.games.SongPopPremium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/12 Starting processing com.disney.ToyStorySmashIt.goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.ToyStorySmashIt.goo ......
+Success to get info from Play Store
+The lastest version of com.disney.ToyStorySmashIt.goo-1.apk is  1.2.2  
+Done processing com.disney.ToyStorySmashIt.goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/12 Starting processing com.disney.WMW-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.WMW ......
+Success to get info from Play Store
+The lastest version of com.disney.WMW-1.apk is  1.13.1  
+Done processing com.disney.WMW-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/12 Starting processing com.ea.game.pvz2_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.pvz2_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.pvz2_na-1.apk is  2.1.1  
+Done processing com.ea.game.pvz2_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/12 Starting processing com.king.farmheroessaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.farmheroessaga ......
+Success to get info from Play Store
+The lastest version of com.king.farmheroessaga-1.apk is  2.4.7  
+Done processing com.king.farmheroessaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/12 Starting processing com.playfirst.playground.weddingdashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.weddingdashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.weddingdashdeluxe-1.apk is  2.27.0  
+Done processing com.playfirst.playground.weddingdashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/12 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+Success to get info from Play Store
+The lastest version of com.sds.android.ttpod-1.apk is  7.0.0  
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+8/12 Starting processing com.shopkick.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shopkick.app ......
+Success to get info from Play Store
+The lastest version of com.shopkick.app-1.apk is  4.2.4  
+Done processing com.shopkick.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+9/12 Starting processing com.square_enix.android_googleplay.FFIII_GP-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFIII_GP-1.apk is  1.0.7  
+Done processing com.square_enix.android_googleplay.FFIII_GP-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+10/12 Starting processing com.tencent.qqpim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqpim ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqpim-1.apk is  4.7  
+Done processing com.tencent.qqpim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+11/12 Starting processing dopool.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=dopool.player ......
+Success to get info from Play Store
+The lastest version of dopool.player-1.apk is  4.1.2  
+Done processing dopool.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+12/12 Starting processing udk.android.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=udk.android.reader ......
+Success to get info from Play Store
+The lastest version of udk.android.reader-1.apk is  2.5.1.0  
+Done processing udk.android.reader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 28 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-04-09-33-49.csv
+**************************************************************

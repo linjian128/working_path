@@ -1,0 +1,54 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/6 Starting processing com.baidu.video-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.video ......
+[ERROR] : Cannot find info of com.baidu.video-1.apk on https://play.google.com/store/apps/details?id=com.baidu.video !!!
+Done processing com.baidu.video-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.cubic.choosecar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cubic.choosecar ......
+Success to get info from Play Store
+The lastest version of com.cubic.choosecar-1.apk is  3.8.3  
+Done processing com.cubic.choosecar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/6 Starting processing com.erdo.android.FJDXCartoon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.erdo.android.FJDXCartoon ......
+[ERROR] : Cannot find info of com.erdo.android.FJDXCartoon-1.apk on https://play.google.com/store/apps/details?id=com.erdo.android.FJDXCartoon !!!
+Done processing com.erdo.android.FJDXCartoon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/6 Starting processing com.iflytek.cmcc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iflytek.cmcc ......
+[ERROR] : Cannot find info of com.iflytek.cmcc-1.apk on https://play.google.com/store/apps/details?id=com.iflytek.cmcc !!!
+Done processing com.iflytek.cmcc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/6 Starting processing com.popcap.pvz2bddk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.popcap.pvz2bddk ......
+[ERROR] : Cannot find info of com.popcap.pvz2bddk-1.apk on https://play.google.com/store/apps/details?id=com.popcap.pvz2bddk !!!
+Done processing com.popcap.pvz2bddk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/6 Starting processing com.quanleimu.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quanleimu.activity ......
+Success to get info from Play Store
+The lastest version of com.quanleimu.activity-1.apk is  6.1.1  
+Done processing com.quanleimu.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-30-11-14-34.csv
+**************************************************************

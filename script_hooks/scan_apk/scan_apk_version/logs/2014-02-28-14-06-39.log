@@ -1,0 +1,106 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing com.animoca.google.starGirl-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.animoca.google.starGirl ......
+Success to get info from Play Store
+The lastest version of com.animoca.google.starGirl-1.apk is  3.1  
+Done processing com.animoca.google.starGirl-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/12 Starting processing com.djinnworks.StickStuntBiker2.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.StickStuntBiker2.free ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.StickStuntBiker2.free-1.apk is  2.2  
+Done processing com.djinnworks.StickStuntBiker2.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/12 Starting processing com.enflick.android.TextNow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.enflick.android.TextNow ......
+Success to get info from Play Store
+The lastest version of com.enflick.android.TextNow-1.apk is    Varies with device  
+Done processing com.enflick.android.TextNow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/12 Starting processing com.gameloft.android.ANMP.GloftUOHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftUOHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftUOHM-1.apk is  1.5.1  
+Done processing com.gameloft.android.ANMP.GloftUOHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/12 Starting processing com.gogii.textplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gogii.textplus ......
+Success to get info from Play Store
+The lastest version of com.gogii.textplus-1.apk is  5.9.2.4692  
+Done processing com.gogii.textplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/12 Starting processing com.guildsoftware.vendetta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta ......
+Success to get info from Play Store
+The lastest version of com.guildsoftware.vendetta-1.apk is  1.8.281  
+Done processing com.guildsoftware.vendetta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/12 Starting processing com.outfit7.talkingtom2free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free ......
+Success to get info from Play Store
+The lastest version of com.outfit7.talkingtom2free-1.apk is    Varies with device  
+Done processing com.outfit7.talkingtom2free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/12 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is    Varies with device  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+9/12 Starting processing com.starbucks.mobilecard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.starbucks.mobilecard ......
+Success to get info from Play Store
+The lastest version of com.starbucks.mobilecard-1.apk is  2.4.3  
+Done processing com.starbucks.mobilecard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+10/12 Starting processing com.tinyco.monsters-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.monsters ......
+Success to get info from Play Store
+The lastest version of com.tinyco.monsters-1.apk is  2.4  
+Done processing com.tinyco.monsters-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+11/12 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is    Varies with device  
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+12/12 Starting processing com.vevo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vevo ......
+Success to get info from Play Store
+The lastest version of com.vevo-1.apk is  1.5.7  
+Done processing com.vevo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 23 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-28-14-06-39.csv
+**************************************************************

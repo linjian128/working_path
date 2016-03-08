@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.generamobile.slotmagodeoz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.generamobile.slotmagodeoz ......
+Success to get info from Play Store
+The lastest version of air.com.generamobile.slotmagodeoz-1.apk is  1.0.7  
+Done processing air.com.generamobile.slotmagodeoz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.ea.game.tetris2011_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.tetris2011_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.tetris2011_na-1.apk is  1.4.00  
+Done processing com.ea.game.tetris2011_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.soundcloud.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.soundcloud.android ......
+Success to get info from Play Store
+The lastest version of com.soundcloud.android-1.apk is    Varies with device  
+Done processing com.soundcloud.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/4 Starting processing it.junglestudios.splashyfish-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=it.junglestudios.splashyfish ......
+Success to get info from Play Store
+The lastest version of it.junglestudios.splashyfish-1.apk is  1.8  
+Done processing it.junglestudios.splashyfish-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-21-11-15-46.csv
+**************************************************************

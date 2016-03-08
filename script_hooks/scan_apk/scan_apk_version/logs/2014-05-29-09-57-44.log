@@ -1,0 +1,114 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.android.chrome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.chrome ......
+Success to get info from Play Store
+The lastest version of com.android.chrome-1.apk is    Varies with device  
+Done processing com.android.chrome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+2/13 Starting processing com.dama.camera2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.camera2 ......
+Success to get info from Play Store
+The lastest version of com.dama.camera2-1.apk is  3.0.0  
+Done processing com.dama.camera2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+3/13 Starting processing com.funcity.taxi.passenger-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.funcity.taxi.passenger ......
+Success to get info from Play Store
+The lastest version of com.funcity.taxi.passenger-1.apk is  3.1  
+Done processing com.funcity.taxi.passenger-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+4/13 Starting processing com.immomo.momo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.immomo.momo ......
+Success to get info from Play Store
+The lastest version of com.immomo.momo-1.apk is  4.12  
+Done processing com.immomo.momo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+5/13 Starting processing com.navigon.navigator_checkout_eu40-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.navigon.navigator_checkout_eu40 ......
+Success to get info from Play Store
+The lastest version of com.navigon.navigator_checkout_eu40-1.apk is  5.2.2  
+Done processing com.navigon.navigator_checkout_eu40-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+6/13 Starting processing com.sankuai.meituan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sankuai.meituan ......
+Success to get info from Play Store
+The lastest version of com.sankuai.meituan-1.apk is  4.6  
+Done processing com.sankuai.meituan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+7/13 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+Success to get info from Play Store
+The lastest version of com.sds.android.ttpod-1.apk is  7.1.0  
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+8/13 Starting processing com.sohu.inputmethod.sogou-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sohu.inputmethod.sogou ......
+Success to get info from Play Store
+The lastest version of com.sohu.inputmethod.sogou-1.apk is  5.6  
+Done processing com.sohu.inputmethod.sogou-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+9/13 Starting processing com.tencent.qqlive-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlive ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlive-1.apk is    Varies with device  
+Done processing com.tencent.qqlive-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+10/13 Starting processing com.tencent.qqpinyin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqpinyin ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqpinyin-1.apk is  4.5_1288  
+Done processing com.tencent.qqpinyin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+11/13 Starting processing com.thegamebakers.combocrew-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.thegamebakers.combocrew ......
+Success to get info from Play Store
+The lastest version of com.thegamebakers.combocrew-1.apk is  1.3.2  
+Done processing com.thegamebakers.combocrew-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 44 Seconds
+
+============================================================================
+12/13 Starting processing eu.namcobandaigames.tekkencard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=eu.namcobandaigames.tekkencard ......
+Success to get info from Play Store
+The lastest version of eu.namcobandaigames.tekkencard-1.apk is  2.050  
+Done processing eu.namcobandaigames.tekkencard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 48 Seconds
+
+============================================================================
+13/13 Starting processing jp.naver.SJLGWR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.SJLGWR ......
+Success to get info from Play Store
+The lastest version of jp.naver.SJLGWR-1.apk is  2.2.6  
+Done processing jp.naver.SJLGWR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 53 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 53 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-29-09-57-44.csv
+**************************************************************

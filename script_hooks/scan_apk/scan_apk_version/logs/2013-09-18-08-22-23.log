@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.ezjoynetwork.ninjadashing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ezjoynetwork.ninjadashing ......
+Success to get info from Play Store
+The lastest version of com.ezjoynetwork.ninjadashing-1.apk is  1.1.9  
+Done processing com.ezjoynetwork.ninjadashing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.intsig.camscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intsig.camscanner ......
+Success to get info from Play Store
+The lastest version of com.intsig.camscanner-1.apk is  2.6.1.20130906  
+Done processing com.intsig.camscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/6 Starting processing com.jpn.gemstone.numer0n.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jpn.gemstone.numer0n.android ......
+Success to get info from Play Store
+The lastest version of com.jpn.gemstone.numer0n.android-1.apk is  2.9.0  
+Done processing com.jpn.gemstone.numer0n.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/6 Starting processing com.strawdogstudios.peppapig_hmc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.strawdogstudios.peppapig_hmc ......
+Success to get info from Play Store
+The lastest version of com.strawdogstudios.peppapig_hmc-1.apk is  2.0  
+Done processing com.strawdogstudios.peppapig_hmc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/6 Starting processing jp.naver.SJFISHING-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.SJFISHING ......
+Success to get info from Play Store
+The lastest version of jp.naver.SJFISHING-1.apk is  1.1.0  
+Done processing jp.naver.SJFISHING-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/6 Starting processing net.peakgames.OkeyPlus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.peakgames.OkeyPlus ......
+Success to get info from Play Store
+The lastest version of net.peakgames.OkeyPlus-1.apk is  2.6  
+Done processing net.peakgames.OkeyPlus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-18-08-22-23.csv
+**************************************************************

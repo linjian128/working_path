@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.disney.TempleRunOz.goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.TempleRunOz.goo ......
+Success to get info from Play Store
+The lastest version of com.disney.TempleRunOz.goo-1.apk is  1.6.2  
+Done processing com.disney.TempleRunOz.goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.facebook.orca-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.orca ......
+Success to get info from Play Store
+The lastest version of com.facebook.orca-1.apk is    Varies with device  
+Done processing com.facebook.orca-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/5 Starting processing com.leftover.CoinDozer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.leftover.CoinDozer ......
+Success to get info from Play Store
+The lastest version of com.leftover.CoinDozer-1.apk is    Varies with device  
+Done processing com.leftover.CoinDozer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/5 Starting processing com.ultimateguitar.tabs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs ......
+Success to get info from Play Store
+The lastest version of com.ultimateguitar.tabs-1.apk is    Varies with device  
+Done processing com.ultimateguitar.tabs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/5 Starting processing slide.cameraZoom-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=slide.cameraZoom ......
+Success to get info from Play Store
+The lastest version of slide.cameraZoom-1.apk is  5.4.4  
+Done processing slide.cameraZoom-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-02-16-48-20.csv
+**************************************************************

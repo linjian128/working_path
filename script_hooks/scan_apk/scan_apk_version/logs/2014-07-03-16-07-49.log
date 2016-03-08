@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.ea.game.monopolyslots_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.ea.game.monopolyslots_na ......
+Success to get info from Play Store
+The lastest version of air.com.ea.game.monopolyslots_na-1.apk is  5.5.33  
+Done processing air.com.ea.game.monopolyslots_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.degoo.android.washpet-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.washpet ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.washpet-1.apk is  1.1.4  
+Done processing com.degoo.android.washpet-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/9 Starting processing com.disney.wheresmywater2_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.wheresmywater2_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.wheresmywater2_goo-1.apk is  1.2.2  
+Done processing com.disney.wheresmywater2_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/9 Starting processing com.kylinworks.oneb2f-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kylinworks.oneb2f ......
+Success to get info from Play Store
+The lastest version of com.kylinworks.oneb2f-1.apk is  1.1  
+Done processing com.kylinworks.oneb2f-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/9 Starting processing com.spaceapegames.samuraisiege-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.spaceapegames.samuraisiege ......
+Success to get info from Play Store
+The lastest version of com.spaceapegames.samuraisiege-1.apk is    Varies with device  
+Done processing com.spaceapegames.samuraisiege-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/9 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is  2.3.25  
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/9 Starting processing jp.gree.jackpot-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gree.jackpot ......
+Success to get info from Play Store
+The lastest version of jp.gree.jackpot-1.apk is  1.12.3  
+Done processing jp.gree.jackpot-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/9 Starting processing quess.song.music.pop.quiz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=quess.song.music.pop.quiz ......
+Success to get info from Play Store
+The lastest version of quess.song.music.pop.quiz-1.apk is    Varies with device  
+Done processing quess.song.music.pop.quiz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/9 Starting processing uk.co.aifactory.chessfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=uk.co.aifactory.chessfree ......
+Success to get info from Play Store
+The lastest version of uk.co.aifactory.chessfree-1.apk is  2.01  
+Done processing uk.co.aifactory.chessfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-03-16-07-49.csv
+**************************************************************

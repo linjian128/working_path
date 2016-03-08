@@ -1,0 +1,60 @@
+#!/bin/bash
+#checkout the updated files, and upload apk files to AppTestWeb by import_update_apk_from_list.php
+echo "post-update begin"
+
+PWD=`pwd`
+git_dir=`cat ../code_resource/config.ini | grep -w "^GIT_LOCAL_URL" | awk -F "=" '{print $2}'`
+db_host=`cat ../code_resource/config.ini | grep -w "^DB_HOST_REMOTE" | awk -F "=" '{print $2}'`
+db_user=`cat ../code_resource/config.ini | grep -w "^DB_USER" | awk -F "=" '{print $2}'`
+db_password=`cat ../code_resource/config.ini | grep -w "^DB_PASSWORD" | awk -F "=" '{print $2}'`
+db_schema=`cat ../code_resource/config.ini | grep -w "^DB_SCHEMA" | awk -F "=" '{print $2}'`
+
+
+cd $git_dir
+env -i git diff --cached --name-status > $git_dir/code_resource/script_hooks/git_diff_log
+platform=$(env -i git diff --cached --name-status | cut -f2 | grep .apk | cut -d'/' -f1|head -1)
+env -i git diff --cached --name-status | cut -f2 | grep .apk | cut -d'/' -f2 > Updated_list
+env -i git checkout -- Update_log/log
+env -i git checkout -f
+
+cd ${git_dir}/code_resource/script_hooks/import_update_apk
+
+echo "===========${git_dir}/Updated_list"
+cat ${git_dir}/Updated_list
+
+#echo "platform=$platform"
+for apk_file in `cat ${git_dir}/Updated_list`
+do
+    cp ${git_dir}/$platform/$apk_file ${git_dir}/code_resource/script_hooks/scan_apk/scan_interface/APK/
+done
+
+#echo "000000000"
+ls ${git_dir}/code_resource/script_hooks/import_update_apk/apk_non_NDK_pro/apk_file/
+
+if [ -s $git_dir/Updated_list ]; then
+        php import_update_apk_from_list.php ${git_dir}/Updated_list ${git_dir}/$platform $platform |tee  ${git_dir}/App_Uploading_log
+fi
+
+cd ${git_dir}/code_resource/script_hooks/scan_apk/scan_apk_version/
+sh scan_apk_version.sh ${git_dir}/$platform ${git_dir}/Updated_list > /dev/null
+
+cp ${git_dir}/Updated_list ${git_dir}/code_resource/script_hooks/scan_apk/neon_scan/
+cd ${git_dir}/code_resource/script_hooks/scan_apk/neon_scan/
+bash total.sh $platform
+
+cd ${git_dir}/code_resource/script_hooks/scan_apk/scan_interface
+./scan.sh ./LIB ./APK
+python non_ndk_api.py ${db_host} ${db_user} ${db_password} ${db_schema}
+
+cd ${git_dir}/code_resource/script_hooks/scan_apk/scan_libsecuritysdk/
+echo ">>>>>>>>>`date +%Y-%m-%d\ %H:%M:%S`>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" >> updated_list
+cat ${git_dir}/Updated_list >> updated_list
+for apk_file in `cat ${git_dir}/Updated_list`
+do
+    ./scan.sh ${git_dir}/${platform}/${apk_file} ${platform}
+done
+
+rm -rf ${git_dir}/code_resource/script_hooks/scan_apk/scan_interface/APK/*
+rm -f ${git_dir}/Updated_list
+
+echo "post-update end"

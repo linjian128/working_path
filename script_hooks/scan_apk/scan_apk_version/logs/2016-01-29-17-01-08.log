@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/1 Starting processing com.sj4399.mcpetool-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sj4399.mcpetool ......
+Success to get info from Play Store
+The lastest version of com.sj4399.mcpetool-1.apk is 
+Done processing com.sj4399.mcpetool-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-29-17-01-08.csv
+**************************************************************

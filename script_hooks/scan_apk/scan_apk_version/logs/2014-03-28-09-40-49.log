@@ -1,0 +1,71 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.doodie.wybandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.doodie.wybandroid ......
+Success to get info from Play Store
+The lastest version of air.com.doodie.wybandroid-1.apk is  1.2  
+Done processing air.com.doodie.wybandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/8 Starting processing com.UCMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.UCMobile ......
+Success to get info from Play Store
+The lastest version of com.UCMobile-1.apk is  9.6.1  
+Done processing com.UCMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/8 Starting processing com.fenbi.android.gaokao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fenbi.android.gaokao ......
+Success to get info from Play Store
+The lastest version of com.fenbi.android.gaokao-1.apk is  2.1.1  
+Done processing com.fenbi.android.gaokao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/8 Starting processing com.gamed9.lol.appchina-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamed9.lol.appchina ......
+[ERROR] : Cannot find info of com.gamed9.lol.appchina-1.apk on https://play.google.com/store/apps/details?id=com.gamed9.lol.appchina !!!
+Done processing com.gamed9.lol.appchina-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+5/8 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is    Varies with device  
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/8 Starting processing com.wandoujia.phoenix2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 ......
+[ERROR] : Cannot find info of com.wandoujia.phoenix2-1.apk on https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 !!!
+Done processing com.wandoujia.phoenix2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+7/8 Starting processing com.youai.saint.platform.yingyonghui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youai.saint.platform.yingyonghui ......
+[ERROR] : Cannot find info of com.youai.saint.platform.yingyonghui-1.apk on https://play.google.com/store/apps/details?id=com.youai.saint.platform.yingyonghui !!!
+Done processing com.youai.saint.platform.yingyonghui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+8/8 Starting processing radiotime.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=radiotime.player ......
+Success to get info from Play Store
+The lastest version of radiotime.player-1.apk is  11.3  
+Done processing radiotime.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-28-09-40-49.csv
+**************************************************************

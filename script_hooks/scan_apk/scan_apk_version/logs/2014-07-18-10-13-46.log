@@ -1,0 +1,55 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.aemobile.games.aemotor3d2.qihoo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aemobile.games.aemotor3d2.qihoo ......
+[ERROR] : Cannot find info of com.aemobile.games.aemotor3d2.qihoo-1.apk on https://play.google.com/store/apps/details?id=com.aemobile.games.aemotor3d2.qihoo !!!
+Done processing com.aemobile.games.aemotor3d2.qihoo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.brianbaek.popstar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.brianbaek.popstar ......
+Success to get info from Play Store
+The lastest version of com.brianbaek.popstar-1.apk is  1.05  
+Done processing com.brianbaek.popstar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.carrot.carrotfantasy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.carrot.carrotfantasy ......
+Success to get info from Play Store
+The lastest version of com.carrot.carrotfantasy-1.apk is  1.1.0  
+Done processing com.carrot.carrotfantasy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/6 Starting processing com.carrot.iceworld-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.carrot.iceworld ......
+Success to get info from Play Store
+The lastest version of com.carrot.iceworld-1.apk is  1.0.1  
+Done processing com.carrot.iceworld-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/6 Starting processing com.cnvcs.xiangqi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cnvcs.xiangqi ......
+[ERROR] : Cannot find info of com.cnvcs.xiangqi-1.apk on https://play.google.com/store/apps/details?id=com.cnvcs.xiangqi !!!
+Done processing com.cnvcs.xiangqi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/6 Starting processing com.sxiaoao.car3d3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sxiaoao.car3d3 ......
+[ERROR] : Cannot find info of com.sxiaoao.car3d3-1.apk on https://play.google.com/store/apps/details?id=com.sxiaoao.car3d3 !!!
+Done processing com.sxiaoao.car3d3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-18-10-13-46.csv
+**************************************************************

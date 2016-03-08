@@ -1,0 +1,98 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing air.com.bitrhymes.bingo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.bitrhymes.bingo ......
+Success to get info from Play Store
+The lastest version of air.com.bitrhymes.bingo-1.apk is 1.9.0
+Done processing air.com.bitrhymes.bingo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/11 Starting processing com.amazinggame.duck-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.amazinggame.duck ......
+Success to get info from Play Store
+The lastest version of com.amazinggame.duck-1.apk is 1.0.4
+Done processing com.amazinggame.duck-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/11 Starting processing com.batteryacid.highwayrider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.batteryacid.highwayrider ......
+Success to get info from Play Store
+The lastest version of com.batteryacid.highwayrider-1.apk is 1.4.3
+Done processing com.batteryacid.highwayrider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/11 Starting processing com.bfs.ninjump-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bfs.ninjump ......
+Success to get info from Play Store
+The lastest version of com.bfs.ninjump-1.apk is Varies with device
+Done processing com.bfs.ninjump-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/11 Starting processing com.ezjoynetwork.jewelsmaze2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ezjoynetwork.jewelsmaze2 ......
+Success to get info from Play Store
+The lastest version of com.ezjoynetwork.jewelsmaze2-1.apk is 1.1.3
+Done processing com.ezjoynetwork.jewelsmaze2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/11 Starting processing com.game.SkaterBoy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.game.SkaterBoy ......
+Success to get info from Play Store
+The lastest version of com.game.SkaterBoy-1.apk is 1.5
+Done processing com.game.SkaterBoy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/11 Starting processing com.gamehivecorp.kicktheboss2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamehivecorp.kicktheboss2 ......
+Success to get info from Play Store
+The lastest version of com.gamehivecorp.kicktheboss2-1.apk is 1.3
+Done processing com.gamehivecorp.kicktheboss2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/11 Starting processing com.hotheadgames.google.free.bigwinbasketball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.bigwinbasketball ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.bigwinbasketball-1.apk is 2.1.0
+Done processing com.hotheadgames.google.free.bigwinbasketball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/11 Starting processing com.kiwi.shipwrecked-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiwi.shipwrecked ......
+Success to get info from Play Store
+The lastest version of com.kiwi.shipwrecked-1.apk is 1.1.12
+Done processing com.kiwi.shipwrecked-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+10/11 Starting processing com.mobage.ww.a759.Blood_Brothers_Android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobage.ww.a759.Blood_Brothers_Android ......
+Success to get info from Play Store
+The lastest version of com.mobage.ww.a759.Blood_Brothers_Android-1.apk is 1.10.0.1.3
+Done processing com.mobage.ww.a759.Blood_Brothers_Android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+11/11 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is 1.9.35
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-18-17-05-11.csv
+**************************************************************

@@ -1,0 +1,70 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing cmccwm.mobilemusic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cmccwm.mobilemusic ......
+[ERROR] : Cannot find info of cmccwm.mobilemusic-1.apk on https://play.google.com/store/apps/details?id=cmccwm.mobilemusic !!!
+Done processing cmccwm.mobilemusic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/8 Starting processing com.gameloft.android.ANMP.GloftM3HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM3HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftM3HM-1.apk is  1.1.4g  
+Done processing com.gameloft.android.ANMP.GloftM3HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/8 Starting processing com.mgyun.shua.su-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mgyun.shua.su ......
+[ERROR] : Cannot find info of com.mgyun.shua.su-1.apk on https://play.google.com/store/apps/details?id=com.mgyun.shua.su !!!
+Done processing com.mgyun.shua.su-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/8 Starting processing com.quvideo.xiaoying-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quvideo.xiaoying ......
+Success to get info from Play Store
+The lastest version of com.quvideo.xiaoying-1.apk is  3.7.1  
+Done processing com.quvideo.xiaoying-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/8 Starting processing com.tencent.feiji-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.feiji ......
+[ERROR] : Cannot find info of com.tencent.feiji-1.apk on https://play.google.com/store/apps/details?id=com.tencent.feiji !!!
+Done processing com.tencent.feiji-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/8 Starting processing com.tencent.myelf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.myelf ......
+[ERROR] : Cannot find info of com.tencent.myelf-1.apk on https://play.google.com/store/apps/details?id=com.tencent.myelf !!!
+Done processing com.tencent.myelf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/8 Starting processing com.tencent.token-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.token ......
+Success to get info from Play Store
+The lastest version of com.tencent.token-1.apk is  3.0.0  
+Done processing com.tencent.token-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/8 Starting processing com.vascogames.truckdriver3dextremeroads-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vascogames.truckdriver3dextremeroads ......
+Success to get info from Play Store
+The lastest version of com.vascogames.truckdriver3dextremeroads-1.apk is  1.22  
+Done processing com.vascogames.truckdriver3dextremeroads-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-12-14-01-54.csv
+**************************************************************

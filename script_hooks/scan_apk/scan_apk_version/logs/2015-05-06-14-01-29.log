@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.gamesys.mobile.slots.jpj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.gamesys.mobile.slots.jpj ......
+Success to get info from Play Store
+The lastest version of air.com.gamesys.mobile.slots.jpj-1.apk is  2.1.4  
+Done processing air.com.gamesys.mobile.slots.jpj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.astragon.cs2014-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.astragon.cs2014 ......
+Success to get info from Play Store
+The lastest version of com.astragon.cs2014-1.apk is 
+Done processing com.astragon.cs2014-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/10 Starting processing com.ea.scrabblefree_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.scrabblefree_na ......
+Success to get info from Play Store
+The lastest version of com.ea.scrabblefree_na-1.apk is  3.8.1.691326  
+Done processing com.ea.scrabblefree_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/10 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/10 Starting processing com.igg.android.godsrush_en-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.android.godsrush_en ......
+Success to get info from Play Store
+The lastest version of com.igg.android.godsrush_en-1.apk is  1.1.38  
+Done processing com.igg.android.godsrush_en-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/10 Starting processing com.midasplayer.apps.bubblewitchsaga2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitchsaga2 ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitchsaga2-1.apk is 
+Done processing com.midasplayer.apps.bubblewitchsaga2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+7/10 Starting processing com.nhnent.SKQUEST-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nhnent.SKQUEST ......
+Success to get info from Play Store
+The lastest version of com.nhnent.SKQUEST-1.apk is  1.6.3.KG  
+Done processing com.nhnent.SKQUEST-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+8/10 Starting processing com.smule.singandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smule.singandroid ......
+Success to get info from Play Store
+The lastest version of com.smule.singandroid-1.apk is  3.0.3  
+Done processing com.smule.singandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+9/10 Starting processing com.theonegames.gunshipbattle-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.theonegames.gunshipbattle ......
+Success to get info from Play Store
+The lastest version of com.theonegames.gunshipbattle-1.apk is  1.4.4  
+Done processing com.theonegames.gunshipbattle-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+10/10 Starting processing com.wb.goog.scribbleremix-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.scribbleremix ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.scribbleremix-1.apk is  6.0  
+Done processing com.wb.goog.scribbleremix-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 46 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-06-14-01-29.csv
+**************************************************************

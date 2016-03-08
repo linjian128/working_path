@@ -1,0 +1,121 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/14 Starting processing au.com.sightwords.parrotfish-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=au.com.sightwords.parrotfish ......
+Success to get info from Play Store
+The lastest version of au.com.sightwords.parrotfish-1.apk is  3.03  
+Done processing au.com.sightwords.parrotfish-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/14 Starting processing com.android.vending-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.vending ......
+[ERROR] : Cannot find info of com.android.vending-1.apk on https://play.google.com/store/apps/details?id=com.android.vending !!!
+Done processing com.android.vending-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/14 Starting processing com.baidu.searchbox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.searchbox ......
+Success to get info from Play Store
+The lastest version of com.baidu.searchbox-1.apk is  6.9.1  
+Done processing com.baidu.searchbox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/14 Starting processing com.google.android.apps.docs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.docs ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.docs-1.apk is    Varies with device  
+Done processing com.google.android.apps.docs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/14 Starting processing com.google.android.apps.maps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.maps ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.maps-1.apk is    Varies with device  
+Done processing com.google.android.apps.maps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/14 Starting processing com.google.android.apps.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.plus ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.plus-1.apk is    Varies with device  
+Done processing com.google.android.apps.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/14 Starting processing com.google.android.inputmethod.latin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin ......
+Success to get info from Play Store
+The lastest version of com.google.android.inputmethod.latin-1.apk is 
+Done processing com.google.android.inputmethod.latin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/14 Starting processing com.jumpgames.pacificrim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jumpgames.pacificrim ......
+Success to get info from Play Store
+The lastest version of com.jumpgames.pacificrim-1.apk is  1.9.6  
+Done processing com.jumpgames.pacificrim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/14 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+10/14 Starting processing com.playstudios.myvegas-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playstudios.myvegas ......
+Success to get info from Play Store
+The lastest version of com.playstudios.myvegas-1.apk is  1.24.0  
+Done processing com.playstudios.myvegas-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+11/14 Starting processing com.sidheinteractive.sif.DR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sidheinteractive.sif.DR ......
+Success to get info from Play Store
+The lastest version of com.sidheinteractive.sif.DR-1.apk is    Varies with device  
+Done processing com.sidheinteractive.sif.DR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+12/14 Starting processing com.sxiaoao.meirenyu.english-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sxiaoao.meirenyu.english ......
+Success to get info from Play Store
+The lastest version of com.sxiaoao.meirenyu.english-1.apk is  1.1.8  
+Done processing com.sxiaoao.meirenyu.english-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+13/14 Starting processing com.walmart.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.walmart.android ......
+Success to get info from Play Store
+The lastest version of com.walmart.android-1.apk is  3.1.0  
+Done processing com.walmart.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+14/14 Starting processing com.youdao.dict-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youdao.dict ......
+Success to get info from Play Store
+The lastest version of com.youdao.dict-1.apk is  6.1.0  
+Done processing com.youdao.dict-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 35 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-16-23-19-58.csv
+**************************************************************

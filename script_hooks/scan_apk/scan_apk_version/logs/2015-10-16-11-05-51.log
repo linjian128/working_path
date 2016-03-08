@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.futuremark.dmandroid.application-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.futuremark.dmandroid.application ......
+Success to get info from Play Store
+The lastest version of com.futuremark.dmandroid.application-1.apk is  1.5.3285  
+Done processing com.futuremark.dmandroid.application-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-10-16-11-05-51.csv
+**************************************************************

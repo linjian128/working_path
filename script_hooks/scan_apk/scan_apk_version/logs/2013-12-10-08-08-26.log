@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.droidhen.game.poker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.droidhen.game.poker ......
+Success to get info from Play Store
+The lastest version of com.droidhen.game.poker-1.apk is  1.4.4  
+Done processing com.droidhen.game.poker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/6 Starting processing com.glu.flcn_new-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.flcn_new ......
+Success to get info from Play Store
+The lastest version of com.glu.flcn_new-1.apk is  3.0.0  
+Done processing com.glu.flcn_new-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/6 Starting processing com.hz.game.cd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hz.game.cd ......
+Success to get info from Play Store
+The lastest version of com.hz.game.cd-1.apk is  1.3.5  
+Done processing com.hz.game.cd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/6 Starting processing com.leftover.CoinDozer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.leftover.CoinDozer ......
+Success to get info from Play Store
+The lastest version of com.leftover.CoinDozer-1.apk is    Varies with device  
+Done processing com.leftover.CoinDozer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/6 Starting processing com.naturalmotion.csrracing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.csrracing ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.csrracing-1.apk is  1.3.0  
+Done processing com.naturalmotion.csrracing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-10-08-08-26.csv
+**************************************************************

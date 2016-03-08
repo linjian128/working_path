@@ -1,0 +1,106 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing com.aim.racing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aim.racing ......
+Success to get info from Play Store
+The lastest version of com.aim.racing-1.apk is  3.4  
+Done processing com.aim.racing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/12 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/12 Starting processing com.droidhen.game.poker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.droidhen.game.poker ......
+Success to get info from Play Store
+The lastest version of com.droidhen.game.poker-1.apk is  1.8.7  
+Done processing com.droidhen.game.poker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/12 Starting processing com.headupgames.bridgeconstructorplayground-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorplayground ......
+Success to get info from Play Store
+The lastest version of com.headupgames.bridgeconstructorplayground-1.apk is  1.4  
+Done processing com.headupgames.bridgeconstructorplayground-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+5/12 Starting processing com.hotheadgames.google.free.rawsniper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.rawsniper ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.rawsniper-1.apk is  1.5  
+Done processing com.hotheadgames.google.free.rawsniper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+6/12 Starting processing com.instagram.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.instagram.android ......
+Success to get info from Play Store
+The lastest version of com.instagram.android-1.apk is    Varies with device  
+Done processing com.instagram.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+7/12 Starting processing com.intsig.BizCardReader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intsig.BizCardReader ......
+Success to get info from Play Store
+The lastest version of com.intsig.BizCardReader-1.apk is    Varies with device  
+Done processing com.intsig.BizCardReader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+8/12 Starting processing com.kabam.cnthg-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kabam.cnthg ......
+Success to get info from Play Store
+The lastest version of com.kabam.cnthg-1.apk is    Varies with device  
+Done processing com.kabam.cnthg-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+9/12 Starting processing com.ketchapp.circle-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ketchapp.circle ......
+Success to get info from Play Store
+The lastest version of com.ketchapp.circle-1.apk is  1.5.1  
+Done processing com.ketchapp.circle-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 43 Seconds
+
+============================================================================
+10/12 Starting processing com.silvertree.cordy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.silvertree.cordy ......
+Success to get info from Play Store
+The lastest version of com.silvertree.cordy-1.apk is  1.70.25918  
+Done processing com.silvertree.cordy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 47 Seconds
+
+============================================================================
+11/12 Starting processing com.tamalakipublish.android.archiegame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tamalakipublish.android.archiegame ......
+Success to get info from Play Store
+The lastest version of com.tamalakipublish.android.archiegame-1.apk is  2.4.0  
+Done processing com.tamalakipublish.android.archiegame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 53 Seconds
+
+============================================================================
+12/12 Starting processing com.walmart.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.walmart.android ......
+Success to get info from Play Store
+The lastest version of com.walmart.android-1.apk is    Varies with device  
+Done processing com.walmart.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 57 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 57 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-30-13-31-51.csv
+**************************************************************

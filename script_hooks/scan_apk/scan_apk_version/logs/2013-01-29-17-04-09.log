@@ -1,0 +1,98 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.FDGEntertainment.Blosics.Free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.FDGEntertainment.Blosics.Free ......
+Success to get info from Play Store
+The lastest version of com.FDGEntertainment.Blosics.Free-1.apk is 1.0.7
+Done processing com.FDGEntertainment.Blosics.Free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.aceviral.toptruckfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aceviral.toptruckfree ......
+Success to get info from Play Store
+The lastest version of com.aceviral.toptruckfree-1.apk is 1.3.3
+Done processing com.aceviral.toptruckfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/11 Starting processing com.djinnworks.StickmanBaseJumper.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.StickmanBaseJumper.lite ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.StickmanBaseJumper.lite-1.apk is 2.5
+Done processing com.djinnworks.StickmanBaseJumper.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/11 Starting processing com.google.android.apps.magazines-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.magazines ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.magazines-1.apk is 1.2.1
+Done processing com.google.android.apps.magazines-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/11 Starting processing com.hyperkani.stuntcarchallenge-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hyperkani.stuntcarchallenge ......
+Success to get info from Play Store
+The lastest version of com.hyperkani.stuntcarchallenge-1.apk is 1.12
+Done processing com.hyperkani.stuntcarchallenge-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/11 Starting processing com.idealdimension.HappyBalanceBall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.idealdimension.HappyBalanceBall ......
+Success to get info from Play Store
+The lastest version of com.idealdimension.HappyBalanceBall-1.apk is 1.9.0
+Done processing com.idealdimension.HappyBalanceBall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/11 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is Varies with device
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/11 Starting processing com.nbadigital.gametimelite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nbadigital.gametimelite ......
+Success to get info from Play Store
+The lastest version of com.nbadigital.gametimelite-1.apk is 3.3
+Done processing com.nbadigital.gametimelite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/11 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is 2.5.35414
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+10/11 Starting processing com.textmeinc.textme-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.textmeinc.textme ......
+Success to get info from Play Store
+The lastest version of com.textmeinc.textme-1.apk is 2.0.15
+Done processing com.textmeinc.textme-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+11/11 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is 3.4.2
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-01-29-17-04-09.csv
+**************************************************************

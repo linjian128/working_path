@@ -1,0 +1,109 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/13 Starting processing cn.com.fetion-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.com.fetion ......
+Success to get info from Play Store
+The lastest version of cn.com.fetion-1.apk is  5.3.2  
+Done processing cn.com.fetion-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/13 Starting processing com.chinatelecom.bestpayclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chinatelecom.bestpayclient ......
+[ERROR] : Cannot find info of com.chinatelecom.bestpayclient-1.apk on https://play.google.com/store/apps/details?id=com.chinatelecom.bestpayclient !!!
+Done processing com.chinatelecom.bestpayclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/13 Starting processing com.ganji.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ganji.android ......
+Success to get info from Play Store
+The lastest version of com.ganji.android-1.apk is  6.4.2  
+Done processing com.ganji.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/13 Starting processing com.glu.deerhunt16-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deerhunt16 ......
+Success to get info from Play Store
+The lastest version of com.glu.deerhunt16-1.apk is  1.2.0  
+Done processing com.glu.deerhunt16-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/13 Starting processing com.hunantv.imgo.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity ......
+[ERROR] : Cannot find info of com.hunantv.imgo.activity-1.apk on https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity !!!
+Done processing com.hunantv.imgo.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/13 Starting processing com.quvideo.xiaoying.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quvideo.xiaoying.pro ......
+Success to get info from Play Store
+The lastest version of com.quvideo.xiaoying.pro-1.apk is  4.4.7  
+Done processing com.quvideo.xiaoying.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/13 Starting processing com.suning.mobile.ebuy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy ......
+[ERROR] : Cannot find info of com.suning.mobile.ebuy-1.apk on https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy !!!
+Done processing com.suning.mobile.ebuy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/13 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/13 Starting processing com.tencent.qqlive-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlive ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlive-1.apk is  4.3.1.9677  
+Done processing com.tencent.qqlive-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+10/13 Starting processing com.tongcheng.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tongcheng.android ......
+Success to get info from Play Store
+The lastest version of com.tongcheng.android-1.apk is  7.2.0  
+Done processing com.tongcheng.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+11/13 Starting processing dopool.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=dopool.player ......
+[ERROR] : Cannot find info of dopool.player-1.apk on https://play.google.com/store/apps/details?id=dopool.player !!!
+Done processing dopool.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+12/13 Starting processing joybits.doodlegod_hd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=joybits.doodlegod_hd ......
+Success to get info from Play Store
+The lastest version of joybits.doodlegod_hd-1.apk is  3.1.7  
+Done processing joybits.doodlegod_hd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+13/13 Starting processing my.beautyCamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=my.beautyCamera ......
+Success to get info from Play Store
+The lastest version of my.beautyCamera-1.apk is  2.5.0  
+Done processing my.beautyCamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 35 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-16-09-37-56.csv
+**************************************************************

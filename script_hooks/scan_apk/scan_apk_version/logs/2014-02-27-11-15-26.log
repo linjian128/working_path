@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.flashman.sochi14paid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flashman.sochi14paid ......
+Success to get info from Play Store
+The lastest version of com.flashman.sochi14paid-1.apk is  1.02  
+Done processing com.flashman.sochi14paid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-27-11-15-26.csv
+**************************************************************

@@ -1,0 +1,34 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.rovio.angrybirdsstarwarsii.premium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.angrybirdsstarwarsii.premium ......
+Success to get info from Play Store
+The lastest version of com.rovio.angrybirdsstarwarsii.premium-1.apk is  1.4.1  
+Done processing com.rovio.angrybirdsstarwarsii.premium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/3 Starting processing com.tbig.playerpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tbig.playerpro ......
+Success to get info from Play Store
+The lastest version of com.tbig.playerpro-1.apk is  2.88  
+Done processing com.tbig.playerpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/3 Starting processing kov.theme.lumos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kov.theme.lumos ......
+Success to get info from Play Store
+The lastest version of kov.theme.lumos-1.apk is  2.5.2  
+Done processing kov.theme.lumos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-29-13-57-31.csv
+**************************************************************

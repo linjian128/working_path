@@ -1,0 +1,32 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing cn.eclicks.wzsearch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.eclicks.wzsearch ......
+Success to get info from Play Store
+The lastest version of cn.eclicks.wzsearch-1.apk is  4.3.5  
+Done processing cn.eclicks.wzsearch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/3 Starting processing com.suning.mobile.ebuy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy ......
+[ERROR] : Cannot find info of com.suning.mobile.ebuy-1.apk on https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy !!!
+Done processing com.suning.mobile.ebuy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/3 Starting processing com.xunlei.kankan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xunlei.kankan ......
+[ERROR] : Cannot find info of com.xunlei.kankan-1.apk on https://play.google.com/store/apps/details?id=com.xunlei.kankan !!!
+Done processing com.xunlei.kankan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-20-16-27-00.csv
+**************************************************************

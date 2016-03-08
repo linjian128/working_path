@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.buffalo_studios.newflashbingo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo ......
+Success to get info from Play Store
+The lastest version of air.com.buffalo_studios.newflashbingo-1.apk is  2.59.0  
+Done processing air.com.buffalo_studios.newflashbingo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.estoty.game2048-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estoty.game2048 ......
+Success to get info from Play Store
+The lastest version of com.estoty.game2048-1.apk is  6.02  
+Done processing com.estoty.game2048-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.gamehivecorp.kicktheboss2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamehivecorp.kicktheboss2 ......
+Success to get info from Play Store
+The lastest version of com.gamehivecorp.kicktheboss2-1.apk is  2.4  
+Done processing com.gamehivecorp.kicktheboss2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/9 Starting processing com.leftover.CoinDozer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.leftover.CoinDozer ......
+Success to get info from Play Store
+The lastest version of com.leftover.CoinDozer-1.apk is    Varies with device  
+Done processing com.leftover.CoinDozer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.mint-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mint ......
+Success to get info from Play Store
+The lastest version of com.mint-1.apk is  3.1.1  
+Done processing com.mint-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/9 Starting processing com.pixel.gun3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixel.gun3d ......
+Success to get info from Play Store
+The lastest version of com.pixel.gun3d-1.apk is  6.0.5  
+Done processing com.pixel.gun3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/9 Starting processing com.scopely.slotsvacation-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.scopely.slotsvacation ......
+Success to get info from Play Store
+The lastest version of com.scopely.slotsvacation-1.apk is  1.42  
+Done processing com.scopely.slotsvacation-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/9 Starting processing com.textmeinc.textme-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.textmeinc.textme ......
+Success to get info from Play Store
+The lastest version of com.textmeinc.textme-1.apk is    Varies with device  
+Done processing com.textmeinc.textme-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+9/9 Starting processing com.umonistudio.tile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.umonistudio.tile ......
+Success to get info from Play Store
+The lastest version of com.umonistudio.tile-1.apk is  2.2.3  
+Done processing com.umonistudio.tile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-27-01-20-15.csv
+**************************************************************

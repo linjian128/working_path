@@ -1,0 +1,109 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/14 Starting processing com.alibaba.mobileim-1.apk ......
+Error ouccus when processing com.alibaba.mobileim-1.apk : Cnnot get apk info by aapt !
+============================================================================
+1/14 Starting processing com.ganji.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ganji.android ......
+[ERROR] : Cannot find info of com.ganji.android-1.apk on https://play.google.com/store/apps/details?id=com.ganji.android !!!
+Done processing com.ganji.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/14 Starting processing com.happyelements.AndroidAnimal.qq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happyelements.AndroidAnimal.qq ......
+[ERROR] : Cannot find info of com.happyelements.AndroidAnimal.qq-1.apk on https://play.google.com/store/apps/details?id=com.happyelements.AndroidAnimal.qq !!!
+Done processing com.happyelements.AndroidAnimal.qq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/14 Starting processing com.meitu.meipaimv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meitu.meipaimv ......
+Success to get info from Play Store
+The lastest version of com.meitu.meipaimv-1.apk is  1.1.0  
+Done processing com.meitu.meipaimv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/14 Starting processing com.quvideo.xiaoying-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quvideo.xiaoying ......
+Success to get info from Play Store
+The lastest version of com.quvideo.xiaoying-1.apk is  3.1.5  
+Done processing com.quvideo.xiaoying-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+5/14 Starting processing com.sankuai.meituan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sankuai.meituan ......
+Success to get info from Play Store
+The lastest version of com.sankuai.meituan-1.apk is    Varies with device  
+Done processing com.sankuai.meituan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/14 Starting processing com.shoujiduoduo.ringtone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone ......
+[ERROR] : Cannot find info of com.shoujiduoduo.ringtone-1.apk on https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone !!!
+Done processing com.shoujiduoduo.ringtone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+7/14 Starting processing com.tencent.Q108-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.Q108 ......
+[ERROR] : Cannot find info of com.tencent.Q108-1.apk on https://play.google.com/store/apps/details?id=com.tencent.Q108 !!!
+Done processing com.tencent.Q108-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+8/14 Starting processing com.tencent.game.VXDGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame ......
+[ERROR] : Cannot find info of com.tencent.game.VXDGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame !!!
+Done processing com.tencent.game.VXDGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+9/14 Starting processing com.tencent.token-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.token ......
+Success to get info from Play Store
+The lastest version of com.tencent.token-1.apk is  2.5.2  
+Done processing com.tencent.token-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+10/14 Starting processing com.xiaoenai.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xiaoenai.app ......
+Success to get info from Play Store
+The lastest version of com.xiaoenai.app-1.apk is  3.1.9  
+Done processing com.xiaoenai.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+11/14 Starting processing com.yinhan.hunter.tx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yinhan.hunter.tx ......
+[ERROR] : Cannot find info of com.yinhan.hunter.tx-1.apk on https://play.google.com/store/apps/details?id=com.yinhan.hunter.tx !!!
+Done processing com.yinhan.hunter.tx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+12/14 Starting processing com.yoloho.dayima-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yoloho.dayima ......
+[ERROR] : Cannot find info of com.yoloho.dayima-1.apk on https://play.google.com/store/apps/details?id=com.yoloho.dayima !!!
+Done processing com.yoloho.dayima-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+13/14 Starting processing com.youyuan.yhb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youyuan.yhb ......
+[ERROR] : Cannot find info of com.youyuan.yhb-1.apk on https://play.google.com/store/apps/details?id=com.youyuan.yhb !!!
+Done processing com.youyuan.yhb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 38 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-09-16-36-21.csv
+**************************************************************

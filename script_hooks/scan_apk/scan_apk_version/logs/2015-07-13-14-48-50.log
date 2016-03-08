@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.sgn.bookoflife.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.bookoflife.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.bookoflife.gp-1.apk is  2.93.115.507081258  
+Done processing air.com.sgn.bookoflife.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.midasplayer.apps.papapearsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.papapearsaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.papapearsaga-1.apk is 
+Done processing com.midasplayer.apps.papapearsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing com.slingmedia.slingPlayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.slingmedia.slingPlayer ......
+Success to get info from Play Store
+The lastest version of com.slingmedia.slingPlayer-1.apk is    Varies with device  
+Done processing com.slingmedia.slingPlayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/6 Starting processing air.com.sgn.bookoflife.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.bookoflife.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.bookoflife.gp-1.apk is  2.93.115.507081258  
+Done processing air.com.sgn.bookoflife.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/6 Starting processing com.midasplayer.apps.papapearsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.papapearsaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.papapearsaga-1.apk is 
+Done processing com.midasplayer.apps.papapearsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/6 Starting processing com.slingmedia.slingPlayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.slingmedia.slingPlayer ......
+Success to get info from Play Store
+The lastest version of com.slingmedia.slingPlayer-1.apk is    Varies with device  
+Done processing com.slingmedia.slingPlayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-13-14-48-50.csv
+**************************************************************

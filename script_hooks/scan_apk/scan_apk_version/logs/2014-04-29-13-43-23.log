@@ -1,0 +1,61 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing cn.mobage.g12000118-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.mobage.g12000118 ......
+[ERROR] : Cannot find info of cn.mobage.g12000118-1.apk on https://play.google.com/store/apps/details?id=cn.mobage.g12000118 !!!
+Done processing cn.mobage.g12000118-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/7 Starting processing com.aiyou.mhsj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aiyou.mhsj ......
+[ERROR] : Cannot find info of com.aiyou.mhsj-1.apk on https://play.google.com/store/apps/details?id=com.aiyou.mhsj !!!
+Done processing com.aiyou.mhsj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/7 Starting processing com.king2.mf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king2.mf ......
+[ERROR] : Cannot find info of com.king2.mf-1.apk on https://play.google.com/store/apps/details?id=com.king2.mf !!!
+Done processing com.king2.mf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+4/7 Starting processing com.moogame.xianbian.umi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.moogame.xianbian.umi ......
+[ERROR] : Cannot find info of com.moogame.xianbian.umi-1.apk on https://play.google.com/store/apps/details?id=com.moogame.xianbian.umi !!!
+Done processing com.moogame.xianbian.umi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+5/7 Starting processing com.skygame3.sh_freedom_android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skygame3.sh_freedom_android ......
+Success to get info from Play Store
+The lastest version of com.skygame3.sh_freedom_android-1.apk is  3.0.6816_CN.AN.GO  
+Done processing com.skygame3.sh_freedom_android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+6/7 Starting processing com.vividgames.realboxing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vividgames.realboxing ......
+Success to get info from Play Store
+The lastest version of com.vividgames.realboxing-1.apk is    Varies with device  
+Done processing com.vividgames.realboxing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+7/7 Starting processing com.yingyonghui.market-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yingyonghui.market ......
+[ERROR] : Cannot find info of com.yingyonghui.market-1.apk on https://play.google.com/store/apps/details?id=com.yingyonghui.market !!!
+Done processing com.yingyonghui.market-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-29-13-43-23.csv
+**************************************************************

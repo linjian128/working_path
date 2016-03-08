@@ -1,0 +1,41 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing cn.cntvhd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.cntvhd ......
+Success to get info from Play Store
+The lastest version of cn.cntvhd-1.apk is  5.1.0  
+Done processing cn.cntvhd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/4 Starting processing com.facebook.orca-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.orca ......
+Success to get info from Play Store
+The lastest version of com.facebook.orca-1.apk is    Varies with device  
+Done processing com.facebook.orca-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/4 Starting processing com.tencent.qqlivehd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlivehd ......
+[ERROR] : Cannot find info of com.tencent.qqlivehd-1.apk on https://play.google.com/store/apps/details?id=com.tencent.qqlivehd !!!
+Done processing com.tencent.qqlivehd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-11-14-17-21.csv
+**************************************************************

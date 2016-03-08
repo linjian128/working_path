@@ -1,0 +1,41 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.bm.food-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bm.food ......
+Success to get info from Play Store
+The lastest version of com.bm.food-1.apk is  2.9  
+Done processing com.bm.food-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.emoji.coolkeyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emoji.coolkeyboard ......
+Success to get info from Play Store
+The lastest version of com.emoji.coolkeyboard-1.apk is    Varies with device  
+Done processing com.emoji.coolkeyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.playdemic.gangnations.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playdemic.gangnations.android ......
+Success to get info from Play Store
+The lastest version of com.playdemic.gangnations.android-1.apk is  30.0.2.1055.0  
+Done processing com.playdemic.gangnations.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/4 Starting processing com.tencent.feiji-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.feiji ......
+[ERROR] : Cannot find info of com.tencent.feiji-1.apk on https://play.google.com/store/apps/details?id=com.tencent.feiji !!!
+Done processing com.tencent.feiji-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-07-16-56-34.csv
+**************************************************************

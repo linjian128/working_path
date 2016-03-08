@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.galapagossoft.trialx2_gl2_demo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.galapagossoft.trialx2_gl2_demo ......
+Success to get info from Play Store
+The lastest version of com.galapagossoft.trialx2_gl2_demo-1.apk is Varies with device
+Done processing com.galapagossoft.trialx2_gl2_demo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.glu.modwarsniper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.modwarsniper ......
+Success to get info from Play Store
+The lastest version of com.glu.modwarsniper-1.apk is 3.0.2
+Done processing com.glu.modwarsniper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.ninjakiwi.sas3zombieassault-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ninjakiwi.sas3zombieassault ......
+Success to get info from Play Store
+The lastest version of com.ninjakiwi.sas3zombieassault-1.apk is 2.025
+Done processing com.ninjakiwi.sas3zombieassault-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/6 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is 2.6.38168
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/6 Starting processing com.sygic.aura-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sygic.aura ......
+Success to get info from Play Store
+The lastest version of com.sygic.aura-1.apk is 12.2.2
+Done processing com.sygic.aura-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/6 Starting processing com.tencent.token-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.token ......
+Success to get info from Play Store
+The lastest version of com.tencent.token-1.apk is 1.5
+Done processing com.tencent.token-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-16-13-40-51.csv
+**************************************************************

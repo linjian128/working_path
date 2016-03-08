@@ -1,0 +1,24 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/2 Starting processing com.ourgame.mahjong.danji-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ourgame.mahjong.danji ......
+[ERROR] : Cannot find info of com.ourgame.mahjong.danji-1.apk on https://play.google.com/store/apps/details?id=com.ourgame.mahjong.danji !!!
+Done processing com.ourgame.mahjong.danji-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.wpd.game.popstar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wpd.game.popstar ......
+[ERROR] : Cannot find info of com.wpd.game.popstar-1.apk on https://play.google.com/store/apps/details?id=com.wpd.game.popstar !!!
+Done processing com.wpd.game.popstar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-09-23-17-06-16.csv
+**************************************************************

@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.GigaBitGames.Ultra4OffroadRacing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.GigaBitGames.Ultra4OffroadRacing ......
+Success to get info from Play Store
+The lastest version of com.GigaBitGames.Ultra4OffroadRacing-1.apk is  1.18  
+Done processing com.GigaBitGames.Ultra4OffroadRacing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-22-16-31-13.csv
+**************************************************************

@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.alibaba.android.babylon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alibaba.android.babylon ......
+Success to get info from Play Store
+The lastest version of com.alibaba.android.babylon-1.apk is  5.1.1  
+Done processing com.alibaba.android.babylon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-22-09-48-10.csv
+**************************************************************

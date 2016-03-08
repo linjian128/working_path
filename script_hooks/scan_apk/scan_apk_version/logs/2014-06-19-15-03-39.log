@@ -1,0 +1,53 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.kascend.video-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kascend.video ......
+[ERROR] : Cannot find info of com.kascend.video-1.apk on https://play.google.com/store/apps/details?id=com.kascend.video !!!
+Done processing com.kascend.video-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.nb.movie01-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nb.movie01 ......
+[ERROR] : Cannot find info of com.nb.movie01-1.apk on https://play.google.com/store/apps/details?id=com.nb.movie01 !!!
+Done processing com.nb.movie01-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.oray.sunlogin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oray.sunlogin ......
+Success to get info from Play Store
+The lastest version of com.oray.sunlogin-1.apk is  1.6.0.33780  
+Done processing com.oray.sunlogin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/6 Starting processing com.shirley.game.shuiguo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shirley.game.shuiguo ......
+[ERROR] : Cannot find info of com.shirley.game.shuiguo-1.apk on https://play.google.com/store/apps/details?id=com.shirley.game.shuiguo !!!
+Done processing com.shirley.game.shuiguo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/6 Starting processing com.um.player.hd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.um.player.hd ......
+[ERROR] : Cannot find info of com.um.player.hd-1.apk on https://play.google.com/store/apps/details?id=com.um.player.hd !!!
+Done processing com.um.player.hd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/6 Starting processing com.wangwei.tblianliankan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wangwei.tblianliankan ......
+[ERROR] : Cannot find info of com.wangwei.tblianliankan-1.apk on https://play.google.com/store/apps/details?id=com.wangwei.tblianliankan !!!
+Done processing com.wangwei.tblianliankan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-19-15-03-39.csv
+**************************************************************

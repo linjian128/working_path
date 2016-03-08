@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.FDGEntertainment.BloodyHarry-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.FDGEntertainment.BloodyHarry ......
+Success to get info from Play Store
+The lastest version of air.com.FDGEntertainment.BloodyHarry-1.apk is  2.0.5  
+Done processing air.com.FDGEntertainment.BloodyHarry-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.NamcoNetworks.MsPacManDemo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.NamcoNetworks.MsPacManDemo ......
+Success to get info from Play Store
+The lastest version of com.NamcoNetworks.MsPacManDemo-1.apk is  2.0.0  
+Done processing com.NamcoNetworks.MsPacManDemo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/6 Starting processing com.ea.game.warsawcommander_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.warsawcommander_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.warsawcommander_row-1.apk is  2.1.1  
+Done processing com.ea.game.warsawcommander_row-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/6 Starting processing com.gamelion.sims_lg_sra-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamelion.sims_lg_sra ......
+Success to get info from Play Store
+The lastest version of com.gamelion.sims_lg_sra-1.apk is  1.0.1  
+Done processing com.gamelion.sims_lg_sra-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/6 Starting processing com.trendyent.floppyfrogfinal-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.trendyent.floppyfrogfinal ......
+Success to get info from Play Store
+The lastest version of com.trendyent.floppyfrogfinal-1.apk is  1.0.1  
+Done processing com.trendyent.floppyfrogfinal-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/6 Starting processing namco.pacman.cedemo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=namco.pacman.cedemo ......
+Success to get info from Play Store
+The lastest version of namco.pacman.cedemo-1.apk is  1.1.2  
+Done processing namco.pacman.cedemo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-28-14-10-26.csv
+**************************************************************

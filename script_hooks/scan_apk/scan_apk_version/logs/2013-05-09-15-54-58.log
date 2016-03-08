@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.access_company.android.nflifescreen-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.access_company.android.nflifescreen ......
+Success to get info from Play Store
+The lastest version of com.access_company.android.nflifescreen-1.apk is 2.3.6
+Done processing com.access_company.android.nflifescreen-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.almalence.night-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.almalence.night ......
+Success to get info from Play Store
+The lastest version of com.almalence.night-1.apk is 2.18
+Done processing com.almalence.night-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/4 Starting processing com.lbe.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lbe.security ......
+Success to get info from Play Store
+The lastest version of com.lbe.security-1.apk is 4.5.2917
+Done processing com.lbe.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.skt.sptagentgl-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skt.sptagentgl ......
+Success to get info from Play Store
+The lastest version of com.skt.sptagentgl-1.apk is 4.1.4
+Done processing com.skt.sptagentgl-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-05-09-15-54-58.csv
+**************************************************************

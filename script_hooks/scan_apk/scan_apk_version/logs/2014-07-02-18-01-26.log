@@ -1,0 +1,98 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing air.com.cellap.savebilly-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.cellap.savebilly ......
+Success to get info from Play Store
+The lastest version of air.com.cellap.savebilly-1.apk is    Varies with device  
+Done processing air.com.cellap.savebilly-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.actoz.OneForEleven-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.actoz.OneForEleven ......
+Success to get info from Play Store
+The lastest version of com.actoz.OneForEleven-1.apk is  1.6.0  
+Done processing com.actoz.OneForEleven-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/11 Starting processing com.channel4.embarrassingbodiesgame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.channel4.embarrassingbodiesgame ......
+Success to get info from Play Store
+The lastest version of com.channel4.embarrassingbodiesgame-1.apk is  1.3  
+Done processing com.channel4.embarrassingbodiesgame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/11 Starting processing com.cjenm.heroes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cjenm.heroes ......
+Success to get info from Play Store
+The lastest version of com.cjenm.heroes-1.apk is  1.4.94  
+Done processing com.cjenm.heroes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/11 Starting processing com.daserste.daserste-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.daserste.daserste ......
+Success to get info from Play Store
+The lastest version of com.daserste.daserste-1.apk is    Varies with device  
+Done processing com.daserste.daserste-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+6/11 Starting processing com.gamevil.perfectinning2014.globalfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamevil.perfectinning2014.globalfree ......
+Success to get info from Play Store
+The lastest version of com.gamevil.perfectinning2014.globalfree-1.apk is  1.1.2  
+Done processing com.gamevil.perfectinning2014.globalfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+7/11 Starting processing com.gsshop.tvshop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gsshop.tvshop ......
+Success to get info from Play Store
+The lastest version of com.gsshop.tvshop-1.apk is  2.0.8.1  
+Done processing com.gsshop.tvshop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+8/11 Starting processing com.magmamobile.game.SpotTheDifferences-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magmamobile.game.SpotTheDifferences ......
+Success to get info from Play Store
+The lastest version of com.magmamobile.game.SpotTheDifferences-1.apk is  1.0.3  
+Done processing com.magmamobile.game.SpotTheDifferences-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+9/11 Starting processing com.sundaytoz.mobile.anipang2.google.kakao.service-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sundaytoz.mobile.anipang2.google.kakao.service ......
+Success to get info from Play Store
+The lastest version of com.sundaytoz.mobile.anipang2.google.kakao.service-1.apk is  1.0.22  
+Done processing com.sundaytoz.mobile.anipang2.google.kakao.service-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+10/11 Starting processing com.sundaytoz.mobile.anisachun.google.service-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sundaytoz.mobile.anisachun.google.service ......
+Success to get info from Play Store
+The lastest version of com.sundaytoz.mobile.anisachun.google.service-1.apk is  2.1.9  
+Done processing com.sundaytoz.mobile.anisachun.google.service-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+11/11 Starting processing uk.co.ee.myee-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=uk.co.ee.myee ......
+Success to get info from Play Store
+The lastest version of uk.co.ee.myee-1.apk is  2.0.11  
+Done processing uk.co.ee.myee-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 36 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-02-18-01-26.csv
+**************************************************************

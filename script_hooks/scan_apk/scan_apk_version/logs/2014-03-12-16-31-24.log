@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.oasisfeng.greenify-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oasisfeng.greenify ......
+Success to get info from Play Store
+The lastest version of com.oasisfeng.greenify-1.apk is    Varies with device  
+Done processing com.oasisfeng.greenify-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing org.zooper.zwpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.zooper.zwpro ......
+Success to get info from Play Store
+The lastest version of org.zooper.zwpro-1.apk is  2.44  
+Done processing org.zooper.zwpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-12-16-31-24.csv
+**************************************************************

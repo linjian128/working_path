@@ -1,0 +1,88 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.coco.entertainment.immortalracer.wdj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.coco.entertainment.immortalracer.wdj ......
+[ERROR] : Cannot find info of com.coco.entertainment.immortalracer.wdj-1.apk on https://play.google.com/store/apps/details?id=com.coco.entertainment.immortalracer.wdj !!!
+Done processing com.coco.entertainment.immortalracer.wdj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.jday.blackjack-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jday.blackjack ......
+[ERROR] : Cannot find info of com.jday.blackjack-1.apk on https://play.google.com/store/apps/details?id=com.jday.blackjack !!!
+Done processing com.jday.blackjack-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/10 Starting processing com.jday.pdk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jday.pdk ......
+Success to get info from Play Store
+The lastest version of com.jday.pdk-1.apk is  1.21  
+Done processing com.jday.pdk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/10 Starting processing com.joym.xiongdakuaipao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.joym.xiongdakuaipao ......
+Success to get info from Play Store
+The lastest version of com.joym.xiongdakuaipao-1.apk is  1.0.4  
+Done processing com.joym.xiongdakuaipao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/10 Starting processing com.storm.smart-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.storm.smart ......
+Success to get info from Play Store
+The lastest version of com.storm.smart-1.apk is  3.9.41  
+Done processing com.storm.smart-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/10 Starting processing com.tencent.qqlive-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlive ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlive-1.apk is    Varies with device  
+Done processing com.tencent.qqlive-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/10 Starting processing com.tencent.token-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.token ......
+Success to get info from Play Store
+The lastest version of com.tencent.token-1.apk is  2.4.5  
+Done processing com.tencent.token-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+8/10 Starting processing com.youku.phone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youku.phone ......
+Success to get info from Play Store
+The lastest version of com.youku.phone-1.apk is  4.0  
+Done processing com.youku.phone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+9/10 Starting processing org.madgame.ccb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.madgame.ccb ......
+Success to get info from Play Store
+The lastest version of org.madgame.ccb-1.apk is  1.2.6  
+Done processing org.madgame.ccb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+10/10 Starting processing sina.mobile.tianqitong-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=sina.mobile.tianqitong ......
+Success to get info from Play Store
+The lastest version of sina.mobile.tianqitong-1.apk is  3.25  
+Done processing sina.mobile.tianqitong-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-04-16-41-40.csv
+**************************************************************

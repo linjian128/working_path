@@ -1,0 +1,25 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.mydream.wifi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mydream.wifi ......
+Success to get info from Play Store
+The lastest version of com.mydream.wifi-1.apk is  2.0.3  
+Done processing com.mydream.wifi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.yingyonghui.market-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yingyonghui.market ......
+[ERROR] : Cannot find info of com.yingyonghui.market-1.apk on https://play.google.com/store/apps/details?id=com.yingyonghui.market !!!
+Done processing com.yingyonghui.market-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-29-17-13-55.csv
+**************************************************************

@@ -1,0 +1,21 @@
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[receive]
+        denyCurrentBranch = ignore
+[hooks]
+        mailinglist = "stern.grove.app.test@intel.com"
+        #mailinglist = "jianx.lin@intel.com"
+        envelopesender = "Git-App-Update@intel.com"
+        emailprefix = "[GIt-App-Update]"
+        showrev = "git show --name-status"
+
+[color]
+        diff = auto
+        status = auto
+        log = auto
+[user]
+        name = AppTestServer
+        email =  AppTestServer@AppTestServer.sh.intel.com

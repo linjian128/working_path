@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.cleanmaster.mguard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.mguard ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.mguard-1.apk is    Varies with device  
+Done processing com.cleanmaster.mguard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/10 Starting processing com.creativemobile.roadsmash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.creativemobile.roadsmash ......
+Success to get info from Play Store
+The lastest version of com.creativemobile.roadsmash-1.apk is    Varies with device  
+Done processing com.creativemobile.roadsmash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/10 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.2.3  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/10 Starting processing com.idlegames.eldorado-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.idlegames.eldorado ......
+Success to get info from Play Store
+The lastest version of com.idlegames.eldorado-1.apk is    Varies with device  
+Done processing com.idlegames.eldorado-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/10 Starting processing com.kiwi.westbound-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiwi.westbound ......
+Success to get info from Play Store
+The lastest version of com.kiwi.westbound-1.apk is    Varies with device  
+Done processing com.kiwi.westbound-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/10 Starting processing com.midasplayer.apps.papapearsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.papapearsaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.papapearsaga-1.apk is    Varies with device  
+Done processing com.midasplayer.apps.papapearsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/10 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is    Varies with device  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/10 Starting processing com.spotify.mobile.android.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.spotify.mobile.android.ui ......
+Success to get info from Play Store
+The lastest version of com.spotify.mobile.android.ui-1.apk is    Varies with device  
+Done processing com.spotify.mobile.android.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/10 Starting processing com.wb.goog.injustice-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.injustice ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.injustice-1.apk is    Varies with device  
+Done processing com.wb.goog.injustice-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+10/10 Starting processing com.wooga.jelly_splash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wooga.jelly_splash ......
+Success to get info from Play Store
+The lastest version of com.wooga.jelly_splash-1.apk is    Varies with device  
+Done processing com.wooga.jelly_splash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 22 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-25-16-11-38.csv
+**************************************************************

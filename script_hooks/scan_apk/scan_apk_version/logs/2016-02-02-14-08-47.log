@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.UCMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.UCMobile ......
+Success to get info from Play Store
+The lastest version of com.UCMobile-1.apk is  10.9.2.712  
+Done processing com.UCMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+2/8 Starting processing com.addictinggames.hatfall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.addictinggames.hatfall ......
+Success to get info from Play Store
+The lastest version of com.addictinggames.hatfall-1.apk is  1.1.15  
+Done processing com.addictinggames.hatfall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+3/8 Starting processing com.baidu.browser.apps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.browser.apps ......
+Success to get info from Play Store
+The lastest version of com.baidu.browser.apps-1.apk is 
+Done processing com.baidu.browser.apps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+4/8 Starting processing com.cmcm.locker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cmcm.locker ......
+Success to get info from Play Store
+The lastest version of com.cmcm.locker-1.apk is  4.0.5  
+Done processing com.cmcm.locker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+5/8 Starting processing com.dotemu.neogeo.mslug-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.neogeo.mslug ......
+Success to get info from Play Store
+The lastest version of com.dotemu.neogeo.mslug-1.apk is  1.1  
+Done processing com.dotemu.neogeo.mslug-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+6/8 Starting processing com.dreamsky.DiabloLOL-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dreamsky.DiabloLOL ......
+Success to get info from Play Store
+The lastest version of com.dreamsky.DiabloLOL-1.apk is  1.6.1  
+Done processing com.dreamsky.DiabloLOL-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+7/8 Starting processing com.imageline.FLM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imageline.FLM ......
+Success to get info from Play Store
+The lastest version of com.imageline.FLM-1.apk is  2.0.6  
+Done processing com.imageline.FLM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 58 Seconds
+
+============================================================================
+8/8 Starting processing com.piksoft.turboscan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.piksoft.turboscan ......
+Success to get info from Play Store
+The lastest version of com.piksoft.turboscan-1.apk is  1.3.1  
+Done processing com.piksoft.turboscan-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 1 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-02-14-08-47.csv
+**************************************************************

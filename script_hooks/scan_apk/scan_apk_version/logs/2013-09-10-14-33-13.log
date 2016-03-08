@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.nuance.swype.dtc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nuance.swype.dtc ......
+Success to get info from Play Store
+The lastest version of com.nuance.swype.dtc-1.apk is  1.5.15.19977  
+Done processing com.nuance.swype.dtc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing radiotime.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=radiotime.player ......
+Success to get info from Play Store
+The lastest version of radiotime.player-1.apk is  8.0  
+Done processing radiotime.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-10-14-33-13.csv
+**************************************************************

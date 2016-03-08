@@ -1,0 +1,33 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.3.6  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/3 Starting processing com.mapbar.android.mapbarmap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapbar.android.mapbarmap ......
+Success to get info from Play Store
+The lastest version of com.mapbar.android.mapbarmap-1.apk is  8.1.2.185732  
+Done processing com.mapbar.android.mapbarmap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/3 Starting processing com.ximad.bubble_birds2_free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ximad.bubble_birds2_free ......
+[ERROR] : Cannot find info of com.ximad.bubble_birds2_free-1.apk on https://play.google.com/store/apps/details?id=com.ximad.bubble_birds2_free !!!
+Done processing com.ximad.bubble_birds2_free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-24-10-07-00.csv
+**************************************************************

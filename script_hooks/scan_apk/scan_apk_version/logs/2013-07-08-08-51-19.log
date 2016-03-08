@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.square_enix.android_googleplay.FFIII_GP-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFIII_GP ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFIII_GP-1.apk is 1.0.5
+Done processing com.square_enix.android_googleplay.FFIII_GP-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.touchtype.swiftkey.tablet.full-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.touchtype.swiftkey.tablet.full ......
+Success to get info from Play Store
+The lastest version of com.touchtype.swiftkey.tablet.full-1.apk is Varies with device
+Done processing com.touchtype.swiftkey.tablet.full-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing opotech.image3Dlwp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=opotech.image3Dlwp ......
+Success to get info from Play Store
+The lastest version of opotech.image3Dlwp-1.apk is 2.0.2
+Done processing opotech.image3Dlwp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing se.maginteractive.rumble-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=se.maginteractive.rumble ......
+Success to get info from Play Store
+The lastest version of se.maginteractive.rumble-1.apk is 1.5.46
+Done processing se.maginteractive.rumble-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-08-08-51-19.csv
+**************************************************************

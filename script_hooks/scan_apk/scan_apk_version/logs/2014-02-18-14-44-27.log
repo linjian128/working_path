@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.ArtInGames.AirAttackHD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ArtInGames.AirAttackHD ......
+Success to get info from Play Store
+The lastest version of com.ArtInGames.AirAttackHD-1.apk is  1.5.1  
+Done processing com.ArtInGames.AirAttackHD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.bigduckgames.flow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bigduckgames.flow ......
+Success to get info from Play Store
+The lastest version of com.bigduckgames.flow-1.apk is  2.6  
+Done processing com.bigduckgames.flow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/8 Starting processing com.droidhen.game.poker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.droidhen.game.poker ......
+Success to get info from Play Store
+The lastest version of com.droidhen.game.poker-1.apk is  1.4.8  
+Done processing com.droidhen.game.poker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/8 Starting processing com.halfbrick.fruitninjafree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.fruitninjafree-1.apk is    Varies with device  
+Done processing com.halfbrick.fruitninjafree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is  1.7  
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/8 Starting processing com.jellyvisiongames.YOUDONTKNOWJACK-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jellyvisiongames.YOUDONTKNOWJACK ......
+Success to get info from Play Store
+The lastest version of com.jellyvisiongames.YOUDONTKNOWJACK-1.apk is  1.2.2  
+Done processing com.jellyvisiongames.YOUDONTKNOWJACK-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/8 Starting processing com.wooga.diamonddash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wooga.diamonddash ......
+Success to get info from Play Store
+The lastest version of com.wooga.diamonddash-1.apk is    Varies with device  
+Done processing com.wooga.diamonddash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/8 Starting processing com.zynga.gswf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.gswf ......
+Success to get info from Play Store
+The lastest version of com.zynga.gswf-1.apk is  1.21  
+Done processing com.zynga.gswf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-18-14-44-27.csv
+**************************************************************

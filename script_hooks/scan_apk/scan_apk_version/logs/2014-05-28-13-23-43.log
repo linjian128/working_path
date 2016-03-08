@@ -1,0 +1,89 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.SpeedyWinner.PickUpSticks-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.SpeedyWinner.PickUpSticks ......
+Success to get info from Play Store
+The lastest version of air.SpeedyWinner.PickUpSticks-1.apk is  version1.21  
+Done processing air.SpeedyWinner.PickUpSticks-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing air.com.flipline.papasburgeriatogo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.flipline.papasburgeriatogo ......
+Success to get info from Play Store
+The lastest version of air.com.flipline.papasburgeriatogo-1.apk is  1.0.1  
+Done processing air.com.flipline.papasburgeriatogo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/10 Starting processing air.com.freshplanet.games.MoviePop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.MoviePop ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.MoviePop-1.apk is  1.1.7  
+Done processing air.com.freshplanet.games.MoviePop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/10 Starting processing air.com.freshplanet.games.SongPopPremium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.SongPopPremium ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.SongPopPremium-1.apk is  1.17.1  
+Done processing air.com.freshplanet.games.SongPopPremium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/10 Starting processing air.com.game.winwinslots-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.game.winwinslots ......
+[ERROR] : Cannot find info of air.com.game.winwinslots-1.apk on https://play.google.com/store/apps/details?id=air.com.game.winwinslots !!!
+Done processing air.com.game.winwinslots-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/10 Starting processing air.com.goodgamestudios.empirefourkingdoms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.goodgamestudios.empirefourkingdoms ......
+Success to get info from Play Store
+The lastest version of air.com.goodgamestudios.empirefourkingdoms-1.apk is  1.5.38  
+Done processing air.com.goodgamestudios.empirefourkingdoms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/10 Starting processing air.com.mobigrow.canyouescape2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.mobigrow.canyouescape2 ......
+Success to get info from Play Store
+The lastest version of air.com.mobigrow.canyouescape2-1.apk is  1.0.4  
+Done processing air.com.mobigrow.canyouescape2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/10 Starting processing air.com.perfectworld.ek-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.perfectworld.ek ......
+Success to get info from Play Store
+The lastest version of air.com.perfectworld.ek-1.apk is  1.4.0  
+Done processing air.com.perfectworld.ek-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+9/10 Starting processing air.com.sgn.cookiejam.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.cookiejam.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.cookiejam.gp-1.apk is  2.0.21  
+Done processing air.com.sgn.cookiejam.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+10/10 Starting processing air.com.tedven.youmustescape-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.tedven.youmustescape ......
+Success to get info from Play Store
+The lastest version of air.com.tedven.youmustescape-1.apk is  1.1.4  
+Done processing air.com.tedven.youmustescape-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-28-13-23-43.csv
+**************************************************************

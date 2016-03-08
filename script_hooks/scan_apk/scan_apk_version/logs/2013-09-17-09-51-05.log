@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing au.com.oddgames.monstertruckdestruction-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=au.com.oddgames.monstertruckdestruction ......
+Success to get info from Play Store
+The lastest version of au.com.oddgames.monstertruckdestruction-1.apk is  1.04  
+Done processing au.com.oddgames.monstertruckdestruction-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/10 Starting processing com.americanlegacy.graffitictiv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.americanlegacy.graffitictiv ......
+Success to get info from Play Store
+The lastest version of com.americanlegacy.graffitictiv-1.apk is  1.0.9  
+Done processing com.americanlegacy.graffitictiv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/10 Starting processing com.animoca.google.snowwhitecafe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.animoca.google.snowwhitecafe ......
+Success to get info from Play Store
+The lastest version of com.animoca.google.snowwhitecafe-1.apk is  1.0  
+Done processing com.animoca.google.snowwhitecafe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/10 Starting processing com.degoo.android.nosehair-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.nosehair ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.nosehair-1.apk is  1.0.0  
+Done processing com.degoo.android.nosehair-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+5/10 Starting processing com.disney.mysingingmuppets.goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.mysingingmuppets.goo ......
+Success to get info from Play Store
+The lastest version of com.disney.mysingingmuppets.goo-1.apk is  1.0.2  
+Done processing com.disney.mysingingmuppets.goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/10 Starting processing com.hjy.yoga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hjy.yoga ......
+Success to get info from Play Store
+The lastest version of com.hjy.yoga-1.apk is  1.0.13a  
+Done processing com.hjy.yoga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+7/10 Starting processing com.iwin.dond-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iwin.dond ......
+Success to get info from Play Store
+The lastest version of com.iwin.dond-1.apk is  1.4  
+Done processing com.iwin.dond-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+8/10 Starting processing com.libiitech.dentist-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.libiitech.dentist ......
+Success to get info from Play Store
+The lastest version of com.libiitech.dentist-1.apk is  1.0.1  
+Done processing com.libiitech.dentist-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+9/10 Starting processing com.pocketgems.android.animalvoyage-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pocketgems.android.animalvoyage ......
+Success to get info from Play Store
+The lastest version of com.pocketgems.android.animalvoyage-1.apk is  1.04.3+g  
+Done processing com.pocketgems.android.animalvoyage-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+10/10 Starting processing com.webprancer.google.garfieldescapelite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.webprancer.google.garfieldescapelite ......
+Success to get info from Play Store
+The lastest version of com.webprancer.google.garfieldescapelite-1.apk is  1.0.1  
+Done processing com.webprancer.google.garfieldescapelite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 35 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-17-09-51-05.csv
+**************************************************************

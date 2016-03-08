@@ -1,0 +1,114 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.accuweather.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.accuweather.android ......
+Success to get info from Play Store
+The lastest version of com.accuweather.android-1.apk is  3.1.1.3  
+Done processing com.accuweather.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/13 Starting processing com.android.chrome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.chrome ......
+Success to get info from Play Store
+The lastest version of com.android.chrome-1.apk is  3.1.1.3  
+Done processing com.android.chrome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+3/13 Starting processing com.dropbox.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dropbox.android ......
+Success to get info from Play Store
+The lastest version of com.dropbox.android-1.apk is  2.3.9.10  
+Done processing com.dropbox.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+4/13 Starting processing com.gappeverV2.luckygood-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gappeverV2.luckygood ......
+Success to get info from Play Store
+The lastest version of com.gappeverV2.luckygood-1.apk is  1.8  
+Done processing com.gappeverV2.luckygood-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 43 Seconds
+
+============================================================================
+5/13 Starting processing com.ikala.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ikala.app ......
+Success to get info from Play Store
+The lastest version of com.ikala.app-1.apk is  3.1.16  
+Done processing com.ikala.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+6/13 Starting processing com.opera.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.opera.browser ......
+Success to get info from Play Store
+The lastest version of com.opera.browser-1.apk is    Varies with device  
+Done processing com.opera.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 51 Seconds
+
+============================================================================
+7/13 Starting processing com.waxrain.airplayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.waxrain.airplayer ......
+Success to get info from Play Store
+The lastest version of com.waxrain.airplayer-1.apk is  1.6.5  
+Done processing com.waxrain.airplayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 55 Seconds
+
+============================================================================
+8/13 Starting processing com.youku.phone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youku.phone ......
+Success to get info from Play Store
+The lastest version of com.youku.phone-1.apk is  3.2.1  
+Done processing com.youku.phone-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 0 Seconds
+
+============================================================================
+9/13 Starting processing hu.tagsoft.ttorrent.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite ......
+Success to get info from Play Store
+The lastest version of hu.tagsoft.ttorrent.lite-1.apk is    Varies with device  
+Done processing hu.tagsoft.ttorrent.lite-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 3 Seconds
+
+============================================================================
+10/13 Starting processing kr.mobilesoft.yxplayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.mobilesoft.yxplayer ......
+Success to get info from Play Store
+The lastest version of kr.mobilesoft.yxplayer-1.apk is  2.0.2  
+Done processing kr.mobilesoft.yxplayer-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 7 Seconds
+
+============================================================================
+11/13 Starting processing larry.zou.colorfullife-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=larry.zou.colorfullife ......
+Success to get info from Play Store
+The lastest version of larry.zou.colorfullife-1.apk is  7.0.2  
+Done processing larry.zou.colorfullife-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 11 Seconds
+
+============================================================================
+12/13 Starting processing org.mozilla.firefox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.mozilla.firefox ......
+Success to get info from Play Store
+The lastest version of org.mozilla.firefox-1.apk is    Varies with device  
+Done processing org.mozilla.firefox-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 15 Seconds
+
+============================================================================
+13/13 Starting processing tv.pps.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tv.pps.mobile ......
+Success to get info from Play Store
+The lastest version of tv.pps.mobile-1.apk is  1.9.3  
+Done processing tv.pps.mobile-1.apk
+Time Spent:   0 Days 0 Hours 1 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 1 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-23-16-30-26.csv
+**************************************************************

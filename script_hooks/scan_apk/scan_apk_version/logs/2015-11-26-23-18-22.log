@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.sublinet.tastytale-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sublinet.tastytale ......
+Success to get info from Play Store
+The lastest version of air.com.sublinet.tastytale-1.apk is  5.50  
+Done processing air.com.sublinet.tastytale-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/6 Starting processing com.gsn.android.tripeaks-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gsn.android.tripeaks ......
+Success to get info from Play Store
+The lastest version of com.gsn.android.tripeaks-1.apk is  2.4.0.21455  
+Done processing com.gsn.android.tripeaks-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/6 Starting processing com.imo.android.imoim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imo.android.imoim ......
+Success to get info from Play Store
+The lastest version of com.imo.android.imoim-1.apk is  9.8.00000000005  
+Done processing com.imo.android.imoim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/6 Starting processing com.melodis.midomiMusicIdentifier.freemium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier.freemium-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier.freemium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/6 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is    Varies with device  
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-26-23-18-22.csv
+**************************************************************

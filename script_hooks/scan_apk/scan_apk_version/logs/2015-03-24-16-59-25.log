@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/4 Starting processing com.Qunar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Qunar ......
+Success to get info from Play Store
+The lastest version of com.Qunar-1.apk is 
+Done processing com.Qunar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/4 Starting processing com.jingdong.app.mall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jingdong.app.mall ......
+Success to get info from Play Store
+The lastest version of com.jingdong.app.mall-1.apk is 
+Done processing com.jingdong.app.mall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/4 Starting processing com.sdu.didi.psnger-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sdu.didi.psnger ......
+Success to get info from Play Store
+The lastest version of com.sdu.didi.psnger-1.apk is 
+Done processing com.sdu.didi.psnger-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/4 Starting processing com.storm.smart-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.storm.smart ......
+Success to get info from Play Store
+The lastest version of com.storm.smart-1.apk is 
+Done processing com.storm.smart-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-03-24-16-59-25.csv
+**************************************************************

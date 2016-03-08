@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.androvidpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androvidpro ......
+Success to get info from Play Store
+The lastest version of com.androvidpro-1.apk is  2.5.4.3  
+Done processing com.androvidpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.herocraft.kodp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.herocraft.kodp ......
+Success to get info from Play Store
+The lastest version of com.herocraft.kodp-1.apk is  1.0.9  
+Done processing com.herocraft.kodp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing jp.co.translimit.brainwars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.translimit.brainwars ......
+Success to get info from Play Store
+The lastest version of jp.co.translimit.brainwars-1.apk is  1.0.20  
+Done processing jp.co.translimit.brainwars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing net.zhuoweizhang.mcpelauncher.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher.pro ......
+Success to get info from Play Store
+The lastest version of net.zhuoweizhang.mcpelauncher.pro-1.apk is  1.8.1  
+Done processing net.zhuoweizhang.mcpelauncher.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-23-12-51-13.csv
+**************************************************************

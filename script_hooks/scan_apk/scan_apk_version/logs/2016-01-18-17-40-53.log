@@ -1,0 +1,40 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/4 Starting processing com.chinamworld.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chinamworld.main ......
+[ERROR] : Cannot find info of com.chinamworld.main-1.apk on https://play.google.com/store/apps/details?id=com.chinamworld.main !!!
+Done processing com.chinamworld.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/4 Starting processing com.thestore.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.thestore.main ......
+[ERROR] : Cannot find info of com.thestore.main-1.apk on https://play.google.com/store/apps/details?id=com.thestore.main !!!
+Done processing com.thestore.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/4 Starting processing com.weihua.superphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.weihua.superphone ......
+Success to get info from Play Store
+The lastest version of com.weihua.superphone-1.apk is  3.8.0  
+Done processing com.weihua.superphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-18-17-40-53.csv
+**************************************************************

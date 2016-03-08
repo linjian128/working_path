@@ -1,0 +1,17 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.babeltime.fknsango_gwphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.babeltime.fknsango_gwphone ......
+[ERROR] : Cannot find info of com.babeltime.fknsango_gwphone-1.apk on https://play.google.com/store/apps/details?id=com.babeltime.fknsango_gwphone !!!
+Done processing com.babeltime.fknsango_gwphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-14-16-11-08.csv
+**************************************************************

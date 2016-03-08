@@ -1,0 +1,24 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.samsung.android.sdk.spenv10-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.samsung.android.sdk.spenv10 ......
+[ERROR] : Cannot find info of com.samsung.android.sdk.spenv10-1.apk on https://play.google.com/store/apps/details?id=com.samsung.android.sdk.spenv10 !!!
+Done processing com.samsung.android.sdk.spenv10-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.samsung.spensdk3.example-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.samsung.spensdk3.example ......
+[ERROR] : Cannot find info of com.samsung.spensdk3.example-1.apk on https://play.google.com/store/apps/details?id=com.samsung.spensdk3.example !!!
+Done processing com.samsung.spensdk3.example-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-21-12-10-54.csv
+**************************************************************

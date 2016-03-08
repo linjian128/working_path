@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ECS  ......
+
+============================================================================
+1/7 Starting processing air.WR3DFree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.WR3DFree ......
+Success to get info from Play Store
+The lastest version of air.WR3DFree-1.apk is  1.291  
+Done processing air.WR3DFree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.crazylabs.myemmafull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.crazylabs.myemmafull ......
+Success to get info from Play Store
+The lastest version of com.crazylabs.myemmafull-1.apk is  1.1.0  
+Done processing com.crazylabs.myemmafull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/7 Starting processing com.igg.android.clashofgangs_en-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.android.clashofgangs_en ......
+Success to get info from Play Store
+The lastest version of com.igg.android.clashofgangs_en-1.apk is  1.1.36  
+Done processing com.igg.android.clashofgangs_en-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/7 Starting processing com.nekki.shadowfight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nekki.shadowfight ......
+Success to get info from Play Store
+The lastest version of com.nekki.shadowfight-1.apk is  1.8.2  
+Done processing com.nekki.shadowfight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/7 Starting processing com.outfit7.mytalkingtomfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree ......
+Success to get info from Play Store
+The lastest version of com.outfit7.mytalkingtomfree-1.apk is  2.1.1  
+Done processing com.outfit7.mytalkingtomfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/7 Starting processing jp.co.translimit.brainwars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.translimit.brainwars ......
+Success to get info from Play Store
+The lastest version of jp.co.translimit.brainwars-1.apk is  1.0.13  
+Done processing jp.co.translimit.brainwars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/7 Starting processing slide.cameraZoom-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=slide.cameraZoom ......
+Success to get info from Play Store
+The lastest version of slide.cameraZoom-1.apk is  5.6.1  
+Done processing slide.cameraZoom-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-08-17-07-03.csv
+**************************************************************

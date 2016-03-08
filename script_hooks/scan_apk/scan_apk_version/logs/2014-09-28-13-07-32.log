@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing air.com.aetnent.history.android.kids.EmpireRun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.aetnent.history.android.kids.EmpireRun ......
+Success to get info from Play Store
+The lastest version of air.com.aetnent.history.android.kids.EmpireRun-1.apk is  1.0.4  
+Done processing air.com.aetnent.history.android.kids.EmpireRun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.ninjacrime.calculords-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ninjacrime.calculords ......
+Success to get info from Play Store
+The lastest version of com.ninjacrime.calculords-1.apk is  1.1.1  
+Done processing com.ninjacrime.calculords-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-28-13-07-32.csv
+**************************************************************

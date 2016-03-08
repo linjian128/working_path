@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing air.com.mgstream.AFMFlex-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.mgstream.AFMFlex ......
+Success to get info from Play Store
+The lastest version of air.com.mgstream.AFMFlex-1.apk is  2.2.11  
+Done processing air.com.mgstream.AFMFlex-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing air.com.sanuk.KhoTesting1-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sanuk.KhoTesting1 ......
+Success to get info from Play Store
+The lastest version of air.com.sanuk.KhoTesting1-1.apk is  1.4.16  
+Done processing air.com.sanuk.KhoTesting1-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-11-28-14-25-01.csv
+**************************************************************

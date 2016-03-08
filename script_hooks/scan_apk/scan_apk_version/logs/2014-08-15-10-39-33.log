@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.smon.normal.freefull.google.kr.android.common-1.apk is  1.2.2  
+Done processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.freaxator.game100balls-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.freaxator.game100balls ......
+Success to get info from Play Store
+The lastest version of com.freaxator.game100balls-1.apk is  2.02  
+Done processing com.freaxator.game100balls-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.igg.clashoflords2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.clashoflords2 ......
+Success to get info from Play Store
+The lastest version of com.igg.clashoflords2-1.apk is  1.0.155  
+Done processing com.igg.clashoflords2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/6 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.25.0  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/6 Starting processing com.playtika.wsop.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playtika.wsop.gp ......
+Success to get info from Play Store
+The lastest version of com.playtika.wsop.gp-1.apk is  2.5.2  
+Done processing com.playtika.wsop.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/6 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is    Varies with device  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-15-10-39-33.csv
+**************************************************************

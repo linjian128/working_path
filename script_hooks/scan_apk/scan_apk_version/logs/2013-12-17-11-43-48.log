@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.northwaygames.Incredipede-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.northwaygames.Incredipede ......
+Success to get info from Play Store
+The lastest version of air.com.northwaygames.Incredipede-1.apk is  1.74  
+Done processing air.com.northwaygames.Incredipede-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.activision.skylanders.cloudpatrol-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.activision.skylanders.cloudpatrol ......
+Success to get info from Play Store
+The lastest version of com.activision.skylanders.cloudpatrol-1.apk is  1.9.0  
+Done processing com.activision.skylanders.cloudpatrol-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.magmic.skipbo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magmic.skipbo ......
+Success to get info from Play Store
+The lastest version of com.magmic.skipbo-1.apk is  1.0.3  
+Done processing com.magmic.skipbo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/4 Starting processing com.playfirst.playground.hoteldashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.hoteldashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.hoteldashdeluxe-1.apk is  1.25.21  
+Done processing com.playfirst.playground.hoteldashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-17-11-43-48.csv
+**************************************************************

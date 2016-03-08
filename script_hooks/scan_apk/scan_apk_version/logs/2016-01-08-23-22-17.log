@@ -1,0 +1,70 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.puffballsunited.escapingtheprison-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.puffballsunited.escapingtheprison ......
+Success to get info from Play Store
+The lastest version of air.com.puffballsunited.escapingtheprison-1.apk is  1.2.1  
+Done processing air.com.puffballsunited.escapingtheprison-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.cardinalblue.piccollage.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cardinalblue.piccollage.google ......
+Success to get info from Play Store
+The lastest version of com.cardinalblue.piccollage.google-1.apk is    Varies with device  
+Done processing com.cardinalblue.piccollage.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.zynga.looney-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.looney ......
+Success to get info from Play Store
+The lastest version of com.zynga.looney-1.apk is    Varies with device  
+Done processing com.zynga.looney-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/9 Starting processing cn.buding.coupon-1.apk ......
+Error ouccus when processing cn.buding.coupon-1.apk : Cnnot get apk info by aapt !
+============================================================================
+4/9 Starting processing com.alibaba.wireless-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alibaba.wireless ......
+[ERROR] : Cannot find info of com.alibaba.wireless-1.apk on https://play.google.com/store/apps/details?id=com.alibaba.wireless !!!
+Done processing com.alibaba.wireless-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/9 Starting processing com.moji.mjweather-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.moji.mjweather ......
+Success to get info from Play Store
+The lastest version of com.moji.mjweather-1.apk is  5.8.5.02  
+Done processing com.moji.mjweather-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/9 Starting processing com.pfu.candy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pfu.candy ......
+[ERROR] : Cannot find info of com.pfu.candy-1.apk on https://play.google.com/store/apps/details?id=com.pfu.candy !!!
+Done processing com.pfu.candy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/9 Starting processing com.yixia.xiaokaxiu-1.apk ......
+Error ouccus when processing com.yixia.xiaokaxiu-1.apk : Cnnot get apk info by aapt !
+============================================================================
+7/9 Starting processing fm.xiami.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fm.xiami.main ......
+Success to get info from Play Store
+The lastest version of fm.xiami.main-1.apk is  5.3.3  
+Done processing fm.xiami.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-08-23-22-17.csv
+**************************************************************

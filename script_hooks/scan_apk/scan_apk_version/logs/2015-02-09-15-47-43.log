@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.czechgames.galaxytrucker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.czechgames.galaxytrucker ......
+Success to get info from Play Store
+The lastest version of com.czechgames.galaxytrucker-1.apk is 
+Done processing com.czechgames.galaxytrucker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/2 Starting processing com.glutenfreegames.sabertoothsimulator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glutenfreegames.sabertoothsimulator ......
+Success to get info from Play Store
+The lastest version of com.glutenfreegames.sabertoothsimulator-1.apk is 
+Done processing com.glutenfreegames.sabertoothsimulator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 0 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-09-15-47-43.csv
+**************************************************************

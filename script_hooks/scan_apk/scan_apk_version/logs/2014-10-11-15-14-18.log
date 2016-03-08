@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/MOFD  ......
+
+============================================================================
+1/8 Starting processing com.androidesk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk ......
+Success to get info from Play Store
+The lastest version of com.androidesk-1.apk is  4.1.8  
+Done processing com.androidesk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.dmssc.nobodydiesalone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dmssc.nobodydiesalone ......
+Success to get info from Play Store
+The lastest version of com.dmssc.nobodydiesalone-1.apk is    Varies with device  
+Done processing com.dmssc.nobodydiesalone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.enflick.android.TextNow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.enflick.android.TextNow ......
+Success to get info from Play Store
+The lastest version of com.enflick.android.TextNow-1.apk is    Varies with device  
+Done processing com.enflick.android.TextNow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/8 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is  1.11  
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/8 Starting processing com.immomo.momo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.immomo.momo ......
+Success to get info from Play Store
+The lastest version of com.immomo.momo-1.apk is  5.2  
+Done processing com.immomo.momo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/8 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.29.4  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/8 Starting processing com.tap4fun.kings_empire-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tap4fun.kings_empire ......
+Success to get info from Play Store
+The lastest version of com.tap4fun.kings_empire-1.apk is  1.8.5  
+Done processing com.tap4fun.kings_empire-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/8 Starting processing com.turner.atskisafari-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.turner.atskisafari ......
+Success to get info from Play Store
+The lastest version of com.turner.atskisafari-1.apk is  1.5.2  
+Done processing com.turner.atskisafari-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-10-11-15-14-18.csv
+**************************************************************

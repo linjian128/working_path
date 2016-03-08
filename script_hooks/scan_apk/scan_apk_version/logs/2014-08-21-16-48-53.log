@@ -1,0 +1,89 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.SpaceInch.LoveOfMoney-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.SpaceInch.LoveOfMoney ......
+Success to get info from Play Store
+The lastest version of com.SpaceInch.LoveOfMoney-1.apk is  1.6.2  
+Done processing com.SpaceInch.LoveOfMoney-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.cervomedia.spw-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cervomedia.spw ......
+Success to get info from Play Store
+The lastest version of com.cervomedia.spw-1.apk is  4.10.1  
+Done processing com.cervomedia.spw-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/10 Starting processing com.crazystudio.emoji.kitkat-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.crazystudio.emoji.kitkat ......
+Success to get info from Play Store
+The lastest version of com.crazystudio.emoji.kitkat-1.apk is  1.20  
+Done processing com.crazystudio.emoji.kitkat-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/10 Starting processing com.degoo.android.washpet-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.washpet ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.washpet-1.apk is  1.1.7  
+Done processing com.degoo.android.washpet-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/10 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is  4.10.2  
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/10 Starting processing com.gameloft.android.ANMP.GloftM4HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM4HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftM4HM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftM4HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/10 Starting processing com.gree.bfherorun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gree.bfherorun ......
+Success to get info from Play Store
+The lastest version of com.gree.bfherorun-1.apk is  1.6  
+Done processing com.gree.bfherorun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+8/10 Starting processing com.intel.appbench-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intel.appbench ......
+[ERROR] : Cannot find info of com.intel.appbench-1.apk on https://play.google.com/store/apps/details?id=com.intel.appbench !!!
+Done processing com.intel.appbench-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+9/10 Starting processing com.lezhi.WeddingSpaSalon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lezhi.WeddingSpaSalon ......
+Success to get info from Play Store
+The lastest version of com.lezhi.WeddingSpaSalon-1.apk is  1.0.8  
+Done processing com.lezhi.WeddingSpaSalon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+10/10 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is  2.3.33  
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 35 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-21-16-48-53.csv
+**************************************************************

@@ -1,0 +1,46 @@
+#!/bin/bash
+#checkout the updated files, and upload apk files to AppTestWeb by import_update_apk_from_list.php
+echo "post-update begin"
+
+git_dir=`cat ../../code_resourc/config.ini | grep -w "^GIT_LOCAL_URL" | awk -F "=" '{print $2}'`
+db_host=`cat ../../../config.ini | grep -w "^DB_HOST_REMOTE" | awk -F "=" '{print $2}'`
+db_user=`cat ../../../config.ini | grep -w "^DB_USER" | awk -F "=" '{print $2}'`
+db_password=`cat ../../../config.ini | grep -w "^DB_PASSWORD" | awk -F "=" '{print $2}'`
+db_schema=`cat ../../../config.ini | grep -w "^DB_SCHEMA" | awk -F "=" '{print $2}'`
+
+
+cd $git_dir
+env -i git diff --cached --name-status > $git_dir/.git/hooks/git_diff_log
+platform=$(env -i git diff --cached --name-status | cut -f2 | grep .apk | cut -d'/' -f1|head -1)
+env -i git diff --cached --name-status | cut -f2 | grep .apk | cut -d'/' -f2 > Updated_list
+env -i git checkout -- Update_log/log
+env -i git checkout -f
+
+cd ${git_dir}/script_hooks/import_update_apk
+
+#echo "platform=$platform"
+
+if [ -s $git_dir/Updated_list ]; then
+        php import_update_apk_from_list.php ${git_dir}/Updated_list ${git_dir}/$platform $platform |tee  ${git_dir}/App_Uploading_log
+fi
+
+cd ${git_dir}/script_hooks/scan_apk/scan_apk_version/
+sh scan_apk_version.sh ${git_dir}/$platform ${git_dir}/Updated_list > /dev/null
+
+cp ${git_dir}/Updated_list ${git_dir}/script_hooks/scan_apk/neon_scan/
+cd ${git_dir}/script_hooks/scan_apk/neon_scan/
+bash total.sh $platform
+
+for apk_file in `cat ${git_dir}/Updated_list`
+do
+    cp ${git_dir}/$platform/$apk_file ${git_dir}/script_hooks/scan_apk/scan_interface/APK/
+done
+
+cd ${git_dir}/script_hooks/scan_apk/scan_interface
+./scan.sh ./LIB ./APK
+python non_ndk_api.py ${db_host} ${db_user} ${db_password} ${db_schema}
+
+rm -rf ${git_dir}/script_hooks/scan_apk/scan_interface/APK/*
+
+rm -f ${git_dir}/Updated_list
+echo "post-update end"

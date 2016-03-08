@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing it.rortos.hmsdestroyer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=it.rortos.hmsdestroyer ......
+Success to get info from Play Store
+The lastest version of it.rortos.hmsdestroyer-1.apk is 3.0
+Done processing it.rortos.hmsdestroyer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-04-27-15-35-06.csv
+**************************************************************

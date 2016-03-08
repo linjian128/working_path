@@ -1,0 +1,62 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing cn.kuwo.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.kuwo.player ......
+Success to get info from Play Store
+The lastest version of cn.kuwo.player-1.apk is  6.3.2.0  
+Done processing cn.kuwo.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.tencent.qqlite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlite ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlite-1.apk is  3.0.1  
+Done processing com.tencent.qqlite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.ting.mp3.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ting.mp3.android ......
+[ERROR] : Cannot find info of com.ting.mp3.android-1.apk on https://play.google.com/store/apps/details?id=com.ting.mp3.android !!!
+Done processing com.ting.mp3.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.wandoujia.phoenix2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 ......
+[ERROR] : Cannot find info of com.wandoujia.phoenix2-1.apk on https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 !!!
+Done processing com.wandoujia.phoenix2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/7 Starting processing com.wochacha-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wochacha ......
+Success to get info from Play Store
+The lastest version of com.wochacha-1.apk is  6.9.1  
+Done processing com.wochacha-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/7 Starting processing com.wuba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wuba ......
+[ERROR] : Cannot find info of com.wuba-1.apk on https://play.google.com/store/apps/details?id=com.wuba !!!
+Done processing com.wuba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/7 Starting processing com.xunlei.kankan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xunlei.kankan ......
+[ERROR] : Cannot find info of com.xunlei.kankan-1.apk on https://play.google.com/store/apps/details?id=com.xunlei.kankan !!!
+Done processing com.xunlei.kankan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-24-14-45-56.csv
+**************************************************************

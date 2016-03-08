@@ -1,0 +1,41 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing cc.madkite.freedom-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cc.madkite.freedom ......
+[ERROR] : Cannot find info of cc.madkite.freedom-1.apk on https://play.google.com/store/apps/details?id=cc.madkite.freedom !!!
+Done processing cc.madkite.freedom-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/4 Starting processing com.gameloft.android.ANMP.GloftTTHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftTTHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftTTHM-1.apk is  1.1.2  
+Done processing com.gameloft.android.ANMP.GloftTTHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing com.pwnwithyourphone.documentscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pwnwithyourphone.documentscanner ......
+Success to get info from Play Store
+The lastest version of com.pwnwithyourphone.documentscanner-1.apk is  2.9.15  
+Done processing com.pwnwithyourphone.documentscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing com.weinsteincompany.scre4mHD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.weinsteincompany.scre4mHD ......
+Success to get info from Play Store
+The lastest version of com.weinsteincompany.scre4mHD-1.apk is  1.0  
+Done processing com.weinsteincompany.scre4mHD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-23-09-06-01.csv
+**************************************************************

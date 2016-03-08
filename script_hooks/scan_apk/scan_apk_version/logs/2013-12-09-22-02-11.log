@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing air.eti.uzzu.unalis-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.eti.uzzu.unalis ......
+Success to get info from Play Store
+The lastest version of air.eti.uzzu.unalis-1.apk is  2.1.0  
+Done processing air.eti.uzzu.unalis-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/7 Starting processing com.iugome.lilknights-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iugome.lilknights ......
+Success to get info from Play Store
+The lastest version of com.iugome.lilknights-1.apk is    Varies with device  
+Done processing com.iugome.lilknights-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/7 Starting processing com.magisto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magisto ......
+Success to get info from Play Store
+The lastest version of com.magisto-1.apk is  3.0.3648  
+Done processing com.magisto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/7 Starting processing com.picsart.studio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picsart.studio ......
+Success to get info from Play Store
+The lastest version of com.picsart.studio-1.apk is    Varies with device  
+Done processing com.picsart.studio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/7 Starting processing com.siriusapplications.quickboot-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.siriusapplications.quickboot ......
+Success to get info from Play Store
+The lastest version of com.siriusapplications.quickboot-1.apk is  4.2  
+Done processing com.siriusapplications.quickboot-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/7 Starting processing eu.chainfire.supersu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=eu.chainfire.supersu ......
+Success to get info from Play Store
+The lastest version of eu.chainfire.supersu-1.apk is  1.80  
+Done processing eu.chainfire.supersu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/7 Starting processing net.peakgames.OkeyPlus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.peakgames.OkeyPlus ......
+Success to get info from Play Store
+The lastest version of net.peakgames.OkeyPlus-1.apk is  2.92  
+Done processing net.peakgames.OkeyPlus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 26 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-09-22-02-11.csv
+**************************************************************

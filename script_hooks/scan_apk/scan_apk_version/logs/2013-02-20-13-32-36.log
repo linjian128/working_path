@@ -1,0 +1,34 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.gameloft.android.ANMP.GloftA7HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA7HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftA7HM-1.apk is Varies with device
+Done processing com.gameloft.android.ANMP.GloftA7HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/3 Starting processing com.rdio.android.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rdio.android.ui ......
+Success to get info from Play Store
+The lastest version of com.rdio.android.ui-1.apk is 2.4.10
+Done processing com.rdio.android.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/3 Starting processing com.shazam.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shazam.android ......
+Success to get info from Play Store
+The lastest version of com.shazam.android-1.apk is Varies with device
+Done processing com.shazam.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-20-13-32-36.csv
+**************************************************************

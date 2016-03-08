@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.FireproofStudios.TheRoom2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.FireproofStudios.TheRoom2 ......
+Success to get info from Play Store
+The lastest version of com.FireproofStudios.TheRoom2-1.apk is  1.03  
+Done processing com.FireproofStudios.TheRoom2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/7 Starting processing com.dama.papercamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.papercamera ......
+Success to get info from Play Store
+The lastest version of com.dama.papercamera-1.apk is  4.0.0  
+Done processing com.dama.papercamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/7 Starting processing com.gsn.android.casino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gsn.android.casino ......
+Success to get info from Play Store
+The lastest version of com.gsn.android.casino-1.apk is  3.6.0.80.25  
+Done processing com.gsn.android.casino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/7 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is  5.41  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+5/7 Starting processing com.limbic.ac130-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.limbic.ac130 ......
+Success to get info from Play Store
+The lastest version of com.limbic.ac130-1.apk is  1.13  
+Done processing com.limbic.ac130-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/7 Starting processing com.melodis.midomiMusicIdentifier-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+7/7 Starting processing com.ninjakiwi.bloonstd5-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd5 ......
+Success to get info from Play Store
+The lastest version of com.ninjakiwi.bloonstd5-1.apk is  2.7  
+Done processing com.ninjakiwi.bloonstd5-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-11-16-15-46.csv
+**************************************************************

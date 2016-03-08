@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.freshplanet.games.SongPopPremium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.SongPopPremium ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.SongPopPremium-1.apk is  1.18.1  
+Done processing air.com.freshplanet.games.SongPopPremium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+2/6 Starting processing com.cnn.mobile.android.phone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone ......
+Success to get info from Play Store
+The lastest version of com.cnn.mobile.android.phone-1.apk is  2.1.1  
+Done processing com.cnn.mobile.android.phone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/6 Starting processing com.melodis.midomiMusicIdentifier-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/6 Starting processing com.mtvn.sbmigoogleplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mtvn.sbmigoogleplay ......
+Success to get info from Play Store
+The lastest version of com.mtvn.sbmigoogleplay-1.apk is  1.05.00  
+Done processing com.mtvn.sbmigoogleplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+5/6 Starting processing slide.cameraZoom-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=slide.cameraZoom ......
+Success to get info from Play Store
+The lastest version of slide.cameraZoom-1.apk is  5.2.1  
+Done processing slide.cameraZoom-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+6/6 Starting processing vo.threes.exclaim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=vo.threes.exclaim ......
+Success to get info from Play Store
+The lastest version of vo.threes.exclaim-1.apk is  1.1  
+Done processing vo.threes.exclaim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 31 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-23-11-21-32.csv
+**************************************************************

@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.bgames.android.nopimple-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bgames.android.nopimple ......
+Success to get info from Play Store
+The lastest version of com.bgames.android.nopimple-1.apk is  1.0.1  
+Done processing com.bgames.android.nopimple-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/7 Starting processing com.hotheadgames.google.free.rawspace-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.rawspace ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.rawspace-1.apk is  1.2  
+Done processing com.hotheadgames.google.free.rawspace-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/7 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is  5.23  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/7 Starting processing com.largeanimal.colorzen-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.largeanimal.colorzen ......
+Success to get info from Play Store
+The lastest version of com.largeanimal.colorzen-1.apk is  1.4.3  
+Done processing com.largeanimal.colorzen-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/7 Starting processing com.ludia.familyfeudandfriends.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ludia.familyfeudandfriends.free ......
+Success to get info from Play Store
+The lastest version of com.ludia.familyfeudandfriends.free-1.apk is  1.4.15  
+Done processing com.ludia.familyfeudandfriends.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/7 Starting processing com.picsart.studio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picsart.studio ......
+Success to get info from Play Store
+The lastest version of com.picsart.studio-1.apk is    Varies with device  
+Done processing com.picsart.studio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+7/7 Starting processing com.zynga.draw2.googleplay.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.draw2.googleplay.free ......
+Success to get info from Play Store
+The lastest version of com.zynga.draw2.googleplay.free-1.apk is  1.1.5  
+Done processing com.zynga.draw2.googleplay.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-04-15-50-34.csv
+**************************************************************

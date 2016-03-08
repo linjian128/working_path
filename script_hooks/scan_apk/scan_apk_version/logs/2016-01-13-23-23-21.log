@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.goda.games.closeupcharacter-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.goda.games.closeupcharacter ......
+Success to get info from Play Store
+The lastest version of air.com.goda.games.closeupcharacter-1.apk is  1.2.0  
+Done processing air.com.goda.games.closeupcharacter-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.cardinalblue.piccollage.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cardinalblue.piccollage.google ......
+Success to get info from Play Store
+The lastest version of com.cardinalblue.piccollage.google-1.apk is    Varies with device  
+Done processing com.cardinalblue.piccollage.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/10 Starting processing com.gotv.nflgamecenter.us.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gotv.nflgamecenter.us.lite ......
+Success to get info from Play Store
+The lastest version of com.gotv.nflgamecenter.us.lite-1.apk is  12.1.130  
+Done processing com.gotv.nflgamecenter.us.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/10 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is    Varies with device  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/10 Starting processing com.nomadgames.talisman-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nomadgames.talisman ......
+Success to get info from Play Store
+The lastest version of com.nomadgames.talisman-1.apk is  7.031  
+Done processing com.nomadgames.talisman-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/10 Starting processing com.noodlecake.framed-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.noodlecake.framed ......
+Success to get info from Play Store
+The lastest version of com.noodlecake.framed-1.apk is  1.3.2  
+Done processing com.noodlecake.framed-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/10 Starting processing com.qihoo.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qihoo.security ......
+Success to get info from Play Store
+The lastest version of com.qihoo.security-1.apk is    Varies with device  
+Done processing com.qihoo.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/10 Starting processing com.qisiemoji.inputmethod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qisiemoji.inputmethod ......
+Success to get info from Play Store
+The lastest version of com.qisiemoji.inputmethod-1.apk is    Varies with device  
+Done processing com.qisiemoji.inputmethod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+9/10 Starting processing com.sina.weibo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sina.weibo ......
+Success to get info from Play Store
+The lastest version of com.sina.weibo-1.apk is  5.7.1  
+Done processing com.sina.weibo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+10/10 Starting processing com.zentertain.bigcasino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zentertain.bigcasino ......
+Success to get info from Play Store
+The lastest version of com.zentertain.bigcasino-1.apk is  1.4.4  
+Done processing com.zentertain.bigcasino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-13-23-23-21.csv
+**************************************************************

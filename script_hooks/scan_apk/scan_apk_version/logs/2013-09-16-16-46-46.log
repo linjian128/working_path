@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.tencent.game.rhythmmaster-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.rhythmmaster ......
+Success to get info from Play Store
+The lastest version of com.tencent.game.rhythmmaster-1.apk is  2.0.4.10  
+Done processing com.tencent.game.rhythmmaster-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing com.tencent.pao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.pao ......
+Success to get info from Play Store
+The lastest version of com.tencent.pao-1.apk is  1.0.6.0  
+Done processing com.tencent.pao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-16-16-46-46.csv
+**************************************************************

@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing net.fishlabs.GalaxyonFire2THD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.fishlabs.GalaxyonFire2THD ......
+Success to get info from Play Store
+The lastest version of net.fishlabs.GalaxyonFire2THD-1.apk is 1.0.3
+Done processing net.fishlabs.GalaxyonFire2THD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-02-09-16-36.csv
+**************************************************************

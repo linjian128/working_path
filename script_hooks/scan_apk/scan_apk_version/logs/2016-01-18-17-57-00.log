@@ -1,0 +1,106 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/13 Starting processing cn.mucang.xiaomi.android.wz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.mucang.xiaomi.android.wz ......
+[ERROR] : Cannot find info of cn.mucang.xiaomi.android.wz-1.apk on https://play.google.com/store/apps/details?id=cn.mucang.xiaomi.android.wz !!!
+Done processing cn.mucang.xiaomi.android.wz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/13 Starting processing com.DBGame.DiabloLOL.baidu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.DBGame.DiabloLOL.baidu ......
+[ERROR] : Cannot find info of com.DBGame.DiabloLOL.baidu-1.apk on https://play.google.com/store/apps/details?id=com.DBGame.DiabloLOL.baidu !!!
+Done processing com.DBGame.DiabloLOL.baidu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/13 Starting processing com.beastudio.sflashlight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.beastudio.sflashlight ......
+[ERROR] : Cannot find info of com.beastudio.sflashlight-1.apk on https://play.google.com/store/apps/details?id=com.beastudio.sflashlight !!!
+Done processing com.beastudio.sflashlight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/13 Starting processing com.brianbaek.popstar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.brianbaek.popstar ......
+Success to get info from Play Store
+The lastest version of com.brianbaek.popstar-1.apk is 
+Done processing com.brianbaek.popstar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/13 Starting processing com.cubic.autohome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cubic.autohome ......
+Success to get info from Play Store
+The lastest version of com.cubic.autohome-1.apk is  5.3.1  
+Done processing com.cubic.autohome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/13 Starting processing com.fractalist.MobileAcceleration-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fractalist.MobileAcceleration ......
+[ERROR] : Cannot find info of com.fractalist.MobileAcceleration-1.apk on https://play.google.com/store/apps/details?id=com.fractalist.MobileAcceleration !!!
+Done processing com.fractalist.MobileAcceleration-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/13 Starting processing com.kunpo.baba91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kunpo.baba91 ......
+[ERROR] : Cannot find info of com.kunpo.baba91-1.apk on https://play.google.com/store/apps/details?id=com.kunpo.baba91 !!!
+Done processing com.kunpo.baba91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/13 Starting processing com.lenovo.calendar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lenovo.calendar ......
+Success to get info from Play Store
+The lastest version of com.lenovo.calendar-1.apk is 
+Done processing com.lenovo.calendar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/13 Starting processing com.storm.smart-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.storm.smart ......
+[ERROR] : Cannot find info of com.storm.smart-1.apk on https://play.google.com/store/apps/details?id=com.storm.smart !!!
+Done processing com.storm.smart-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+10/13 Starting processing com.tencent.news-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.news ......
+Success to get info from Play Store
+The lastest version of com.tencent.news-1.apk is  4.8.9  
+Done processing com.tencent.news-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+11/13 Starting processing com.vectorunit.redcmgeplaycn-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vectorunit.redcmgeplaycn ......
+[ERROR] : Cannot find info of com.vectorunit.redcmgeplaycn-1.apk on https://play.google.com/store/apps/details?id=com.vectorunit.redcmgeplaycn !!!
+Done processing com.vectorunit.redcmgeplaycn-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+12/13 Starting processing com.zzenglish.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zzenglish.client ......
+Success to get info from Play Store
+The lastest version of com.zzenglish.client-1.apk is  3.3.2.140627  
+Done processing com.zzenglish.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+13/13 Starting processing qsbk.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=qsbk.app ......
+[ERROR] : Cannot find info of qsbk.app-1.apk on https://play.google.com/store/apps/details?id=qsbk.app !!!
+Done processing qsbk.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 26 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-18-17-57-00.csv
+**************************************************************

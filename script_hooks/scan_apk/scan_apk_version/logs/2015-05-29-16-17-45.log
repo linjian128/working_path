@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing br.com.beholdstudios.knightspp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=br.com.beholdstudios.knightspp ......
+Success to get info from Play Store
+The lastest version of br.com.beholdstudios.knightspp-1.apk is 
+Done processing br.com.beholdstudios.knightspp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.hulu.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hulu.plus ......
+Success to get info from Play Store
+The lastest version of com.hulu.plus-1.apk is  2.19.0.202250  
+Done processing com.hulu.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/10 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is  1.53.0.2  
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/10 Starting processing com.king.candycrushsodasaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsodasaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsodasaga-1.apk is  1.43.6  
+Done processing com.king.candycrushsodasaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/10 Starting processing com.namcobandaigames.pacmantournaments-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.namcobandaigames.pacmantournaments ......
+Success to get info from Play Store
+The lastest version of com.namcobandaigames.pacmantournaments-1.apk is  1.1.9  
+Done processing com.namcobandaigames.pacmantournaments-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/10 Starting processing com.qihoo.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qihoo.security ......
+Success to get info from Play Store
+The lastest version of com.qihoo.security-1.apk is  3.2.3  
+Done processing com.qihoo.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+7/10 Starting processing com.smule.magicpiano-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smule.magicpiano ......
+Success to get info from Play Store
+The lastest version of com.smule.magicpiano-1.apk is  2.2.4  
+Done processing com.smule.magicpiano-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+8/10 Starting processing com.tencent.mobileqq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mobileqq ......
+Success to get info from Play Store
+The lastest version of com.tencent.mobileqq-1.apk is  5.6.1  
+Done processing com.tencent.mobileqq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+9/10 Starting processing com.tinyco.familyguy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.familyguy ......
+Success to get info from Play Store
+The lastest version of com.tinyco.familyguy-1.apk is 
+Done processing com.tinyco.familyguy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+10/10 Starting processing com.walmart.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.walmart.android ......
+Success to get info from Play Store
+The lastest version of com.walmart.android-1.apk is    Varies with device  
+Done processing com.walmart.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 45 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-29-16-17-45.csv
+**************************************************************

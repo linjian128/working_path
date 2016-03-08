@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.activision.codm2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.activision.codm2 ......
+Success to get info from Play Store
+The lastest version of com.activision.codm2-1.apk is  1.0.551  
+Done processing com.activision.codm2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.sparklingsociety.cityisland2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland2 ......
+Success to get info from Play Store
+The lastest version of com.sparklingsociety.cityisland2-1.apk is  2.2.3  
+Done processing com.sparklingsociety.cityisland2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing joybits.doodlegod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=joybits.doodlegod ......
+Success to get info from Play Store
+The lastest version of joybits.doodlegod-1.apk is  3.0.98  
+Done processing joybits.doodlegod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/4 Starting processing kb.Blek-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kb.Blek ......
+Success to get info from Play Store
+The lastest version of kb.Blek-1.apk is  1.0.4  
+Done processing kb.Blek-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-20-16-12-12.csv
+**************************************************************

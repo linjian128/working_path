@@ -1,0 +1,53 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ARM-V8  ......
+
+============================================================================
+1/6 Starting processing com.huawei.hidisk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.huawei.hidisk ......
+[ERROR] : Cannot find info of com.huawei.hidisk-1.apk on https://play.google.com/store/apps/details?id=com.huawei.hidisk !!!
+Done processing com.huawei.hidisk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.qunar.travelplan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qunar.travelplan ......
+[ERROR] : Cannot find info of com.qunar.travelplan-1.apk on https://play.google.com/store/apps/details?id=com.qunar.travelplan !!!
+Done processing com.qunar.travelplan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.rong360.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rong360.app ......
+[ERROR] : Cannot find info of com.rong360.app-1.apk on https://play.google.com/store/apps/details?id=com.rong360.app !!!
+Done processing com.rong360.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/6 Starting processing com.tencent.movieticket-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.movieticket ......
+Success to get info from Play Store
+The lastest version of com.tencent.movieticket-1.apk is  3.6.0  
+Done processing com.tencent.movieticket-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/6 Starting processing com.vodone.caibo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vodone.caibo ......
+[ERROR] : Cannot find info of com.vodone.caibo-1.apk on https://play.google.com/store/apps/details?id=com.vodone.caibo !!!
+Done processing com.vodone.caibo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/6 Starting processing com.zhiyun.feel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zhiyun.feel ......
+[ERROR] : Cannot find info of com.zhiyun.feel-1.apk on https://play.google.com/store/apps/details?id=com.zhiyun.feel !!!
+Done processing com.zhiyun.feel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-25-13-40-47.csv
+**************************************************************

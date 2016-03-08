@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.errorsevendev.games.laserBreak-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.errorsevendev.games.laserBreak ......
+Success to get info from Play Store
+The lastest version of com.errorsevendev.games.laserBreak-1.apk is  2.02  
+Done processing com.errorsevendev.games.laserBreak-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-18-12-39-16.csv
+**************************************************************

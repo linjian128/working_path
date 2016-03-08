@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.deathbatgame.hailtotheking-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.deathbatgame.hailtotheking ......
+Success to get info from Play Store
+The lastest version of com.deathbatgame.hailtotheking-1.apk is  1.13  
+Done processing com.deathbatgame.hailtotheking-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.ea.game.maddenmobile15_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.maddenmobile15_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.maddenmobile15_row-1.apk is    Varies with device  
+Done processing com.ea.game.maddenmobile15_row-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/5 Starting processing com.gun.bnc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gun.bnc ......
+Success to get info from Play Store
+The lastest version of com.gun.bnc-1.apk is    Varies with device  
+Done processing com.gun.bnc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/5 Starting processing com.igg.android.clashofgangs_en-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.android.clashofgangs_en ......
+Success to get info from Play Store
+The lastest version of com.igg.android.clashofgangs_en-1.apk is  1.1.37  
+Done processing com.igg.android.clashofgangs_en-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/5 Starting processing com.lookout-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lookout ......
+Success to get info from Play Store
+The lastest version of com.lookout-1.apk is    Varies with device  
+Done processing com.lookout-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-19-17-24-34.csv
+**************************************************************

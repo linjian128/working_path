@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.differencegames.hocinderellafree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.differencegames.hocinderellafree ......
+Success to get info from Play Store
+The lastest version of air.com.differencegames.hocinderellafree-1.apk is  1.0.14  
+Done processing air.com.differencegames.hocinderellafree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/8 Starting processing com.cataclysmicdev.mindresolve-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cataclysmicdev.mindresolve ......
+Success to get info from Play Store
+The lastest version of com.cataclysmicdev.mindresolve-1.apk is    Varies with device  
+Done processing com.cataclysmicdev.mindresolve-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.daringookim.HerobrineCatapultLite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.daringookim.HerobrineCatapultLite ......
+Success to get info from Play Store
+The lastest version of com.daringookim.HerobrineCatapultLite-1.apk is  2.0  
+Done processing com.daringookim.HerobrineCatapultLite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/8 Starting processing com.digitalcodeworks.slendermanfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.digitalcodeworks.slendermanfree ......
+Success to get info from Play Store
+The lastest version of com.digitalcodeworks.slendermanfree-1.apk is  7.02  
+Done processing com.digitalcodeworks.slendermanfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/8 Starting processing com.dsemu.drasticdemo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dsemu.drasticdemo ......
+Success to get info from Play Store
+The lastest version of com.dsemu.drasticdemo-1.apk is  r2.1.6.2a  
+Done processing com.dsemu.drasticdemo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/8 Starting processing com.game.JewelsStar2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.game.JewelsStar2 ......
+Success to get info from Play Store
+The lastest version of com.game.JewelsStar2-1.apk is  1.0  
+Done processing com.game.JewelsStar2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/8 Starting processing com.roviostars.tinythieflite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roviostars.tinythieflite ......
+Success to get info from Play Store
+The lastest version of com.roviostars.tinythieflite-1.apk is  1.0.0  
+Done processing com.roviostars.tinythieflite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+8/8 Starting processing com.zoon.dumbhalloween-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zoon.dumbhalloween ......
+Success to get info from Play Store
+The lastest version of com.zoon.dumbhalloween-1.apk is  1.8  
+Done processing com.zoon.dumbhalloween-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-04-13-14-28.csv
+**************************************************************

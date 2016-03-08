@@ -1,0 +1,48 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.flipline.papasfreezeriatogo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.flipline.papasfreezeriatogo ......
+Success to get info from Play Store
+The lastest version of air.com.flipline.papasfreezeriatogo-1.apk is  1.0.1  
+Done processing air.com.flipline.papasfreezeriatogo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/5 Starting processing com.basevelocity.radarscope-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.basevelocity.radarscope ......
+Success to get info from Play Store
+The lastest version of com.basevelocity.radarscope-1.apk is  2.2.4  
+Done processing com.basevelocity.radarscope-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/5 Starting processing com.kascend.video-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kascend.video ......
+[ERROR] : Cannot find info of com.kascend.video-1.apk on https://play.google.com/store/apps/details?id=com.kascend.video !!!
+Done processing com.kascend.video-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/5 Starting processing com.roadhousegames.carnage-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roadhousegames.carnage ......
+Success to get info from Play Store
+The lastest version of com.roadhousegames.carnage-1.apk is  187933  
+Done processing com.roadhousegames.carnage-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/5 Starting processing com.wandoujia.phoenix2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 ......
+[ERROR] : Cannot find info of com.wandoujia.phoenix2-1.apk on https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 !!!
+Done processing com.wandoujia.phoenix2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-29-17-09-11.csv
+**************************************************************

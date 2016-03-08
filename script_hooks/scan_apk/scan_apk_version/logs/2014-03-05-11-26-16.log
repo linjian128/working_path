@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.digiskygames.superjugglingballs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.digiskygames.superjugglingballs ......
+Success to get info from Play Store
+The lastest version of com.digiskygames.superjugglingballs-1.apk is  1.010  
+Done processing com.digiskygames.superjugglingballs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing tomahawk.software.games.candypop.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tomahawk.software.games.candypop.free ......
+Success to get info from Play Store
+The lastest version of tomahawk.software.games.candypop.free-1.apk is  2.0.0  
+Done processing tomahawk.software.games.candypop.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-05-11-26-16.csv
+**************************************************************

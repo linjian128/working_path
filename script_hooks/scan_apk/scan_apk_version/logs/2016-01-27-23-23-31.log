@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.glu.stardomkim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.stardomkim ......
+Success to get info from Play Store
+The lastest version of com.glu.stardomkim-1.apk is  4.6.0  
+Done processing com.glu.stardomkim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/4 Starting processing com.king.farmheroessaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.farmheroessaga ......
+Success to get info from Play Store
+The lastest version of com.king.farmheroessaga-1.apk is  2.42.9  
+Done processing com.king.farmheroessaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing jp.co.translimit.brainwars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.translimit.brainwars ......
+Success to get info from Play Store
+The lastest version of jp.co.translimit.brainwars-1.apk is  1.0.58  
+Done processing jp.co.translimit.brainwars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-27-23-23-31.csv
+**************************************************************

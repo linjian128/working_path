@@ -1,0 +1,65 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/7 Starting processing com.dp.android.elong-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dp.android.elong ......
+Success to get info from Play Store
+The lastest version of com.dp.android.elong-1.apk is  8.3.1  
+Done processing com.dp.android.elong-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/7 Starting processing com.gwsoft.imusic.controller-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gwsoft.imusic.controller ......
+[ERROR] : Cannot find info of com.gwsoft.imusic.controller-1.apk on https://play.google.com/store/apps/details?id=com.gwsoft.imusic.controller !!!
+Done processing com.gwsoft.imusic.controller-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/7 Starting processing com.halfbrick.fruitninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.fruitninja ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.fruitninja-1.apk is  2.2.8  
+Done processing com.halfbrick.fruitninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/7 Starting processing com.happyelements.happyfishandroidcns-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happyelements.happyfishandroidcns ......
+Success to get info from Play Store
+The lastest version of com.happyelements.happyfishandroidcns-1.apk is  4.7.118  
+Done processing com.happyelements.happyfishandroidcns-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/7 Starting processing com.koudai.weishop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.koudai.weishop ......
+Success to get info from Play Store
+The lastest version of com.koudai.weishop-1.apk is  4.0.2  
+Done processing com.koudai.weishop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/7 Starting processing com.qqgame.hlddz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.hlddz ......
+Success to get info from Play Store
+The lastest version of com.qqgame.hlddz-1.apk is  1.2.0  
+Done processing com.qqgame.hlddz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+7/7 Starting processing me.chunyu.ChunyuDoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.chunyu.ChunyuDoctor ......
+Success to get info from Play Store
+The lastest version of me.chunyu.ChunyuDoctor-1.apk is  5.1.0  
+Done processing me.chunyu.ChunyuDoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 26 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-17-15-07-12.csv
+**************************************************************

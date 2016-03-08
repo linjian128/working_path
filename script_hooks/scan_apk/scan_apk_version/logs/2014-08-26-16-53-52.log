@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.nuance.swype.dtc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nuance.swype.dtc ......
+Success to get info from Play Store
+The lastest version of com.nuance.swype.dtc-1.apk is    Varies with device  
+Done processing com.nuance.swype.dtc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/4 Starting processing com.plexapp.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.plexapp.android ......
+Success to get info from Play Store
+The lastest version of com.plexapp.android-1.apk is  3.4.10.181  
+Done processing com.plexapp.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/4 Starting processing com.robtopx.geometryjump-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.robtopx.geometryjump ......
+Success to get info from Play Store
+The lastest version of com.robtopx.geometryjump-1.apk is  1.811  
+Done processing com.robtopx.geometryjump-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/4 Starting processing com.trueaxis.trueskate-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.trueaxis.trueskate ......
+Success to get info from Play Store
+The lastest version of com.trueaxis.trueskate-1.apk is  1.3.5  
+Done processing com.trueaxis.trueskate-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-26-16-53-52.csv
+**************************************************************

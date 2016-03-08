@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.roadhousegames.carnage-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roadhousegames.carnage ......
+Success to get info from Play Store
+The lastest version of com.roadhousegames.carnage-1.apk is  214208  
+Done processing com.roadhousegames.carnage-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/2 Starting processing com.turner.cardwars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.turner.cardwars ......
+Success to get info from Play Store
+The lastest version of com.turner.cardwars-1.apk is  1.6.0  
+Done processing com.turner.cardwars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-08-15-19-34-08.csv
+**************************************************************

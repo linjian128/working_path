@@ -1,0 +1,114 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.bigkraken.thelastwar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bigkraken.thelastwar ......
+Success to get info from Play Store
+The lastest version of com.bigkraken.thelastwar-1.apk is  1.0.4  
+Done processing com.bigkraken.thelastwar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/13 Starting processing com.cmge.gplay.rod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cmge.gplay.rod ......
+Success to get info from Play Store
+The lastest version of com.cmge.gplay.rod-1.apk is  1.2.39662  
+Done processing com.cmge.gplay.rod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/13 Starting processing com.dirtybit.funrun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dirtybit.funrun2 ......
+Success to get info from Play Store
+The lastest version of com.dirtybit.funrun2-1.apk is  2.3.1  
+Done processing com.dirtybit.funrun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/13 Starting processing com.ea.game.pvz2_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.pvz2_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.pvz2_na-1.apk is  3.8.1  
+Done processing com.ea.game.pvz2_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/13 Starting processing com.netflix.mediaclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netflix.mediaclient ......
+Success to get info from Play Store
+The lastest version of com.netflix.mediaclient-1.apk is    Varies with device  
+Done processing com.netflix.mediaclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/13 Starting processing com.pixelbite.rr3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixelbite.rr3 ......
+Success to get info from Play Store
+The lastest version of com.pixelbite.rr3-1.apk is  1.1.6  
+Done processing com.pixelbite.rr3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/13 Starting processing com.tencent.qqpim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqpim ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqpim-1.apk is  6.0.6  
+Done processing com.tencent.qqpim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+8/13 Starting processing com.tp.android.plasticsurgery-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tp.android.plasticsurgery ......
+Success to get info from Play Store
+The lastest version of com.tp.android.plasticsurgery-1.apk is  1.0.7  
+Done processing com.tp.android.plasticsurgery-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+9/13 Starting processing com.vitotechnology.StarWalk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk ......
+Success to get info from Play Store
+The lastest version of com.vitotechnology.StarWalk-1.apk is  1.0.10.21  
+Done processing com.vitotechnology.StarWalk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+10/13 Starting processing com.zentertain.bigcasino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zentertain.bigcasino ......
+Success to get info from Play Store
+The lastest version of com.zentertain.bigcasino-1.apk is  1.3.6  
+Done processing com.zentertain.bigcasino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+11/13 Starting processing com.zynga.wwf2.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.wwf2.free ......
+Success to get info from Play Store
+The lastest version of com.zynga.wwf2.free-1.apk is    Varies with device  
+Done processing com.zynga.wwf2.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+12/13 Starting processing net.flixster.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.flixster.android ......
+Success to get info from Play Store
+The lastest version of net.flixster.android-1.apk is    Varies with device  
+Done processing net.flixster.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+13/13 Starting processing us.kick9.k3000000013.c3101000001-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=us.kick9.k3000000013.c3101000001 ......
+Success to get info from Play Store
+The lastest version of us.kick9.k3000000013.c3101000001-1.apk is  2.3.5  
+Done processing us.kick9.k3000000013.c3101000001-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 34 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-31-23-30-50.csv
+**************************************************************

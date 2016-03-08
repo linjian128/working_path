@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.freshplanet.games.SongPopPremium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.SongPopPremium ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.SongPopPremium-1.apk is 1.7.9
+Done processing air.com.freshplanet.games.SongPopPremium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/5 Starting processing air.com.freshplanet.games.WaM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.WaM ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.WaM-1.apk is 1.7.9
+Done processing air.com.freshplanet.games.WaM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/5 Starting processing com.djinnworks.StickCliffDiving.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.StickCliffDiving.lite ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.StickCliffDiving.lite-1.apk is 2.5
+Done processing com.djinnworks.StickCliffDiving.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/5 Starting processing com.fastemulator.gba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fastemulator.gba ......
+Success to get info from Play Store
+The lastest version of com.fastemulator.gba-1.apk is 1.5.2
+Done processing com.fastemulator.gba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/5 Starting processing com.foxfi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.foxfi ......
+Success to get info from Play Store
+The lastest version of com.foxfi-1.apk is 2.12
+Done processing com.foxfi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-11-17-59-09.csv
+**************************************************************

@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.blingstorm.szty.fishhunter-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.blingstorm.szty.fishhunter ......
+Success to get info from Play Store
+The lastest version of com.blingstorm.szty.fishhunter-1.apk is  1.7  
+Done processing com.blingstorm.szty.fishhunter-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.dworks.riddlesamazongp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dworks.riddlesamazongp ......
+Success to get info from Play Store
+The lastest version of com.dworks.riddlesamazongp-1.apk is  1.0.5  
+Done processing com.dworks.riddlesamazongp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/10 Starting processing com.fs.wimpultimate-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fs.wimpultimate ......
+Success to get info from Play Store
+The lastest version of com.fs.wimpultimate-1.apk is  1.2  
+Done processing com.fs.wimpultimate-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/10 Starting processing com.g6677.android.skin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.g6677.android.skin ......
+Success to get info from Play Store
+The lastest version of com.g6677.android.skin-1.apk is  1.0.0  
+Done processing com.g6677.android.skin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/10 Starting processing com.gameimax.naildoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameimax.naildoctor ......
+Success to get info from Play Store
+The lastest version of com.gameimax.naildoctor-1.apk is  1.5  
+Done processing com.gameimax.naildoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/10 Starting processing com.lego.city.my_city-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lego.city.my_city ......
+Success to get info from Play Store
+The lastest version of com.lego.city.my_city-1.apk is  1.0.0  
+Done processing com.lego.city.my_city-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/10 Starting processing com.lego.ninjago.rebooted-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lego.ninjago.rebooted ......
+Success to get info from Play Store
+The lastest version of com.lego.ninjago.rebooted-1.apk is  1.0.0  
+Done processing com.lego.ninjago.rebooted-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+8/10 Starting processing com.randomlogicgames.guessthe80s-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.randomlogicgames.guessthe80s ......
+Success to get info from Play Store
+The lastest version of com.randomlogicgames.guessthe80s-1.apk is  1.51  
+Done processing com.randomlogicgames.guessthe80s-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+9/10 Starting processing com.teamlava.bakerystory34-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.bakerystory34 ......
+Success to get info from Play Store
+The lastest version of com.teamlava.bakerystory34-1.apk is  1.5.5.7.8  
+Done processing com.teamlava.bakerystory34-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+10/10 Starting processing com.teamlava.fashionstory33-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.fashionstory33 ......
+Success to get info from Play Store
+The lastest version of com.teamlava.fashionstory33-1.apk is  1.5.6.4  
+Done processing com.teamlava.fashionstory33-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 41 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-25-13-40-03.csv
+**************************************************************

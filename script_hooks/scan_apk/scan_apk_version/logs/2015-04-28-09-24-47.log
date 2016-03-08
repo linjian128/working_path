@@ -1,0 +1,112 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.creativemobile.DragRacing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.creativemobile.DragRacing ......
+Success to get info from Play Store
+The lastest version of com.creativemobile.DragRacing-1.apk is    Varies with device  
+Done processing com.creativemobile.DragRacing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/13 Starting processing com.disney.cpcompanion_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.cpcompanion_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.cpcompanion_goo-1.apk is  1.6.5  
+Done processing com.disney.cpcompanion_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/13 Starting processing com.gamegarden.fd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamegarden.fd ......
+Success to get info from Play Store
+The lastest version of com.gamegarden.fd-1.apk is  1.6.11  
+Done processing com.gamegarden.fd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/13 Starting processing com.jingdong.app.mall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jingdong.app.mall ......
+Success to get info from Play Store
+The lastest version of com.jingdong.app.mall-1.apk is  3.4.6  
+Done processing com.jingdong.app.mall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/13 Starting processing com.letv.android.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.letv.android.client ......
+[ERROR] : Cannot find info of com.letv.android.client-1.apk on https://play.google.com/store/apps/details?id=com.letv.android.client !!!
+Done processing com.letv.android.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/13 Starting processing com.microsoft.office.excel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.microsoft.office.excel ......
+Success to get info from Play Store
+The lastest version of com.microsoft.office.excel-1.apk is  16.0.3823.1014  
+Done processing com.microsoft.office.excel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+7/13 Starting processing com.playstudios.myvegas-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playstudios.myvegas ......
+Success to get info from Play Store
+The lastest version of com.playstudios.myvegas-1.apk is  1.16.1  
+Done processing com.playstudios.myvegas-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+8/13 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is  5.0.6  
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+9/13 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+10/13 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+11/13 Starting processing com.tencent.mobileqq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mobileqq ......
+Success to get info from Play Store
+The lastest version of com.tencent.mobileqq-1.apk is  5.5.1  
+Done processing com.tencent.mobileqq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+12/13 Starting processing com.tp.android.lmaternitydoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tp.android.lmaternitydoctor ......
+Success to get info from Play Store
+The lastest version of com.tp.android.lmaternitydoctor-1.apk is  1.0.9  
+Done processing com.tp.android.lmaternitydoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+13/13 Starting processing com.yipiao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yipiao ......
+Success to get info from Play Store
+The lastest version of com.yipiao-1.apk is  2.5.2  
+Done processing com.yipiao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 39 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-04-28-09-24-47.csv
+**************************************************************

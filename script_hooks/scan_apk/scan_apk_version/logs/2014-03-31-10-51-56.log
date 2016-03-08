@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.flipline.papasfreezeriatogo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.flipline.papasfreezeriatogo ......
+Success to get info from Play Store
+The lastest version of air.com.flipline.papasfreezeriatogo-1.apk is  1.0.0  
+Done processing air.com.flipline.papasfreezeriatogo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/8 Starting processing com.dotemu.ddtrilogy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.ddtrilogy ......
+Success to get info from Play Store
+The lastest version of com.dotemu.ddtrilogy-1.apk is  1.4  
+Done processing com.dotemu.ddtrilogy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.dotemu.rtype2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.rtype2 ......
+Success to get info from Play Store
+The lastest version of com.dotemu.rtype2-1.apk is  1.0.3  
+Done processing com.dotemu.rtype2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/8 Starting processing com.miclos.google.games.outthere-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miclos.google.games.outthere ......
+Success to get info from Play Store
+The lastest version of com.miclos.google.games.outthere-1.apk is  1.02  
+Done processing com.miclos.google.games.outthere-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/8 Starting processing com.psidevelopment.pacificfleet-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.psidevelopment.pacificfleet ......
+Success to get info from Play Store
+The lastest version of com.psidevelopment.pacificfleet-1.apk is  2.08  
+Done processing com.psidevelopment.pacificfleet-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/8 Starting processing com.square_enix.android_googleplay.FFV_GP-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFV_GP ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFV_GP-1.apk is  1.0.6  
+Done processing com.square_enix.android_googleplay.FFV_GP-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+7/8 Starting processing com.thomasbowker.lynerelease-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.thomasbowker.lynerelease ......
+Success to get info from Play Store
+The lastest version of com.thomasbowker.lynerelease-1.apk is  110  
+Done processing com.thomasbowker.lynerelease-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+8/8 Starting processing com.tribeplay.pandarestaurant2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tribeplay.pandarestaurant2 ......
+Success to get info from Play Store
+The lastest version of com.tribeplay.pandarestaurant2-1.apk is  1.5  
+Done processing com.tribeplay.pandarestaurant2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 35 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-31-10-51-56.csv
+**************************************************************

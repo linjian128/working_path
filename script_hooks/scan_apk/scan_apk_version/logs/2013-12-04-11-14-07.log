@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing air.com.mobigrow.canyouescape-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.mobigrow.canyouescape ......
+Success to get info from Play Store
+The lastest version of air.com.mobigrow.canyouescape-1.apk is  1.1.7  
+Done processing air.com.mobigrow.canyouescape-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/7 Starting processing com.bitstrips.bitstrips-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bitstrips.bitstrips ......
+Success to get info from Play Store
+The lastest version of com.bitstrips.bitstrips-1.apk is  1.2.6  
+Done processing com.bitstrips.bitstrips-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/7 Starting processing com.ea.scrabblefree_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.scrabblefree_na ......
+Success to get info from Play Store
+The lastest version of com.ea.scrabblefree_na-1.apk is  3.6.1.17  
+Done processing com.ea.scrabblefree_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/7 Starting processing com.intsig.camscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intsig.camscanner ......
+Success to get info from Play Store
+The lastest version of com.intsig.camscanner-1.apk is  2.7.1.20131121  
+Done processing com.intsig.camscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/7 Starting processing com.kiloo.subwaysurf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf ......
+Success to get info from Play Store
+The lastest version of com.kiloo.subwaysurf-1.apk is  1.16.0  
+Done processing com.kiloo.subwaysurf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/7 Starting processing com.sparklingsociety.cityisland-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland ......
+Success to get info from Play Store
+The lastest version of com.sparklingsociety.cityisland-1.apk is  2.13.1  
+Done processing com.sparklingsociety.cityisland-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/7 Starting processing eu.namcobandaigames.tekkencard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=eu.namcobandaigames.tekkencard ......
+Success to get info from Play Store
+The lastest version of eu.namcobandaigames.tekkencard-1.apk is  1.512  
+Done processing eu.namcobandaigames.tekkencard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-04-11-14-07.csv
+**************************************************************

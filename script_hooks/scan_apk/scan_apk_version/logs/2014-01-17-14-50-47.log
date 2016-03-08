@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing cn.konami.contraevo.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.konami.contraevo.gp ......
+Success to get info from Play Store
+The lastest version of cn.konami.contraevo.gp-1.apk is  1.2.8  
+Done processing cn.konami.contraevo.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.DefiantDev.SkiSafari-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.DefiantDev.SkiSafari ......
+Success to get info from Play Store
+The lastest version of com.DefiantDev.SkiSafari-1.apk is    Varies with device  
+Done processing com.DefiantDev.SkiSafari-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/9 Starting processing com.P3D.PixlgunPro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.P3D.PixlgunPro ......
+Success to get info from Play Store
+The lastest version of com.P3D.PixlgunPro-1.apk is  4.7.1  
+Done processing com.P3D.PixlgunPro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/9 Starting processing com.adsk.sketchbookhd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.adsk.sketchbookhd ......
+Success to get info from Play Store
+The lastest version of com.adsk.sketchbookhd-1.apk is  2.9.2  
+Done processing com.adsk.sketchbookhd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/9 Starting processing com.and.games505.TerrariaPaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid ......
+Success to get info from Play Store
+The lastest version of com.and.games505.TerrariaPaid-1.apk is  1.0.6  
+Done processing com.and.games505.TerrariaPaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/9 Starting processing com.dama.papercamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.papercamera ......
+Success to get info from Play Store
+The lastest version of com.dama.papercamera-1.apk is  3.7.0  
+Done processing com.dama.papercamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/9 Starting processing com.disney.wheresmymickey_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.wheresmymickey_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.wheresmymickey_goo-1.apk is  1.1.0  
+Done processing com.disney.wheresmymickey_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+8/9 Starting processing com.sega.CrazyTaxi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sega.CrazyTaxi ......
+Success to get info from Play Store
+The lastest version of com.sega.CrazyTaxi-1.apk is  1.20  
+Done processing com.sega.CrazyTaxi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+9/9 Starting processing com.thegamebakers.combocrew-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.thegamebakers.combocrew ......
+Success to get info from Play Store
+The lastest version of com.thegamebakers.combocrew-1.apk is  1.3.0  
+Done processing com.thegamebakers.combocrew-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-17-14-50-47.csv
+**************************************************************

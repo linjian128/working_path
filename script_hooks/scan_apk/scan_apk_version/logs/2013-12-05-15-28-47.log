@@ -1,0 +1,41 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.glu.deerhunt2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deerhunt2 ......
+Success to get info from Play Store
+The lastest version of com.glu.deerhunt2-1.apk is  1.1.3  
+Done processing com.glu.deerhunt2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/4 Starting processing com.sirma.mobile.bible.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android ......
+Success to get info from Play Store
+The lastest version of com.sirma.mobile.bible.android-1.apk is    Varies with device  
+Done processing com.sirma.mobile.bible.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.tencent.pao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.pao ......
+[ERROR] : Cannot find info of com.tencent.pao-1.apk on https://play.google.com/store/apps/details?id=com.tencent.pao !!!
+Done processing com.tencent.pao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/4 Starting processing net.flixster.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.flixster.android ......
+Success to get info from Play Store
+The lastest version of net.flixster.android-1.apk is    Varies with device  
+Done processing net.flixster.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-05-15-28-47.csv
+**************************************************************

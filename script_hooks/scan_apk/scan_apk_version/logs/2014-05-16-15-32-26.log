@@ -1,0 +1,93 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.beamdog.baldursgateenhancededition-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.beamdog.baldursgateenhancededition ......
+Success to get info from Play Store
+The lastest version of com.beamdog.baldursgateenhancededition-1.apk is    Varies with device  
+Done processing com.beamdog.baldursgateenhancededition-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.pixelsontoast.impossibleroad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixelsontoast.impossibleroad ......
+Success to get info from Play Store
+The lastest version of com.pixelsontoast.impossibleroad-1.apk is  1.2.4  
+Done processing com.pixelsontoast.impossibleroad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/11 Starting processing com.qqgame.happymj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.happymj ......
+[ERROR] : Cannot find info of com.qqgame.happymj-1.apk on https://play.google.com/store/apps/details?id=com.qqgame.happymj !!!
+Done processing com.qqgame.happymj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/11 Starting processing com.t2ksports.nba2k14google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.t2ksports.nba2k14google ......
+Success to get info from Play Store
+The lastest version of com.t2ksports.nba2k14google-1.apk is  1.0  
+Done processing com.t2ksports.nba2k14google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/11 Starting processing com.tencent.clover-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.clover ......
+[ERROR] : Cannot find info of com.tencent.clover-1.apk on https://play.google.com/store/apps/details?id=com.tencent.clover !!!
+Done processing com.tencent.clover-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/11 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+7/11 Starting processing com.tencent.game.rhythmmaster-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.rhythmmaster ......
+[ERROR] : Cannot find info of com.tencent.game.rhythmmaster-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.rhythmmaster !!!
+Done processing com.tencent.game.rhythmmaster-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+8/11 Starting processing com.tencent.peng-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.peng ......
+[ERROR] : Cannot find info of com.tencent.peng-1.apk on https://play.google.com/store/apps/details?id=com.tencent.peng !!!
+Done processing com.tencent.peng-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+9/11 Starting processing com.tencent.qqgame.qqTexaswvga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqgame.qqTexaswvga ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqgame.qqTexaswvga-1.apk is  v3.1  
+Done processing com.tencent.qqgame.qqTexaswvga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+10/11 Starting processing com.wb.goog.starwars.microfighters-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.starwars.microfighters ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.starwars.microfighters-1.apk is  1.00  
+Done processing com.wb.goog.starwars.microfighters-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+11/11 Starting processing com.wildtangent.polarbowleradventure-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wildtangent.polarbowleradventure ......
+Success to get info from Play Store
+The lastest version of com.wildtangent.polarbowleradventure-1.apk is  1.1.0  
+Done processing com.wildtangent.polarbowleradventure-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-16-15-32-26.csv
+**************************************************************

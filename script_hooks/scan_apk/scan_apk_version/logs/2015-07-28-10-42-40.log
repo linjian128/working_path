@@ -1,0 +1,49 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/5 Starting processing cld.navi.mainframe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cld.navi.mainframe ......
+[ERROR] : Cannot find info of cld.navi.mainframe-1.apk on https://play.google.com/store/apps/details?id=cld.navi.mainframe !!!
+Done processing cld.navi.mainframe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.taobao.taobao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.taobao.taobao ......
+Success to get info from Play Store
+The lastest version of com.taobao.taobao-1.apk is  5.3.1  
+Done processing com.taobao.taobao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/5 Starting processing com.tencent.androidqqmail-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.androidqqmail ......
+Success to get info from Play Store
+The lastest version of com.tencent.androidqqmail-1.apk is  4.1.1  
+Done processing com.tencent.androidqqmail-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+4/5 Starting processing com.tencent.qqlite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlite ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlite-1.apk is  3.3.0  
+Done processing com.tencent.qqlite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+5/5 Starting processing com.zdworks.android.zdclock-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zdworks.android.zdclock ......
+Success to get info from Play Store
+The lastest version of com.zdworks.android.zdclock-1.apk is  4.9.535  
+Done processing com.zdworks.android.zdclock-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 44 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 44 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-28-10-42-40.csv
+**************************************************************

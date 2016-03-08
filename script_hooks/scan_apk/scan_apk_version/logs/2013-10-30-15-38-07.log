@@ -1,0 +1,54 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.CatchTheDrops-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.CatchTheDrops ......
+Success to get info from Play Store
+The lastest version of air.CatchTheDrops-1.apk is  1.1.3  
+Done processing air.CatchTheDrops-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/6 Starting processing air.com.huale.Basketball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.huale.Basketball ......
+[ERROR] : Cannot find info of air.com.huale.Basketball-1.apk on https://play.google.com/store/apps/details?id=air.com.huale.Basketball !!!
+Done processing air.com.huale.Basketball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing air.com.oranginalplan1-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.oranginalplan1 ......
+[ERROR] : Cannot find info of air.com.oranginalplan1-1.apk on https://play.google.com/store/apps/details?id=air.com.oranginalplan1 !!!
+Done processing air.com.oranginalplan1-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/6 Starting processing air.com.sooxin.mahjong-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sooxin.mahjong ......
+[ERROR] : Cannot find info of air.com.sooxin.mahjong-1.apk on https://play.google.com/store/apps/details?id=air.com.sooxin.mahjong !!!
+Done processing air.com.sooxin.mahjong-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/6 Starting processing cn.jj.poker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.jj.poker ......
+Success to get info from Play Store
+The lastest version of cn.jj.poker-1.apk is  1.11.20.HD  
+Done processing cn.jj.poker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+6/6 Starting processing com.haowan123.kids.ad.wws-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.haowan123.kids.ad.wws ......
+[ERROR] : Cannot find info of com.haowan123.kids.ad.wws-1.apk on https://play.google.com/store/apps/details?id=com.haowan123.kids.ad.wws !!!
+Done processing com.haowan123.kids.ad.wws-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-30-15-38-07.csv
+**************************************************************

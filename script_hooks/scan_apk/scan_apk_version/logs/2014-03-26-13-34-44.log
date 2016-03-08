@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.and.games505.Terraria-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.and.games505.Terraria ......
+Success to get info from Play Store
+The lastest version of com.and.games505.Terraria-1.apk is  1.1.92  
+Done processing com.and.games505.Terraria-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/6 Starting processing com.and.games505.TerrariaPaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid ......
+Success to get info from Play Store
+The lastest version of com.and.games505.TerrariaPaid-1.apk is  1.1.92  
+Done processing com.and.games505.TerrariaPaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/6 Starting processing com.google.android.gms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gms ......
+Success to get info from Play Store
+The lastest version of com.google.android.gms-1.apk is    Varies with device  
+Done processing com.google.android.gms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/6 Starting processing com.roviostars.tinythief-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roviostars.tinythief ......
+Success to get info from Play Store
+The lastest version of com.roviostars.tinythief-1.apk is  1.2.0  
+Done processing com.roviostars.tinythief-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/6 Starting processing com.teamspeak.ts3client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamspeak.ts3client ......
+Success to get info from Play Store
+The lastest version of com.teamspeak.ts3client-1.apk is  3.0.14.1  
+Done processing com.teamspeak.ts3client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/6 Starting processing com.trueaxis.trueskate-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.trueaxis.trueskate ......
+Success to get info from Play Store
+The lastest version of com.trueaxis.trueskate-1.apk is  1.2.4  
+Done processing com.trueaxis.trueskate-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 23 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-26-13-34-44.csv
+**************************************************************

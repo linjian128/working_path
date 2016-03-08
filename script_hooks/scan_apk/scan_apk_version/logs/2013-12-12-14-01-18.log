@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.P3D.PixlgunPro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.P3D.PixlgunPro ......
+Success to get info from Play Store
+The lastest version of com.P3D.PixlgunPro-1.apk is  4.3  
+Done processing com.P3D.PixlgunPro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.and.games505.TerrariaPaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid ......
+Success to get info from Play Store
+The lastest version of com.and.games505.TerrariaPaid-1.apk is  1.0.5  
+Done processing com.and.games505.TerrariaPaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-12-14-01-18.csv
+**************************************************************

@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing cn.cntv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.cntv ......
+Success to get info from Play Store
+The lastest version of cn.cntv-1.apk is  5.0.2  
+Done processing cn.cntv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.com2us.sliceit-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.sliceit ......
+Success to get info from Play Store
+The lastest version of com.com2us.sliceit-1.apk is  1.8.4  
+Done processing com.com2us.sliceit-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.ijinshan.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.browser ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.browser-1.apk is  3.3.3  
+Done processing com.ijinshan.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/9 Starting processing com.mapbar.android.mapbarmap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapbar.android.mapbarmap ......
+Success to get info from Play Store
+The lastest version of com.mapbar.android.mapbarmap-1.apk is  7.9.7.181539  
+Done processing com.mapbar.android.mapbarmap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/9 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+Success to get info from Play Store
+The lastest version of com.sds.android.ttpod-1.apk is  6.6.4  
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/9 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  3.86  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/9 Starting processing com.yx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yx ......
+Success to get info from Play Store
+The lastest version of com.yx-1.apk is  2.21.0  
+Done processing com.yx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/9 Starting processing dopool.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=dopool.player ......
+Success to get info from Play Store
+The lastest version of dopool.player-1.apk is  4.1.1  
+Done processing dopool.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+9/9 Starting processing jp.co.applibot.legend.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.applibot.legend.android ......
+Success to get info from Play Store
+The lastest version of jp.co.applibot.legend.android-1.apk is  6.9  
+Done processing jp.co.applibot.legend.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-25-17-46-40.csv
+**************************************************************

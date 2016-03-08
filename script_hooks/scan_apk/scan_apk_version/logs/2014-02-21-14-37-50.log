@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.alinaduva.fingerprint.scanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alinaduva.fingerprint.scanner ......
+Success to get info from Play Store
+The lastest version of com.alinaduva.fingerprint.scanner-1.apk is  3.4  
+Done processing com.alinaduva.fingerprint.scanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.dianxinos.optimizer.duplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dianxinos.optimizer.duplay ......
+Success to get info from Play Store
+The lastest version of com.dianxinos.optimizer.duplay-1.apk is  1.4.0  
+Done processing com.dianxinos.optimizer.duplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/4 Starting processing com.mobogenie.markets-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobogenie.markets ......
+Success to get info from Play Store
+The lastest version of com.mobogenie.markets-1.apk is  1.1.1  
+Done processing com.mobogenie.markets-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.softwego.crackscreen-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.softwego.crackscreen ......
+Success to get info from Play Store
+The lastest version of com.softwego.crackscreen-1.apk is  2.6  
+Done processing com.softwego.crackscreen-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-21-14-37-50.csv
+**************************************************************

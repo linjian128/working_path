@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.directv.dvrscheduler-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.directv.dvrscheduler ......
+Success to get info from Play Store
+The lastest version of com.directv.dvrscheduler-1.apk is  3.8.008  
+Done processing com.directv.dvrscheduler-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+2/6 Starting processing com.disney.wheresmymickeyfree_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.wheresmymickeyfree_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.wheresmymickeyfree_goo-1.apk is  1.0.3  
+Done processing com.disney.wheresmymickeyfree_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+3/6 Starting processing com.fatchicken007.headsupcharades2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fatchicken007.headsupcharades2 ......
+Success to get info from Play Store
+The lastest version of com.fatchicken007.headsupcharades2-1.apk is  2.3.2  
+Done processing com.fatchicken007.headsupcharades2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+4/6 Starting processing com.fdgentertainment.bananakong-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fdgentertainment.bananakong ......
+Success to get info from Play Store
+The lastest version of com.fdgentertainment.bananakong-1.apk is  1.8.1  
+Done processing com.fdgentertainment.bananakong-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+5/6 Starting processing com.lego.city.my_city-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lego.city.my_city ......
+Success to get info from Play Store
+The lastest version of com.lego.city.my_city-1.apk is  1.2.1  
+Done processing com.lego.city.my_city-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+6/6 Starting processing com.ludia.dragons-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ludia.dragons ......
+Success to get info from Play Store
+The lastest version of com.ludia.dragons-1.apk is  1.7.1  
+Done processing com.ludia.dragons-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 41 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-31-15-10-19.csv
+**************************************************************

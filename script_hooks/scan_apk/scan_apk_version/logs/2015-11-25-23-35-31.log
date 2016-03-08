@@ -1,0 +1,63 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/7 Starting processing com.chinamworld.bocmbci-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chinamworld.bocmbci ......
+[ERROR] : Cannot find info of com.chinamworld.bocmbci-1.apk on https://play.google.com/store/apps/details?id=com.chinamworld.bocmbci !!!
+Done processing com.chinamworld.bocmbci-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.cootek.smartdialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cootek.smartdialer ......
+Success to get info from Play Store
+The lastest version of com.cootek.smartdialer-1.apk is  5.7.4.0  
+Done processing com.cootek.smartdialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.hunantv.imgo.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity ......
+[ERROR] : Cannot find info of com.hunantv.imgo.activity-1.apk on https://play.google.com/store/apps/details?id=com.hunantv.imgo.activity !!!
+Done processing com.hunantv.imgo.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.meitu.meipaimv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meitu.meipaimv ......
+Success to get info from Play Store
+The lastest version of com.meitu.meipaimv-1.apk is  4.2.0  
+Done processing com.meitu.meipaimv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/7 Starting processing com.sina.weibo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sina.weibo ......
+Success to get info from Play Store
+The lastest version of com.sina.weibo-1.apk is  5.6.0  
+Done processing com.sina.weibo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/7 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  4.36.0.553  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/7 Starting processing com.ximalaya.ting.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ximalaya.ting.android ......
+[ERROR] : Cannot find info of com.ximalaya.ting.android-1.apk on https://play.google.com/store/apps/details?id=com.ximalaya.ting.android !!!
+Done processing com.ximalaya.ting.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-25-23-35-31.csv
+**************************************************************

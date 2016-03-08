@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ECS  ......
+
+============================================================================
+1/8 Starting processing com.ea.game.pvz2_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.pvz2_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.pvz2_na-1.apk is  2.9.1  
+Done processing com.ea.game.pvz2_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.ea.game.realracing2_OTD_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.realracing2_OTD_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.realracing2_OTD_na-1.apk is    Varies with device  
+Done processing com.ea.game.realracing2_OTD_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/8 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is  4.11.1  
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/8 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.150  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.gameloft.android.ANMP.GloftGGHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftGGHM-1.apk is  1.6.0k  
+Done processing com.gameloft.android.ANMP.GloftGGHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/8 Starting processing com.qisiemoji.inputmethod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qisiemoji.inputmethod ......
+Success to get info from Play Store
+The lastest version of com.qisiemoji.inputmethod-1.apk is  2.8  
+Done processing com.qisiemoji.inputmethod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/8 Starting processing com.square_enix.android_googleplay.FFVI-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFVI-1.apk is  2.0.2  
+Done processing com.square_enix.android_googleplay.FFVI-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/8 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-10-20-12-34-25.csv
+**************************************************************

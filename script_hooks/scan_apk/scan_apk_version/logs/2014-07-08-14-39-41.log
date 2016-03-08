@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.UCMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.UCMobile ......
+Success to get info from Play Store
+The lastest version of com.UCMobile-1.apk is  9.8.5  
+Done processing com.UCMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/4 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is  3.8.1  
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.skt.skaf.OA00026910-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skt.skaf.OA00026910 ......
+Success to get info from Play Store
+The lastest version of com.skt.skaf.OA00026910-1.apk is  5.0.03_M  
+Done processing com.skt.skaf.OA00026910-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-08-14-39-41.csv
+**************************************************************

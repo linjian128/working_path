@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.freshplanet.games.WaM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.WaM ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.WaM-1.apk is  1.23.08  
+Done processing air.com.freshplanet.games.WaM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing air.com.kitchenscramble.goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.kitchenscramble.goo ......
+Success to get info from Play Store
+The lastest version of air.com.kitchenscramble.goo-1.apk is  1.2.0  
+Done processing air.com.kitchenscramble.goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing com.omgpop.dstpaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstpaid ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstpaid-1.apk is  2.333.229  
+Done processing com.omgpop.dstpaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing net.defensezone.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.defensezone.lite ......
+Success to get info from Play Store
+The lastest version of net.defensezone.lite-1.apk is  1.6.13  
+Done processing net.defensezone.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-23-11-12-48.csv
+**************************************************************

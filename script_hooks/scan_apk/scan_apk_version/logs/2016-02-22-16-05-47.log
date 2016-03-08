@@ -1,0 +1,52 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/6 Starting processing com.android.zhixing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.zhixing ......
+[ERROR] : Cannot find info of com.android.zhixing-1.apk on https://play.google.com/store/apps/details?id=com.android.zhixing !!!
+Done processing com.android.zhixing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.example.newjiarun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.example.newjiarun ......
+[ERROR] : Cannot find info of com.example.newjiarun-1.apk on https://play.google.com/store/apps/details?id=com.example.newjiarun !!!
+Done processing com.example.newjiarun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.hj.dictation-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hj.dictation ......
+[ERROR] : Cannot find info of com.hj.dictation-1.apk on https://play.google.com/store/apps/details?id=com.hj.dictation !!!
+Done processing com.hj.dictation-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/6 Starting processing com.jingyou.math-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jingyou.math ......
+[ERROR] : Cannot find info of com.jingyou.math-1.apk on https://play.google.com/store/apps/details?id=com.jingyou.math !!!
+Done processing com.jingyou.math-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/6 Starting processing com.onesoft.app.Tiiku.Duia.KJZ-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.onesoft.app.Tiiku.Duia.KJZ ......
+[ERROR] : Cannot find info of com.onesoft.app.Tiiku.Duia.KJZ-1.apk on https://play.google.com/store/apps/details?id=com.onesoft.app.Tiiku.Duia.KJZ !!!
+Done processing com.onesoft.app.Tiiku.Duia.KJZ-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/6 Starting processing com.yutong.dingwei-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yutong.dingwei ......
+[ERROR] : Cannot find info of com.yutong.dingwei-1.apk on https://play.google.com/store/apps/details?id=com.yutong.dingwei !!!
+Done processing com.yutong.dingwei-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-22-16-05-47.csv
+**************************************************************

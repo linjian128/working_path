@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.apesoup.cranemissions-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.apesoup.cranemissions ......
+Success to get info from Play Store
+The lastest version of com.apesoup.cranemissions-1.apk is 1.0.2
+Done processing com.apesoup.cranemissions-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.easytech.wc2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.easytech.wc2 ......
+Success to get info from Play Store
+The lastest version of com.easytech.wc2-1.apk is 1.07
+Done processing com.easytech.wc2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.huntex.trexhunt-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.huntex.trexhunt ......
+Success to get info from Play Store
+The lastest version of com.huntex.trexhunt-1.apk is 1.2
+Done processing com.huntex.trexhunt-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/9 Starting processing com.liquidentertainment.papergalaxy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.liquidentertainment.papergalaxy ......
+Success to get info from Play Store
+The lastest version of com.liquidentertainment.papergalaxy-1.apk is 1.04
+Done processing com.liquidentertainment.papergalaxy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.mobileamusements.EgyptReelsOfLuxor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobileamusements.EgyptReelsOfLuxor ......
+Success to get info from Play Store
+The lastest version of com.mobileamusements.EgyptReelsOfLuxor-1.apk is 2.0
+Done processing com.mobileamusements.EgyptReelsOfLuxor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/9 Starting processing com.mvasiliy.dragracing3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mvasiliy.dragracing3d ......
+Success to get info from Play Store
+The lastest version of com.mvasiliy.dragracing3d-1.apk is 1.5
+Done processing com.mvasiliy.dragracing3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/9 Starting processing com.mwgd.solarforge-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mwgd.solarforge ......
+Success to get info from Play Store
+The lastest version of com.mwgd.solarforge-1.apk is 2.1.1
+Done processing com.mwgd.solarforge-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/9 Starting processing com.sgs.indarkness-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgs.indarkness ......
+Success to get info from Play Store
+The lastest version of com.sgs.indarkness-1.apk is 2.0.0
+Done processing com.sgs.indarkness-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/9 Starting processing com.webprancer.google.garfieldescape-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.webprancer.google.garfieldescape ......
+Success to get info from Play Store
+The lastest version of com.webprancer.google.garfieldescape-1.apk is 1.0.1
+Done processing com.webprancer.google.garfieldescape-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-03-06-14-49-32.csv
+**************************************************************

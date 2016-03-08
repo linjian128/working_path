@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.duowan.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duowan.mobile ......
+Success to get info from Play Store
+The lastest version of com.duowan.mobile-1.apk is  2.14.1  
+Done processing com.duowan.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.142  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing com.leftover.CoinDozer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.leftover.CoinDozer ......
+Success to get info from Play Store
+The lastest version of com.leftover.CoinDozer-1.apk is    Varies with device  
+Done processing com.leftover.CoinDozer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/6 Starting processing com.lookout-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lookout ......
+Success to get info from Play Store
+The lastest version of com.lookout-1.apk is    Varies with device  
+Done processing com.lookout-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+5/6 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  4.01  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+6/6 Starting processing com.tencent.mtt-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mtt ......
+Success to get info from Play Store
+The lastest version of com.tencent.mtt-1.apk is  5.3.2.0997  
+Done processing com.tencent.mtt-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 34 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-12-13-16-04.csv
+**************************************************************

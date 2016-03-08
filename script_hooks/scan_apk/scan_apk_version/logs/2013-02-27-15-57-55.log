@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.bsplayer.bspandroid.full-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bsplayer.bspandroid.full ......
+Success to get info from Play Store
+The lastest version of com.bsplayer.bspandroid.full-1.apk is Varies with device
+Done processing com.bsplayer.bspandroid.full-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.oovoo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oovoo ......
+Success to get info from Play Store
+The lastest version of com.oovoo-1.apk is 1.3.8
+Done processing com.oovoo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-27-15-57-55.csv
+**************************************************************

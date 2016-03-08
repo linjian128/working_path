@@ -1,0 +1,40 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/4 Starting processing com.centurysoft.fruityrobo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.centurysoft.fruityrobo ......
+[ERROR] : Cannot find info of com.centurysoft.fruityrobo-1.apk on https://play.google.com/store/apps/details?id=com.centurysoft.fruityrobo !!!
+Done processing com.centurysoft.fruityrobo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/4 Starting processing com.dz.jpxs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dz.jpxs ......
+[ERROR] : Cannot find info of com.dz.jpxs-1.apk on https://play.google.com/store/apps/details?id=com.dz.jpxs !!!
+Done processing com.dz.jpxs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/4 Starting processing com.wacai365-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wacai365 ......
+Success to get info from Play Store
+The lastest version of com.wacai365-1.apk is  9.9.5.1  
+Done processing com.wacai365-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing me.chunyu.ChunyuDoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.chunyu.ChunyuDoctor ......
+Success to get info from Play Store
+The lastest version of me.chunyu.ChunyuDoctor-1.apk is  5.1.0  
+Done processing me.chunyu.ChunyuDoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-09-19-54-02.csv
+**************************************************************

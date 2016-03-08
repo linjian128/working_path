@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.mogujie-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mogujie ......
+Success to get info from Play Store
+The lastest version of com.mogujie-1.apk is  7.0.0  
+Done processing com.mogujie-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.sina.weibo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sina.weibo ......
+Success to get info from Play Store
+The lastest version of com.sina.weibo-1.apk is  4.6.2  
+Done processing com.sina.weibo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/4 Starting processing com.tudou.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tudou.android ......
+Success to get info from Play Store
+The lastest version of com.tudou.android-1.apk is  4.6  
+Done processing com.tudou.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.wochacha-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wochacha ......
+Success to get info from Play Store
+The lastest version of com.wochacha-1.apk is  6.9.1  
+Done processing com.wochacha-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-23-13-42-51.csv
+**************************************************************

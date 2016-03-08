@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.bowengames.pullingusa-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bowengames.pullingusa ......
+Success to get info from Play Store
+The lastest version of com.bowengames.pullingusa-1.apk is 
+Done processing com.bowengames.pullingusa-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/4 Starting processing com.ubisoft.adventure.valiant_hearts-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ubisoft.adventure.valiant_hearts ......
+Success to get info from Play Store
+The lastest version of com.ubisoft.adventure.valiant_hearts-1.apk is 
+Done processing com.ubisoft.adventure.valiant_hearts-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/4 Starting processing net.kairosoft.android.townshop_en-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.kairosoft.android.townshop_en ......
+Success to get info from Play Store
+The lastest version of net.kairosoft.android.townshop_en-1.apk is 
+Done processing net.kairosoft.android.townshop_en-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/4 Starting processing stericson.busybox.donate-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=stericson.busybox.donate ......
+Success to get info from Play Store
+The lastest version of stericson.busybox.donate-1.apk is 
+Done processing stericson.busybox.donate-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-15-13-52-16.csv
+**************************************************************

@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.playtika.slotomania-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.playtika.slotomania ......
+Success to get info from Play Store
+The lastest version of air.com.playtika.slotomania-1.apk is    Varies with device  
+Done processing air.com.playtika.slotomania-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/5 Starting processing com.dotemu.raidenlegacy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.raidenlegacy ......
+Success to get info from Play Store
+The lastest version of com.dotemu.raidenlegacy-1.apk is  1.8.5  
+Done processing com.dotemu.raidenlegacy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/5 Starting processing com.dotemu.rtype-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.rtype ......
+Success to get info from Play Store
+The lastest version of com.dotemu.rtype-1.apk is  2.0.5  
+Done processing com.dotemu.rtype-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/5 Starting processing com.socialquantum.acityint-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.socialquantum.acityint ......
+Success to get info from Play Store
+The lastest version of com.socialquantum.acityint-1.apk is  1.72  
+Done processing com.socialquantum.acityint-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/5 Starting processing com.vividgames.realboxing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vividgames.realboxing ......
+Success to get info from Play Store
+The lastest version of com.vividgames.realboxing-1.apk is    Varies with device  
+Done processing com.vividgames.realboxing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-12-16-41-22.csv
+**************************************************************

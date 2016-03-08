@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.hutchgames.smashcopsheat-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hutchgames.smashcopsheat ......
+Success to get info from Play Store
+The lastest version of com.hutchgames.smashcopsheat-1.apk is  1.09.01  
+Done processing com.hutchgames.smashcopsheat-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.igg.castleclash_tw-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash_tw ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash_tw-1.apk is  1.2.38  
+Done processing com.igg.castleclash_tw-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-22-17-08-35.csv
+**************************************************************

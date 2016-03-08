@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.pipcamera.activity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pipcamera.activity ......
+Success to get info from Play Store
+The lastest version of com.pipcamera.activity-1.apk is  3.3.7  
+Done processing com.pipcamera.activity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.snapchat.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snapchat.android ......
+Success to get info from Play Store
+The lastest version of com.snapchat.android-1.apk is  9.19.0.0  
+Done processing com.snapchat.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-16-09-31-56.csv
+**************************************************************

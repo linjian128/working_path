@@ -1,0 +1,57 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/6 Starting processing cn.com.sina.sports-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.com.sina.sports ......
+Success to get info from Play Store
+The lastest version of cn.com.sina.sports-1.apk is  2.5.1.8  
+Done processing cn.com.sina.sports-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.lenovo.anyshare-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lenovo.anyshare ......
+Success to get info from Play Store
+The lastest version of com.lenovo.anyshare-1.apk is 
+Done processing com.lenovo.anyshare-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing com.qq.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qq.reader ......
+Success to get info from Play Store
+The lastest version of com.qq.reader-1.apk is  5.7.0.888  
+Done processing com.qq.reader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/6 Starting processing com.syezon.wifi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.syezon.wifi ......
+[ERROR] : Cannot find info of com.syezon.wifi-1.apk on https://play.google.com/store/apps/details?id=com.syezon.wifi !!!
+Done processing com.syezon.wifi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/6 Starting processing com.tencent.mobileqq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mobileqq ......
+Success to get info from Play Store
+The lastest version of com.tencent.mobileqq-1.apk is  5.9.1  
+Done processing com.tencent.mobileqq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/6 Starting processing com.zzenglish.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zzenglish.client ......
+Success to get info from Play Store
+The lastest version of com.zzenglish.client-1.apk is  3.3.2.140627  
+Done processing com.zzenglish.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-16-23-25-30.csv
+**************************************************************

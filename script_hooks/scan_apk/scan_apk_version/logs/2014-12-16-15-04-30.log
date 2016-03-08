@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.WR3DFree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.WR3DFree ......
+Success to get info from Play Store
+The lastest version of air.WR3DFree-1.apk is  1.301  
+Done processing air.WR3DFree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/8 Starting processing co.vine.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=co.vine.android ......
+Success to get info from Play Store
+The lastest version of co.vine.android-1.apk is    Varies with device  
+Done processing co.vine.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.lookout-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lookout ......
+Success to get info from Play Store
+The lastest version of com.lookout-1.apk is    Varies with device  
+Done processing com.lookout-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/8 Starting processing com.mobage.ww.a5225.tf2_Android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobage.ww.a5225.tf2_Android ......
+Success to get info from Play Store
+The lastest version of com.mobage.ww.a5225.tf2_Android-1.apk is  1.9.1  
+Done processing com.mobage.ww.a5225.tf2_Android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/8 Starting processing com.pikpok.bbl.play-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pikpok.bbl.play ......
+Success to get info from Play Store
+The lastest version of com.pikpok.bbl.play-1.apk is  1.1.0  
+Done processing com.pikpok.bbl.play-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/8 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is    Varies with device  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/8 Starting processing com.spacegame.dessert-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.spacegame.dessert ......
+Success to get info from Play Store
+The lastest version of com.spacegame.dessert-1.apk is  1.9.0  
+Done processing com.spacegame.dessert-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/8 Starting processing com.zynga.wwf2.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.wwf2.free ......
+Success to get info from Play Store
+The lastest version of com.zynga.wwf2.free-1.apk is  2.303  
+Done processing com.zynga.wwf2.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-16-15-04-30.csv
+**************************************************************

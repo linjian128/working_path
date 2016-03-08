@@ -1,0 +1,73 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ECS  ......
+
+============================================================================
+1/8 Starting processing com.NamcoNetworks.MsPacMan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.NamcoNetworks.MsPacMan ......
+Success to get info from Play Store
+The lastest version of com.NamcoNetworks.MsPacMan-1.apk is  2.0.3  
+Done processing com.NamcoNetworks.MsPacMan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.babeltime.fknsango_91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.babeltime.fknsango_91 ......
+[ERROR] : Cannot find info of com.babeltime.fknsango_91-1.apk on https://play.google.com/store/apps/details?id=com.babeltime.fknsango_91 !!!
+Done processing com.babeltime.fknsango_91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.154  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/8 Starting processing com.microsoft.xboxmusic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.microsoft.xboxmusic ......
+Success to get info from Play Store
+The lastest version of com.microsoft.xboxmusic-1.apk is  2.0.40929  
+Done processing com.microsoft.xboxmusic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/8 Starting processing com.qisiemoji.inputmethod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qisiemoji.inputmethod ......
+Success to get info from Play Store
+The lastest version of com.qisiemoji.inputmethod-1.apk is  2.9.1  
+Done processing com.qisiemoji.inputmethod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/8 Starting processing com.rovio.gold-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.gold ......
+Success to get info from Play Store
+The lastest version of com.rovio.gold-1.apk is  1.1.2  
+Done processing com.rovio.gold-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/8 Starting processing com.square_enix.android_googleplay.FFVI-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFVI-1.apk is  2.0.4  
+Done processing com.square_enix.android_googleplay.FFVI-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+8/8 Starting processing kr.co.tictocplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.co.tictocplus ......
+Success to get info from Play Store
+The lastest version of kr.co.tictocplus-1.apk is  3.1.12  
+Done processing kr.co.tictocplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-11-13-14-35-04.csv
+**************************************************************

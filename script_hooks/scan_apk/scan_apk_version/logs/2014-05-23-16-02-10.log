@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.jrummy.liberty.toolboxpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jrummy.liberty.toolboxpro ......
+Success to get info from Play Store
+The lastest version of com.jrummy.liberty.toolboxpro-1.apk is  6.0.3  
+Done processing com.jrummy.liberty.toolboxpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+2/2 Starting processing org.prowl.torque-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.prowl.torque ......
+Success to get info from Play Store
+The lastest version of org.prowl.torque-1.apk is  1.8.36  
+Done processing org.prowl.torque-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-23-16-02-10.csv
+**************************************************************

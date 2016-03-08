@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.asus.ephoto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.asus.ephoto ......
+Success to get info from Play Store
+The lastest version of com.asus.ephoto-1.apk is 3.0.20130131
+Done processing com.asus.ephoto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.brainium.spider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.brainium.spider ......
+Success to get info from Play Store
+The lastest version of com.brainium.spider-1.apk is 1.2
+Done processing com.brainium.spider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.com2us.nipb2013.normal.freefull.google.global.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.nipb2013.normal.freefull.google.global.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.nipb2013.normal.freefull.google.global.android.common-1.apk is 1.0.6
+Done processing com.com2us.nipb2013.normal.freefull.google.global.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/8 Starting processing com.djinnworks.RopeFly.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.RopeFly.lite ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.RopeFly.lite-1.apk is 2.0
+Done processing com.djinnworks.RopeFly.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.mobo.video.player.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobo.video.player.pro ......
+Success to get info from Play Store
+The lastest version of com.mobo.video.player.pro-1.apk is 1.1.8
+Done processing com.mobo.video.player.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/8 Starting processing com.rcflightsim.cvplane2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rcflightsim.cvplane2 ......
+Success to get info from Play Store
+The lastest version of com.rcflightsim.cvplane2-1.apk is 2.31.0
+Done processing com.rcflightsim.cvplane2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/8 Starting processing com.tatem.dinhunterhd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tatem.dinhunterhd ......
+Success to get info from Play Store
+The lastest version of com.tatem.dinhunterhd-1.apk is 1.3.8
+Done processing com.tatem.dinhunterhd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/8 Starting processing de.joergjahnke.mario.android.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=de.joergjahnke.mario.android.free ......
+Success to get info from Play Store
+The lastest version of de.joergjahnke.mario.android.free-1.apk is 2.12.4
+Done processing de.joergjahnke.mario.android.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-16-17-01-21.csv
+**************************************************************

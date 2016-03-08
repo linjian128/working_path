@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.freshplanet.games.SongPopPremium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.SongPopPremium ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.SongPopPremium-1.apk is  1.16.0  
+Done processing air.com.freshplanet.games.SongPopPremium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/4 Starting processing air.com.freshplanet.games.WaM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.WaM ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.WaM-1.apk is  1.16.0  
+Done processing air.com.freshplanet.games.WaM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing air.com.oranginalplan.weaphonesfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesfree ......
+Success to get info from Play Store
+The lastest version of air.com.oranginalplan.weaphonesfree-1.apk is  2.2.0  
+Done processing air.com.oranginalplan.weaphonesfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/4 Starting processing com.djinnworks.StickCliffDiving.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.StickCliffDiving.lite ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.StickCliffDiving.lite-1.apk is  3.0  
+Done processing com.djinnworks.StickCliffDiving.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-15-16-13-58.csv
+**************************************************************

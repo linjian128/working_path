@@ -1,0 +1,118 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/14 Starting processing com.cervomedia.spw-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cervomedia.spw ......
+Success to get info from Play Store
+The lastest version of com.cervomedia.spw-1.apk is  5.0.1  
+Done processing com.cervomedia.spw-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/14 Starting processing com.duomi.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duomi.android ......
+[ERROR] : Cannot find info of com.duomi.android-1.apk on https://play.google.com/store/apps/details?id=com.duomi.android !!!
+Done processing com.duomi.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/14 Starting processing com.google.android.youtube-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.youtube ......
+Success to get info from Play Store
+The lastest version of com.google.android.youtube-1.apk is    Varies with device  
+Done processing com.google.android.youtube-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/14 Starting processing com.igg.bravetrials-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.bravetrials ......
+Success to get info from Play Store
+The lastest version of com.igg.bravetrials-1.apk is  1.1.1  
+Done processing com.igg.bravetrials-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/14 Starting processing com.jsdev.instasize-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jsdev.instasize ......
+Success to get info from Play Store
+The lastest version of com.jsdev.instasize-1.apk is  2.4.9  
+Done processing com.jsdev.instasize-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/14 Starting processing com.lingdong.client.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lingdong.client.android ......
+[ERROR] : Cannot find info of com.lingdong.client.android-1.apk on https://play.google.com/store/apps/details?id=com.lingdong.client.android !!!
+Done processing com.lingdong.client.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/14 Starting processing com.mt.mtxx.mtxx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mt.mtxx.mtxx ......
+Success to get info from Play Store
+The lastest version of com.mt.mtxx.mtxx-1.apk is  3.9.1  
+Done processing com.mt.mtxx.mtxx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+8/14 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is  4.0.4  
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+9/14 Starting processing com.renren.mobile.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.renren.mobile.android ......
+[ERROR] : Cannot find info of com.renren.mobile.android-1.apk on https://play.google.com/store/apps/details?id=com.renren.mobile.android !!!
+Done processing com.renren.mobile.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+10/14 Starting processing com.skt.skaf.OA00026910-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skt.skaf.OA00026910 ......
+Success to get info from Play Store
+The lastest version of com.skt.skaf.OA00026910-1.apk is  5.1.3_M  
+Done processing com.skt.skaf.OA00026910-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+11/14 Starting processing com.tencent.androidqqmail-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.androidqqmail ......
+Success to get info from Play Store
+The lastest version of com.tencent.androidqqmail-1.apk is  3.3.2  
+Done processing com.tencent.androidqqmail-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+12/14 Starting processing com.topnewfree.coinrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.topnewfree.coinrush ......
+Success to get info from Play Store
+The lastest version of com.topnewfree.coinrush-1.apk is  1.19  
+Done processing com.topnewfree.coinrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+13/14 Starting processing com.wandoujia.phoenix2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 ......
+[ERROR] : Cannot find info of com.wandoujia.phoenix2-1.apk on https://play.google.com/store/apps/details?id=com.wandoujia.phoenix2 !!!
+Done processing com.wandoujia.phoenix2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 42 Seconds
+
+============================================================================
+14/14 Starting processing fm.qingting.qtradio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fm.qingting.qtradio ......
+Success to get info from Play Store
+The lastest version of fm.qingting.qtradio-1.apk is  4.5.0  
+Done processing fm.qingting.qtradio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 47 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 47 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-19-09-38-22.csv
+**************************************************************

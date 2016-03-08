@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing de.joergjahnke.mario.android.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=de.joergjahnke.mario.android.free ......
+Success to get info from Play Store
+The lastest version of de.joergjahnke.mario.android.free-1.apk is  2.17  
+Done processing de.joergjahnke.mario.android.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/2 Starting processing jp.gree.modernwar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gree.modernwar ......
+Success to get info from Play Store
+The lastest version of jp.gree.modernwar-1.apk is  3.8.6  
+Done processing jp.gree.modernwar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-15-10-13-29.csv
+**************************************************************

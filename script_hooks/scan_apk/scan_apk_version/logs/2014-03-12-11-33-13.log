@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing th.in.siamgame.ggplay.sklrth-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=th.in.siamgame.ggplay.sklrth ......
+Success to get info from Play Store
+The lastest version of th.in.siamgame.ggplay.sklrth-1.apk is  2.00  
+Done processing th.in.siamgame.ggplay.sklrth-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-12-11-33-13.csv
+**************************************************************

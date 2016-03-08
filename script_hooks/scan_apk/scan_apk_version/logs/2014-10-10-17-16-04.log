@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/tmp  ......
+
+============================================================================
+1/1 Starting processing com.tieyou.train.ark-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tieyou.train.ark ......
+Success to get info from Play Store
+The lastest version of com.tieyou.train.ark-1.apk is  4.0.2  
+Done processing com.tieyou.train.ark-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-10-10-17-16-04.csv
+**************************************************************

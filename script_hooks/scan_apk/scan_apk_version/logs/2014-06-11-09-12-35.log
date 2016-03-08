@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.julian.fastracing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.julian.fastracing ......
+Success to get info from Play Store
+The lastest version of com.julian.fastracing-1.apk is  1.1  
+Done processing com.julian.fastracing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing com.jundroo.simplerockets-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jundroo.simplerockets ......
+Success to get info from Play Store
+The lastest version of com.jundroo.simplerockets-1.apk is  1.5.9  
+Done processing com.jundroo.simplerockets-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-11-09-12-35.csv
+**************************************************************

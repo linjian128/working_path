@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.guildsoftware.vendetta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta ......
+Success to get info from Play Store
+The lastest version of com.guildsoftware.vendetta-1.apk is 1.8.242d
+Done processing com.guildsoftware.vendetta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.melodis.midomiMusicIdentifier.freemium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier.freemium-1.apk is Varies with device
+Done processing com.melodis.midomiMusicIdentifier.freemium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing com.shopkick.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shopkick.app ......
+Success to get info from Play Store
+The lastest version of com.shopkick.app-1.apk is 3.2.4
+Done processing com.shopkick.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing com.skype.raider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skype.raider ......
+Success to get info from Play Store
+The lastest version of com.skype.raider-1.apk is 3.1.0.6458
+Done processing com.skype.raider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-01-30-10-37-49.csv
+**************************************************************

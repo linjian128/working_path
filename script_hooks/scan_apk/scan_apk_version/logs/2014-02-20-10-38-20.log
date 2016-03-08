@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.myheritage.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.myheritage.mobile ......
+Success to get info from Play Store
+The lastest version of air.com.myheritage.mobile-1.apk is  2.5  
+Done processing air.com.myheritage.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.ea.games.r3_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.games.r3_na ......
+Success to get info from Play Store
+The lastest version of com.ea.games.r3_na-1.apk is  2.0.3  
+Done processing com.ea.games.r3_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/4 Starting processing com.instagram.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.instagram.android ......
+Success to get info from Play Store
+The lastest version of com.instagram.android-1.apk is    Varies with device  
+Done processing com.instagram.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/4 Starting processing com.picadelic.fxguru-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picadelic.fxguru ......
+Success to get info from Play Store
+The lastest version of com.picadelic.fxguru-1.apk is  2.2.0  
+Done processing com.picadelic.fxguru-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-20-10-38-20.csv
+**************************************************************

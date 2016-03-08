@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing block.city.game-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=block.city.game ......
+Success to get info from Play Store
+The lastest version of block.city.game-1.apk is  1.26  
+Done processing block.city.game-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.ovilex.bussimulator3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ovilex.bussimulator3d ......
+Success to get info from Play Store
+The lastest version of com.ovilex.bussimulator3d-1.apk is  1.8.5  
+Done processing com.ovilex.bussimulator3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/5 Starting processing com.tinyco.familyguy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.familyguy ......
+Success to get info from Play Store
+The lastest version of com.tinyco.familyguy-1.apk is    Varies with device  
+Done processing com.tinyco.familyguy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/5 Starting processing jp.naver.linecamera.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.linecamera.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.linecamera.android-1.apk is  8.5.2  
+Done processing jp.naver.linecamera.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/5 Starting processing net.mobilecraft.football-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.mobilecraft.football ......
+Success to get info from Play Store
+The lastest version of net.mobilecraft.football-1.apk is    Varies with device  
+Done processing net.mobilecraft.football-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-23-10-50-43.csv
+**************************************************************

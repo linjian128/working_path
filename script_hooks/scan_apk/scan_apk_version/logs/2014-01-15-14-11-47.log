@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.carrot.carrotfantasy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.carrot.carrotfantasy ......
+Success to get info from Play Store
+The lastest version of com.carrot.carrotfantasy-1.apk is  1.1.0  
+Done processing com.carrot.carrotfantasy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.ezjoynetwork.marbleblast2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ezjoynetwork.marbleblast2 ......
+Success to get info from Play Store
+The lastest version of com.ezjoynetwork.marbleblast2-1.apk is  1.2.0  
+Done processing com.ezjoynetwork.marbleblast2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.flyfish.ddz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flyfish.ddz ......
+Success to get info from Play Store
+The lastest version of com.flyfish.ddz-1.apk is  2.0.1  
+Done processing com.flyfish.ddz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/6 Starting processing com.sg.android.fish.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sg.android.fish.google ......
+Success to get info from Play Store
+The lastest version of com.sg.android.fish.google-1.apk is  2.30  
+Done processing com.sg.android.fish.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/6 Starting processing com.shootbubble.bubbledexlue-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shootbubble.bubbledexlue ......
+Success to get info from Play Store
+The lastest version of com.shootbubble.bubbledexlue-1.apk is  3.2  
+Done processing com.shootbubble.bubbledexlue-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/6 Starting processing com.skycarpenter.fantashooting-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skycarpenter.fantashooting ......
+Success to get info from Play Store
+The lastest version of com.skycarpenter.fantashooting-1.apk is  2.125  
+Done processing com.skycarpenter.fantashooting-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-15-14-11-47.csv
+**************************************************************

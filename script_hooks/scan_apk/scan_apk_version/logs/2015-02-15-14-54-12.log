@@ -1,0 +1,98 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.apalon.myclock-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.apalon.myclock ......
+Success to get info from Play Store
+The lastest version of com.apalon.myclock-1.apk is 
+Done processing com.apalon.myclock-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/11 Starting processing com.apalon.weatherlive-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.apalon.weatherlive ......
+Success to get info from Play Store
+The lastest version of com.apalon.weatherlive-1.apk is 
+Done processing com.apalon.weatherlive-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/11 Starting processing com.aspyr.swkotor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aspyr.swkotor ......
+Success to get info from Play Store
+The lastest version of com.aspyr.swkotor-1.apk is 
+Done processing com.aspyr.swkotor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/11 Starting processing com.atypicalgames.sgsr-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.atypicalgames.sgsr ......
+Success to get info from Play Store
+The lastest version of com.atypicalgames.sgsr-1.apk is 
+Done processing com.atypicalgames.sgsr-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/11 Starting processing com.corecoders.skitracks-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.corecoders.skitracks ......
+Success to get info from Play Store
+The lastest version of com.corecoders.skitracks-1.apk is 
+Done processing com.corecoders.skitracks-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+6/11 Starting processing com.etermax.preguntados.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.etermax.preguntados.pro ......
+Success to get info from Play Store
+The lastest version of com.etermax.preguntados.pro-1.apk is 
+Done processing com.etermax.preguntados.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+7/11 Starting processing com.gameloft.android.ANMP.GloftDOHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDOHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftDOHM-1.apk is 
+Done processing com.gameloft.android.ANMP.GloftDOHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+8/11 Starting processing com.halfbrick.monsterdash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.monsterdash ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.monsterdash-1.apk is 
+Done processing com.halfbrick.monsterdash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+9/11 Starting processing com.ironhidegames.android.kingdomrushorigins-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushorigins ......
+Success to get info from Play Store
+The lastest version of com.ironhidegames.android.kingdomrushorigins-1.apk is 
+Done processing com.ironhidegames.android.kingdomrushorigins-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+10/11 Starting processing com.monster.pix-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.monster.pix ......
+Success to get info from Play Store
+The lastest version of com.monster.pix-1.apk is 
+Done processing com.monster.pix-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+11/11 Starting processing com.ratrodstudio.snowparty-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ratrodstudio.snowparty ......
+Success to get info from Play Store
+The lastest version of com.ratrodstudio.snowparty-1.apk is 
+Done processing com.ratrodstudio.snowparty-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-15-14-54-12.csv
+**************************************************************

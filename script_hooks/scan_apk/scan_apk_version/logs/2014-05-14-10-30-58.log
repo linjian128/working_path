@@ -1,0 +1,32 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.tencent.Mtown-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.Mtown ......
+[ERROR] : Cannot find info of com.tencent.Mtown-1.apk on https://play.google.com/store/apps/details?id=com.tencent.Mtown !!!
+Done processing com.tencent.Mtown-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/3 Starting processing com.tencent.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.castleclash ......
+[ERROR] : Cannot find info of com.tencent.castleclash-1.apk on https://play.google.com/store/apps/details?id=com.tencent.castleclash !!!
+Done processing com.tencent.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/3 Starting processing com.tencent.game.VXDGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame ......
+Success to get info from Play Store
+The lastest version of com.tencent.game.VXDGame-1.apk is  1.1.62.1  
+Done processing com.tencent.game.VXDGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-14-10-30-58.csv
+**************************************************************

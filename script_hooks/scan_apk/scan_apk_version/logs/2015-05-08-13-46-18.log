@@ -1,0 +1,70 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/8 Starting processing com.baidu.browser.apps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.browser.apps ......
+[ERROR] : Cannot find info of com.baidu.browser.apps-1.apk on https://play.google.com/store/apps/details?id=com.baidu.browser.apps !!!
+Done processing com.baidu.browser.apps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.chinatelecom.bestpayclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chinatelecom.bestpayclient ......
+[ERROR] : Cannot find info of com.chinatelecom.bestpayclient-1.apk on https://play.google.com/store/apps/details?id=com.chinatelecom.bestpayclient !!!
+Done processing com.chinatelecom.bestpayclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/8 Starting processing com.ifeng.newvideo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ifeng.newvideo ......
+Success to get info from Play Store
+The lastest version of com.ifeng.newvideo-1.apk is  5.4.3  
+Done processing com.ifeng.newvideo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/8 Starting processing com.mydream.wifi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mydream.wifi ......
+Success to get info from Play Store
+The lastest version of com.mydream.wifi-1.apk is  2.9.7  
+Done processing com.mydream.wifi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/8 Starting processing com.this0.qqfarmcopy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.this0.qqfarmcopy ......
+[ERROR] : Cannot find info of com.this0.qqfarmcopy-1.apk on https://play.google.com/store/apps/details?id=com.this0.qqfarmcopy !!!
+Done processing com.this0.qqfarmcopy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/8 Starting processing com.this0.qqmccopy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.this0.qqmccopy ......
+[ERROR] : Cannot find info of com.this0.qqmccopy-1.apk on https://play.google.com/store/apps/details?id=com.this0.qqmccopy !!!
+Done processing com.this0.qqmccopy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/8 Starting processing com.yodo1.crossyroad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yodo1.crossyroad ......
+Success to get info from Play Store
+The lastest version of com.yodo1.crossyroad-1.apk is  1.0.9  
+Done processing com.yodo1.crossyroad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+8/8 Starting processing mobi.mgeek.TunnyBrowser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser ......
+Success to get info from Play Store
+The lastest version of mobi.mgeek.TunnyBrowser-1.apk is    Varies with device  
+Done processing mobi.mgeek.TunnyBrowser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-08-13-46-18.csv
+**************************************************************

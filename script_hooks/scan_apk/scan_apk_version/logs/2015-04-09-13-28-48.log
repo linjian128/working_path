@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/6 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is 
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.elextech.alert-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elextech.alert ......
+Success to get info from Play Store
+The lastest version of com.elextech.alert-1.apk is 
+Done processing com.elextech.alert-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/6 Starting processing com.funzio.crimecity-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.funzio.crimecity ......
+Success to get info from Play Store
+The lastest version of com.funzio.crimecity-1.apk is 
+Done processing com.funzio.crimecity-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/6 Starting processing com.sostation.game.parkour_v2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sostation.game.parkour_v2 ......
+Success to get info from Play Store
+The lastest version of com.sostation.game.parkour_v2-1.apk is 
+Done processing com.sostation.game.parkour_v2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/6 Starting processing com.work.beauty-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.work.beauty ......
+Success to get info from Play Store
+The lastest version of com.work.beauty-1.apk is 
+Done processing com.work.beauty-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+6/6 Starting processing com.yy.only-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yy.only ......
+Success to get info from Play Store
+The lastest version of com.yy.only-1.apk is 
+Done processing com.yy.only-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-04-09-13-28-48.csv
+**************************************************************

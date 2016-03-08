@@ -1,0 +1,94 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ECS  ......
+
+============================================================================
+1/13 Starting processing air.com.flipline.papasburgeriatogo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.flipline.papasburgeriatogo ......
+Success to get info from Play Store
+The lastest version of air.com.flipline.papasburgeriatogo-1.apk is    Varies with device  
+Done processing air.com.flipline.papasburgeriatogo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/13 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.5.5  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/13 Starting processing com.gameinsight.battletowersandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameinsight.battletowersandroid ......
+Success to get info from Play Store
+The lastest version of com.gameinsight.battletowersandroid-1.apk is  2.8  
+Done processing com.gameinsight.battletowersandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/13 Starting processing com.wwe.universe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wwe.universe ......
+Success to get info from Play Store
+The lastest version of com.wwe.universe-1.apk is    Varies with device  
+Done processing com.wwe.universe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/13 Starting processing com.zenstudios.StarWarsPinball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zenstudios.StarWarsPinball ......
+Success to get info from Play Store
+The lastest version of com.zenstudios.StarWarsPinball-1.apk is  3.0.2  
+Done processing com.zenstudios.StarWarsPinball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/13 Starting processing jp.co.beeworks.mushroomDX-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.beeworks.mushroomDX ......
+Success to get info from Play Store
+The lastest version of jp.co.beeworks.mushroomDX-1.apk is  1.22.3  
+Done processing jp.co.beeworks.mushroomDX-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/13 Starting processing jp.gungho.padEN-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gungho.padEN ......
+Success to get info from Play Store
+The lastest version of jp.gungho.padEN-1.apk is  7.2.2  
+Done processing jp.gungho.padEN-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/13 Starting processing jp.naver.SJLGWR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.SJLGWR ......
+Success to get info from Play Store
+The lastest version of jp.naver.SJLGWR-1.apk is  3.2.0  
+Done processing jp.naver.SJLGWR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+9/13 Starting processing com.bulkypix.darklands.shield-1.apk ......
+Error ouccus when processing com.bulkypix.darklands.shield-1.apk : Cnnot get apk info by aapt !
+============================================================================
+9/13 Starting processing com.hg.spsfootballtv-1.apk ......
+Error ouccus when processing com.hg.spsfootballtv-1.apk : Cnnot get apk info by aapt !
+============================================================================
+9/13 Starting processing com.miniclip.bikerivals-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miniclip.bikerivals ......
+Success to get info from Play Store
+The lastest version of com.miniclip.bikerivals-1.apk is  1.2.8  
+Done processing com.miniclip.bikerivals-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+10/13 Starting processing com.namcobandaigames.pacmanatv-1.apk ......
+Error ouccus when processing com.namcobandaigames.pacmanatv-1.apk : Cnnot get apk info by aapt !
+============================================================================
+10/13 Starting processing com.playmous.godoflightTV-1.apk ......
+Error ouccus when processing com.playmous.godoflightTV-1.apk : Cnnot get apk info by aapt !
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-03-11-04-09.csv
+**************************************************************

@@ -1,0 +1,98 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.akpublish.Gunspell-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.akpublish.Gunspell ......
+Success to get info from Play Store
+The lastest version of com.akpublish.Gunspell-1.apk is  1.1.26  
+Done processing com.akpublish.Gunspell-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.ansangha.drdriving-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ansangha.drdriving ......
+Success to get info from Play Store
+The lastest version of com.ansangha.drdriving-1.apk is  1.31  
+Done processing com.ansangha.drdriving-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/11 Starting processing com.bolong.super2048-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bolong.super2048 ......
+Success to get info from Play Store
+The lastest version of com.bolong.super2048-1.apk is  2.9  
+Done processing com.bolong.super2048-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/11 Starting processing com.degoo.android.xdoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.xdoctor ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.xdoctor-1.apk is  1.0.7  
+Done processing com.degoo.android.xdoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/11 Starting processing com.devexpert.weather-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.devexpert.weather ......
+Success to get info from Play Store
+The lastest version of com.devexpert.weather-1.apk is  3.7.7  
+Done processing com.devexpert.weather-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/11 Starting processing com.gameoo.tappy2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameoo.tappy2 ......
+Success to get info from Play Store
+The lastest version of com.gameoo.tappy2-1.apk is  1.3.0  
+Done processing com.gameoo.tappy2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/11 Starting processing com.musicapp.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.musicapp.android ......
+Success to get info from Play Store
+The lastest version of com.musicapp.android-1.apk is  1.4.3  
+Done processing com.musicapp.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/11 Starting processing com.omgpop.dstfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstfree ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstfree-1.apk is  2.333.221  
+Done processing com.omgpop.dstfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/11 Starting processing com.roguerocketgames.m3s-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roguerocketgames.m3s ......
+Success to get info from Play Store
+The lastest version of com.roguerocketgames.m3s-1.apk is  1.0.1  
+Done processing com.roguerocketgames.m3s-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+10/11 Starting processing com.vg.AirplaneFlightSimulator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vg.AirplaneFlightSimulator ......
+Success to get info from Play Store
+The lastest version of com.vg.AirplaneFlightSimulator-1.apk is  1.8  
+Done processing com.vg.AirplaneFlightSimulator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+11/11 Starting processing info.androidz.horoscope-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=info.androidz.horoscope ......
+Success to get info from Play Store
+The lastest version of info.androidz.horoscope-1.apk is  2.8.1  
+Done processing info.androidz.horoscope-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-12-10-14-50.csv
+**************************************************************

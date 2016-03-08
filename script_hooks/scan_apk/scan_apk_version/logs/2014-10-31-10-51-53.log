@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.disney.datg.videoplatforms.android.abc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.datg.videoplatforms.android.abc ......
+Success to get info from Play Store
+The lastest version of com.disney.datg.videoplatforms.android.abc-1.apk is  3.0.5  
+Done processing com.disney.datg.videoplatforms.android.abc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/5 Starting processing com.fingersoft.hillclimb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb ......
+Success to get info from Play Store
+The lastest version of com.fingersoft.hillclimb-1.apk is    Varies with device  
+Done processing com.fingersoft.hillclimb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/5 Starting processing com.machinezone.gow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.machinezone.gow ......
+Success to get info from Play Store
+The lastest version of com.machinezone.gow-1.apk is    Varies with device  
+Done processing com.machinezone.gow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/5 Starting processing org.mozilla.firefox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.mozilla.firefox ......
+Success to get info from Play Store
+The lastest version of org.mozilla.firefox-1.apk is    Varies with device  
+Done processing org.mozilla.firefox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/5 Starting processing org.mozilla.firefox_beta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta ......
+Success to get info from Play Store
+The lastest version of org.mozilla.firefox_beta-1.apk is    Varies with device  
+Done processing org.mozilla.firefox_beta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 20 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-10-31-10-51-53.csv
+**************************************************************

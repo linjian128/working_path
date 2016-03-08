@@ -1,0 +1,34 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.bowengames.farmingusa-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bowengames.farmingusa ......
+Success to get info from Play Store
+The lastest version of com.bowengames.farmingusa-1.apk is  1.11  
+Done processing com.bowengames.farmingusa-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/3 Starting processing com.disney.monstersincrun_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.monstersincrun_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.monstersincrun_goo-1.apk is  1.0.1  
+Done processing com.disney.monstersincrun_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/3 Starting processing com.joybits.doodlekingdom-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.joybits.doodlekingdom ......
+Success to get info from Play Store
+The lastest version of com.joybits.doodlekingdom-1.apk is  2.0.0  
+Done processing com.joybits.doodlekingdom-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-27-13-25-08.csv
+**************************************************************

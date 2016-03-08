@@ -1,0 +1,53 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/6 Starting processing com.lemuellabs.fireworks-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lemuellabs.fireworks ......
+[ERROR] : Cannot find info of com.lemuellabs.fireworks-1.apk on https://play.google.com/store/apps/details?id=com.lemuellabs.fireworks !!!
+Done processing com.lemuellabs.fireworks-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.mykj.game.ddz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mykj.game.ddz ......
+[ERROR] : Cannot find info of com.mykj.game.ddz-1.apk on https://play.google.com/store/apps/details?id=com.mykj.game.ddz !!!
+Done processing com.mykj.game.ddz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/6 Starting processing com.qdazzle.gjqy.paojiaocr-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qdazzle.gjqy.paojiaocr ......
+[ERROR] : Cannot find info of com.qdazzle.gjqy.paojiaocr-1.apk on https://play.google.com/store/apps/details?id=com.qdazzle.gjqy.paojiaocr !!!
+Done processing com.qdazzle.gjqy.paojiaocr-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+4/6 Starting processing com.qukongdk.crazyfish3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qukongdk.crazyfish3 ......
+[ERROR] : Cannot find info of com.qukongdk.crazyfish3-1.apk on https://play.google.com/store/apps/details?id=com.qukongdk.crazyfish3 !!!
+Done processing com.qukongdk.crazyfish3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+5/6 Starting processing org.cocos2d.fishingjoy3.ck.duoku-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.cocos2d.fishingjoy3.ck.duoku ......
+[ERROR] : Cannot find info of org.cocos2d.fishingjoy3.ck.duoku-1.apk on https://play.google.com/store/apps/details?id=org.cocos2d.fishingjoy3.ck.duoku !!!
+Done processing org.cocos2d.fishingjoy3.ck.duoku-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+6/6 Starting processing project.zjsc3d.bd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=project.zjsc3d.bd ......
+Success to get info from Play Store
+The lastest version of project.zjsc3d.bd-1.apk is  1.1.3  
+Done processing project.zjsc3d.bd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-11-26-14-46-20.csv
+**************************************************************

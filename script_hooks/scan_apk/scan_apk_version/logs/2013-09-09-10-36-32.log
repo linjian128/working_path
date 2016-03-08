@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.adobe.pstouchphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.adobe.pstouchphone ......
+Success to get info from Play Store
+The lastest version of air.com.adobe.pstouchphone-1.apk is  1.1.1  
+Done processing air.com.adobe.pstouchphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.P3D.Pixlgun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.P3D.Pixlgun ......
+Success to get info from Play Store
+The lastest version of com.P3D.Pixlgun-1.apk is    Varies with device  
+Done processing com.P3D.Pixlgun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/10 Starting processing com.fds.infiniteflight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fds.infiniteflight ......
+Success to get info from Play Store
+The lastest version of com.fds.infiniteflight-1.apk is  1.1.1  
+Done processing com.fds.infiniteflight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/10 Starting processing com.gameloft.android.ANMP.GloftGGHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftGGHM-1.apk is  1.1.0  
+Done processing com.gameloft.android.ANMP.GloftGGHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/10 Starting processing com.mediocre.sprinkle2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mediocre.sprinkle2 ......
+Success to get info from Play Store
+The lastest version of com.mediocre.sprinkle2-1.apk is  1.1.0  
+Done processing com.mediocre.sprinkle2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/10 Starting processing com.nekki.vector.paid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nekki.vector.paid ......
+Success to get info from Play Store
+The lastest version of com.nekki.vector.paid-1.apk is  1.0.1  
+Done processing com.nekki.vector.paid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+7/10 Starting processing com.sixtostart.zombiesrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrun ......
+Success to get info from Play Store
+The lastest version of com.sixtostart.zombiesrun-1.apk is  2.2.2  
+Done processing com.sixtostart.zombiesrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+8/10 Starting processing com.thegamebakers.combocrew-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.thegamebakers.combocrew ......
+Success to get info from Play Store
+The lastest version of com.thegamebakers.combocrew-1.apk is  1.2.0  
+Done processing com.thegamebakers.combocrew-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+9/10 Starting processing com.vividgames.realboxing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vividgames.realboxing ......
+Success to get info from Play Store
+The lastest version of com.vividgames.realboxing-1.apk is    Varies with device  
+Done processing com.vividgames.realboxing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+10/10 Starting processing com.zynga.draw2.googleplay.paid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.draw2.googleplay.paid ......
+Success to get info from Play Store
+The lastest version of com.zynga.draw2.googleplay.paid-1.apk is  1.1.5  
+Done processing com.zynga.draw2.googleplay.paid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 36 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-09-10-36-32.csv
+**************************************************************

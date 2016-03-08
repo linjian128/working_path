@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.snagfilms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.snagfilms ......
+Success to get info from Play Store
+The lastest version of air.com.snagfilms-1.apk is  3.37  
+Done processing air.com.snagfilms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is    Varies with device  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.omgpop.dstpaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstpaid ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstpaid-1.apk is  2.333.226  
+Done processing com.omgpop.dstpaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing com.zynga.FarmVille2CountryEscape-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.FarmVille2CountryEscape ......
+Success to get info from Play Store
+The lastest version of com.zynga.FarmVille2CountryEscape-1.apk is  1.9.109  
+Done processing com.zynga.FarmVille2CountryEscape-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-27-17-14-04.csv
+**************************************************************

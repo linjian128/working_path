@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.g6677.android.phairsalon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.g6677.android.phairsalon ......
+Success to get info from Play Store
+The lastest version of com.g6677.android.phairsalon-1.apk is  1.0.4  
+Done processing com.g6677.android.phairsalon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.perblue.greedforglory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perblue.greedforglory ......
+Success to get info from Play Store
+The lastest version of com.perblue.greedforglory-1.apk is    Varies with device  
+Done processing com.perblue.greedforglory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.rovio.BadPiggiesHD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.BadPiggiesHD ......
+Success to get info from Play Store
+The lastest version of com.rovio.BadPiggiesHD-1.apk is  1.5.2  
+Done processing com.rovio.BadPiggiesHD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/4 Starting processing net.mobilecraft.realbasketball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.mobilecraft.realbasketball ......
+Success to get info from Play Store
+The lastest version of net.mobilecraft.realbasketball-1.apk is  1.5  
+Done processing net.mobilecraft.realbasketball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-06-17-24-28.csv
+**************************************************************

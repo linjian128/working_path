@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.firerabbit.android.game.customcar.full-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.firerabbit.android.game.customcar.full ......
+Success to get info from Play Store
+The lastest version of com.firerabbit.android.game.customcar.full-1.apk is  1.0  
+Done processing com.firerabbit.android.game.customcar.full-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.google.android.googlequicksearchbox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox ......
+Success to get info from Play Store
+The lastest version of com.google.android.googlequicksearchbox-1.apk is    Varies with device  
+Done processing com.google.android.googlequicksearchbox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.gravitysensation.sumotori-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gravitysensation.sumotori ......
+Success to get info from Play Store
+The lastest version of com.gravitysensation.sumotori-1.apk is  1.2.0  
+Done processing com.gravitysensation.sumotori-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/6 Starting processing com.nickdubber.carcraft-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nickdubber.carcraft ......
+Success to get info from Play Store
+The lastest version of com.nickdubber.carcraft-1.apk is  1.0  
+Done processing com.nickdubber.carcraft-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/6 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  3.92  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/6 Starting processing com.turner.mixels-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.turner.mixels ......
+Success to get info from Play Store
+The lastest version of com.turner.mixels-1.apk is    Varies with device  
+Done processing com.turner.mixels-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-15-09-30-11.csv
+**************************************************************

@@ -1,0 +1,84 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/10 Starting processing cn.opda.a.phonoalbumshoushou-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.opda.a.phonoalbumshoushou ......
+[ERROR] : Cannot find info of cn.opda.a.phonoalbumshoushou-1.apk on https://play.google.com/store/apps/details?id=cn.opda.a.phonoalbumshoushou !!!
+Done processing cn.opda.a.phonoalbumshoushou-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/10 Starting processing com.achievo.vipshop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.achievo.vipshop ......
+[ERROR] : Cannot find info of com.achievo.vipshop-1.apk on https://play.google.com/store/apps/details?id=com.achievo.vipshop !!!
+Done processing com.achievo.vipshop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/10 Starting processing com.androidesk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk ......
+[ERROR] : Cannot find info of com.androidesk-1.apk on https://play.google.com/store/apps/details?id=com.androidesk !!!
+Done processing com.androidesk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/10 Starting processing com.baidu.homework-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.homework ......
+Success to get info from Play Store
+The lastest version of com.baidu.homework-1.apk is  3.1.1  
+Done processing com.baidu.homework-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/10 Starting processing com.chinatelecom.bestpayclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chinatelecom.bestpayclient ......
+[ERROR] : Cannot find info of com.chinatelecom.bestpayclient-1.apk on https://play.google.com/store/apps/details?id=com.chinatelecom.bestpayclient !!!
+Done processing com.chinatelecom.bestpayclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/10 Starting processing com.duowan.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duowan.mobile ......
+[ERROR] : Cannot find info of com.duowan.mobile-1.apk on https://play.google.com/store/apps/details?id=com.duowan.mobile !!!
+Done processing com.duowan.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/10 Starting processing com.google.android.apps.maps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.maps ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.maps-1.apk is    Varies with device  
+Done processing com.google.android.apps.maps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/10 Starting processing com.ifeng.newvideo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ifeng.newvideo ......
+Success to get info from Play Store
+The lastest version of com.ifeng.newvideo-1.apk is    Varies with device  
+Done processing com.ifeng.newvideo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/10 Starting processing com.shoujiduoduo.ringtone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone ......
+[ERROR] : Cannot find info of com.shoujiduoduo.ringtone-1.apk on https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone !!!
+Done processing com.shoujiduoduo.ringtone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+10/10 Starting processing com.youdao.dict-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youdao.dict ......
+Success to get info from Play Store
+The lastest version of com.youdao.dict-1.apk is  6.3.1  
+Done processing com.youdao.dict-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-17-23-26-48.csv
+**************************************************************

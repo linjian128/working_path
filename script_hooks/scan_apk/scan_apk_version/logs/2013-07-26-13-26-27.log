@@ -1,0 +1,90 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.elextech.happyfarm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.elextech.happyfarm ......
+Success to get info from Play Store
+The lastest version of air.com.elextech.happyfarm-1.apk is  1.4.6  
+Done processing air.com.elextech.happyfarm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing air.com.sgn.pand-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.pand ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.pand-1.apk is  1.5.54  
+Done processing air.com.sgn.pand-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/10 Starting processing com.ea.game.tetris2011_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.tetris2011_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.tetris2011_na-1.apk is  1.0.8  
+Done processing com.ea.game.tetris2011_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/10 Starting processing com.glu.flcn_new-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.flcn_new ......
+Success to get info from Play Store
+The lastest version of com.glu.flcn_new-1.apk is  1.3.1  
+Done processing com.glu.flcn_new-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+5/10 Starting processing com.mlb.HomeRunDerby-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mlb.HomeRunDerby ......
+Success to get info from Play Store
+The lastest version of com.mlb.HomeRunDerby-1.apk is  1.3.149879  
+Done processing com.mlb.HomeRunDerby-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+6/10 Starting processing com.sharkparty.slots-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sharkparty.slots ......
+Success to get info from Play Store
+The lastest version of com.sharkparty.slots-1.apk is  1.1.4.1  
+Done processing com.sharkparty.slots-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+7/10 Starting processing com.smule.magicpiano-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smule.magicpiano ......
+Success to get info from Play Store
+The lastest version of com.smule.magicpiano-1.apk is  1.2.3  
+Done processing com.smule.magicpiano-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+8/10 Starting processing com.tinyco.monsters-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.monsters ......
+Success to get info from Play Store
+The lastest version of com.tinyco.monsters-1.apk is  2.3  
+Done processing com.tinyco.monsters-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 42 Seconds
+
+============================================================================
+9/10 Starting processing com.walmart.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.walmart.android ......
+Success to get info from Play Store
+The lastest version of com.walmart.android-1.apk is  1.5.3  
+Done processing com.walmart.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+10/10 Starting processing jp.oneofthem.gotchawarriors-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.oneofthem.gotchawarriors ......
+Success to get info from Play Store
+The lastest version of jp.oneofthem.gotchawarriors-1.apk is  3.5.1  
+Done processing jp.oneofthem.gotchawarriors-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 51 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 51 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-26-13-26-27.csv
+**************************************************************

@@ -1,0 +1,34 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing co.vine.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=co.vine.android ......
+Success to get info from Play Store
+The lastest version of co.vine.android-1.apk is    Varies with device  
+Done processing co.vine.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/3 Starting processing com.perblue.greedforglory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perblue.greedforglory ......
+Success to get info from Play Store
+The lastest version of com.perblue.greedforglory-1.apk is    Varies with device  
+Done processing com.perblue.greedforglory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/3 Starting processing com.zynga.draw2.googleplay.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.draw2.googleplay.free ......
+Success to get info from Play Store
+The lastest version of com.zynga.draw2.googleplay.free-1.apk is    Varies with device  
+Done processing com.zynga.draw2.googleplay.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-24-13-36-45.csv
+**************************************************************

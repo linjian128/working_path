@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.hemispheregames.osmos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hemispheregames.osmos ......
+Success to get info from Play Store
+The lastest version of com.hemispheregames.osmos-1.apk is    Varies with device  
+Done processing com.hemispheregames.osmos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.madfingergames.SamuraiIIAll-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madfingergames.SamuraiIIAll ......
+Success to get info from Play Store
+The lastest version of com.madfingergames.SamuraiIIAll-1.apk is  1.1  
+Done processing com.madfingergames.SamuraiIIAll-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.mobage.ww.a560.tinytower_android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobage.ww.a560.tinytower_android ......
+Success to get info from Play Store
+The lastest version of com.mobage.ww.a560.tinytower_android-1.apk is  1.7.0.8  
+Done processing com.mobage.ww.a560.tinytower_android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+Success to get info from Play Store
+The lastest version of com.sds.android.ttpod-1.apk is  7.2.0  
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-10-10-30-54.csv
+**************************************************************

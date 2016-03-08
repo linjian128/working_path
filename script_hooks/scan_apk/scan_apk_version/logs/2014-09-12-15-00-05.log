@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.eps.survivaloftheforest-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.eps.survivaloftheforest ......
+Success to get info from Play Store
+The lastest version of com.eps.survivaloftheforest-1.apk is  1.06  
+Done processing com.eps.survivaloftheforest-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/7 Starting processing com.inkle.sorcery1-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.inkle.sorcery1 ......
+Success to get info from Play Store
+The lastest version of com.inkle.sorcery1-1.apk is  1.1.3  
+Done processing com.inkle.sorcery1-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/7 Starting processing com.king2.english.us-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king2.english.us ......
+Success to get info from Play Store
+The lastest version of com.king2.english.us-1.apk is  3.6.0  
+Done processing com.king2.english.us-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/7 Starting processing com.mobage.ww.a1917.Hell_Marys_Android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobage.ww.a1917.Hell_Marys_Android ......
+Success to get info from Play Store
+The lastest version of com.mobage.ww.a1917.Hell_Marys_Android-1.apk is  1.0.0  
+Done processing com.mobage.ww.a1917.Hell_Marys_Android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/7 Starting processing com.nomadgames.talisman-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nomadgames.talisman ......
+Success to get info from Play Store
+The lastest version of com.nomadgames.talisman-1.apk is  3.602  
+Done processing com.nomadgames.talisman-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/7 Starting processing com.skgames.wingsonfiregame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skgames.wingsonfiregame ......
+Success to get info from Play Store
+The lastest version of com.skgames.wingsonfiregame-1.apk is  1.15  
+Done processing com.skgames.wingsonfiregame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/7 Starting processing com.tabtale.dirtykids-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tabtale.dirtykids ......
+Success to get info from Play Store
+The lastest version of com.tabtale.dirtykids-1.apk is  1.0.1  
+Done processing com.tabtale.dirtykids-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 31 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-12-15-00-05.csv
+**************************************************************

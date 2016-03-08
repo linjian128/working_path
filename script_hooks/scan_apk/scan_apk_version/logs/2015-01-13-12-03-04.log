@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.aceviral.angrygranrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aceviral.angrygranrun ......
+Success to get info from Play Store
+The lastest version of com.aceviral.angrygranrun-1.apk is  1.16.1  
+Done processing com.aceviral.angrygranrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.aim.racing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aim.racing ......
+Success to get info from Play Store
+The lastest version of com.aim.racing-1.apk is  2.8  
+Done processing com.aim.racing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.naturalmotion.clumsyninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.clumsyninja ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.clumsyninja-1.apk is    Varies with device  
+Done processing com.naturalmotion.clumsyninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing jp.co.translimit.brainwars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.translimit.brainwars ......
+Success to get info from Play Store
+The lastest version of jp.co.translimit.brainwars-1.apk is  1.0.29  
+Done processing jp.co.translimit.brainwars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-13-12-03-04.csv
+**************************************************************

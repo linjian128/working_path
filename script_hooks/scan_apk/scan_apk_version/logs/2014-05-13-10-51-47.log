@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.ganganonline.ganganonline.a-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ganganonline.ganganonline.a ......
+Success to get info from Play Store
+The lastest version of com.ganganonline.ganganonline.a-1.apk is  1.0.1  
+Done processing com.ganganonline.ganganonline.a-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.square_enix_software_token-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix_software_token ......
+Success to get info from Play Store
+The lastest version of com.square_enix_software_token-1.apk is  1.0.0  
+Done processing com.square_enix_software_token-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.squareenix.android.crystaldefenderslite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.squareenix.android.crystaldefenderslite ......
+Success to get info from Play Store
+The lastest version of com.squareenix.android.crystaldefenderslite-1.apk is  1.1.1  
+Done processing com.squareenix.android.crystaldefenderslite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/4 Starting processing com.squareenix.android.imaginaryrange02-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.squareenix.android.imaginaryrange02 ......
+Success to get info from Play Store
+The lastest version of com.squareenix.android.imaginaryrange02-1.apk is  1.0.0  
+Done processing com.squareenix.android.imaginaryrange02-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-13-10-51-47.csv
+**************************************************************

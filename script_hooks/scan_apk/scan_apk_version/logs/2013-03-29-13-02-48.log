@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.djinnworks.LineRunner2.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.LineRunner2.free ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.LineRunner2.free-1.apk is 1.8
+Done processing com.djinnworks.LineRunner2.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.feelingtouch.crossx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.feelingtouch.crossx ......
+Success to get info from Play Store
+The lastest version of com.feelingtouch.crossx-1.apk is 1.05
+Done processing com.feelingtouch.crossx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/7 Starting processing com.ludia.jurassicpark-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ludia.jurassicpark ......
+Success to get info from Play Store
+The lastest version of com.ludia.jurassicpark-1.apk is 2.1.4
+Done processing com.ludia.jurassicpark-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.sharkparty.slots5-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sharkparty.slots5 ......
+Success to get info from Play Store
+The lastest version of com.sharkparty.slots5-1.apk is 1.1.2.5
+Done processing com.sharkparty.slots5-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/7 Starting processing com.teamlava.bakerystory5-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.bakerystory5 ......
+Success to get info from Play Store
+The lastest version of com.teamlava.bakerystory5-1.apk is 1.5.5.7.1
+Done processing com.teamlava.bakerystory5-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/7 Starting processing com.teamlava.dragon5-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.dragon5 ......
+Success to get info from Play Store
+The lastest version of com.teamlava.dragon5-1.apk is 1.0.6.5
+Done processing com.teamlava.dragon5-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/7 Starting processing com.xs.monsterwar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xs.monsterwar ......
+Success to get info from Play Store
+The lastest version of com.xs.monsterwar-1.apk is 1.2
+Done processing com.xs.monsterwar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-03-29-13-02-48.csv
+**************************************************************

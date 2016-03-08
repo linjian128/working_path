@@ -1,0 +1,98 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing cn.kuwo.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.kuwo.player ......
+Success to get info from Play Store
+The lastest version of cn.kuwo.player-1.apk is  6.5.9.0  
+Done processing cn.kuwo.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/11 Starting processing com.androvidpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androvidpro ......
+Success to get info from Play Store
+The lastest version of com.androvidpro-1.apk is  2.5.4.1  
+Done processing com.androvidpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/11 Starting processing com.google.android.inputmethod.latin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin ......
+Success to get info from Play Store
+The lastest version of com.google.android.inputmethod.latin-1.apk is    Varies with device  
+Done processing com.google.android.inputmethod.latin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/11 Starting processing com.gun.bnc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gun.bnc ......
+Success to get info from Play Store
+The lastest version of com.gun.bnc-1.apk is    Varies with device  
+Done processing com.gun.bnc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/11 Starting processing com.hulu.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hulu.plus ......
+Success to get info from Play Store
+The lastest version of com.hulu.plus-1.apk is  2.17.2.202135  
+Done processing com.hulu.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/11 Starting processing com.kixeye.vegaconflict-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kixeye.vegaconflict ......
+Success to get info from Play Store
+The lastest version of com.kixeye.vegaconflict-1.apk is  1.58741  
+Done processing com.kixeye.vegaconflict-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/11 Starting processing com.lima.doodlejump-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lima.doodlejump ......
+Success to get info from Play Store
+The lastest version of com.lima.doodlejump-1.apk is    Varies with device  
+Done processing com.lima.doodlejump-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/11 Starting processing com.quvideo.xiaoying.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quvideo.xiaoying.pro ......
+Success to get info from Play Store
+The lastest version of com.quvideo.xiaoying.pro-1.apk is  3.7.1  
+Done processing com.quvideo.xiaoying.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+9/11 Starting processing com.roblox.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roblox.client ......
+Success to get info from Play Store
+The lastest version of com.roblox.client-1.apk is  2.178.54547  
+Done processing com.roblox.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+10/11 Starting processing com.umonistudio.tile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.umonistudio.tile ......
+Success to get info from Play Store
+The lastest version of com.umonistudio.tile-1.apk is  3.2.0  
+Done processing com.umonistudio.tile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+11/11 Starting processing tunein.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tunein.player ......
+Success to get info from Play Store
+The lastest version of tunein.player-1.apk is    Varies with device  
+Done processing tunein.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 41 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-16-14-34-04.csv
+**************************************************************

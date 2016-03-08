@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.akazam.android.wlandialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.akazam.android.wlandialer ......
+Success to get info from Play Store
+The lastest version of com.akazam.android.wlandialer-1.apk is  2.1.0  
+Done processing com.akazam.android.wlandialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.evy.guessword-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.evy.guessword ......
+Success to get info from Play Store
+The lastest version of com.evy.guessword-1.apk is  3.0.20  
+Done processing com.evy.guessword-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/4 Starting processing com.ijinshan.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.browser ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.browser-1.apk is  3.9.3  
+Done processing com.ijinshan.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.yx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yx ......
+Success to get info from Play Store
+The lastest version of com.yx-1.apk is  2.22.0  
+Done processing com.yx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-18-16-21-22.csv
+**************************************************************

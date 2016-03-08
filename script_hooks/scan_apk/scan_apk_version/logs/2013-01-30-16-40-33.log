@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.dotemu.anotherworld-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dotemu.anotherworld ......
+Success to get info from Play Store
+The lastest version of com.dotemu.anotherworld-1.apk is 1.0.9
+Done processing com.dotemu.anotherworld-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing de.joergjahnke.mario.android.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=de.joergjahnke.mario.android.free ......
+Success to get info from Play Store
+The lastest version of de.joergjahnke.mario.android.free-1.apk is 2.12.3
+Done processing de.joergjahnke.mario.android.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-01-30-16-40-33.csv
+**************************************************************

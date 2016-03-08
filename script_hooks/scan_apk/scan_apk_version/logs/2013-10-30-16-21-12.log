@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.backflipstudios.android.dragonvale-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.backflipstudios.android.dragonvale ......
+Success to get info from Play Store
+The lastest version of com.backflipstudios.android.dragonvale-1.apk is  2.0.0  
+Done processing com.backflipstudios.android.dragonvale-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+2/6 Starting processing com.glu.modwarsniper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.modwarsniper ......
+Success to get info from Play Store
+The lastest version of com.glu.modwarsniper-1.apk is  3.0.3  
+Done processing com.glu.modwarsniper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/6 Starting processing com.kiloo.subwaysurf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf ......
+Success to get info from Play Store
+The lastest version of com.kiloo.subwaysurf-1.apk is  1.15.0  
+Done processing com.kiloo.subwaysurf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/6 Starting processing com.king.candycrushsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.candycrushsaga ......
+Success to get info from Play Store
+The lastest version of com.king.candycrushsaga-1.apk is    Varies with device  
+Done processing com.king.candycrushsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+5/6 Starting processing com.midasplayer.apps.bubblewitch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitch ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitch-1.apk is  3.0.6  
+Done processing com.midasplayer.apps.bubblewitch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+6/6 Starting processing com.skype.raider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skype.raider ......
+Success to get info from Play Store
+The lastest version of com.skype.raider-1.apk is    Varies with device  
+Done processing com.skype.raider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 31 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-30-16-21-12.csv
+**************************************************************

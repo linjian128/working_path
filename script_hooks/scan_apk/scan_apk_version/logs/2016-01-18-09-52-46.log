@@ -1,0 +1,86 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/10 Starting processing com.centurysoft.fruityrobo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.centurysoft.fruityrobo ......
+[ERROR] : Cannot find info of com.centurysoft.fruityrobo-1.apk on https://play.google.com/store/apps/details?id=com.centurysoft.fruityrobo !!!
+Done processing com.centurysoft.fruityrobo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.ct.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ct.client ......
+[ERROR] : Cannot find info of com.ct.client-1.apk on https://play.google.com/store/apps/details?id=com.ct.client !!!
+Done processing com.ct.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/10 Starting processing com.gau.go.launcherex-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gau.go.launcherex ......
+Success to get info from Play Store
+The lastest version of com.gau.go.launcherex-1.apk is    Varies with device  
+Done processing com.gau.go.launcherex-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/10 Starting processing com.holiestar.flashoncall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.holiestar.flashoncall ......
+[ERROR] : Cannot find info of com.holiestar.flashoncall-1.apk on https://play.google.com/store/apps/details?id=com.holiestar.flashoncall !!!
+Done processing com.holiestar.flashoncall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/10 Starting processing com.immomo.momo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.immomo.momo ......
+Success to get info from Play Store
+The lastest version of com.immomo.momo-1.apk is  6.5.3_visitor  
+Done processing com.immomo.momo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/10 Starting processing com.tongcheng.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tongcheng.android ......
+Success to get info from Play Store
+The lastest version of com.tongcheng.android-1.apk is  7.2.0  
+Done processing com.tongcheng.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/10 Starting processing com.ushaqi.zhuishushenqi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ushaqi.zhuishushenqi ......
+Success to get info from Play Store
+The lastest version of com.ushaqi.zhuishushenqi-1.apk is  3.40  
+Done processing com.ushaqi.zhuishushenqi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/10 Starting processing dopool.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=dopool.player ......
+Success to get info from Play Store
+The lastest version of dopool.player-1.apk is  6.3.3  
+Done processing dopool.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+9/10 Starting processing net.iaround-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.iaround ......
+Success to get info from Play Store
+The lastest version of net.iaround-1.apk is  6.4.1  
+Done processing net.iaround-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+10/10 Starting processing qsbk.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=qsbk.app ......
+[ERROR] : Cannot find info of qsbk.app-1.apk on https://play.google.com/store/apps/details?id=qsbk.app !!!
+Done processing qsbk.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 40 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-18-09-52-46.csv
+**************************************************************

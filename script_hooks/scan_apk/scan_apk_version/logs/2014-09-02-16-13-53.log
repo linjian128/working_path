@@ -1,0 +1,33 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing cmccwm.mobilemusic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cmccwm.mobilemusic ......
+[ERROR] : Cannot find info of cmccwm.mobilemusic-1.apk on https://play.google.com/store/apps/details?id=cmccwm.mobilemusic !!!
+Done processing cmccwm.mobilemusic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/3 Starting processing com.gameinsight.battletowersandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameinsight.battletowersandroid ......
+Success to get info from Play Store
+The lastest version of com.gameinsight.battletowersandroid-1.apk is  2.7  
+Done processing com.gameinsight.battletowersandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/3 Starting processing com.gameresort.stupidninjasfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameresort.stupidninjasfree ......
+Success to get info from Play Store
+The lastest version of com.gameresort.stupidninjasfree-1.apk is  1.0.2  
+Done processing com.gameresort.stupidninjasfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-02-16-13-53.csv
+**************************************************************

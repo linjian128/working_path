@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ARM-V8  ......
+
+============================================================================
+1/1 Starting processing com.Junimong.Junimong-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Junimong.Junimong ......
+Success to get info from Play Store
+The lastest version of com.Junimong.Junimong-1.apk is  2.00.10  
+Done processing com.Junimong.Junimong-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-09-16-14-30-29.csv
+**************************************************************

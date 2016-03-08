@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing air.com.doodie.wybandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.doodie.wybandroid ......
+Success to get info from Play Store
+The lastest version of air.com.doodie.wybandroid-1.apk is  1.1  
+Done processing air.com.doodie.wybandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/2 Starting processing net.inxile.tiq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.inxile.tiq ......
+Success to get info from Play Store
+The lastest version of net.inxile.tiq-1.apk is  1  
+Done processing net.inxile.tiq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-26-17-00-44.csv
+**************************************************************

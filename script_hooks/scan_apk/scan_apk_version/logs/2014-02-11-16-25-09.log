@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.backflipstudios.android.dragonvale-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.backflipstudios.android.dragonvale ......
+Success to get info from Play Store
+The lastest version of com.backflipstudios.android.dragonvale-1.apk is  2.2.1  
+Done processing com.backflipstudios.android.dragonvale-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/8 Starting processing com.dama.camera2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.camera2 ......
+Success to get info from Play Store
+The lastest version of com.dama.camera2-1.apk is  2.2.1  
+Done processing com.dama.camera2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  4.1.8  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/8 Starting processing com.gameinsight.battletowersandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameinsight.battletowersandroid ......
+Success to get info from Play Store
+The lastest version of com.gameinsight.battletowersandroid-1.apk is  2.3  
+Done processing com.gameinsight.battletowersandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/8 Starting processing com.intsig.camscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intsig.camscanner ......
+Success to get info from Play Store
+The lastest version of com.intsig.camscanner-1.apk is  3.0.0.20140111  
+Done processing com.intsig.camscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/8 Starting processing com.midasplayer.apps.bubblewitch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitch ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitch-1.apk is  3.1.2  
+Done processing com.midasplayer.apps.bubblewitch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+7/8 Starting processing com.zynga.draw2.googleplay.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.draw2.googleplay.free ......
+Success to get info from Play Store
+The lastest version of com.zynga.draw2.googleplay.free-1.apk is    Varies with device  
+Done processing com.zynga.draw2.googleplay.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/8 Starting processing jp.co.beeworks.mushroomDX-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.beeworks.mushroomDX ......
+Success to get info from Play Store
+The lastest version of jp.co.beeworks.mushroomDX-1.apk is  1.12.0  
+Done processing jp.co.beeworks.mushroomDX-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 30 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-11-16-25-09.csv
+**************************************************************

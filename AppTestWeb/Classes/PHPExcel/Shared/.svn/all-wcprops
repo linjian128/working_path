@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/Escher.php
+END
+Drawing.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/Drawing.php
+END
+OLERead.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/OLERead.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/Date.php
+END
+PasswordHasher.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/PasswordHasher.php
+END
+XMLWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/XMLWriter.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/File.php
+END
+OLE.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/OLE.php
+END
+ZipStreamWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/ZipStreamWrapper.php
+END
+ZipArchive.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/ZipArchive.php
+END
+Excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/Excel5.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/Font.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/String.php
+END
+CodePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/CodePage.php
+END

@@ -1,0 +1,72 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.doodie.wybandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.doodie.wybandroid ......
+Success to get info from Play Store
+The lastest version of air.com.doodie.wybandroid-1.apk is  1.4  
+Done processing air.com.doodie.wybandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.degoo.android.washpet-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.degoo.android.washpet ......
+Success to get info from Play Store
+The lastest version of com.degoo.android.washpet-1.apk is  1.1.15  
+Done processing com.degoo.android.washpet-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.fds.infiniteflight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fds.infiniteflight ......
+Success to get info from Play Store
+The lastest version of com.fds.infiniteflight-1.apk is  14.10.2  
+Done processing com.fds.infiniteflight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/8 Starting processing com.nsd.mysteryOfFortune-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nsd.mysteryOfFortune ......
+Success to get info from Play Store
+The lastest version of com.nsd.mysteryOfFortune-1.apk is  1.067  
+Done processing com.nsd.mysteryOfFortune-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/8 Starting processing com.tencent.tmgp.vdefense-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.tmgp.vdefense ......
+[ERROR] : Cannot find info of com.tencent.tmgp.vdefense-1.apk on https://play.google.com/store/apps/details?id=com.tencent.tmgp.vdefense !!!
+Done processing com.tencent.tmgp.vdefense-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/8 Starting processing com.waze-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.waze ......
+Success to get info from Play Store
+The lastest version of com.waze-1.apk is    Varies with device  
+Done processing com.waze-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/8 Starting processing jp.gungho.padEN-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gungho.padEN ......
+Success to get info from Play Store
+The lastest version of jp.gungho.padEN-1.apk is  7.2.2  
+Done processing jp.gungho.padEN-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-05-16-59-47.csv
+**************************************************************

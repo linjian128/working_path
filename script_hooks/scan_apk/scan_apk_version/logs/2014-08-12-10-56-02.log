@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing br.com.beholdstudios.knightspp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=br.com.beholdstudios.knightspp ......
+Success to get info from Play Store
+The lastest version of br.com.beholdstudios.knightspp-1.apk is  2.12  
+Done processing br.com.beholdstudios.knightspp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/2 Starting processing com.zeptolab.ctrexperiments.google.paid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zeptolab.ctrexperiments.google.paid ......
+Success to get info from Play Store
+The lastest version of com.zeptolab.ctrexperiments.google.paid-1.apk is    Varies with device  
+Done processing com.zeptolab.ctrexperiments.google.paid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-12-10-56-02.csv
+**************************************************************

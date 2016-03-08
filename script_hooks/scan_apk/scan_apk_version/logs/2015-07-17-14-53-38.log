@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.amazon.mShop.android.shopping-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping ......
+Success to get info from Play Store
+The lastest version of com.amazon.mShop.android.shopping-1.apk is    Varies with device  
+Done processing com.amazon.mShop.android.shopping-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+2/5 Starting processing com.disney.thoughtbubbles_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.thoughtbubbles_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.thoughtbubbles_goo-1.apk is  1.3.1  
+Done processing com.disney.thoughtbubbles_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+3/5 Starting processing com.ea.game.easportsufc_row-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.easportsufc_row ......
+Success to get info from Play Store
+The lastest version of com.ea.game.easportsufc_row-1.apk is  1.2.781529  
+Done processing com.ea.game.easportsufc_row-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+4/5 Starting processing com.ludia.jurassicworld-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ludia.jurassicworld ......
+Success to get info from Play Store
+The lastest version of com.ludia.jurassicworld-1.apk is  1.2.4  
+Done processing com.ludia.jurassicworld-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+5/5 Starting processing fr.x_studios.x_laser_2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fr.x_studios.x_laser_2 ......
+Success to get info from Play Store
+The lastest version of fr.x_studios.x_laser_2-1.apk is  X-Tenth  
+Done processing fr.x_studios.x_laser_2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 23 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-17-14-53-38.csv
+**************************************************************

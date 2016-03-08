@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.dama.papercamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.papercamera ......
+Success to get info from Play Store
+The lastest version of com.dama.papercamera-1.apk is  4.0.2  
+Done processing com.dama.papercamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.134  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.flyersoft.moonreaderp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp ......
+Success to get info from Play Store
+The lastest version of com.flyersoft.moonreaderp-1.apk is  2.5.3  
+Done processing com.flyersoft.moonreaderp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/6 Starting processing com.mtvn.sbmigoogleplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mtvn.sbmigoogleplay ......
+Success to get info from Play Store
+The lastest version of com.mtvn.sbmigoogleplay-1.apk is  1.04.00  
+Done processing com.mtvn.sbmigoogleplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/6 Starting processing com.tbig.playerpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tbig.playerpro ......
+Success to get info from Play Store
+The lastest version of com.tbig.playerpro-1.apk is  2.89  
+Done processing com.tbig.playerpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/6 Starting processing udk.android.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=udk.android.reader ......
+Success to get info from Play Store
+The lastest version of udk.android.reader-1.apk is  2.5.3.1  
+Done processing udk.android.reader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-26-14-42-56.csv
+**************************************************************

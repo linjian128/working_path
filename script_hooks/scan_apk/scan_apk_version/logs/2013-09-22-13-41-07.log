@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.blacktigergames.robotbop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.blacktigergames.robotbop ......
+Success to get info from Play Store
+The lastest version of com.blacktigergames.robotbop-1.apk is  1.5  
+Done processing com.blacktigergames.robotbop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.igg.castleclash_tw-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash_tw ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash_tw-1.apk is  1.2.28  
+Done processing com.igg.castleclash_tw-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/4 Starting processing com.minigames.monsterrace-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.minigames.monsterrace ......
+Success to get info from Play Store
+The lastest version of com.minigames.monsterrace-1.apk is  1.0.3  
+Done processing com.minigames.monsterrace-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/4 Starting processing com.tinidream.bingosummer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinidream.bingosummer ......
+Success to get info from Play Store
+The lastest version of com.tinidream.bingosummer-1.apk is  1.50  
+Done processing com.tinidream.bingosummer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-22-13-41-07.csv
+**************************************************************

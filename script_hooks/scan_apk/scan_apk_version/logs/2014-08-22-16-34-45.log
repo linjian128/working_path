@@ -1,0 +1,87 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.estoty.game2048-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estoty.game2048 ......
+Success to get info from Play Store
+The lastest version of com.estoty.game2048-1.apk is  6.22  
+Done processing com.estoty.game2048-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.freaxator.game100balls-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.freaxator.game100balls ......
+Success to get info from Play Store
+The lastest version of com.freaxator.game100balls-1.apk is  2.03  
+Done processing com.freaxator.game100balls-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/10 Starting processing com.madhead.tos.zh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.madhead.tos.zh ......
+Success to get info from Play Store
+The lastest version of com.madhead.tos.zh-1.apk is  7.11  
+Done processing com.madhead.tos.zh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/10 Starting processing com.meitu.meiyancamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meitu.meiyancamera ......
+Success to get info from Play Store
+The lastest version of com.meitu.meiyancamera-1.apk is  2.5.2  
+Done processing com.meitu.meiyancamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/10 Starting processing com.melodis.midomiMusicIdentifier-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/10 Starting processing com.ophone.reader.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ophone.reader.ui ......
+[ERROR] : Cannot find info of com.ophone.reader.ui-1.apk on https://play.google.com/store/apps/details?id=com.ophone.reader.ui !!!
+Done processing com.ophone.reader.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/10 Starting processing com.sankuai.meituan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sankuai.meituan ......
+Success to get info from Play Store
+The lastest version of com.sankuai.meituan-1.apk is  4.8.1  
+Done processing com.sankuai.meituan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+8/10 Starting processing com.tencent.game.SSGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.SSGame ......
+[ERROR] : Cannot find info of com.tencent.game.SSGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.SSGame !!!
+Done processing com.tencent.game.SSGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+9/10 Starting processing com.tencent.game.rhythmmaster-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.rhythmmaster ......
+[ERROR] : Cannot find info of com.tencent.game.rhythmmaster-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.rhythmmaster !!!
+Done processing com.tencent.game.rhythmmaster-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+10/10 Starting processing im.yixin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=im.yixin ......
+Success to get info from Play Store
+The lastest version of im.yixin-1.apk is  2.9.5  
+Done processing im.yixin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-22-16-34-45.csv
+**************************************************************

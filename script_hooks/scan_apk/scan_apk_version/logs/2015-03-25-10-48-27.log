@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/7 Starting processing com.game.FarmGame2.baidu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.game.FarmGame2.baidu ......
+Success to get info from Play Store
+The lastest version of com.game.FarmGame2.baidu-1.apk is 
+Done processing com.game.FarmGame2.baidu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/7 Starting processing com.jinshou.jsinputmethod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jinshou.jsinputmethod ......
+Success to get info from Play Store
+The lastest version of com.jinshou.jsinputmethod-1.apk is 
+Done processing com.jinshou.jsinputmethod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/7 Starting processing com.mtdeveloper.gqke-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mtdeveloper.gqke ......
+Success to get info from Play Store
+The lastest version of com.mtdeveloper.gqke-1.apk is 
+Done processing com.mtdeveloper.gqke-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/7 Starting processing com.snda.inote.lenovo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.inote.lenovo ......
+Success to get info from Play Store
+The lastest version of com.snda.inote.lenovo-1.apk is 
+Done processing com.snda.inote.lenovo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/7 Starting processing com.xinmei365.font-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xinmei365.font ......
+Success to get info from Play Store
+The lastest version of com.xinmei365.font-1.apk is 
+Done processing com.xinmei365.font-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+6/7 Starting processing mobi.mgeek.TunnyBrowser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser ......
+Success to get info from Play Store
+The lastest version of mobi.mgeek.TunnyBrowser-1.apk is 
+Done processing mobi.mgeek.TunnyBrowser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+7/7 Starting processing rhythmmaster234.musicgames.music-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=rhythmmaster234.musicgames.music ......
+Success to get info from Play Store
+The lastest version of rhythmmaster234.musicgames.music-1.apk is 
+Done processing rhythmmaster234.musicgames.music-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-03-25-10-48-27.csv
+**************************************************************

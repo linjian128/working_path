@@ -1,0 +1,34 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.smon.normal.freefull.google.kr.android.common-1.apk is  1.8.1  
+Done processing com.com2us.smon.normal.freefull.google.kr.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/3 Starting processing com.hcg.cok.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hcg.cok.gp ......
+Success to get info from Play Store
+The lastest version of com.hcg.cok.gp-1.apk is  2.0.0  
+Done processing com.hcg.cok.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/3 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.57.12  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-26-13-43-45.csv
+**************************************************************

@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.imo.android.imoim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imo.android.imoim ......
+Success to get info from Play Store
+The lastest version of com.imo.android.imoim-1.apk is  9.8.00000000057  
+Done processing com.imo.android.imoim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.mm.android.direct.AmcrestViewPro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mm.android.direct.AmcrestViewPro ......
+Success to get info from Play Store
+The lastest version of com.mm.android.direct.AmcrestViewPro-1.apk is  3.41.0201  
+Done processing com.mm.android.direct.AmcrestViewPro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-14-14-41-01.csv
+**************************************************************

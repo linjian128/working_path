@@ -1,0 +1,81 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.anahoret.android.letters-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.anahoret.android.letters ......
+Success to get info from Play Store
+The lastest version of com.anahoret.android.letters-1.apk is 
+Done processing com.anahoret.android.letters-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.ea.BejeweledBlitz_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.BejeweledBlitz_na ......
+Success to get info from Play Store
+The lastest version of com.ea.BejeweledBlitz_na-1.apk is  1.14.1.36  
+Done processing com.ea.BejeweledBlitz_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/9 Starting processing com.midasplayer.apps.bubblewitchsaga2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitchsaga2 ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitchsaga2-1.apk is 
+Done processing com.midasplayer.apps.bubblewitchsaga2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/9 Starting processing com.quvideo.xiaoying-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quvideo.xiaoying ......
+Success to get info from Play Store
+The lastest version of com.quvideo.xiaoying-1.apk is  4.4.5  
+Done processing com.quvideo.xiaoying-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+5/9 Starting processing com.square_enix.android_googleplay.dq6-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.dq6 ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.dq6-1.apk is  1.0.1  
+Done processing com.square_enix.android_googleplay.dq6-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/9 Starting processing com.tabtale.eyedoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tabtale.eyedoctor ......
+Success to get info from Play Store
+The lastest version of com.tabtale.eyedoctor-1.apk is  1.0.2  
+Done processing com.tabtale.eyedoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/9 Starting processing com.tencent.game.VXDGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame ......
+[ERROR] : Cannot find info of com.tencent.game.VXDGame-1.apk on https://play.google.com/store/apps/details?id=com.tencent.game.VXDGame !!!
+Done processing com.tencent.game.VXDGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+8/9 Starting processing cz.aponia.bor3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cz.aponia.bor3 ......
+Success to get info from Play Store
+The lastest version of cz.aponia.bor3-1.apk is    Varies with device  
+Done processing cz.aponia.bor3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+9/9 Starting processing kr.co.tictocplus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.co.tictocplus ......
+Success to get info from Play Store
+The lastest version of kr.co.tictocplus-1.apk is  4.0.12  
+Done processing kr.co.tictocplus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 31 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-10-08-23-20-28.csv
+**************************************************************

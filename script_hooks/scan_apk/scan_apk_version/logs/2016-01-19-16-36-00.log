@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.hovelgames.trampoline-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hovelgames.trampoline ......
+Success to get info from Play Store
+The lastest version of com.hovelgames.trampoline-1.apk is  1.8.2  
+Done processing com.hovelgames.trampoline-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing com.ultimateguitar.tabs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs ......
+Success to get info from Play Store
+The lastest version of com.ultimateguitar.tabs-1.apk is    Varies with device  
+Done processing com.ultimateguitar.tabs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-19-16-36-00.csv
+**************************************************************

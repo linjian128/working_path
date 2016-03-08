@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.aitype.android.p-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aitype.android.p ......
+Success to get info from Play Store
+The lastest version of com.aitype.android.p-1.apk is  Plus-2.2.0.6  
+Done processing com.aitype.android.p-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/10 Starting processing com.flyersoft.moonreaderp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp ......
+Success to get info from Play Store
+The lastest version of com.flyersoft.moonreaderp-1.apk is  2.6.4  
+Done processing com.flyersoft.moonreaderp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/10 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is  4.5.3  
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/10 Starting processing com.groundspeak.geocaching-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.groundspeak.geocaching ......
+Success to get info from Play Store
+The lastest version of com.groundspeak.geocaching-1.apk is    Varies with device  
+Done processing com.groundspeak.geocaching-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+5/10 Starting processing com.halfbrick.fruitninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.fruitninja ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.fruitninja-1.apk is  1.9.5  
+Done processing com.halfbrick.fruitninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+6/10 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is  1.10  
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+7/10 Starting processing com.jrummy.liberty.toolboxpro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jrummy.liberty.toolboxpro ......
+Success to get info from Play Store
+The lastest version of com.jrummy.liberty.toolboxpro-1.apk is  6.0.6.1  
+Done processing com.jrummy.liberty.toolboxpro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+8/10 Starting processing com.snapchat.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snapchat.android ......
+Success to get info from Play Store
+The lastest version of com.snapchat.android-1.apk is    Varies with device  
+Done processing com.snapchat.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+9/10 Starting processing com.squareenix.dxm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.squareenix.dxm ......
+Success to get info from Play Store
+The lastest version of com.squareenix.dxm-1.apk is    Varies with device  
+Done processing com.squareenix.dxm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+10/10 Starting processing kr.aboy.tools-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.aboy.tools ......
+Success to get info from Play Store
+The lastest version of kr.aboy.tools-1.apk is  1.7.1  
+Done processing kr.aboy.tools-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 45 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-10-09-13-08.csv
+**************************************************************

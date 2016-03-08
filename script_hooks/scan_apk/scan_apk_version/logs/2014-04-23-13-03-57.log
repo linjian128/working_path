@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.baidu.browser.apps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.browser.apps ......
+Success to get info from Play Store
+The lastest version of com.baidu.browser.apps-1.apk is  4.5.20.0  
+Done processing com.baidu.browser.apps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.estrongs.android.pop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.estrongs.android.pop ......
+Success to get info from Play Store
+The lastest version of com.estrongs.android.pop-1.apk is    Varies with device  
+Done processing com.estrongs.android.pop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-23-13-03-57.csv
+**************************************************************

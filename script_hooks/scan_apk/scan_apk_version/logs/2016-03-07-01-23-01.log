@@ -1,0 +1,48 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/5 Starting processing com.chaozh.iReaderFree15-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chaozh.iReaderFree15 ......
+Success to get info from Play Store
+The lastest version of com.chaozh.iReaderFree15-1.apk is 
+Done processing com.chaozh.iReaderFree15-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/5 Starting processing com.letv.android.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.letv.android.client ......
+[ERROR] : Cannot find info of com.letv.android.client-1.apk on https://play.google.com/store/apps/details?id=com.letv.android.client !!!
+Done processing com.letv.android.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/5 Starting processing com.wuba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wuba ......
+[ERROR] : Cannot find info of com.wuba-1.apk on https://play.google.com/store/apps/details?id=com.wuba !!!
+Done processing com.wuba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/5 Starting processing com.yibasan.lizhifm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yibasan.lizhifm ......
+Success to get info from Play Store
+The lastest version of com.yibasan.lizhifm-1.apk is  3.6.1  
+Done processing com.yibasan.lizhifm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/5 Starting processing com.youku.phone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youku.phone ......
+Success to get info from Play Store
+The lastest version of com.youku.phone-1.apk is  5.4.1  
+Done processing com.youku.phone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-03-07-01-23-01.csv
+**************************************************************

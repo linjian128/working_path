@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing br.com.beholdstudios.knightspp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=br.com.beholdstudios.knightspp ......
+Success to get info from Play Store
+The lastest version of br.com.beholdstudios.knightspp-1.apk is 
+Done processing br.com.beholdstudios.knightspp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/10 Starting processing com.hammerhead.furious7-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hammerhead.furious7 ......
+Success to get info from Play Store
+The lastest version of com.hammerhead.furious7-1.apk is  5.5  
+Done processing com.hammerhead.furious7-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/10 Starting processing com.imageline.FLM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imageline.FLM ......
+Success to get info from Play Store
+The lastest version of com.imageline.FLM-1.apk is  2.0.3  
+Done processing com.imageline.FLM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/10 Starting processing com.jellybtn.cashkingmobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jellybtn.cashkingmobile ......
+Success to get info from Play Store
+The lastest version of com.jellybtn.cashkingmobile-1.apk is  2.2.3  
+Done processing com.jellybtn.cashkingmobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/10 Starting processing com.ksmobile.launcher-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ksmobile.launcher ......
+Success to get info from Play Store
+The lastest version of com.ksmobile.launcher-1.apk is  1.15.1  
+Done processing com.ksmobile.launcher-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+6/10 Starting processing com.midasplayer.apps.diamonddiggersaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.diamonddiggersaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.diamonddiggersaga-1.apk is 
+Done processing com.midasplayer.apps.diamonddiggersaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+7/10 Starting processing com.naturalmotion.clumsyninja-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.clumsyninja ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.clumsyninja-1.apk is 
+Done processing com.naturalmotion.clumsyninja-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+8/10 Starting processing com.umonistudio.tile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.umonistudio.tile ......
+Success to get info from Play Store
+The lastest version of com.umonistudio.tile-1.apk is  3.4.5.1  
+Done processing com.umonistudio.tile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+9/10 Starting processing com.zynga.wwf2.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.wwf2.free ......
+Success to get info from Play Store
+The lastest version of com.zynga.wwf2.free-1.apk is    Varies with device  
+Done processing com.zynga.wwf2.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+10/10 Starting processing org.silentworks.fpscreator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.silentworks.fpscreator ......
+Success to get info from Play Store
+The lastest version of org.silentworks.fpscreator-1.apk is  1.0.6  
+Done processing org.silentworks.fpscreator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 30 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-29-15-52-59.csv
+**************************************************************

@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.126  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is  4.3.6  
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/9 Starting processing com.gameloft.android.ANMP.GloftGGHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftGGHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftGGHM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftGGHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/9 Starting processing com.marvel.runjumpsmash_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.marvel.runjumpsmash_goo ......
+Success to get info from Play Store
+The lastest version of com.marvel.runjumpsmash_goo-1.apk is  1.0.3  
+Done processing com.marvel.runjumpsmash_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/9 Starting processing com.mtvn.tmntrooftoprun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mtvn.tmntrooftoprun ......
+Success to get info from Play Store
+The lastest version of com.mtvn.tmntrooftoprun-1.apk is  2.01  
+Done processing com.mtvn.tmntrooftoprun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/9 Starting processing com.playfirst.playground.dinerdashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.dinerdashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.dinerdashdeluxe-1.apk is  3.32.20  
+Done processing com.playfirst.playground.dinerdashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/9 Starting processing com.sega.sonic.transformed-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sega.sonic.transformed ......
+Success to get info from Play Store
+The lastest version of com.sega.sonic.transformed-1.apk is    Varies with device  
+Done processing com.sega.sonic.transformed-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/9 Starting processing com.square_enix.android_googleplay.FFVI-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.FFVI ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.FFVI-1.apk is  1.0.3  
+Done processing com.square_enix.android_googleplay.FFVI-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+9/9 Starting processing it.junglestudios.splashyfish-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=it.junglestudios.splashyfish ......
+Success to get info from Play Store
+The lastest version of it.junglestudios.splashyfish-1.apk is  1.6  
+Done processing it.junglestudios.splashyfish-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 34 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-08-10-29-20.csv
+**************************************************************

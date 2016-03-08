@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.sgn.bookoflife.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.bookoflife.gp ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.bookoflife.gp-1.apk is  1.12.10  
+Done processing air.com.sgn.bookoflife.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing block.city.game-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=block.city.game ......
+Success to get info from Play Store
+The lastest version of block.city.game-1.apk is  2.1.1  
+Done processing block.city.game-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.cubic.autohome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cubic.autohome ......
+Success to get info from Play Store
+The lastest version of com.cubic.autohome-1.apk is  4.4.5  
+Done processing com.cubic.autohome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/9 Starting processing com.dangdang.buy2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dangdang.buy2 ......
+Success to get info from Play Store
+The lastest version of com.dangdang.buy2-1.apk is  5.4.1  
+Done processing com.dangdang.buy2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.fingerdance.empire-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fingerdance.empire ......
+Success to get info from Play Store
+The lastest version of com.fingerdance.empire-1.apk is  1.1.13  
+Done processing com.fingerdance.empire-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/9 Starting processing com.fivestargames.slots-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fivestargames.slots ......
+Success to get info from Play Store
+The lastest version of com.fivestargames.slots-1.apk is  1.12  
+Done processing com.fivestargames.slots-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/9 Starting processing com.nekki.shadowfight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nekki.shadowfight ......
+Success to get info from Play Store
+The lastest version of com.nekki.shadowfight-1.apk is  1.9.1  
+Done processing com.nekki.shadowfight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/9 Starting processing com.purplekiwii.mb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.purplekiwii.mb ......
+Success to get info from Play Store
+The lastest version of com.purplekiwii.mb-1.apk is  1.2.12  
+Done processing com.purplekiwii.mb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/9 Starting processing com.tigerknows-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tigerknows ......
+Success to get info from Play Store
+The lastest version of com.tigerknows-1.apk is  5.8.5.20140530A  
+Done processing com.tigerknows-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-09-15-24-27.csv
+**************************************************************

@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.mpisoft.doors2.beta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mpisoft.doors2.beta ......
+Success to get info from Play Store
+The lastest version of com.mpisoft.doors2.beta-1.apk is  1.1.0  
+Done processing com.mpisoft.doors2.beta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing net.lazybeez.flappypig-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.lazybeez.flappypig ......
+Success to get info from Play Store
+The lastest version of net.lazybeez.flappypig-1.apk is  2.1.0  
+Done processing net.lazybeez.flappypig-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-29-12-46-25.csv
+**************************************************************

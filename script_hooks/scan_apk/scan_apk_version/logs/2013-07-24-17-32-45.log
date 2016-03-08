@@ -1,0 +1,106 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing co.vine.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=co.vine.android ......
+Success to get info from Play Store
+The lastest version of co.vine.android-1.apk is  1.3.2  
+Done processing co.vine.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/12 Starting processing com.candy.crush.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.candy.crush.pro ......
+Success to get info from Play Store
+The lastest version of com.candy.crush.pro-1.apk is  10.3  
+Done processing com.candy.crush.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/12 Starting processing com.clearchannel.iheartradio.controller-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller ......
+Success to get info from Play Store
+The lastest version of com.clearchannel.iheartradio.controller-1.apk is    Varies with device  
+Done processing com.clearchannel.iheartradio.controller-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/12 Starting processing com.happyboy.prisonsniper2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.happyboy.prisonsniper2 ......
+Success to get info from Play Store
+The lastest version of com.happyboy.prisonsniper2-1.apk is  1.4  
+Done processing com.happyboy.prisonsniper2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+5/12 Starting processing com.hotheadgames.google.free.bigleaguebaseball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.bigleaguebaseball ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.bigleaguebaseball-1.apk is  3.4.1  
+Done processing com.hotheadgames.google.free.bigleaguebaseball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+6/12 Starting processing com.hotheadgames.google.free.rawspace-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.rawspace ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.rawspace-1.apk is  1.1  
+Done processing com.hotheadgames.google.free.rawspace-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+7/12 Starting processing com.igg.clash_of_lords-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.clash_of_lords ......
+Success to get info from Play Store
+The lastest version of com.igg.clash_of_lords-1.apk is  1.0.191  
+Done processing com.igg.clash_of_lords-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+8/12 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is  5.2  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+9/12 Starting processing com.largeanimal.colorzen-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.largeanimal.colorzen ......
+Success to get info from Play Store
+The lastest version of com.largeanimal.colorzen-1.apk is  1.3.3  
+Done processing com.largeanimal.colorzen-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+10/12 Starting processing com.picsart.studio-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.picsart.studio ......
+Success to get info from Play Store
+The lastest version of com.picsart.studio-1.apk is    Varies with device  
+Done processing com.picsart.studio-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 50 Seconds
+
+============================================================================
+11/12 Starting processing com.sanrio.google.hellokittycarnivaleu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sanrio.google.hellokittycarnivaleu ......
+Success to get info from Play Store
+The lastest version of com.sanrio.google.hellokittycarnivaleu-1.apk is  1.0.3  
+Done processing com.sanrio.google.hellokittycarnivaleu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 54 Seconds
+
+============================================================================
+12/12 Starting processing me.pou.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.pou.app ......
+Success to get info from Play Store
+The lastest version of me.pou.app-1.apk is  1.3.14  
+Done processing me.pou.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 59 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 59 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-24-17-32-45.csv
+**************************************************************

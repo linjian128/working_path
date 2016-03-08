@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.benyhe.RollerCoasterFree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.benyhe.RollerCoasterFree ......
+Success to get info from Play Store
+The lastest version of air.com.benyhe.RollerCoasterFree-1.apk is  1.2.4  
+Done processing air.com.benyhe.RollerCoasterFree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/9 Starting processing com.cleanmaster.mguard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.mguard ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.mguard-1.apk is  3.7.0  
+Done processing com.cleanmaster.mguard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/9 Starting processing com.edx.hipsurgery-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.edx.hipsurgery ......
+Success to get info from Play Store
+The lastest version of com.edx.hipsurgery-1.apk is  2.0  
+Done processing com.edx.hipsurgery-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/9 Starting processing com.feelingtouch.spacehero-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.feelingtouch.spacehero ......
+Success to get info from Play Store
+The lastest version of com.feelingtouch.spacehero-1.apk is  1.04  
+Done processing com.feelingtouch.spacehero-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+5/9 Starting processing com.mobage.ww.a953.Fuzion_Android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobage.ww.a953.Fuzion_Android ......
+Success to get info from Play Store
+The lastest version of com.mobage.ww.a953.Fuzion_Android-1.apk is  1.8.3  
+Done processing com.mobage.ww.a953.Fuzion_Android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+6/9 Starting processing com.mt.fiftyways-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mt.fiftyways ......
+Success to get info from Play Store
+The lastest version of com.mt.fiftyways-1.apk is  1.1  
+Done processing com.mt.fiftyways-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+7/9 Starting processing com.teamlava.petshop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.petshop ......
+Success to get info from Play Store
+The lastest version of com.teamlava.petshop-1.apk is  1.0.6.2  
+Done processing com.teamlava.petshop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 38 Seconds
+
+============================================================================
+8/9 Starting processing com.williamsinteractive.jackpotparty-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.williamsinteractive.jackpotparty ......
+Success to get info from Play Store
+The lastest version of com.williamsinteractive.jackpotparty-1.apk is  1.10  
+Done processing com.williamsinteractive.jackpotparty-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 44 Seconds
+
+============================================================================
+9/9 Starting processing ru.mail.games.android.JungleHeat-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=ru.mail.games.android.JungleHeat ......
+Success to get info from Play Store
+The lastest version of ru.mail.games.android.JungleHeat-1.apk is  1.2.0  
+Done processing ru.mail.games.android.JungleHeat-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 48 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 48 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-25-11-31-24.csv
+**************************************************************

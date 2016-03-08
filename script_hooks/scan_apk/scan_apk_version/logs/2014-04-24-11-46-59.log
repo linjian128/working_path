@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing au.com.shiftyjelly.pocketcasts-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts ......
+Success to get info from Play Store
+The lastest version of au.com.shiftyjelly.pocketcasts-1.apk is  4.5.8  
+Done processing au.com.shiftyjelly.pocketcasts-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.dama.papercamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.papercamera ......
+Success to get info from Play Store
+The lastest version of com.dama.papercamera-1.apk is  4.0.1  
+Done processing com.dama.papercamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/5 Starting processing com.mtvn.tmntrooftoprun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mtvn.tmntrooftoprun ......
+Success to get info from Play Store
+The lastest version of com.mtvn.tmntrooftoprun-1.apk is  2.0.23  
+Done processing com.mtvn.tmntrooftoprun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/5 Starting processing com.ultimateguitar.tabs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs ......
+Success to get info from Play Store
+The lastest version of com.ultimateguitar.tabs-1.apk is  3.3.1  
+Done processing com.ultimateguitar.tabs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/5 Starting processing jp.co.applibot.legend.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.applibot.legend.android ......
+Success to get info from Play Store
+The lastest version of jp.co.applibot.legend.android-1.apk is  7.2  
+Done processing jp.co.applibot.legend.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-24-11-46-59.csv
+**************************************************************

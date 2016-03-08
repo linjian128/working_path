@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.zynga.scramble.paid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.scramble.paid ......
+Success to get info from Play Store
+The lastest version of com.zynga.scramble.paid-1.apk is    Varies with device  
+Done processing com.zynga.scramble.paid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing net.kairosoft.android.gamedev3en-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en ......
+Success to get info from Play Store
+The lastest version of net.kairosoft.android.gamedev3en-1.apk is  1.1.7  
+Done processing net.kairosoft.android.gamedev3en-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-28-15-43-01.csv
+**************************************************************

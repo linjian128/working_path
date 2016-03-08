@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.com2us.HB3D-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.HB3D ......
+Success to get info from Play Store
+The lastest version of com.com2us.HB3D-1.apk is  1.8.5  
+Done processing com.com2us.HB3D-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+2/7 Starting processing com.ember.stainz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ember.stainz ......
+Success to get info from Play Store
+The lastest version of com.ember.stainz-1.apk is  0.1.6  
+Done processing com.ember.stainz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/7 Starting processing com.google.android.music-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.music ......
+Success to get info from Play Store
+The lastest version of com.google.android.music-1.apk is    Varies with device  
+Done processing com.google.android.music-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+4/7 Starting processing com.google.android.youtube-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.youtube ......
+Success to get info from Play Store
+The lastest version of com.google.android.youtube-1.apk is    Varies with device  
+Done processing com.google.android.youtube-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+5/7 Starting processing com.hatsproductions.OrganTrail-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hatsproductions.OrganTrail ......
+Success to get info from Play Store
+The lastest version of com.hatsproductions.OrganTrail-1.apk is    Varies with device  
+Done processing com.hatsproductions.OrganTrail-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+6/7 Starting processing com.shopkick.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shopkick.app ......
+Success to get info from Play Store
+The lastest version of com.shopkick.app-1.apk is  4.3.3  
+Done processing com.shopkick.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+7/7 Starting processing com.tencent.qqpim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqpim ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqpim-1.apk is  4.8  
+Done processing com.tencent.qqpim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 34 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-11-14-58-48.csv
+**************************************************************

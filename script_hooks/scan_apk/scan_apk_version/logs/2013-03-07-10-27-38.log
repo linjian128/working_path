@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.alibaba.mobileim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alibaba.mobileim ......
+Success to get info from Play Store
+The lastest version of com.alibaba.mobileim-1.apk is 2.1.8
+Done processing com.alibaba.mobileim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is 2.2.9
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/8 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+Success to get info from Play Store
+The lastest version of com.sds.android.ttpod-1.apk is 4.6.0221
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/8 Starting processing com.starbucks.mobilecard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.starbucks.mobilecard ......
+Success to get info from Play Store
+The lastest version of com.starbucks.mobilecard-1.apk is 2.3.1
+Done processing com.starbucks.mobilecard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/8 Starting processing com.tencent.mobileqq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mobileqq ......
+Success to get info from Play Store
+The lastest version of com.tencent.mobileqq-1.apk is 4.0.2
+Done processing com.tencent.mobileqq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/8 Starting processing com.waze-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.waze ......
+Success to get info from Play Store
+The lastest version of com.waze-1.apk is 3.6.0.0
+Done processing com.waze-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/8 Starting processing it.rortos.f18carrierlandinglite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=it.rortos.f18carrierlandinglite ......
+Success to get info from Play Store
+The lastest version of it.rortos.f18carrierlandinglite-1.apk is 5
+Done processing it.rortos.f18carrierlandinglite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+8/8 Starting processing jp.co.applibot.legend.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.co.applibot.legend.android ......
+Success to get info from Play Store
+The lastest version of jp.co.applibot.legend.android-1.apk is 4.7
+Done processing jp.co.applibot.legend.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-03-07-10-27-38.csv
+**************************************************************

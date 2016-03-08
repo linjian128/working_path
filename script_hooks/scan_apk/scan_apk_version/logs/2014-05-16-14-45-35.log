@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.elextech.happyfarm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.elextech.happyfarm ......
+Success to get info from Play Store
+The lastest version of air.com.elextech.happyfarm-1.apk is    Varies with device  
+Done processing air.com.elextech.happyfarm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/8 Starting processing com.king.farmheroessaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.farmheroessaga ......
+Success to get info from Play Store
+The lastest version of com.king.farmheroessaga-1.apk is  2.6.7  
+Done processing com.king.farmheroessaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/8 Starting processing com.midasplayer.apps.papapearsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.papapearsaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.papapearsaga-1.apk is    Varies with device  
+Done processing com.midasplayer.apps.papapearsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/8 Starting processing com.nuance.swype.dtc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nuance.swype.dtc ......
+Success to get info from Play Store
+The lastest version of com.nuance.swype.dtc-1.apk is  1.6.16.27862  
+Done processing com.nuance.swype.dtc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/8 Starting processing com.omgpop.dstpaid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.omgpop.dstpaid ......
+Success to get info from Play Store
+The lastest version of com.omgpop.dstpaid-1.apk is  2.333.221  
+Done processing com.omgpop.dstpaid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/8 Starting processing com.ultimateguitar.tabs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs ......
+Success to get info from Play Store
+The lastest version of com.ultimateguitar.tabs-1.apk is  3.4.0  
+Done processing com.ultimateguitar.tabs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/8 Starting processing itembox.crayfish.x-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=itembox.crayfish.x ......
+Success to get info from Play Store
+The lastest version of itembox.crayfish.x-1.apk is  1.37  
+Done processing itembox.crayfish.x-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/8 Starting processing me.pou.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.pou.app ......
+Success to get info from Play Store
+The lastest version of me.pou.app-1.apk is  1.4.39  
+Done processing me.pou.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-16-14-45-35.csv
+**************************************************************

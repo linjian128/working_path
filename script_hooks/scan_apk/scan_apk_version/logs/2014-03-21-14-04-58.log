@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.foxnews.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.foxnews.android ......
+Success to get info from Play Store
+The lastest version of com.foxnews.android-1.apk is    Varies with device  
+Done processing com.foxnews.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.outfit7.talkinggingerfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.talkinggingerfree ......
+Success to get info from Play Store
+The lastest version of com.outfit7.talkinggingerfree-1.apk is    Varies with device  
+Done processing com.outfit7.talkinggingerfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/4 Starting processing com.pandoomobile.MagicMania-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pandoomobile.MagicMania ......
+Success to get info from Play Store
+The lastest version of com.pandoomobile.MagicMania-1.apk is  1.1  
+Done processing com.pandoomobile.MagicMania-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/4 Starting processing com.pixel.gun3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixel.gun3d ......
+Success to get info from Play Store
+The lastest version of com.pixel.gun3d-1.apk is  5.4.1  
+Done processing com.pixel.gun3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 16 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-21-14-04-58.csv
+**************************************************************

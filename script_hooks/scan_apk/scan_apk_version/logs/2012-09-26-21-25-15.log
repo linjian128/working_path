@@ -1,0 +1,48 @@
+Start processing app in list test.list from /var/www/apk_pool/App_Test/All_Apk/  ......
+
+============================================================================
+1/5 Starting processing abolt.voice-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=abolt.voice ......
+Success to get info from Play Store
+The lastest version of abolt.voice-1.apk is 1.04
+Done processing abolt.voice-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing Adrenaline.Crew-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=Adrenaline.Crew ......
+Success to get info from Play Store
+The lastest version of Adrenaline.Crew-1.apk is Version
+Done processing Adrenaline.Crew-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/5 Starting processing afzkl.development.mVideoPlayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=afzkl.development.mVideoPlayer ......
+Success to get info from Play Store
+The lastest version of afzkl.development.mVideoPlayer-1.apk is Varies with device
+Done processing afzkl.development.mVideoPlayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/5 Starting processing air.A2012Brokenglass-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.A2012Brokenglass ......
+[ERROR] : Cannot find info of air.A2012Brokenglass-1.apk on https://play.google.com/store/apps/details?id=air.A2012Brokenglass !!!
+Done processing air.A2012Brokenglass-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/5 Starting processing air.AdoohMobileAdmin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.AdoohMobileAdmin ......
+[ERROR] : Cannot find info of air.AdoohMobileAdmin-1.apk on https://play.google.com/store/apps/details?id=air.AdoohMobileAdmin !!!
+Done processing air.AdoohMobileAdmin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2012-09-26-21-25-15.csv
+**************************************************************

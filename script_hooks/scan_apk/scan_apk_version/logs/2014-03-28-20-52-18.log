@@ -1,0 +1,98 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing air.com.buffalo_studios.newflashbingo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.buffalo_studios.newflashbingo ......
+Success to get info from Play Store
+The lastest version of air.com.buffalo_studios.newflashbingo-1.apk is  2.55.0  
+Done processing air.com.buffalo_studios.newflashbingo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/11 Starting processing com.disney.nemo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.nemo ......
+Success to get info from Play Store
+The lastest version of com.disney.nemo-1.apk is  1.5.1  
+Done processing com.disney.nemo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/11 Starting processing com.fastemulator.gbafree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fastemulator.gbafree ......
+Success to get info from Play Store
+The lastest version of com.fastemulator.gbafree-1.apk is  1.5.24  
+Done processing com.fastemulator.gbafree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/11 Starting processing com.gamevil.fishing.global-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamevil.fishing.global ......
+Success to get info from Play Store
+The lastest version of com.gamevil.fishing.global-1.apk is  2.1.9  
+Done processing com.gamevil.fishing.global-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/11 Starting processing com.hiddenvariable.bagit.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hiddenvariable.bagit.lite ......
+Success to get info from Play Store
+The lastest version of com.hiddenvariable.bagit.lite-1.apk is  3.2  
+Done processing com.hiddenvariable.bagit.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+6/11 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.15.6  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+7/11 Starting processing com.naturalmotion.csrracing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.naturalmotion.csrracing ......
+Success to get info from Play Store
+The lastest version of com.naturalmotion.csrracing-1.apk is  1.6.0  
+Done processing com.naturalmotion.csrracing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+8/11 Starting processing com.oogame.pikachu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oogame.pikachu ......
+Success to get info from Play Store
+The lastest version of com.oogame.pikachu-1.apk is  2.0  
+Done processing com.oogame.pikachu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+9/11 Starting processing com.rsm.catchcandies-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rsm.catchcandies ......
+Success to get info from Play Store
+The lastest version of com.rsm.catchcandies-1.apk is  1.5  
+Done processing com.rsm.catchcandies-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+10/11 Starting processing com.topnewfree.coinrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.topnewfree.coinrush ......
+Success to get info from Play Store
+The lastest version of com.topnewfree.coinrush-1.apk is  1.16  
+Done processing com.topnewfree.coinrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+11/11 Starting processing com.vectorunit.yellow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vectorunit.yellow ......
+Success to get info from Play Store
+The lastest version of com.vectorunit.yellow-1.apk is  1.3.10  
+Done processing com.vectorunit.yellow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 36 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-28-20-52-18.csv
+**************************************************************

@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.goodgamestudios.empirefourkingdoms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.goodgamestudios.empirefourkingdoms ......
+Success to get info from Play Store
+The lastest version of air.com.goodgamestudios.empirefourkingdoms-1.apk is  1.10.36  
+Done processing air.com.goodgamestudios.empirefourkingdoms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/5 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.144  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/5 Starting processing com.flaregames.rrtournament-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flaregames.rrtournament ......
+Success to get info from Play Store
+The lastest version of com.flaregames.rrtournament-1.apk is  1.4.0  
+Done processing com.flaregames.rrtournament-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/5 Starting processing com.shopkick.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shopkick.app ......
+Success to get info from Play Store
+The lastest version of com.shopkick.app-1.apk is  4.4.3  
+Done processing com.shopkick.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/5 Starting processing com.tinyco.familyguy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tinyco.familyguy ......
+Success to get info from Play Store
+The lastest version of com.tinyco.familyguy-1.apk is    Varies with device  
+Done processing com.tinyco.familyguy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-18-09-36-25.csv
+**************************************************************

@@ -1,0 +1,114 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing cn.com.fetion-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.com.fetion ......
+Success to get info from Play Store
+The lastest version of cn.com.fetion-1.apk is 
+Done processing cn.com.fetion-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/13 Starting processing com.ea.gp.bej3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.gp.bej3 ......
+Success to get info from Play Store
+The lastest version of com.ea.gp.bej3-1.apk is 
+Done processing com.ea.gp.bej3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+3/13 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is 
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+4/13 Starting processing com.intellijoy.android.reading-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.intellijoy.android.reading ......
+Success to get info from Play Store
+The lastest version of com.intellijoy.android.reading-1.apk is 
+Done processing com.intellijoy.android.reading-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+5/13 Starting processing com.mtvn.sbmigoogleplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mtvn.sbmigoogleplay ......
+Success to get info from Play Store
+The lastest version of com.mtvn.sbmigoogleplay-1.apk is 
+Done processing com.mtvn.sbmigoogleplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+6/13 Starting processing com.pplive.androidphone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidphone ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidphone-1.apk is 
+Done processing com.pplive.androidphone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+7/13 Starting processing com.qzone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qzone ......
+Success to get info from Play Store
+The lastest version of com.qzone-1.apk is 
+Done processing com.qzone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+8/13 Starting processing com.remotefairy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.remotefairy ......
+Success to get info from Play Store
+The lastest version of com.remotefairy-1.apk is 
+Done processing com.remotefairy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+9/13 Starting processing com.roblox.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roblox.client ......
+Success to get info from Play Store
+The lastest version of com.roblox.client-1.apk is 
+Done processing com.roblox.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+10/13 Starting processing com.sogou.map.android.maps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sogou.map.android.maps ......
+Success to get info from Play Store
+The lastest version of com.sogou.map.android.maps-1.apk is 
+Done processing com.sogou.map.android.maps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+11/13 Starting processing com.yodo1.crossyroad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yodo1.crossyroad ......
+Success to get info from Play Store
+The lastest version of com.yodo1.crossyroad-1.apk is 
+Done processing com.yodo1.crossyroad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+12/13 Starting processing es.socialpoint.MonsterLegends-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=es.socialpoint.MonsterLegends ......
+Success to get info from Play Store
+The lastest version of es.socialpoint.MonsterLegends-1.apk is 
+Done processing es.socialpoint.MonsterLegends-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+13/13 Starting processing slide.watchFrenzy.premium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium ......
+Success to get info from Play Store
+The lastest version of slide.watchFrenzy.premium-1.apk is 
+Done processing slide.watchFrenzy.premium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-15-13-45-53.csv
+**************************************************************

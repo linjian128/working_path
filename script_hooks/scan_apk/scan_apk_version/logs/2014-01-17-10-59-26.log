@@ -1,0 +1,33 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing cn.com.guanying-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.com.guanying ......
+[ERROR] : Cannot find info of cn.com.guanying-1.apk on https://play.google.com/store/apps/details?id=cn.com.guanying !!!
+Done processing cn.com.guanying-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/3 Starting processing com.dft.hb.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dft.hb.app ......
+Success to get info from Play Store
+The lastest version of com.dft.hb.app-1.apk is  8.1.0.01  
+Done processing com.dft.hb.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/3 Starting processing com.kingsoft-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kingsoft ......
+Success to get info from Play Store
+The lastest version of com.kingsoft-1.apk is  6.3.2  
+Done processing com.kingsoft-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-17-10-59-26.csv
+**************************************************************

@@ -1,0 +1,39 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.google.android.camera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.camera ......
+[ERROR] : Cannot find info of com.google.android.camera-1.apk on https://play.google.com/store/apps/details?id=com.google.android.camera !!!
+Done processing com.google.android.camera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/4 Starting processing com.popcap.pvz291-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.popcap.pvz291 ......
+[ERROR] : Cannot find info of com.popcap.pvz291-1.apk on https://play.google.com/store/apps/details?id=com.popcap.pvz291 !!!
+Done processing com.popcap.pvz291-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing com.sirma.mobile.bible.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android ......
+Success to get info from Play Store
+The lastest version of com.sirma.mobile.bible.android-1.apk is    Varies with device  
+Done processing com.sirma.mobile.bible.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/4 Starting processing com.tencent.feiji-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.feiji ......
+[ERROR] : Cannot find info of com.tencent.feiji-1.apk on https://play.google.com/store/apps/details?id=com.tencent.feiji !!!
+Done processing com.tencent.feiji-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-28-18-13-07.csv
+**************************************************************

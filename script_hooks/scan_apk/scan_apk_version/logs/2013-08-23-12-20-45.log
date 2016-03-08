@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.hotheadgames.google.free.bigleaguebaseball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.bigleaguebaseball ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.bigleaguebaseball-1.apk is  3.5.1  
+Done processing com.hotheadgames.google.free.bigleaguebaseball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-23-12-20-45.csv
+**************************************************************

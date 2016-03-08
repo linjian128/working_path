@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/2 Starting processing com.baidu.browser.apps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.browser.apps ......
+Success to get info from Play Store
+The lastest version of com.baidu.browser.apps-1.apk is 
+Done processing com.baidu.browser.apps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.lenovo.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lenovo.browser ......
+Success to get info from Play Store
+The lastest version of com.lenovo.browser-1.apk is  6.3.17.150721.7ac1da7_public  
+Done processing com.lenovo.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-02-13-46-25.csv
+**************************************************************

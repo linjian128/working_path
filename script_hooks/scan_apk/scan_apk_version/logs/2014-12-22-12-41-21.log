@@ -1,0 +1,54 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.ijinshan.browser_fast-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.browser_fast ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.browser_fast-1.apk is  2.21.1  
+Done processing com.ijinshan.browser_fast-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.tencent.tmgp.madhead.tos-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.tmgp.madhead.tos ......
+[ERROR] : Cannot find info of com.tencent.tmgp.madhead.tos-1.apk on https://play.google.com/store/apps/details?id=com.tencent.tmgp.madhead.tos !!!
+Done processing com.tencent.tmgp.madhead.tos-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.ximalaya.ting.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ximalaya.ting.android ......
+[ERROR] : Cannot find info of com.ximalaya.ting.android-1.apk on https://play.google.com/store/apps/details?id=com.ximalaya.ting.android !!!
+Done processing com.ximalaya.ting.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/6 Starting processing com.xunlei.downloadprovider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xunlei.downloadprovider ......
+Success to get info from Play Store
+The lastest version of com.xunlei.downloadprovider-1.apk is  3.3.2.2118  
+Done processing com.xunlei.downloadprovider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/6 Starting processing fm.xiami.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fm.xiami.main ......
+[ERROR] : Cannot find info of fm.xiami.main-1.apk on https://play.google.com/store/apps/details?id=fm.xiami.main !!!
+Done processing fm.xiami.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/6 Starting processing pinkdiary.xiaoxiaotu.com-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=pinkdiary.xiaoxiaotu.com ......
+[ERROR] : Cannot find info of pinkdiary.xiaoxiaotu.com-1.apk on https://play.google.com/store/apps/details?id=pinkdiary.xiaoxiaotu.com !!!
+Done processing pinkdiary.xiaoxiaotu.com-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-22-12-41-21.csv
+**************************************************************

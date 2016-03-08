@@ -1,0 +1,13 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing sh.lilith.dgame.wdj-1.apk ......
+Error ouccus when processing sh.lilith.dgame.wdj-1.apk : Cnnot get apk info by aapt !
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:    Days  Hours  Minutes  Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-05-28-17-05-43.csv
+**************************************************************

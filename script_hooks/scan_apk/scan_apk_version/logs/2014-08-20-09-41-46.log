@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.feelingtouch.dipan.slggameglobal-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.feelingtouch.dipan.slggameglobal ......
+Success to get info from Play Store
+The lastest version of com.feelingtouch.dipan.slggameglobal-1.apk is  1.08  
+Done processing com.feelingtouch.dipan.slggameglobal-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/6 Starting processing com.glu.deadroute-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deadroute ......
+Success to get info from Play Store
+The lastest version of com.glu.deadroute-1.apk is  1.2.0  
+Done processing com.glu.deadroute-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.piksoft.turboscan-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.piksoft.turboscan ......
+Success to get info from Play Store
+The lastest version of com.piksoft.turboscan-1.apk is  1.2.1  
+Done processing com.piksoft.turboscan-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/6 Starting processing com.turner.cardwars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.turner.cardwars ......
+Success to get info from Play Store
+The lastest version of com.turner.cardwars-1.apk is  1.0.9  
+Done processing com.turner.cardwars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/6 Starting processing com.ultimateguitar.tabs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs ......
+Success to get info from Play Store
+The lastest version of com.ultimateguitar.tabs-1.apk is    Varies with device  
+Done processing com.ultimateguitar.tabs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/6 Starting processing slide.cameraZoom-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=slide.cameraZoom ......
+Success to get info from Play Store
+The lastest version of slide.cameraZoom-1.apk is  5.4.3  
+Done processing slide.cameraZoom-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-20-09-41-46.csv
+**************************************************************

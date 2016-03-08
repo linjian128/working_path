@@ -1,0 +1,17 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.gocome.opencam-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gocome.opencam ......
+[ERROR] : Cannot find info of com.gocome.opencam-1.apk on https://play.google.com/store/apps/details?id=com.gocome.opencam !!!
+Done processing com.gocome.opencam-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-17-12-40-21.csv
+**************************************************************

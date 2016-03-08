@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.ggee.vividruntime.gg_1403-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ggee.vividruntime.gg_1403 ......
+Success to get info from Play Store
+The lastest version of com.ggee.vividruntime.gg_1403-1.apk is  13.07.04  
+Done processing com.ggee.vividruntime.gg_1403-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing eu.namcobandaigames.tekkencard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=eu.namcobandaigames.tekkencard ......
+Success to get info from Play Store
+The lastest version of eu.namcobandaigames.tekkencard-1.apk is  1.061  
+Done processing eu.namcobandaigames.tekkencard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-18-17-03-25.csv
+**************************************************************

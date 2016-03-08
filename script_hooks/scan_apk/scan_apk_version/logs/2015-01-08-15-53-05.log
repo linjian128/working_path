@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.mgstream.AFMFlex-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.mgstream.AFMFlex ......
+Success to get info from Play Store
+The lastest version of air.com.mgstream.AFMFlex-1.apk is  2.2.11  
+Done processing air.com.mgstream.AFMFlex-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.cleanmaster.mguard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.mguard ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.mguard-1.apk is    Varies with device  
+Done processing com.cleanmaster.mguard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/4 Starting processing com.disney.cpcompanion_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.cpcompanion_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.cpcompanion_goo-1.apk is  1.6.1  
+Done processing com.disney.cpcompanion_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.foursakenmedia.bugheroes2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.foursakenmedia.bugheroes2 ......
+Success to get info from Play Store
+The lastest version of com.foursakenmedia.bugheroes2-1.apk is    Varies with device  
+Done processing com.foursakenmedia.bugheroes2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-08-15-53-05.csv
+**************************************************************

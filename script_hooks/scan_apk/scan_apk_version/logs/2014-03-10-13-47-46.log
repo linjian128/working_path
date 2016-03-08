@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.roidapp.photogrid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roidapp.photogrid ......
+Success to get info from Play Store
+The lastest version of com.roidapp.photogrid-1.apk is  4.652  
+Done processing com.roidapp.photogrid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/2 Starting processing udk.android.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=udk.android.reader ......
+Success to get info from Play Store
+The lastest version of udk.android.reader-1.apk is  2.4.5.1  
+Done processing udk.android.reader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 9 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-10-13-47-46.csv
+**************************************************************

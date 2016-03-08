@@ -1,0 +1,26 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.herocraft.game.full.st_ussr_usa-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.herocraft.game.full.st_ussr_usa ......
+Success to get info from Play Store
+The lastest version of com.herocraft.game.full.st_ussr_usa-1.apk is  1.0.7  
+Done processing com.herocraft.game.full.st_ussr_usa-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/2 Starting processing com.turner.prankwar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.turner.prankwar ......
+Success to get info from Play Store
+The lastest version of com.turner.prankwar-1.apk is  1.0.3  
+Done processing com.turner.prankwar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-27-13-27-33.csv
+**************************************************************

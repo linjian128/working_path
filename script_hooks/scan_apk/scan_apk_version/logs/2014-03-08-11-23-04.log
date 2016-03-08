@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.dropbox.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dropbox.android ......
+Success to get info from Play Store
+The lastest version of com.dropbox.android-1.apk is    Varies with device  
+Done processing com.dropbox.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/7 Starting processing com.duduapps.craigslistfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duduapps.craigslistfree ......
+Success to get info from Play Store
+The lastest version of com.duduapps.craigslistfree-1.apk is  1.60  
+Done processing com.duduapps.craigslistfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/7 Starting processing com.halfbrick.jetpackjoyride-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.jetpackjoyride-1.apk is    Varies with device  
+Done processing com.halfbrick.jetpackjoyride-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/7 Starting processing com.miniclip.eightballpool-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miniclip.eightballpool ......
+Success to get info from Play Store
+The lastest version of com.miniclip.eightballpool-1.apk is  2.3.1  
+Done processing com.miniclip.eightballpool-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/7 Starting processing com.mobilityware.solitaire-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobilityware.solitaire ......
+Success to get info from Play Store
+The lastest version of com.mobilityware.solitaire-1.apk is  3.0  
+Done processing com.mobilityware.solitaire-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/7 Starting processing com.outfit7.tomslovelettersfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.tomslovelettersfree ......
+Success to get info from Play Store
+The lastest version of com.outfit7.tomslovelettersfree-1.apk is    Varies with device  
+Done processing com.outfit7.tomslovelettersfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+7/7 Starting processing com.soundcloud.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.soundcloud.android ......
+Success to get info from Play Store
+The lastest version of com.soundcloud.android-1.apk is    Varies with device  
+Done processing com.soundcloud.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-08-11-23-04.csv
+**************************************************************

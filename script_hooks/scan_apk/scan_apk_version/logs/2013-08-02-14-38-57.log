@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.oranginalplan.weaphones-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphones ......
+Success to get info from Play Store
+The lastest version of air.com.oranginalplan.weaphones-1.apk is  2.0.1  
+Done processing air.com.oranginalplan.weaphones-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing air.com.slotgalaxy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.slotgalaxy ......
+Success to get info from Play Store
+The lastest version of air.com.slotgalaxy-1.apk is  1.1.1  
+Done processing air.com.slotgalaxy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/6 Starting processing com.navigon.navigator_checkout_eu40-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.navigon.navigator_checkout_eu40 ......
+Success to get info from Play Store
+The lastest version of com.navigon.navigator_checkout_eu40-1.apk is  4.9.1  
+Done processing com.navigon.navigator_checkout_eu40-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/6 Starting processing com.pixowl.thesandbox.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixowl.thesandbox.android ......
+Success to get info from Play Store
+The lastest version of com.pixowl.thesandbox.android-1.apk is  1.160  
+Done processing com.pixowl.thesandbox.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/6 Starting processing com.rockstar.maxpayne-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rockstar.maxpayne ......
+Success to get info from Play Store
+The lastest version of com.rockstar.maxpayne-1.apk is    Varies with device  
+Done processing com.rockstar.maxpayne-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/6 Starting processing com.slingmedia.slingPlayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.slingmedia.slingPlayer ......
+Success to get info from Play Store
+The lastest version of com.slingmedia.slingPlayer-1.apk is  2.5.4  
+Done processing com.slingmedia.slingPlayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 25 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-02-14-38-57.csv
+**************************************************************

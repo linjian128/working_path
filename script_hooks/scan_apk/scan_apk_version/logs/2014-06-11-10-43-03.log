@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.batteryacid.highwayrider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.batteryacid.highwayrider ......
+Success to get info from Play Store
+The lastest version of com.batteryacid.highwayrider-1.apk is  1.7.2  
+Done processing com.batteryacid.highwayrider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/5 Starting processing com.ijinshan.duba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.duba ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.duba-1.apk is  3.3.1  
+Done processing com.ijinshan.duba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/5 Starting processing com.qihoo360.mobilesafe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qihoo360.mobilesafe ......
+Success to get info from Play Store
+The lastest version of com.qihoo360.mobilesafe-1.apk is  5.1.5  
+Done processing com.qihoo360.mobilesafe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/5 Starting processing com.xiaoenai.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xiaoenai.app ......
+Success to get info from Play Store
+The lastest version of com.xiaoenai.app-1.apk is  3.1.9  
+Done processing com.xiaoenai.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/5 Starting processing fm.jihua.kecheng-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fm.jihua.kecheng ......
+Success to get info from Play Store
+The lastest version of fm.jihua.kecheng-1.apk is  4.4  
+Done processing fm.jihua.kecheng-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-06-11-10-43-03.csv
+**************************************************************

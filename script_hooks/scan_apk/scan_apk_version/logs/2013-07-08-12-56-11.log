@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.android.chrome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.chrome ......
+Success to get info from Play Store
+The lastest version of com.android.chrome-1.apk is Varies with device
+Done processing com.android.chrome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.fingersoft.hillclimb-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb ......
+Success to get info from Play Store
+The lastest version of com.fingersoft.hillclimb-1.apk is 1.9.0
+Done processing com.fingersoft.hillclimb-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/6 Starting processing com.kakapo.slots-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kakapo.slots ......
+Success to get info from Play Store
+The lastest version of com.kakapo.slots-1.apk is 1.09
+Done processing com.kakapo.slots-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/6 Starting processing com.mojang.minecraftpe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mojang.minecraftpe ......
+Success to get info from Play Store
+The lastest version of com.mojang.minecraftpe-1.apk is Varies with device
+Done processing com.mojang.minecraftpe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/6 Starting processing com.samsungmobileusa.magnacarta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.samsungmobileusa.magnacarta ......
+Success to get info from Play Store
+The lastest version of com.samsungmobileusa.magnacarta-1.apk is 2
+Done processing com.samsungmobileusa.magnacarta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/6 Starting processing com.touchtype.swiftkey-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.touchtype.swiftkey ......
+Success to get info from Play Store
+The lastest version of com.touchtype.swiftkey-1.apk is Varies with device
+Done processing com.touchtype.swiftkey-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-08-12-56-11.csv
+**************************************************************

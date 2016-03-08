@@ -1,0 +1,77 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/9 Starting processing cn.wps.moffice_eng-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.wps.moffice_eng ......
+Success to get info from Play Store
+The lastest version of cn.wps.moffice_eng-1.apk is    Varies with device  
+Done processing cn.wps.moffice_eng-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/9 Starting processing com.achievo.vipshop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.achievo.vipshop ......
+[ERROR] : Cannot find info of com.achievo.vipshop-1.apk on https://play.google.com/store/apps/details?id=com.achievo.vipshop !!!
+Done processing com.achievo.vipshop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/9 Starting processing com.calendar.UI-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.calendar.UI ......
+[ERROR] : Cannot find info of com.calendar.UI-1.apk on https://play.google.com/store/apps/details?id=com.calendar.UI !!!
+Done processing com.calendar.UI-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/9 Starting processing com.carrot.iceworld-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.carrot.iceworld ......
+Success to get info from Play Store
+The lastest version of com.carrot.iceworld-1.apk is  1.0.1  
+Done processing com.carrot.iceworld-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/9 Starting processing com.fingera.runrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fingera.runrun ......
+Success to get info from Play Store
+The lastest version of com.fingera.runrun-1.apk is  1.2  
+Done processing com.fingera.runrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/9 Starting processing com.lcwx.xm.huawei-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lcwx.xm.huawei ......
+[ERROR] : Cannot find info of com.lcwx.xm.huawei-1.apk on https://play.google.com/store/apps/details?id=com.lcwx.xm.huawei !!!
+Done processing com.lcwx.xm.huawei-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/9 Starting processing com.time.firetruckracing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.time.firetruckracing ......
+[ERROR] : Cannot find info of com.time.firetruckracing-1.apk on https://play.google.com/store/apps/details?id=com.time.firetruckracing !!!
+Done processing com.time.firetruckracing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+8/9 Starting processing com.ting.mp3.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ting.mp3.android ......
+Success to get info from Play Store
+The lastest version of com.ting.mp3.android-1.apk is 
+Done processing com.ting.mp3.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+9/9 Starting processing com.wuba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wuba ......
+[ERROR] : Cannot find info of com.wuba-1.apk on https://play.google.com/store/apps/details?id=com.wuba !!!
+Done processing com.wuba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 30 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-25-15-57-44.csv
+**************************************************************

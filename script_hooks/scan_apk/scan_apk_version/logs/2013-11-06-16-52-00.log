@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing cn.com.tiros.android.navidog-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.com.tiros.android.navidog ......
+Success to get info from Play Store
+The lastest version of cn.com.tiros.android.navidog-1.apk is  4.6.4  
+Done processing cn.com.tiros.android.navidog-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-06-16-52-00.csv
+**************************************************************

@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.UCMobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.UCMobile ......
+Success to get info from Play Store
+The lastest version of com.UCMobile-1.apk is  9.3.2  
+Done processing com.UCMobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/9 Starting processing com.alibaba.mobileim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alibaba.mobileim ......
+Success to get info from Play Store
+The lastest version of com.alibaba.mobileim-1.apk is  2.8.0  
+Done processing com.alibaba.mobileim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/9 Starting processing com.boardtastic.skateboarding-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.boardtastic.skateboarding ......
+Success to get info from Play Store
+The lastest version of com.boardtastic.skateboarding-1.apk is    Varies with device  
+Done processing com.boardtastic.skateboarding-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/9 Starting processing com.pocketgems.android.campuslife-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pocketgems.android.campuslife ......
+Success to get info from Play Store
+The lastest version of com.pocketgems.android.campuslife-1.apk is  1.18.9+g  
+Done processing com.pocketgems.android.campuslife-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+5/9 Starting processing com.pplive.androidpad-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pplive.androidpad ......
+Success to get info from Play Store
+The lastest version of com.pplive.androidpad-1.apk is  2.5.0  
+Done processing com.pplive.androidpad-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+6/9 Starting processing com.tencent.mobileqq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mobileqq ......
+Success to get info from Play Store
+The lastest version of com.tencent.mobileqq-1.apk is  4.5.2  
+Done processing com.tencent.mobileqq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+7/9 Starting processing com.textmeinc.textme-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.textmeinc.textme ......
+Success to get info from Play Store
+The lastest version of com.textmeinc.textme-1.apk is    Varies with device  
+Done processing com.textmeinc.textme-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+8/9 Starting processing com.youdao.note-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youdao.note ......
+Success to get info from Play Store
+The lastest version of com.youdao.note-1.apk is  3.4.6  
+Done processing com.youdao.note-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+9/9 Starting processing org.videolan.vlc.betav7neon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.videolan.vlc.betav7neon ......
+Success to get info from Play Store
+The lastest version of org.videolan.vlc.betav7neon-1.apk is    Varies with device  
+Done processing org.videolan.vlc.betav7neon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 40 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 40 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-06-13-49-28.csv
+**************************************************************

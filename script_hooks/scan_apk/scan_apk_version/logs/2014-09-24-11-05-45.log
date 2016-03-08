@@ -1,0 +1,66 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.GoldenTricycle.ClarcPrem-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.GoldenTricycle.ClarcPrem ......
+Success to get info from Play Store
+The lastest version of com.GoldenTricycle.ClarcPrem-1.apk is    Varies with device  
+Done processing com.GoldenTricycle.ClarcPrem-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.Thinice.TwinRobots.NoAds-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Thinice.TwinRobots.NoAds ......
+Success to get info from Play Store
+The lastest version of com.Thinice.TwinRobots.NoAds-1.apk is  1.83  
+Done processing com.Thinice.TwinRobots.NoAds-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/7 Starting processing com.deadmage.shadowblade.paid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.deadmage.shadowblade.paid ......
+Success to get info from Play Store
+The lastest version of com.deadmage.shadowblade.paid-1.apk is  1.0.7  
+Done processing com.deadmage.shadowblade.paid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.lsgvgames.slideandflyfull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lsgvgames.slideandflyfull ......
+Success to get info from Play Store
+The lastest version of com.lsgvgames.slideandflyfull-1.apk is    Varies with device  
+Done processing com.lsgvgames.slideandflyfull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/7 Starting processing com.niffler.chuckschallenge3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.niffler.chuckschallenge3d ......
+Success to get info from Play Store
+The lastest version of com.niffler.chuckschallenge3d-1.apk is    Varies with device  
+Done processing com.niffler.chuckschallenge3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/7 Starting processing com.playrisedigital.ttge-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playrisedigital.ttge ......
+Success to get info from Play Store
+The lastest version of com.playrisedigital.ttge-1.apk is  1.0.10  
+Done processing com.playrisedigital.ttge-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/7 Starting processing dk.logisoft.airattackfull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=dk.logisoft.airattackfull ......
+Success to get info from Play Store
+The lastest version of dk.logisoft.airattackfull-1.apk is    Varies with device  
+Done processing dk.logisoft.airattackfull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-24-11-05-45.csv
+**************************************************************

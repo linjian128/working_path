@@ -1,0 +1,38 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/4 Starting processing c.g.car2.baidu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=c.g.car2.baidu ......
+[ERROR] : Cannot find info of c.g.car2.baidu-1.apk on https://play.google.com/store/apps/details?id=c.g.car2.baidu !!!
+Done processing c.g.car2.baidu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.suning.mobile.ebuy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy ......
+[ERROR] : Cannot find info of com.suning.mobile.ebuy-1.apk on https://play.google.com/store/apps/details?id=com.suning.mobile.ebuy !!!
+Done processing com.suning.mobile.ebuy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing com.zengame.ttddzzrb.anzhi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zengame.ttddzzrb.anzhi ......
+[ERROR] : Cannot find info of com.zengame.ttddzzrb.anzhi-1.apk on https://play.google.com/store/apps/details?id=com.zengame.ttddzzrb.anzhi !!!
+Done processing com.zengame.ttddzzrb.anzhi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/4 Starting processing in.huohua.Yuki-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=in.huohua.Yuki ......
+[ERROR] : Cannot find info of in.huohua.Yuki-1.apk on https://play.google.com/store/apps/details?id=in.huohua.Yuki !!!
+Done processing in.huohua.Yuki-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-12-09-10-08-08.csv
+**************************************************************

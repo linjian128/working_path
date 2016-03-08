@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing air.com.nitrome.Gunbrick-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.nitrome.Gunbrick ......
+Success to get info from Play Store
+The lastest version of air.com.nitrome.Gunbrick-1.apk is 
+Done processing air.com.nitrome.Gunbrick-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/5 Starting processing com.ZeroTransform.ProtonPulse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ZeroTransform.ProtonPulse ......
+Success to get info from Play Store
+The lastest version of com.ZeroTransform.ProtonPulse-1.apk is 
+Done processing com.ZeroTransform.ProtonPulse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+3/5 Starting processing com.glutenfreegames.crocodilesimulator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glutenfreegames.crocodilesimulator ......
+Success to get info from Play Store
+The lastest version of com.glutenfreegames.crocodilesimulator-1.apk is 
+Done processing com.glutenfreegames.crocodilesimulator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/5 Starting processing com.glutenfreegames.dinosaursimulator-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glutenfreegames.dinosaursimulator ......
+Success to get info from Play Store
+The lastest version of com.glutenfreegames.dinosaursimulator-1.apk is 
+Done processing com.glutenfreegames.dinosaursimulator-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/5 Starting processing com.heisenbergent.gangstergranny001-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.heisenbergent.gangstergranny001 ......
+Success to get info from Play Store
+The lastest version of com.heisenbergent.gangstergranny001-1.apk is 
+Done processing com.heisenbergent.gangstergranny001-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-02-06-13-52-51.csv
+**************************************************************

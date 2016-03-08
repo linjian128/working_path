@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.rovio.angrybirdsstarwarsii.ads-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.angrybirdsstarwarsii.ads ......
+Success to get info from Play Store
+The lastest version of com.rovio.angrybirdsstarwarsii.ads-1.apk is  1.2.0  
+Done processing com.rovio.angrybirdsstarwarsii.ads-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/7 Starting processing com.selfawaregames.acecasino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.selfawaregames.acecasino ......
+Success to get info from Play Store
+The lastest version of com.selfawaregames.acecasino-1.apk is    Varies with device  
+Done processing com.selfawaregames.acecasino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/7 Starting processing com.sergiobarbara.nightvision.camera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sergiobarbara.nightvision.camera ......
+Success to get info from Play Store
+The lastest version of com.sergiobarbara.nightvision.camera-1.apk is  9.82  
+Done processing com.sergiobarbara.nightvision.camera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/7 Starting processing com.whaleshark.retailmenot-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.whaleshark.retailmenot ......
+Success to get info from Play Store
+The lastest version of com.whaleshark.retailmenot-1.apk is  3.5.3  
+Done processing com.whaleshark.retailmenot-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/7 Starting processing icomania.logoquiz.a4pics1word.b4pics1song.colormania.sudoku-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=icomania.logoquiz.a4pics1word.b4pics1song.colormania.sudoku ......
+Success to get info from Play Store
+The lastest version of icomania.logoquiz.a4pics1word.b4pics1song.colormania.sudoku-1.apk is  1.5.3  
+Done processing icomania.logoquiz.a4pics1word.b4pics1song.colormania.sudoku-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/7 Starting processing jp.gree.jackpot-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gree.jackpot ......
+Success to get info from Play Store
+The lastest version of jp.gree.jackpot-1.apk is  1.8.4  
+Done processing jp.gree.jackpot-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/7 Starting processing jp.gree.jband-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.gree.jband ......
+Success to get info from Play Store
+The lastest version of jp.gree.jband-1.apk is  1.4.6  
+Done processing jp.gree.jband-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-07-16-21-48.csv
+**************************************************************

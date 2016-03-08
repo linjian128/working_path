@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.glu.zamf1-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.zamf1 ......
+Success to get info from Play Store
+The lastest version of com.glu.zamf1-1.apk is  2.0.0  
+Done processing com.glu.zamf1-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/9 Starting processing com.google.android.apps.plus-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.apps.plus ......
+Success to get info from Play Store
+The lastest version of com.google.android.apps.plus-1.apk is    Varies with device  
+Done processing com.google.android.apps.plus-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/9 Starting processing com.jb.gokeyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gokeyboard ......
+Success to get info from Play Store
+The lastest version of com.jb.gokeyboard-1.apk is  2.03  
+Done processing com.jb.gokeyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/9 Starting processing com.lonedwarfgames.tanks.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lonedwarfgames.tanks.android ......
+Success to get info from Play Store
+The lastest version of com.lonedwarfgames.tanks.android-1.apk is  2.14.46  
+Done processing com.lonedwarfgames.tanks.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/9 Starting processing com.roguerocketgames.sushichop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roguerocketgames.sushichop ......
+Success to get info from Play Store
+The lastest version of com.roguerocketgames.sushichop-1.apk is  3.3.7  
+Done processing com.roguerocketgames.sushichop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/9 Starting processing com.roviostars.tinythief-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roviostars.tinythief ......
+Success to get info from Play Store
+The lastest version of com.roviostars.tinythief-1.apk is  1.1.0  
+Done processing com.roviostars.tinythief-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+7/9 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is  2.3.6  
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+8/9 Starting processing com.twitter.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.twitter.android ......
+Success to get info from Play Store
+The lastest version of com.twitter.android-1.apk is    Varies with device  
+Done processing com.twitter.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+9/9 Starting processing tunein.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tunein.player ......
+Success to get info from Play Store
+The lastest version of tunein.player-1.apk is  11.3  
+Done processing tunein.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 36 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-18-12-52-51.csv
+**************************************************************

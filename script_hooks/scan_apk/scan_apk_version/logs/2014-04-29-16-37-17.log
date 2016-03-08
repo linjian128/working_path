@@ -1,0 +1,65 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing com.gamevil.fishing.global-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamevil.fishing.global ......
+Success to get info from Play Store
+The lastest version of com.gamevil.fishing.global-1.apk is  2.2.1  
+Done processing com.gamevil.fishing.global-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/7 Starting processing com.glu.deerhunt2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deerhunt2 ......
+Success to get info from Play Store
+The lastest version of com.glu.deerhunt2-1.apk is  2.1.0  
+Done processing com.glu.deerhunt2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/7 Starting processing com.instagram.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.instagram.android ......
+Success to get info from Play Store
+The lastest version of com.instagram.android-1.apk is    Varies with device  
+Done processing com.instagram.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/7 Starting processing com.kascend.video-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kascend.video ......
+[ERROR] : Cannot find info of com.kascend.video-1.apk on https://play.google.com/store/apps/details?id=com.kascend.video !!!
+Done processing com.kascend.video-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/7 Starting processing com.king.farmheroessaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.farmheroessaga ......
+Success to get info from Play Store
+The lastest version of com.king.farmheroessaga-1.apk is  2.5.7  
+Done processing com.king.farmheroessaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/7 Starting processing com.starcommand.scgame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.starcommand.scgame ......
+Success to get info from Play Store
+The lastest version of com.starcommand.scgame-1.apk is  1.1.8  
+Done processing com.starcommand.scgame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/7 Starting processing itembox.crayfish.x-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=itembox.crayfish.x ......
+Success to get info from Play Store
+The lastest version of itembox.crayfish.x-1.apk is  1.31  
+Done processing itembox.crayfish.x-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-29-16-37-17.csv
+**************************************************************

@@ -1,0 +1,25 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/2 Starting processing com.meilishuo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meilishuo ......
+[ERROR] : Cannot find info of com.meilishuo-1.apk on https://play.google.com/store/apps/details?id=com.meilishuo !!!
+Done processing com.meilishuo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.mogujie-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mogujie ......
+Success to get info from Play Store
+The lastest version of com.mogujie-1.apk is  7.1.4.150707003  
+Done processing com.mogujie-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-07-08-14-14-38.csv
+**************************************************************

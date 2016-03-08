@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.androidesk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk ......
+Success to get info from Play Store
+The lastest version of com.androidesk-1.apk is  4.1.6  
+Done processing com.androidesk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/4 Starting processing com.flaregames.rrtournament-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flaregames.rrtournament ......
+Success to get info from Play Store
+The lastest version of com.flaregames.rrtournament-1.apk is  1.4.1  
+Done processing com.flaregames.rrtournament-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/4 Starting processing com.kitkatandroid.keyboard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kitkatandroid.keyboard ......
+Success to get info from Play Store
+The lastest version of com.kitkatandroid.keyboard-1.apk is  2.1.7  
+Done processing com.kitkatandroid.keyboard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/4 Starting processing com.prgames.texasholdem.livepoker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.prgames.texasholdem.livepoker ......
+Success to get info from Play Store
+The lastest version of com.prgames.texasholdem.livepoker-1.apk is  1.03  
+Done processing com.prgames.texasholdem.livepoker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-24-13-11-40.csv
+**************************************************************

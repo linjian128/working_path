@@ -1,0 +1,77 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.bit4games.implosion-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bit4games.implosion ......
+Success to get info from Play Store
+The lastest version of com.bit4games.implosion-1.apk is  1.14  
+Done processing com.bit4games.implosion-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/9 Starting processing com.bulkypix.supahtroop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bulkypix.supahtroop ......
+Success to get info from Play Store
+The lastest version of com.bulkypix.supahtroop-1.apk is  1.5  
+Done processing com.bulkypix.supahtroop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/9 Starting processing com.epicgames.EpicCitadel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.epicgames.EpicCitadel ......
+Success to get info from Play Store
+The lastest version of com.epicgames.EpicCitadel-1.apk is    Varies with device  
+Done processing com.epicgames.EpicCitadel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/9 Starting processing com.gameloft.android.ANMP.GloftA8HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftA8HM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftA8HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/9 Starting processing com.gameloft.android.ANMP.GloftDMHM-1.apk ......
+Error ouccus when processing com.gameloft.android.ANMP.GloftDMHM-1.apk : Cnnot get apk info by aapt !
+============================================================================
+5/9 Starting processing com.gameloft.android.ANMP.GloftRAHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftRAHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftRAHM-1.apk is    Varies with device  
+Done processing com.gameloft.android.ANMP.GloftRAHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/9 Starting processing com.playrisedigital.ttr-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playrisedigital.ttr ......
+Success to get info from Play Store
+The lastest version of com.playrisedigital.ttr-1.apk is  1.0.13  
+Done processing com.playrisedigital.ttr-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+7/9 Starting processing net.froemling.bsremote-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.froemling.bsremote ......
+Success to get info from Play Store
+The lastest version of net.froemling.bsremote-1.apk is  1.2.10  
+Done processing net.froemling.bsremote-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+8/9 Starting processing net.hexage.reaper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.hexage.reaper ......
+Success to get info from Play Store
+The lastest version of net.hexage.reaper-1.apk is  1.4.1  
+Done processing net.hexage.reaper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-31-15-04-21.csv
+**************************************************************

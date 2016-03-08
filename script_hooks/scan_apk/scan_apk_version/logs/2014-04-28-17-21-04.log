@@ -1,0 +1,106 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing cloudtv.hdwidgets-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cloudtv.hdwidgets ......
+Success to get info from Play Store
+The lastest version of cloudtv.hdwidgets-1.apk is  3.10.2  
+Done processing cloudtv.hdwidgets-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/12 Starting processing com.accuweather.paid.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.accuweather.paid.android ......
+Success to get info from Play Store
+The lastest version of com.accuweather.paid.android-1.apk is  3.2.14.1.paid  
+Done processing com.accuweather.paid.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/12 Starting processing com.doubleTwist.androidPlayerProKey-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.doubleTwist.androidPlayerProKey ......
+Success to get info from Play Store
+The lastest version of com.doubleTwist.androidPlayerProKey-1.apk is  2.4.2  
+Done processing com.doubleTwist.androidPlayerProKey-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/12 Starting processing com.flyersoft.moonreaderp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp ......
+Success to get info from Play Store
+The lastest version of com.flyersoft.moonreaderp-1.apk is  2.4.2  
+Done processing com.flyersoft.moonreaderp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/12 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is  4.3.12  
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/12 Starting processing com.gau.go.launcherex.key-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gau.go.launcherex.key ......
+Success to get info from Play Store
+The lastest version of com.gau.go.launcherex.key-1.apk is  1.9  
+Done processing com.gau.go.launcherex.key-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/12 Starting processing com.magicwach.rdefense-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magicwach.rdefense ......
+Success to get info from Play Store
+The lastest version of com.magicwach.rdefense-1.apk is  2.4.1  
+Done processing com.magicwach.rdefense-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/12 Starting processing com.magmic.phase10-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magmic.phase10 ......
+Success to get info from Play Store
+The lastest version of com.magmic.phase10-1.apk is  1.3.3  
+Done processing com.magmic.phase10-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/12 Starting processing com.quoord.tapatalkHD-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quoord.tapatalkHD ......
+Success to get info from Play Store
+The lastest version of com.quoord.tapatalkHD-1.apk is  4.5.2  
+Done processing com.quoord.tapatalkHD-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+10/12 Starting processing com.rerware.android.MyBackupPro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro ......
+Success to get info from Play Store
+The lastest version of com.rerware.android.MyBackupPro-1.apk is  4.0.9  
+Done processing com.rerware.android.MyBackupPro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+11/12 Starting processing com.wb.goog.scribbleremix-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wb.goog.scribbleremix ......
+Success to get info from Play Store
+The lastest version of com.wb.goog.scribbleremix-1.apk is  5.60  
+Done processing com.wb.goog.scribbleremix-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+12/12 Starting processing kr.aboy.tools-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kr.aboy.tools ......
+Success to get info from Play Store
+The lastest version of kr.aboy.tools-1.apk is  1.6.7a  
+Done processing kr.aboy.tools-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-28-17-21-04.csv
+**************************************************************

@@ -1,0 +1,80 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ECS  ......
+
+============================================================================
+1/9 Starting processing cld.navi.mainframe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cld.navi.mainframe ......
+[ERROR] : Cannot find info of cld.navi.mainframe-1.apk on https://play.google.com/store/apps/details?id=cld.navi.mainframe !!!
+Done processing cld.navi.mainframe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/9 Starting processing com.bubblegalaxy.bubble4-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bubblegalaxy.bubble4 ......
+Success to get info from Play Store
+The lastest version of com.bubblegalaxy.bubble4-1.apk is  1.1.1  
+Done processing com.bubblegalaxy.bubble4-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/9 Starting processing com.hotheadgames.google.free.rawsniper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hotheadgames.google.free.rawsniper ......
+Success to get info from Play Store
+The lastest version of com.hotheadgames.google.free.rawsniper-1.apk is  1.1  
+Done processing com.hotheadgames.google.free.rawsniper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/9 Starting processing com.ijinshan.browser_fast-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.browser_fast ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.browser_fast-1.apk is  2.17.3  
+Done processing com.ijinshan.browser_fast-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/9 Starting processing com.instagram.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.instagram.android ......
+Success to get info from Play Store
+The lastest version of com.instagram.android-1.apk is    Varies with device  
+Done processing com.instagram.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/9 Starting processing com.miniclip.bikerivals-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miniclip.bikerivals ......
+Success to get info from Play Store
+The lastest version of com.miniclip.bikerivals-1.apk is  1.2.8  
+Done processing com.miniclip.bikerivals-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/9 Starting processing com.sohu.sohuvideo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sohu.sohuvideo ......
+Success to get info from Play Store
+The lastest version of com.sohu.sohuvideo-1.apk is  4.3.5  
+Done processing com.sohu.sohuvideo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/9 Starting processing com.togic.livevideo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.togic.livevideo ......
+[ERROR] : Cannot find info of com.togic.livevideo-1.apk on https://play.google.com/store/apps/details?id=com.togic.livevideo !!!
+Done processing com.togic.livevideo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+9/9 Starting processing com.topnewfree.coinrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.topnewfree.coinrush ......
+Success to get info from Play Store
+The lastest version of com.topnewfree.coinrush-1.apk is  1.19  
+Done processing com.topnewfree.coinrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-11-18-17-56-00.csv
+**************************************************************

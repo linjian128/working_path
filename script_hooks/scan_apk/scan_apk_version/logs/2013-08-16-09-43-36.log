@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.dama.papercamera-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dama.papercamera ......
+Success to get info from Play Store
+The lastest version of com.dama.papercamera-1.apk is  3.5.1  
+Done processing com.dama.papercamera-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.fastemulator.gbafree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fastemulator.gbafree ......
+Success to get info from Play Store
+The lastest version of com.fastemulator.gbafree-1.apk is  1.5.8  
+Done processing com.fastemulator.gbafree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing com.gtp.nextlauncher-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gtp.nextlauncher ......
+Success to get info from Play Store
+The lastest version of com.gtp.nextlauncher-1.apk is  1.53  
+Done processing com.gtp.nextlauncher-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+4/6 Starting processing com.kiwi.mysteryestate-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiwi.mysteryestate ......
+Success to get info from Play Store
+The lastest version of com.kiwi.mysteryestate-1.apk is    Varies with device  
+Done processing com.kiwi.mysteryestate-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+5/6 Starting processing com.myfitnesspal.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.myfitnesspal.android ......
+Success to get info from Play Store
+The lastest version of com.myfitnesspal.android-1.apk is    Varies with device  
+Done processing com.myfitnesspal.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+6/6 Starting processing com.scopely.minigolf.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.scopely.minigolf.free ......
+Success to get info from Play Store
+The lastest version of com.scopely.minigolf.free-1.apk is  2.0.2  
+Done processing com.scopely.minigolf.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 19 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-16-09-43-36.csv
+**************************************************************

@@ -1,0 +1,97 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing air.com.tilergames.drjim.avazu-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.tilergames.drjim.avazu ......
+[ERROR] : Cannot find info of air.com.tilergames.drjim.avazu-1.apk on https://play.google.com/store/apps/details?id=air.com.tilergames.drjim.avazu !!!
+Done processing air.com.tilergames.drjim.avazu-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/11 Starting processing com.chillingo.parkingmaniafree.android.rowgplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chillingo.parkingmaniafree.android.rowgplay ......
+Success to get info from Play Store
+The lastest version of com.chillingo.parkingmaniafree.android.rowgplay-1.apk is  1.9.1  
+Done processing com.chillingo.parkingmaniafree.android.rowgplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/11 Starting processing com.chillingo.strikersoccer2.android.rowgplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chillingo.strikersoccer2.android.rowgplay ......
+Success to get info from Play Store
+The lastest version of com.chillingo.strikersoccer2.android.rowgplay-1.apk is  1.0.4  
+Done processing com.chillingo.strikersoccer2.android.rowgplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/11 Starting processing com.hanaskcard.app.touchstamp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hanaskcard.app.touchstamp ......
+Success to get info from Play Store
+The lastest version of com.hanaskcard.app.touchstamp-1.apk is  3.0.695  
+Done processing com.hanaskcard.app.touchstamp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/11 Starting processing com.mocoga.pororo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mocoga.pororo ......
+Success to get info from Play Store
+The lastest version of com.mocoga.pororo-1.apk is  1.0.8  
+Done processing com.mocoga.pororo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/11 Starting processing com.netbiscuits.bild.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.netbiscuits.bild.android ......
+Success to get info from Play Store
+The lastest version of com.netbiscuits.bild.android-1.apk is  3.4.2  
+Done processing com.netbiscuits.bild.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+7/11 Starting processing com.rtlinteractive.rtl2now-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rtlinteractive.rtl2now ......
+Success to get info from Play Store
+The lastest version of com.rtlinteractive.rtl2now-1.apk is  1.3.2  
+Done processing com.rtlinteractive.rtl2now-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+8/11 Starting processing com.rtlinteractive.rtlnow-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rtlinteractive.rtlnow ......
+Success to get info from Play Store
+The lastest version of com.rtlinteractive.rtlnow-1.apk is  1.3.2  
+Done processing com.rtlinteractive.rtlnow-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+9/11 Starting processing com.sangsangdigital.farmgg-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sangsangdigital.farmgg ......
+Success to get info from Play Store
+The lastest version of com.sangsangdigital.farmgg-1.apk is  1.1.6  
+Done processing com.sangsangdigital.farmgg-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+10/11 Starting processing com.softforum.sample-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.softforum.sample ......
+Success to get info from Play Store
+The lastest version of com.softforum.sample-1.apk is  3.1.6  
+Done processing com.softforum.sample-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+11/11 Starting processing funigloo.dragonsaga_google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=funigloo.dragonsaga_google ......
+Success to get info from Play Store
+The lastest version of funigloo.dragonsaga_google-1.apk is  1.5.1  
+Done processing funigloo.dragonsaga_google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 23 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-29-10-08-52.csv
+**************************************************************

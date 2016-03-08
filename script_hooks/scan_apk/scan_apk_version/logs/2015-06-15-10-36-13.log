@@ -1,0 +1,55 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/6 Starting processing com.iflytek.ringdiyclient-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iflytek.ringdiyclient ......
+Success to get info from Play Store
+The lastest version of com.iflytek.ringdiyclient-1.apk is  2.1.34  
+Done processing com.iflytek.ringdiyclient-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.koudai.weishop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.koudai.weishop ......
+Success to get info from Play Store
+The lastest version of com.koudai.weishop-1.apk is  4.0.2  
+Done processing com.koudai.weishop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing com.meilishuo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.meilishuo ......
+[ERROR] : Cannot find info of com.meilishuo-1.apk on https://play.google.com/store/apps/details?id=com.meilishuo !!!
+Done processing com.meilishuo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/6 Starting processing com.mogujie-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mogujie ......
+Success to get info from Play Store
+The lastest version of com.mogujie-1.apk is  7.1.0.150512012  
+Done processing com.mogujie-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+5/6 Starting processing com.shuqi.controller-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shuqi.controller ......
+[ERROR] : Cannot find info of com.shuqi.controller-1.apk on https://play.google.com/store/apps/details?id=com.shuqi.controller !!!
+Done processing com.shuqi.controller-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/6 Starting processing com.wuba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wuba ......
+[ERROR] : Cannot find info of com.wuba-1.apk on https://play.google.com/store/apps/details?id=com.wuba !!!
+Done processing com.wuba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 13 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-15-10-36-13.csv
+**************************************************************

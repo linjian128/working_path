@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing air.com.freshplanet.games.SongPopPremium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.SongPopPremium ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.SongPopPremium-1.apk is  1.7.11  
+Done processing air.com.freshplanet.games.SongPopPremium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/8 Starting processing air.com.freshplanet.games.WaM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.WaM ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.WaM-1.apk is  1.7.11  
+Done processing air.com.freshplanet.games.WaM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/8 Starting processing com.fastemulator.gba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fastemulator.gba ......
+Success to get info from Play Store
+The lastest version of com.fastemulator.gba-1.apk is  1.5.6  
+Done processing com.fastemulator.gba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/8 Starting processing com.inisoft.mediaplayer.a-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.inisoft.mediaplayer.a ......
+Success to get info from Play Store
+The lastest version of com.inisoft.mediaplayer.a-1.apk is  2.0.30  
+Done processing com.inisoft.mediaplayer.a-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/8 Starting processing com.inisoft.mediaplayer.x86-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.inisoft.mediaplayer.x86 ......
+Success to get info from Play Store
+The lastest version of com.inisoft.mediaplayer.x86-1.apk is  1.0  
+Done processing com.inisoft.mediaplayer.x86-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/8 Starting processing com.mobo.video.player.arm7-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobo.video.player.arm7 ......
+Success to get info from Play Store
+The lastest version of com.mobo.video.player.arm7-1.apk is  1.1.3  
+Done processing com.mobo.video.player.arm7-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/8 Starting processing it.rortos.f18carrierlandinglite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=it.rortos.f18carrierlandinglite ......
+Success to get info from Play Store
+The lastest version of it.rortos.f18carrierlandinglite-1.apk is  5.81  
+Done processing it.rortos.f18carrierlandinglite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+8/8 Starting processing org.mozilla.firefox_beta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta ......
+Success to get info from Play Store
+The lastest version of org.mozilla.firefox_beta-1.apk is    Varies with device  
+Done processing org.mozilla.firefox_beta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-29-16-25-16.csv
+**************************************************************

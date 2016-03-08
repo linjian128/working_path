@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ARM-V8  ......
+
+============================================================================
+1/9 Starting processing com.akasanet.yogrt.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.akasanet.yogrt.android ......
+Success to get info from Play Store
+The lastest version of com.akasanet.yogrt.android-1.apk is  2.3.1  
+Done processing com.akasanet.yogrt.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+2/9 Starting processing com.androidsx.heliumvideochanger.warping-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidsx.heliumvideochanger.warping ......
+Success to get info from Play Store
+The lastest version of com.androidsx.heliumvideochanger.warping-1.apk is  0.6.4  
+Done processing com.androidsx.heliumvideochanger.warping-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+3/9 Starting processing com.autodesk.autocadws-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.autodesk.autocadws ......
+Success to get info from Play Store
+The lastest version of com.autodesk.autocadws-1.apk is    Varies with device  
+Done processing com.autodesk.autocadws-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+4/9 Starting processing com.biggu.shopsavvy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.biggu.shopsavvy ......
+Success to get info from Play Store
+The lastest version of com.biggu.shopsavvy-1.apk is    Varies with device  
+Done processing com.biggu.shopsavvy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+5/9 Starting processing com.mapquest.android.ace-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mapquest.android.ace ......
+Success to get info from Play Store
+The lastest version of com.mapquest.android.ace-1.apk is    Varies with device  
+Done processing com.mapquest.android.ace-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+6/9 Starting processing com.protrade.sportacular-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.protrade.sportacular ......
+Success to get info from Play Store
+The lastest version of com.protrade.sportacular-1.apk is    Varies with device  
+Done processing com.protrade.sportacular-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+7/9 Starting processing com.surfeasy-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.surfeasy ......
+Success to get info from Play Store
+The lastest version of com.surfeasy-1.apk is  3.12.1  
+Done processing com.surfeasy-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+8/9 Starting processing com.trello-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.trello ......
+Success to get info from Play Store
+The lastest version of com.trello-1.apk is  3.5.3.1299  
+Done processing com.trello-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 36 Seconds
+
+============================================================================
+9/9 Starting processing us.shandian.blacklight-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=us.shandian.blacklight ......
+Success to get info from Play Store
+The lastest version of us.shandian.blacklight-1.apk is  2.2.1  
+Done processing us.shandian.blacklight-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 39 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-25-10-55-35.csv
+**************************************************************

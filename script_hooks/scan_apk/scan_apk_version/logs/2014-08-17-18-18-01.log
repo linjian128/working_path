@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.facebook.katana-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.katana ......
+Success to get info from Play Store
+The lastest version of com.facebook.katana-1.apk is    Varies with device  
+Done processing com.facebook.katana-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.igg.android.im-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.android.im ......
+Success to get info from Play Store
+The lastest version of com.igg.android.im-1.apk is  1.0.5  
+Done processing com.igg.android.im-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/6 Starting processing com.nfl.fantasy.core.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nfl.fantasy.core.android ......
+Success to get info from Play Store
+The lastest version of com.nfl.fantasy.core.android-1.apk is  1.1.1  
+Done processing com.nfl.fantasy.core.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/6 Starting processing flipboard.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=flipboard.app ......
+Success to get info from Play Store
+The lastest version of flipboard.app-1.apk is    Varies with device  
+Done processing flipboard.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/6 Starting processing laser.pointer.laserpointer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=laser.pointer.laserpointer ......
+Success to get info from Play Store
+The lastest version of laser.pointer.laserpointer-1.apk is  1.7.0  
+Done processing laser.pointer.laserpointer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/6 Starting processing net.ReferyGames.FCT-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.ReferyGames.FCT ......
+Success to get info from Play Store
+The lastest version of net.ReferyGames.FCT-1.apk is  1.4.0  
+Done processing net.ReferyGames.FCT-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-17-18-18-01.csv
+**************************************************************

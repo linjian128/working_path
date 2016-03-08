@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing air.com.goodgamestudios.empirefourkingdoms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.goodgamestudios.empirefourkingdoms ......
+Success to get info from Play Store
+The lastest version of air.com.goodgamestudios.empirefourkingdoms-1.apk is  1.1.1  
+Done processing air.com.goodgamestudios.empirefourkingdoms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/7 Starting processing com.disney.nemo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.nemo ......
+Success to get info from Play Store
+The lastest version of com.disney.nemo-1.apk is  1.4.2  
+Done processing com.disney.nemo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/7 Starting processing com.igg.bzbee.slotsdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.bzbee.slotsdeluxe ......
+Success to get info from Play Store
+The lastest version of com.igg.bzbee.slotsdeluxe-1.apk is  1.5.1  
+Done processing com.igg.bzbee.slotsdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/7 Starting processing com.iugome.lilknights-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iugome.lilknights ......
+Success to get info from Play Store
+The lastest version of com.iugome.lilknights-1.apk is    Varies with device  
+Done processing com.iugome.lilknights-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/7 Starting processing com.kabam.doamobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kabam.doamobile ......
+Success to get info from Play Store
+The lastest version of com.kabam.doamobile-1.apk is    Varies with device  
+Done processing com.kabam.doamobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+6/7 Starting processing com.legend.dragon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.legend.dragon ......
+Success to get info from Play Store
+The lastest version of com.legend.dragon-1.apk is  1.8.0  
+Done processing com.legend.dragon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/7 Starting processing jp.pascal.bassfishingfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.pascal.bassfishingfree ......
+Success to get info from Play Store
+The lastest version of jp.pascal.bassfishingfree-1.apk is  1.6.6  
+Done processing jp.pascal.bassfishingfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-01-15-02-36.csv
+**************************************************************

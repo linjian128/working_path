@@ -1,0 +1,55 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.baidu.BaiduMap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.BaiduMap ......
+Success to get info from Play Store
+The lastest version of com.baidu.BaiduMap-1.apk is  7.7.0  
+Done processing com.baidu.BaiduMap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/6 Starting processing com.duomi.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duomi.android ......
+[ERROR] : Cannot find info of com.duomi.android-1.apk on https://play.google.com/store/apps/details?id=com.duomi.android !!!
+Done processing com.duomi.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.sg.sledog-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sg.sledog ......
+Success to get info from Play Store
+The lastest version of com.sg.sledog-1.apk is  3.2.0.32007  
+Done processing com.sg.sledog-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/6 Starting processing com.tencent.Mtown-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.Mtown ......
+[ERROR] : Cannot find info of com.tencent.Mtown-1.apk on https://play.google.com/store/apps/details?id=com.tencent.Mtown !!!
+Done processing com.tencent.Mtown-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/6 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/6 Starting processing pinkdiary.xiaoxiaotu.com-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=pinkdiary.xiaoxiaotu.com ......
+[ERROR] : Cannot find info of pinkdiary.xiaoxiaotu.com-1.apk on https://play.google.com/store/apps/details?id=pinkdiary.xiaoxiaotu.com !!!
+Done processing pinkdiary.xiaoxiaotu.com-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-01-13-17-03-13.csv
+**************************************************************

@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing org.funship.findsomething.channel_91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.funship.findsomething.channel_91 ......
+Success to get info from Play Store
+The lastest version of org.funship.findsomething.channel_91-1.apk is 3.0.1
+Done processing org.funship.findsomething.channel_91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-03-01-10-17-29.csv
+**************************************************************

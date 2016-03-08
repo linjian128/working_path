@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.halo.wifikey.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halo.wifikey.wifilocating ......
+Success to get info from Play Store
+The lastest version of com.halo.wifikey.wifilocating-1.apk is  4.0.17  
+Done processing com.halo.wifikey.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/4 Starting processing com.king.paradisebay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.paradisebay ......
+Success to get info from Play Store
+The lastest version of com.king.paradisebay-1.apk is 
+Done processing com.king.paradisebay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/4 Starting processing com.longtech.lastwars.gp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.longtech.lastwars.gp ......
+Success to get info from Play Store
+The lastest version of com.longtech.lastwars.gp-1.apk is  1.0.46  
+Done processing com.longtech.lastwars.gp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/4 Starting processing com.zentertain.bigcasino-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zentertain.bigcasino ......
+Success to get info from Play Store
+The lastest version of com.zentertain.bigcasino-1.apk is  2.1.0  
+Done processing com.zentertain.bigcasino-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-03-03-01-21-50.csv
+**************************************************************

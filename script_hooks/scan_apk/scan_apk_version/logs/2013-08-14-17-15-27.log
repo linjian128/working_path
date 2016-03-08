@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.asus.ephoto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.asus.ephoto ......
+Success to get info from Play Store
+The lastest version of com.asus.ephoto-1.apk is  3.0.20130411  
+Done processing com.asus.ephoto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/9 Starting processing com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.elex.ram ......
+Success to get info from Play Store
+The lastest version of com.elex.ram-1.apk is  2.4.0  
+Done processing com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/9 Starting processing com.gameloft.android.ANMP.GloftM4HM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM4HM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftM4HM-1.apk is  1.1.0  
+Done processing com.gameloft.android.ANMP.GloftM4HM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/9 Starting processing com.halfbrick.ageofzombies-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.halfbrick.ageofzombies ......
+Success to get info from Play Store
+The lastest version of com.halfbrick.ageofzombies-1.apk is  1.2.1  
+Done processing com.halfbrick.ageofzombies-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/9 Starting processing com.kevinbradford.games.barnyardgames-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kevinbradford.games.barnyardgames ......
+Success to get info from Play Store
+The lastest version of com.kevinbradford.games.barnyardgames-1.apk is  1.8  
+Done processing com.kevinbradford.games.barnyardgames-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/9 Starting processing com.zynga.battlestone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.battlestone ......
+Success to get info from Play Store
+The lastest version of com.zynga.battlestone-1.apk is  1.1.290016  
+Done processing com.zynga.battlestone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/9 Starting processing jp.naver.SJLGBUBBLE-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.SJLGBUBBLE ......
+Success to get info from Play Store
+The lastest version of jp.naver.SJLGBUBBLE-1.apk is  1.4.2  
+Done processing jp.naver.SJLGBUBBLE-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+8/9 Starting processing jp.naver.SJLINEPANG-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.SJLINEPANG ......
+Success to get info from Play Store
+The lastest version of jp.naver.SJLINEPANG-1.apk is  1.7.0  
+Done processing jp.naver.SJLINEPANG-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+9/9 Starting processing net.pyrosphere.lazors-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.pyrosphere.lazors ......
+Success to get info from Play Store
+The lastest version of net.pyrosphere.lazors-1.apk is  2.2.0  
+Done processing net.pyrosphere.lazors-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 31 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-08-14-17-15-27.csv
+**************************************************************

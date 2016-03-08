@@ -1,0 +1,49 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/5 Starting processing com.baidu.BaiduMap-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.BaiduMap ......
+Success to get info from Play Store
+The lastest version of com.baidu.BaiduMap-1.apk is  9.0.1  
+Done processing com.baidu.BaiduMap-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.ganji.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ganji.android ......
+Success to get info from Play Store
+The lastest version of com.ganji.android-1.apk is  6.4.2  
+Done processing com.ganji.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/5 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is 
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/5 Starting processing com.tencent.qqmusic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqmusic ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqmusic-1.apk is  6.0.0.23  
+Done processing com.tencent.qqmusic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/5 Starting processing com.wochacha-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.wochacha ......
+[ERROR] : Cannot find info of com.wochacha-1.apk on https://play.google.com/store/apps/details?id=com.wochacha !!!
+Done processing com.wochacha-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-26-23-33-50.csv
+**************************************************************

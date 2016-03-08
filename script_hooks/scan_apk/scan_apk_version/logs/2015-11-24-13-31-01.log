@@ -1,0 +1,18 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/ARM-V8  ......
+
+============================================================================
+1/1 Starting processing com.zhiliaoapp.musically-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically ......
+Success to get info from Play Store
+The lastest version of com.zhiliaoapp.musically-1.apk is  4.4.0  
+Done processing com.zhiliaoapp.musically-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-11-24-13-31-01.csv
+**************************************************************

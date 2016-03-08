@@ -1,0 +1,46 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.huawei.android.pushagent-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.huawei.android.pushagent ......
+[ERROR] : Cannot find info of com.huawei.android.pushagent-1.apk on https://play.google.com/store/apps/details?id=com.huawei.android.pushagent !!!
+Done processing com.huawei.android.pushagent-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/5 Starting processing com.ijinshan.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ijinshan.browser ......
+Success to get info from Play Store
+The lastest version of com.ijinshan.browser-1.apk is  3.3.3  
+Done processing com.ijinshan.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/5 Starting processing com.infinit.wostore.ui-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.infinit.wostore.ui ......
+[ERROR] : Cannot find info of com.infinit.wostore.ui-1.apk on https://play.google.com/store/apps/details?id=com.infinit.wostore.ui !!!
+Done processing com.infinit.wostore.ui-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/5 Starting processing com.kunpo.baba91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kunpo.baba91 ......
+[ERROR] : Cannot find info of com.kunpo.baba91-1.apk on https://play.google.com/store/apps/details?id=com.kunpo.baba91 !!!
+Done processing com.kunpo.baba91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/5 Starting processing com.qqgame.happymj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.happymj ......
+[ERROR] : Cannot find info of com.qqgame.happymj-1.apk on https://play.google.com/store/apps/details?id=com.qqgame.happymj !!!
+Done processing com.qqgame.happymj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 7 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-27-17-55-22.csv
+**************************************************************

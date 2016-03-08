@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing au.com.oddgames.monstertruckdestruction-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=au.com.oddgames.monstertruckdestruction ......
+Success to get info from Play Store
+The lastest version of au.com.oddgames.monstertruckdestruction-1.apk is  1.14  
+Done processing au.com.oddgames.monstertruckdestruction-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/4 Starting processing com.magisto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magisto ......
+Success to get info from Play Store
+The lastest version of com.magisto-1.apk is  1.14  
+Done processing com.magisto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+3/4 Starting processing com.oovoo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oovoo ......
+Success to get info from Play Store
+The lastest version of com.oovoo-1.apk is  2.0.8  
+Done processing com.oovoo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+4/4 Starting processing com.scopely.minigolf.free-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.scopely.minigolf.free ......
+Success to get info from Play Store
+The lastest version of com.scopely.minigolf.free-1.apk is  2.5.0  
+Done processing com.scopely.minigolf.free-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 28 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 28 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-21-10-12-29.csv
+**************************************************************

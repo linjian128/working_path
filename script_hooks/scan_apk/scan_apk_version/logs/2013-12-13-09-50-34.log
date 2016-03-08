@@ -1,0 +1,113 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing air.com.mobigrow.canyouescape-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.mobigrow.canyouescape ......
+Success to get info from Play Store
+The lastest version of air.com.mobigrow.canyouescape-1.apk is  1.1.8  
+Done processing air.com.mobigrow.canyouescape-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/13 Starting processing air.com.sgn.pand-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.sgn.pand ......
+Success to get info from Play Store
+The lastest version of air.com.sgn.pand-1.apk is  1.7.50  
+Done processing air.com.sgn.pand-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/13 Starting processing com.android.vending-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.vending ......
+[ERROR] : Cannot find info of com.android.vending-1.apk on https://play.google.com/store/apps/details?id=com.android.vending !!!
+Done processing com.android.vending-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/13 Starting processing com.bitstrips.bitstrips-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bitstrips.bitstrips ......
+Success to get info from Play Store
+The lastest version of com.bitstrips.bitstrips-1.apk is  1.2.11  
+Done processing com.bitstrips.bitstrips-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/13 Starting processing com.cleanmaster.mguard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.mguard ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.mguard-1.apk is  3.8.6  
+Done processing com.cleanmaster.mguard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/13 Starting processing com.game.BubbleShooter-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.game.BubbleShooter ......
+Success to get info from Play Store
+The lastest version of com.game.BubbleShooter-1.apk is  2.1  
+Done processing com.game.BubbleShooter-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+7/13 Starting processing com.gamehivecorp.kicktheboss2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamehivecorp.kicktheboss2 ......
+Success to get info from Play Store
+The lastest version of com.gamehivecorp.kicktheboss2-1.apk is  2.1  
+Done processing com.gamehivecorp.kicktheboss2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+8/13 Starting processing com.genina.android.blackjack.view-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.genina.android.blackjack.view ......
+Success to get info from Play Store
+The lastest version of com.genina.android.blackjack.view-1.apk is    Varies with device  
+Done processing com.genina.android.blackjack.view-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+9/13 Starting processing com.hapogames.BubbleParadise-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hapogames.BubbleParadise ......
+Success to get info from Play Store
+The lastest version of com.hapogames.BubbleParadise-1.apk is  1.11  
+Done processing com.hapogames.BubbleParadise-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+10/13 Starting processing com.igg.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash-1.apk is    Varies with device  
+Done processing com.igg.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+11/13 Starting processing com.igg.clash_of_lords-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.clash_of_lords ......
+Success to get info from Play Store
+The lastest version of com.igg.clash_of_lords-1.apk is  1.0.263  
+Done processing com.igg.clash_of_lords-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+12/13 Starting processing com.pixlr.express-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixlr.express ......
+Success to get info from Play Store
+The lastest version of com.pixlr.express-1.apk is  2.2  
+Done processing com.pixlr.express-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 49 Seconds
+
+============================================================================
+13/13 Starting processing com.sparklingsociety.cityisland-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sparklingsociety.cityisland ......
+Success to get info from Play Store
+The lastest version of com.sparklingsociety.cityisland-1.apk is  2.14.2  
+Done processing com.sparklingsociety.cityisland-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 55 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 55 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-12-13-09-50-34.csv
+**************************************************************

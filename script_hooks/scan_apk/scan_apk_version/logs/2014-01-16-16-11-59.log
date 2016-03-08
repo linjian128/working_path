@@ -1,0 +1,53 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing air.com.ghost.test.game.dj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.ghost.test.game.dj ......
+[ERROR] : Cannot find info of air.com.ghost.test.game.dj-1.apk on https://play.google.com/store/apps/details?id=air.com.ghost.test.game.dj !!!
+Done processing air.com.ghost.test.game.dj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.boyaa.lordland.sina-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.boyaa.lordland.sina ......
+[ERROR] : Cannot find info of com.boyaa.lordland.sina-1.apk on https://play.google.com/store/apps/details?id=com.boyaa.lordland.sina !!!
+Done processing com.boyaa.lordland.sina-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/6 Starting processing com.resucegirl91-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.resucegirl91 ......
+[ERROR] : Cannot find info of com.resucegirl91-1.apk on https://play.google.com/store/apps/details?id=com.resucegirl91 !!!
+Done processing com.resucegirl91-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+4/6 Starting processing com.tianshenzhuan.tsz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tianshenzhuan.tsz ......
+Success to get info from Play Store
+The lastest version of com.tianshenzhuan.tsz-1.apk is  1.5  
+Done processing com.tianshenzhuan.tsz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/6 Starting processing com.uqee.lying.maingamexinji-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.uqee.lying.maingamexinji ......
+[ERROR] : Cannot find info of com.uqee.lying.maingamexinji-1.apk on https://play.google.com/store/apps/details?id=com.uqee.lying.maingamexinji !!!
+Done processing com.uqee.lying.maingamexinji-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/6 Starting processing com.yinhan.hunter.n91d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yinhan.hunter.n91d ......
+[ERROR] : Cannot find info of com.yinhan.hunter.n91d-1.apk on https://play.google.com/store/apps/details?id=com.yinhan.hunter.n91d !!!
+Done processing com.yinhan.hunter.n91d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-16-16-11-59.csv
+**************************************************************

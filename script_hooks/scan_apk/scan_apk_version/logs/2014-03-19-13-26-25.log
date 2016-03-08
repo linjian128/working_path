@@ -1,0 +1,50 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.jumpgames.RealSteel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jumpgames.RealSteel ......
+Success to get info from Play Store
+The lastest version of com.jumpgames.RealSteel-1.apk is  1.4.9  
+Done processing com.jumpgames.RealSteel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/5 Starting processing com.jumpgames.pacificrim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jumpgames.pacificrim ......
+Success to get info from Play Store
+The lastest version of com.jumpgames.pacificrim-1.apk is  1.9.2  
+Done processing com.jumpgames.pacificrim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/5 Starting processing com.playfirst.playground.cookingdashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.cookingdashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.cookingdashdeluxe-1.apk is  2.24.7  
+Done processing com.playfirst.playground.cookingdashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/5 Starting processing com.teamspeak.ts3client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamspeak.ts3client ......
+Success to get info from Play Store
+The lastest version of com.teamspeak.ts3client-1.apk is  3.0.14  
+Done processing com.teamspeak.ts3client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/5 Starting processing com.tesseractmobile.solitairemulti-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tesseractmobile.solitairemulti ......
+Success to get info from Play Store
+The lastest version of com.tesseractmobile.solitairemulti-1.apk is  12.3.1  
+Done processing com.tesseractmobile.solitairemulti-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-19-13-26-25.csv
+**************************************************************

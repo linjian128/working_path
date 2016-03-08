@@ -1,0 +1,96 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.android.chrome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.android.chrome ......
+Success to get info from Play Store
+The lastest version of com.android.chrome-1.apk is    Varies with device  
+Done processing com.android.chrome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/11 Starting processing com.androidemu.nes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidemu.nes ......
+[ERROR] : Cannot find info of com.androidemu.nes-1.apk on https://play.google.com/store/apps/details?id=com.androidemu.nes !!!
+Done processing com.androidemu.nes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/11 Starting processing com.androidemu.neslite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidemu.neslite ......
+[ERROR] : Cannot find info of com.androidemu.neslite-1.apk on https://play.google.com/store/apps/details?id=com.androidemu.neslite !!!
+Done processing com.androidemu.neslite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/11 Starting processing com.deluxeapps.liedetector-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.deluxeapps.liedetector ......
+Success to get info from Play Store
+The lastest version of com.deluxeapps.liedetector-1.apk is  1.0  
+Done processing com.deluxeapps.liedetector-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/11 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is  4.3.11  
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/11 Starting processing com.instagram.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.instagram.android ......
+Success to get info from Play Store
+The lastest version of com.instagram.android-1.apk is    Varies with device  
+Done processing com.instagram.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/11 Starting processing com.ironhidegames.android.kingdomrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush ......
+Success to get info from Play Store
+The lastest version of com.ironhidegames.android.kingdomrush-1.apk is  2.2  
+Done processing com.ironhidegames.android.kingdomrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/11 Starting processing com.jb.gosms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jb.gosms ......
+Success to get info from Play Store
+The lastest version of com.jb.gosms-1.apk is  5.41  
+Done processing com.jb.gosms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+9/11 Starting processing com.outfit7.mytalkingtomfree-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree ......
+Success to get info from Play Store
+The lastest version of com.outfit7.mytalkingtomfree-1.apk is  1.5  
+Done processing com.outfit7.mytalkingtomfree-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+10/11 Starting processing com.sega.sonic1-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sega.sonic1 ......
+Success to get info from Play Store
+The lastest version of com.sega.sonic1-1.apk is  2.0.4  
+Done processing com.sega.sonic1-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+11/11 Starting processing com.stac.empire.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.stac.empire.main ......
+Success to get info from Play Store
+The lastest version of com.stac.empire.main-1.apk is  2.3.10  
+Done processing com.stac.empire.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 33 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-04-11-37-33.csv
+**************************************************************

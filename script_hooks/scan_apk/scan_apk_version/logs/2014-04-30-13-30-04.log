@@ -1,0 +1,48 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.igg.castleclash_tw-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.igg.castleclash_tw ......
+Success to get info from Play Store
+The lastest version of com.igg.castleclash_tw-1.apk is  1.2.91  
+Done processing com.igg.castleclash_tw-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/5 Starting processing com.immomo.momo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.immomo.momo ......
+[ERROR] : Cannot find info of com.immomo.momo-1.apk on https://play.google.com/store/apps/details?id=com.immomo.momo !!!
+Done processing com.immomo.momo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/5 Starting processing com.midasplayer.apps.papapearsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.papapearsaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.papapearsaga-1.apk is    Varies with device  
+Done processing com.midasplayer.apps.papapearsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/5 Starting processing com.sega.sonic.transformed-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sega.sonic.transformed ......
+Success to get info from Play Store
+The lastest version of com.sega.sonic.transformed-1.apk is    Varies with device  
+Done processing com.sega.sonic.transformed-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/5 Starting processing com.tencent.hero-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.hero ......
+[ERROR] : Cannot find info of com.tencent.hero-1.apk on https://play.google.com/store/apps/details?id=com.tencent.hero !!!
+Done processing com.tencent.hero-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 8 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-30-13-30-04.csv
+**************************************************************

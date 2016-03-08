@@ -1,0 +1,17 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.tencent.castleclash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.castleclash ......
+[ERROR] : Cannot find info of com.tencent.castleclash-1.apk on https://play.google.com/store/apps/details?id=com.tencent.castleclash !!!
+Done processing com.tencent.castleclash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 2 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-09-04-13-34-58.csv
+**************************************************************

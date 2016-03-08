@@ -1,0 +1,98 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing air.com.oranginalplan.weaphones-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphones ......
+Success to get info from Play Store
+The lastest version of air.com.oranginalplan.weaphones-1.apk is 1.8.1
+Done processing air.com.oranginalplan.weaphones-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.Origin8.Sentinel3-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Origin8.Sentinel3 ......
+Success to get info from Play Store
+The lastest version of com.Origin8.Sentinel3-1.apk is 1.2.7
+Done processing com.Origin8.Sentinel3-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/11 Starting processing com.capybaragames.sworcery-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.capybaragames.sworcery ......
+Success to get info from Play Store
+The lastest version of com.capybaragames.sworcery-1.apk is 1.0.12
+Done processing com.capybaragames.sworcery-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/11 Starting processing com.coldbeamgames.beathazardultragooglefull-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.coldbeamgames.beathazardultragooglefull ......
+Success to get info from Play Store
+The lastest version of com.coldbeamgames.beathazardultragooglefull-1.apk is 1.7
+Done processing com.coldbeamgames.beathazardultragooglefull-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/11 Starting processing com.djinnworks.RopeFly.full-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.djinnworks.RopeFly.full ......
+Success to get info from Play Store
+The lastest version of com.djinnworks.RopeFly.full-1.apk is 2.0
+Done processing com.djinnworks.RopeFly.full-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/11 Starting processing com.fms.vgba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fms.vgba ......
+Success to get info from Play Store
+The lastest version of com.fms.vgba-1.apk is 3.9.46
+Done processing com.fms.vgba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/11 Starting processing com.fullfat.android.nflkicker2013-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fullfat.android.nflkicker2013 ......
+Success to get info from Play Store
+The lastest version of com.fullfat.android.nflkicker2013-1.apk is 1.1.5
+Done processing com.fullfat.android.nflkicker2013-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/11 Starting processing com.hg.townsmen7-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.hg.townsmen7 ......
+Success to get info from Play Store
+The lastest version of com.hg.townsmen7-1.apk is 1.2.3
+Done processing com.hg.townsmen7-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/11 Starting processing com.rubicon.dev.gbwg-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rubicon.dev.gbwg ......
+Success to get info from Play Store
+The lastest version of com.rubicon.dev.gbwg-1.apk is 1.4.5
+Done processing com.rubicon.dev.gbwg-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+10/11 Starting processing com.sonicjump.sonicjump-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sonicjump.sonicjump ......
+Success to get info from Play Store
+The lastest version of com.sonicjump.sonicjump-1.apk is Varies with device
+Done processing com.sonicjump.sonicjump-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+11/11 Starting processing com.thevoxelagents.TrainConductor2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.thevoxelagents.TrainConductor2 ......
+Success to get info from Play Store
+The lastest version of com.thevoxelagents.TrainConductor2-1.apk is 1.41
+Done processing com.thevoxelagents.TrainConductor2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-02-19-14-08-38.csv
+**************************************************************

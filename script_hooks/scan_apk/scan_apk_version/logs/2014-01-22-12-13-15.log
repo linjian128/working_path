@@ -1,0 +1,31 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/3 Starting processing com.kiloo.subwaysurf.full-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf.full ......
+[ERROR] : Cannot find info of com.kiloo.subwaysurf.full-1.apk on https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf.full !!!
+Done processing com.kiloo.subwaysurf.full-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/3 Starting processing com.oupeng.browser-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.oupeng.browser ......
+[ERROR] : Cannot find info of com.oupeng.browser-1.apk on https://play.google.com/store/apps/details?id=com.oupeng.browser !!!
+Done processing com.oupeng.browser-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/3 Starting processing com.tblin.HandsetGuardant-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tblin.HandsetGuardant ......
+[ERROR] : Cannot find info of com.tblin.HandsetGuardant-1.apk on https://play.google.com/store/apps/details?id=com.tblin.HandsetGuardant !!!
+Done processing com.tblin.HandsetGuardant-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-22-12-13-15.csv
+**************************************************************

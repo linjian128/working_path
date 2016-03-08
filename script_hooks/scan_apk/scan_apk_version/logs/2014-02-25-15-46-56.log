@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.emulator.fpse-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.emulator.fpse ......
+Success to get info from Play Store
+The lastest version of com.emulator.fpse-1.apk is  0.11.125  
+Done processing com.emulator.fpse-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/8 Starting processing com.gamelion.slots-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamelion.slots ......
+Success to get info from Play Store
+The lastest version of com.gamelion.slots-1.apk is  1.6.391  
+Done processing com.gamelion.slots-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/8 Starting processing com.good.android.gfe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.good.android.gfe ......
+Success to get info from Play Store
+The lastest version of com.good.android.gfe-1.apk is    Varies with device  
+Done processing com.good.android.gfe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/8 Starting processing com.lookout-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lookout ......
+Success to get info from Play Store
+The lastest version of com.lookout-1.apk is    Varies with device  
+Done processing com.lookout-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/8 Starting processing com.qvod.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qvod.player ......
+Success to get info from Play Store
+The lastest version of com.qvod.player-1.apk is  3.3.25  
+Done processing com.qvod.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/8 Starting processing com.sds.android.ttpod-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sds.android.ttpod ......
+Success to get info from Play Store
+The lastest version of com.sds.android.ttpod-1.apk is  6.6.2  
+Done processing com.sds.android.ttpod-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/8 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is  5.2  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+8/8 Starting processing com.venan.boh-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.venan.boh ......
+Success to get info from Play Store
+The lastest version of com.venan.boh-1.apk is  2.0.3  
+Done processing com.venan.boh-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 29 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-25-15-46-56.csv
+**************************************************************

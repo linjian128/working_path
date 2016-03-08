@@ -1,0 +1,33 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/3 Starting processing com.cdzx.tthero.yafc-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cdzx.tthero.yafc ......
+[ERROR] : Cannot find info of com.cdzx.tthero.yafc-1.apk on https://play.google.com/store/apps/details?id=com.cdzx.tthero.yafc !!!
+Done processing com.cdzx.tthero.yafc-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/3 Starting processing com.qzone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qzone ......
+Success to get info from Play Store
+The lastest version of com.qzone-1.apk is  5.2.1.156  
+Done processing com.qzone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/3 Starting processing com.sogou.map.android.maps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sogou.map.android.maps ......
+Success to get info from Play Store
+The lastest version of com.sogou.map.android.maps-1.apk is  5.1.0  
+Done processing com.sogou.map.android.maps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-04-29-10-28-53.csv
+**************************************************************

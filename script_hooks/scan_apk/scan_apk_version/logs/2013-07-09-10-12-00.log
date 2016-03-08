@@ -1,0 +1,106 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing com.crescentmoongames.slingshotracing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.crescentmoongames.slingshotracing ......
+Success to get info from Play Store
+The lastest version of com.crescentmoongames.slingshotracing-1.apk is 1.3.3.0
+Done processing com.crescentmoongames.slingshotracing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/12 Starting processing com.disney.ToyStorySmashIt.goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.ToyStorySmashIt.goo ......
+Success to get info from Play Store
+The lastest version of com.disney.ToyStorySmashIt.goo-1.apk is 1.1.0
+Done processing com.disney.ToyStorySmashIt.goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/12 Starting processing com.disney.wreckitralph-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.wreckitralph ......
+Success to get info from Play Store
+The lastest version of com.disney.wreckitralph-1.apk is 1.2
+Done processing com.disney.wreckitralph-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/12 Starting processing com.ea.game.simpsons4_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.simpsons4_na-1.apk is 4.3.0
+Done processing com.ea.game.simpsons4_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+5/12 Starting processing com.fishingcactus.paf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fishingcactus.paf ......
+Success to get info from Play Store
+The lastest version of com.fishingcactus.paf-1.apk is 2.5
+Done processing com.fishingcactus.paf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+6/12 Starting processing com.gamemiracle.iHorseRacing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamemiracle.iHorseRacing ......
+Success to get info from Play Store
+The lastest version of com.gamemiracle.iHorseRacing-1.apk is 1.17
+Done processing com.gamemiracle.iHorseRacing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/12 Starting processing com.jakyl.spirithd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jakyl.spirithd ......
+Success to get info from Play Store
+The lastest version of com.jakyl.spirithd-1.apk is 2.2.8
+Done processing com.jakyl.spirithd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+8/12 Starting processing com.kiloo.subwaysurf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf ......
+Success to get info from Play Store
+The lastest version of com.kiloo.subwaysurf-1.apk is 1.12.2
+Done processing com.kiloo.subwaysurf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+9/12 Starting processing com.vectorunit.blue-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.vectorunit.blue ......
+Success to get info from Play Store
+The lastest version of com.vectorunit.blue-1.apk is 1.6.2
+Done processing com.vectorunit.blue-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+10/12 Starting processing com.worms2armageddon.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.worms2armageddon.app ......
+Success to get info from Play Store
+The lastest version of com.worms2armageddon.app-1.apk is 1.3.6g
+Done processing com.worms2armageddon.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+11/12 Starting processing jp.mbga.a12012174.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.mbga.a12012174.lite ......
+Success to get info from Play Store
+The lastest version of jp.mbga.a12012174.lite-1.apk is 2.0.9
+Done processing jp.mbga.a12012174.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+12/12 Starting processing tw.mobage.g23000046-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=tw.mobage.g23000046 ......
+Success to get info from Play Store
+The lastest version of tw.mobage.g23000046-1.apk is 3.3.2
+Done processing tw.mobage.g23000046-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-09-10-12-00.csv
+**************************************************************

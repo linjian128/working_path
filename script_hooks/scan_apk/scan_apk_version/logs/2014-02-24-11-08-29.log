@@ -1,0 +1,66 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/7 Starting processing air.com.freshplanet.games.SongPopPremium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.freshplanet.games.SongPopPremium ......
+Success to get info from Play Store
+The lastest version of air.com.freshplanet.games.SongPopPremium-1.apk is  1.10.0  
+Done processing air.com.freshplanet.games.SongPopPremium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/7 Starting processing com.mojang.minecraftpe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mojang.minecraftpe ......
+Success to get info from Play Store
+The lastest version of com.mojang.minecraftpe-1.apk is    Varies with device  
+Done processing com.mojang.minecraftpe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/7 Starting processing com.playfirst.playground.cookingdashdeluxe-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playfirst.playground.cookingdashdeluxe ......
+Success to get info from Play Store
+The lastest version of com.playfirst.playground.cookingdashdeluxe-1.apk is  2.23.9  
+Done processing com.playfirst.playground.cookingdashdeluxe-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/7 Starting processing com.square_enix.chaosrings.googleplay-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.chaosrings.googleplay ......
+Success to get info from Play Store
+The lastest version of com.square_enix.chaosrings.googleplay-1.apk is  1.2.5  
+Done processing com.square_enix.chaosrings.googleplay-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/7 Starting processing com.tesseractmobile.solitairemulti-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tesseractmobile.solitairemulti ......
+Success to get info from Play Store
+The lastest version of com.tesseractmobile.solitairemulti-1.apk is  12.2.2  
+Done processing com.tesseractmobile.solitairemulti-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/7 Starting processing net.zhuoweizhang.mcpelauncher.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.zhuoweizhang.mcpelauncher.pro ......
+Success to get info from Play Store
+The lastest version of net.zhuoweizhang.mcpelauncher.pro-1.apk is  1.6.6  
+Done processing net.zhuoweizhang.mcpelauncher.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/7 Starting processing radiotime.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=radiotime.player ......
+Success to get info from Play Store
+The lastest version of radiotime.player-1.apk is  11.2  
+Done processing radiotime.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 26 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-02-24-11-08-29.csv
+**************************************************************

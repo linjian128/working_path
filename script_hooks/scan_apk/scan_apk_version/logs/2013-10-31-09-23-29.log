@@ -1,0 +1,88 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing air.com.elex.ram-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.elex.ram ......
+[ERROR] : Cannot find info of air.com.elex.ram-1.apk on https://play.google.com/store/apps/details?id=air.com.elex.ram !!!
+Done processing air.com.elex.ram-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+2/10 Starting processing cn.ninegame.gamemanager-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.ninegame.gamemanager ......
+[ERROR] : Cannot find info of cn.ninegame.gamemanager-1.apk on https://play.google.com/store/apps/details?id=cn.ninegame.gamemanager !!!
+Done processing cn.ninegame.gamemanager-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/10 Starting processing com.ebay.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ebay.mobile ......
+Success to get info from Play Store
+The lastest version of com.ebay.mobile-1.apk is    Varies with device  
+Done processing com.ebay.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/10 Starting processing com.facebook.pages.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.pages.app ......
+Success to get info from Play Store
+The lastest version of com.facebook.pages.app-1.apk is  1.6  
+Done processing com.facebook.pages.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/10 Starting processing com.gameloft.android.ANMP.GloftUOHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftUOHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftUOHM-1.apk is  1.3.0q  
+Done processing com.gameloft.android.ANMP.GloftUOHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/10 Starting processing com.glidetalk.glideapp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glidetalk.glideapp ......
+Success to get info from Play Store
+The lastest version of com.glidetalk.glideapp-1.apk is  GlideBeta.v0.2.005  
+Done processing com.glidetalk.glideapp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+7/10 Starting processing com.gotv.nflgamecenter.us.lite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gotv.nflgamecenter.us.lite ......
+Success to get info from Play Store
+The lastest version of com.gotv.nflgamecenter.us.lite-1.apk is  8.2.5  
+Done processing com.gotv.nflgamecenter.us.lite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+8/10 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is  3.2.65587  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 33 Seconds
+
+============================================================================
+9/10 Starting processing com.tencent.qqgame.cardFwvga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqgame.cardFwvga ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqgame.cardFwvga-1.apk is  3.3.1  
+Done processing com.tencent.qqgame.cardFwvga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+10/10 Starting processing com.walmart.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.walmart.android ......
+Success to get info from Play Store
+The lastest version of com.walmart.android-1.apk is  1.5.4  
+Done processing com.walmart.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 41 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 41 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-31-09-23-29.csv
+**************************************************************

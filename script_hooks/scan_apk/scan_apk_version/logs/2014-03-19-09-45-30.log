@@ -1,0 +1,39 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.aiyou.mczxn-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aiyou.mczxn ......
+Success to get info from Play Store
+The lastest version of com.aiyou.mczxn-1.apk is  1.1.0.0  
+Done processing com.aiyou.mczxn-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/4 Starting processing com.aiyou.mhsj-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aiyou.mhsj ......
+[ERROR] : Cannot find info of com.aiyou.mhsj-1.apk on https://play.google.com/store/apps/details?id=com.aiyou.mhsj !!!
+Done processing com.aiyou.mhsj-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing com.haowan123.fanxian.eefn-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.haowan123.fanxian.eefn ......
+[ERROR] : Cannot find info of com.haowan123.fanxian.eefn-1.apk on https://play.google.com/store/apps/details?id=com.haowan123.fanxian.eefn !!!
+Done processing com.haowan123.fanxian.eefn-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/4 Starting processing j2ab.android.appstar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=j2ab.android.appstar ......
+[ERROR] : Cannot find info of j2ab.android.appstar-1.apk on https://play.google.com/store/apps/details?id=j2ab.android.appstar !!!
+Done processing j2ab.android.appstar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-19-09-45-30.csv
+**************************************************************

@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.baidu.browser.apps-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.baidu.browser.apps ......
+Success to get info from Play Store
+The lastest version of com.baidu.browser.apps-1.apk is 
+Done processing com.baidu.browser.apps-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/6 Starting processing com.ksmobile.launcher-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ksmobile.launcher ......
+Success to get info from Play Store
+The lastest version of com.ksmobile.launcher-1.apk is 
+Done processing com.ksmobile.launcher-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/6 Starting processing com.lionmobi.powerclean-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lionmobi.powerclean ......
+Success to get info from Play Store
+The lastest version of com.lionmobi.powerclean-1.apk is  2.7.24  
+Done processing com.lionmobi.powerclean-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/6 Starting processing com.quvideo.xiaoying.pro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quvideo.xiaoying.pro ......
+Success to get info from Play Store
+The lastest version of com.quvideo.xiaoying.pro-1.apk is  4.5.8  
+Done processing com.quvideo.xiaoying.pro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/6 Starting processing com.shopkick.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shopkick.app ......
+Success to get info from Play Store
+The lastest version of com.shopkick.app-1.apk is  4.7.9  
+Done processing com.shopkick.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+6/6 Starting processing com.skype.raider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.skype.raider ......
+Success to get info from Play Store
+The lastest version of com.skype.raider-1.apk is    Varies with device  
+Done processing com.skype.raider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-29-23-23-31.csv
+**************************************************************

@@ -1,0 +1,106 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/12 Starting processing com.bandainamcogames.dbzdokkanww-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww ......
+Success to get info from Play Store
+The lastest version of com.bandainamcogames.dbzdokkanww-1.apk is  2.4.1  
+Done processing com.bandainamcogames.dbzdokkanww-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/12 Starting processing com.dreamsky.DiabloLOL-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dreamsky.DiabloLOL ......
+Success to get info from Play Store
+The lastest version of com.dreamsky.DiabloLOL-1.apk is  1.5.2  
+Done processing com.dreamsky.DiabloLOL-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/12 Starting processing com.feelingtouch.zf3d-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.feelingtouch.zf3d ......
+Success to get info from Play Store
+The lastest version of com.feelingtouch.zf3d-1.apk is  1.23  
+Done processing com.feelingtouch.zf3d-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+4/12 Starting processing com.glu.deerhunt16-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.deerhunt16 ......
+Success to get info from Play Store
+The lastest version of com.glu.deerhunt16-1.apk is  2.0.2  
+Done processing com.glu.deerhunt16-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+5/12 Starting processing com.glu.football-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glu.football ......
+Success to get info from Play Store
+The lastest version of com.glu.football-1.apk is  1.2.1  
+Done processing com.glu.football-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+6/12 Starting processing com.imo.android.imoim-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imo.android.imoim ......
+Success to get info from Play Store
+The lastest version of com.imo.android.imoim-1.apk is  9.8.00000000038  
+Done processing com.imo.android.imoim-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+7/12 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.60.3  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+8/12 Starting processing com.lyrebirdstudio.collage-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lyrebirdstudio.collage ......
+Success to get info from Play Store
+The lastest version of com.lyrebirdstudio.collage-1.apk is  1.2.8  
+Done processing com.lyrebirdstudio.collage-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 37 Seconds
+
+============================================================================
+9/12 Starting processing com.miniclip.soccerstars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.miniclip.soccerstars ......
+Success to get info from Play Store
+The lastest version of com.miniclip.soccerstars-1.apk is  3.0.4  
+Done processing com.miniclip.soccerstars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 42 Seconds
+
+============================================================================
+10/12 Starting processing com.roblox.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.roblox.client ......
+Success to get info from Play Store
+The lastest version of com.roblox.client-1.apk is  2.225.67689  
+Done processing com.roblox.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 47 Seconds
+
+============================================================================
+11/12 Starting processing net.apex_designs.payback2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.apex_designs.payback2 ......
+Success to get info from Play Store
+The lastest version of net.apex_designs.payback2-1.apk is  2.91  
+Done processing net.apex_designs.payback2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 51 Seconds
+
+============================================================================
+12/12 Starting processing net.playq.charmking-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.playq.charmking ......
+Success to get info from Play Store
+The lastest version of net.playq.charmking-1.apk is  2.16.0  
+Done processing net.playq.charmking-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 55 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 55 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-12-10-56-02.csv
+**************************************************************

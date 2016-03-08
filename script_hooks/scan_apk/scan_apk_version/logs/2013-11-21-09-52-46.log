@@ -1,0 +1,114 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing com.adobe.reader-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.adobe.reader ......
+Success to get info from Play Store
+The lastest version of com.adobe.reader-1.apk is    Varies with device  
+Done processing com.adobe.reader-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/13 Starting processing com.ahoygames.okey-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ahoygames.okey ......
+Success to get info from Play Store
+The lastest version of com.ahoygames.okey-1.apk is    Varies with device  
+Done processing com.ahoygames.okey-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/13 Starting processing com.alper.batak.hd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.alper.batak.hd ......
+Success to get info from Play Store
+The lastest version of com.alper.batak.hd-1.apk is  1.57  
+Done processing com.alper.batak.hd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/13 Starting processing com.byril.battleship-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.byril.battleship ......
+Success to get info from Play Store
+The lastest version of com.byril.battleship-1.apk is  1.1.4  
+Done processing com.byril.battleship-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+5/13 Starting processing com.ea.games.nfs13_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.games.nfs13_na ......
+Success to get info from Play Store
+The lastest version of com.ea.games.nfs13_na-1.apk is  1.0.50  
+Done processing com.ea.games.nfs13_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+6/13 Starting processing com.ezjoynetwork.ninjadashing-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ezjoynetwork.ninjadashing ......
+Success to get info from Play Store
+The lastest version of com.ezjoynetwork.ninjadashing-1.apk is  1.2.0  
+Done processing com.ezjoynetwork.ninjadashing-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+7/13 Starting processing com.forthblue.pool-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.forthblue.pool ......
+Success to get info from Play Store
+The lastest version of com.forthblue.pool-1.apk is  2.49  
+Done processing com.forthblue.pool-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+8/13 Starting processing com.gamecircus.songz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamecircus.songz ......
+Success to get info from Play Store
+The lastest version of com.gamecircus.songz-1.apk is    Varies with device  
+Done processing com.gamecircus.songz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+9/13 Starting processing com.gameinsight.battletowersandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameinsight.battletowersandroid ......
+Success to get info from Play Store
+The lastest version of com.gameinsight.battletowersandroid-1.apk is  1.36  
+Done processing com.gameinsight.battletowersandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+10/13 Starting processing com.gameloft.android.ANMP.GloftPOHM-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftPOHM ......
+Success to get info from Play Store
+The lastest version of com.gameloft.android.ANMP.GloftPOHM-1.apk is  1.6.0  
+Done processing com.gameloft.android.ANMP.GloftPOHM-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+11/13 Starting processing com.inxile.BardTale-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.inxile.BardTale ......
+Success to get info from Play Store
+The lastest version of com.inxile.BardTale-1.apk is  1.4.1  
+Done processing com.inxile.BardTale-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 43 Seconds
+
+============================================================================
+12/13 Starting processing com.nimblebit.nimblequest-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.nimblebit.nimblequest ......
+Success to get info from Play Store
+The lastest version of com.nimblebit.nimblequest-1.apk is  1.0.4.1  
+Done processing com.nimblebit.nimblequest-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 46 Seconds
+
+============================================================================
+13/13 Starting processing com.sidheinteractive.sif.DR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sidheinteractive.sif.DR ......
+Success to get info from Play Store
+The lastest version of com.sidheinteractive.sif.DR-1.apk is  1.6  
+Done processing com.sidheinteractive.sif.DR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 50 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 50 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-21-09-52-46.csv
+**************************************************************

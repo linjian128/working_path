@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.glidetalk.glideapp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.glidetalk.glideapp ......
+Success to get info from Play Store
+The lastest version of com.glidetalk.glideapp-1.apk is  GlideBeta.v0.0.35  
+Done processing com.glidetalk.glideapp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/9 Starting processing com.iugome.lilknights-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iugome.lilknights ......
+Success to get info from Play Store
+The lastest version of com.iugome.lilknights-1.apk is    Varies with device  
+Done processing com.iugome.lilknights-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+3/9 Starting processing com.king.petrescuesaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.king.petrescuesaga ......
+Success to get info from Play Store
+The lastest version of com.king.petrescuesaga-1.apk is  1.2.13.0  
+Done processing com.king.petrescuesaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+4/9 Starting processing com.perblue.greedforglory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perblue.greedforglory ......
+Success to get info from Play Store
+The lastest version of com.perblue.greedforglory-1.apk is    Varies with device  
+Done processing com.perblue.greedforglory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+5/9 Starting processing com.pgpublish.android.airportscanner-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pgpublish.android.airportscanner ......
+Success to get info from Play Store
+The lastest version of com.pgpublish.android.airportscanner-1.apk is  1.2.6  
+Done processing com.pgpublish.android.airportscanner-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+6/9 Starting processing com.pikpok.turbo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pikpok.turbo ......
+Success to get info from Play Store
+The lastest version of com.pikpok.turbo-1.apk is    Varies with device  
+Done processing com.pikpok.turbo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 30 Seconds
+
+============================================================================
+7/9 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is  3.0.53550  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 34 Seconds
+
+============================================================================
+8/9 Starting processing com.sidheinteractive.sif.DR-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sidheinteractive.sif.DR ......
+Success to get info from Play Store
+The lastest version of com.sidheinteractive.sif.DR-1.apk is  1.4.3  
+Done processing com.sidheinteractive.sif.DR-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+9/9 Starting processing com.zynga.gswf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.gswf ......
+Success to get info from Play Store
+The lastest version of com.zynga.gswf-1.apk is  1.02  
+Done processing com.zynga.gswf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 45 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 45 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-07-30-11-30-14.csv
+**************************************************************

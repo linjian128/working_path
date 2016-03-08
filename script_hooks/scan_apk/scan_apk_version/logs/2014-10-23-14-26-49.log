@@ -1,0 +1,17 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing air.com.huale.Basketball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.huale.Basketball ......
+[ERROR] : Cannot find info of air.com.huale.Basketball-1.apk on https://play.google.com/store/apps/details?id=air.com.huale.Basketball !!!
+Done processing air.com.huale.Basketball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 1 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-10-23-14-26-49.csv
+**************************************************************

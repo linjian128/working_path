@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing kvp.jjy.MispAndroid320-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=kvp.jjy.MispAndroid320 ......
+Success to get info from Play Store
+The lastest version of kvp.jjy.MispAndroid320-1.apk is  1.5.14  
+Done processing kvp.jjy.MispAndroid320-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 4 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-30-16-26-49.csv
+**************************************************************

@@ -1,0 +1,32 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/3 Starting processing com.aipai.android_minecraft-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aipai.android_minecraft ......
+[ERROR] : Cannot find info of com.aipai.android_minecraft-1.apk on https://play.google.com/store/apps/details?id=com.aipai.android_minecraft !!!
+Done processing com.aipai.android_minecraft-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/3 Starting processing com.facebook.orca-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.facebook.orca ......
+Success to get info from Play Store
+The lastest version of com.facebook.orca-1.apk is    Varies with device  
+Done processing com.facebook.orca-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/3 Starting processing com.tshang.momomeinv-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tshang.momomeinv ......
+[ERROR] : Cannot find info of com.tshang.momomeinv-1.apk on https://play.google.com/store/apps/details?id=com.tshang.momomeinv !!!
+Done processing com.tshang.momomeinv-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 11 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-02-18-10-19-39.csv
+**************************************************************

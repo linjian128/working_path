@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.ubisoft.csi.HiddenCrimes-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.ubisoft.csi.HiddenCrimes ......
+Success to get info from Play Store
+The lastest version of air.com.ubisoft.csi.HiddenCrimes-1.apk is 
+Done processing air.com.ubisoft.csi.HiddenCrimes-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+2/9 Starting processing com.chopperkhan.asylum-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.chopperkhan.asylum ......
+Success to get info from Play Store
+The lastest version of com.chopperkhan.asylum-1.apk is 
+Done processing com.chopperkhan.asylum-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+3/9 Starting processing com.crazystudio.emoji.kitkat-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.crazystudio.emoji.kitkat ......
+Success to get info from Play Store
+The lastest version of com.crazystudio.emoji.kitkat-1.apk is 
+Done processing com.crazystudio.emoji.kitkat-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+4/9 Starting processing com.kongregate.mobile.epicskater.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kongregate.mobile.epicskater.google ......
+Success to get info from Play Store
+The lastest version of com.kongregate.mobile.epicskater.google-1.apk is 
+Done processing com.kongregate.mobile.epicskater.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+5/9 Starting processing com.midasplayer.apps.bubblewitchsaga2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.bubblewitchsaga2 ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.bubblewitchsaga2-1.apk is 
+Done processing com.midasplayer.apps.bubblewitchsaga2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+6/9 Starting processing com.mt.mtxx.mtxx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mt.mtxx.mtxx ......
+Success to get info from Play Store
+The lastest version of com.mt.mtxx.mtxx-1.apk is 
+Done processing com.mt.mtxx.mtxx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+7/9 Starting processing com.pixelberrystudios.hssandroid-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.pixelberrystudios.hssandroid ......
+Success to get info from Play Store
+The lastest version of com.pixelberrystudios.hssandroid-1.apk is 
+Done processing com.pixelberrystudios.hssandroid-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+8/9 Starting processing com.playstudios.myvegas-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.playstudios.myvegas ......
+Success to get info from Play Store
+The lastest version of com.playstudios.myvegas-1.apk is 
+Done processing com.playstudios.myvegas-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+9/9 Starting processing com.tencent.Alice-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.Alice ......
+Success to get info from Play Store
+The lastest version of com.tencent.Alice-1.apk is 
+Done processing com.tencent.Alice-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 3 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-03-25-10-54-49.csv
+**************************************************************

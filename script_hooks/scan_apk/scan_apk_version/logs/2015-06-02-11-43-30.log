@@ -1,0 +1,102 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/12 Starting processing com.androidesk.livewallpaper-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk.livewallpaper ......
+[ERROR] : Cannot find info of com.androidesk.livewallpaper-1.apk on https://play.google.com/store/apps/details?id=com.androidesk.livewallpaper !!!
+Done processing com.androidesk.livewallpaper-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/12 Starting processing com.changba-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.changba ......
+Success to get info from Play Store
+The lastest version of com.changba-1.apk is  4.0.0  
+Done processing com.changba-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/12 Starting processing com.google.android.gms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gms ......
+Success to get info from Play Store
+The lastest version of com.google.android.gms-1.apk is    Varies with device  
+Done processing com.google.android.gms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/12 Starting processing com.immomo.momo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.immomo.momo ......
+Success to get info from Play Store
+The lastest version of com.immomo.momo-1.apk is    Varies with device  
+Done processing com.immomo.momo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/12 Starting processing com.sdu.didi.psnger-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sdu.didi.psnger ......
+[ERROR] : Cannot find info of com.sdu.didi.psnger-1.apk on https://play.google.com/store/apps/details?id=com.sdu.didi.psnger !!!
+Done processing com.sdu.didi.psnger-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/12 Starting processing com.smile.gifmaker-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smile.gifmaker ......
+Success to get info from Play Store
+The lastest version of com.smile.gifmaker-1.apk is  4.20  
+Done processing com.smile.gifmaker-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+7/12 Starting processing com.snda.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.wifilocating ......
+[ERROR] : Cannot find info of com.snda.wifilocating-1.apk on https://play.google.com/store/apps/details?id=com.snda.wifilocating !!!
+Done processing com.snda.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/12 Starting processing com.tencent.qqlive-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.qqlive ......
+Success to get info from Play Store
+The lastest version of com.tencent.qqlive-1.apk is  4.0.0.8136  
+Done processing com.tencent.qqlive-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+9/12 Starting processing com.tencent.ttpic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.ttpic ......
+Success to get info from Play Store
+The lastest version of com.tencent.ttpic-1.apk is  2.6.0.139  
+Done processing com.tencent.ttpic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+10/12 Starting processing com.yx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yx ......
+[ERROR] : Cannot find info of com.yx-1.apk on https://play.google.com/store/apps/details?id=com.yx !!!
+Done processing com.yx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 22 Seconds
+
+============================================================================
+11/12 Starting processing com.zdworks.android.zdclock-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zdworks.android.zdclock ......
+Success to get info from Play Store
+The lastest version of com.zdworks.android.zdclock-1.apk is  4.9.530  
+Done processing com.zdworks.android.zdclock-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+12/12 Starting processing qsbk.app-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=qsbk.app ......
+Success to get info from Play Store
+The lastest version of qsbk.app-1.apk is  7.0.0  
+Done processing qsbk.app-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-02-11-43-30.csv
+**************************************************************

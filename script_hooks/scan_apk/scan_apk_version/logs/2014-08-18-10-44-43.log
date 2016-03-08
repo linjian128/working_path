@@ -1,0 +1,40 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing cn.kuwo.player-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.kuwo.player ......
+Success to get info from Play Store
+The lastest version of cn.kuwo.player-1.apk is  6.3.2.0  
+Done processing cn.kuwo.player-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/4 Starting processing com.sdu.didi.psnger-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sdu.didi.psnger ......
+Success to get info from Play Store
+The lastest version of com.sdu.didi.psnger-1.apk is  2.8.3  
+Done processing com.sdu.didi.psnger-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/4 Starting processing com.shoujiduoduo.ringtone-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone ......
+[ERROR] : Cannot find info of com.shoujiduoduo.ringtone-1.apk on https://play.google.com/store/apps/details?id=com.shoujiduoduo.ringtone !!!
+Done processing com.shoujiduoduo.ringtone-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/4 Starting processing com.snda.wifilocating-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.snda.wifilocating ......
+[ERROR] : Cannot find info of com.snda.wifilocating-1.apk on https://play.google.com/store/apps/details?id=com.snda.wifilocating !!!
+Done processing com.snda.wifilocating-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 6 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-18-10-44-43.csv
+**************************************************************

@@ -1,0 +1,58 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.google.android.gms-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.gms ......
+Success to get info from Play Store
+The lastest version of com.google.android.gms-1.apk is    Varies with device  
+Done processing com.google.android.gms-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.google.android.youtube-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.android.youtube ......
+Success to get info from Play Store
+The lastest version of com.google.android.youtube-1.apk is    Varies with device  
+Done processing com.google.android.youtube-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/6 Starting processing com.letv.android.client-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.letv.android.client ......
+Success to get info from Play Store
+The lastest version of com.letv.android.client-1.apk is  5.1.2  
+Done processing com.letv.android.client-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+4/6 Starting processing com.rovio.angrybirdsgo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rovio.angrybirdsgo ......
+Success to get info from Play Store
+The lastest version of com.rovio.angrybirdsgo-1.apk is  1.0.6  
+Done processing com.rovio.angrybirdsgo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/6 Starting processing net.fishlabs.gof2hdallandroid2012-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.fishlabs.gof2hdallandroid2012 ......
+Success to get info from Play Store
+The lastest version of net.fishlabs.gof2hdallandroid2012-1.apk is  2.0.2  
+Done processing net.fishlabs.gof2hdallandroid2012-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/6 Starting processing stericson.busybox-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=stericson.busybox ......
+Success to get info from Play Store
+The lastest version of stericson.busybox-1.apk is  10.7  
+Done processing stericson.busybox-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 23 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-01-20-09-06-58.csv
+**************************************************************

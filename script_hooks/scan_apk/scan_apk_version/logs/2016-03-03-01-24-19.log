@@ -1,0 +1,49 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/5 Starting processing com.duowan.groundhog.mctools-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duowan.groundhog.mctools ......
+[ERROR] : Cannot find info of com.duowan.groundhog.mctools-1.apk on https://play.google.com/store/apps/details?id=com.duowan.groundhog.mctools !!!
+Done processing com.duowan.groundhog.mctools-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/5 Starting processing com.quvideo.xiaoying-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.quvideo.xiaoying ......
+Success to get info from Play Store
+The lastest version of com.quvideo.xiaoying-1.apk is  4.6.2  
+Done processing com.quvideo.xiaoying-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/5 Starting processing com.xiaomi.smarthome-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xiaomi.smarthome ......
+Success to get info from Play Store
+The lastest version of com.xiaomi.smarthome-1.apk is  3.4.13  
+Done processing com.xiaomi.smarthome-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/5 Starting processing com.youloft.calendar-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youloft.calendar ......
+Success to get info from Play Store
+The lastest version of com.youloft.calendar-1.apk is  4.4.2  
+Done processing com.youloft.calendar-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+5/5 Starting processing fm.xiami.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=fm.xiami.main ......
+Success to get info from Play Store
+The lastest version of fm.xiami.main-1.apk is  5.3.3  
+Done processing fm.xiami.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-03-03-01-24-19.csv
+**************************************************************

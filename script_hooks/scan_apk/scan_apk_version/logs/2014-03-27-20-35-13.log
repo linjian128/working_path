@@ -1,0 +1,74 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.disney.frozensaga_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.frozensaga_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.frozensaga_goo-1.apk is  1.3.1  
+Done processing com.disney.frozensaga_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/8 Starting processing com.gameimax.naildoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gameimax.naildoctor ......
+Success to get info from Play Store
+The lastest version of com.gameimax.naildoctor-1.apk is  12.1  
+Done processing com.gameimax.naildoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/8 Starting processing com.genina.android.blackjack.view-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.genina.android.blackjack.view ......
+Success to get info from Play Store
+The lastest version of com.genina.android.blackjack.view-1.apk is    Varies with device  
+Done processing com.genina.android.blackjack.view-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+4/8 Starting processing com.iugome.lilknights-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.iugome.lilknights ......
+Success to get info from Play Store
+The lastest version of com.iugome.lilknights-1.apk is    Varies with device  
+Done processing com.iugome.lilknights-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/8 Starting processing com.rsm.catchcandies-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rsm.catchcandies ......
+Success to get info from Play Store
+The lastest version of com.rsm.catchcandies-1.apk is  1.4  
+Done processing com.rsm.catchcandies-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+6/8 Starting processing com.square_enix.android_googleplay.guardiancrossE-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.guardiancrossE ......
+Success to get info from Play Store
+The lastest version of com.square_enix.android_googleplay.guardiancrossE-1.apk is  1.4.0  
+Done processing com.square_enix.android_googleplay.guardiancrossE-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/8 Starting processing com.topnewfree.coinrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.topnewfree.coinrush ......
+Success to get info from Play Store
+The lastest version of com.topnewfree.coinrush-1.apk is  1.15  
+Done processing com.topnewfree.coinrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+8/8 Starting processing itembox.crayfish.x-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=itembox.crayfish.x ......
+Success to get info from Play Store
+The lastest version of itembox.crayfish.x-1.apk is  1.27  
+Done processing itembox.crayfish.x-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 17 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-03-27-20-35-13.csv
+**************************************************************

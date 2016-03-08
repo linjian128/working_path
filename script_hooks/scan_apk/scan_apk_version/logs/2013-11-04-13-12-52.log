@@ -1,0 +1,26 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.disney.wheresmywater2_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.wheresmywater2_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.wheresmywater2_goo-1.apk is  1.0.2  
+Done processing com.disney.wheresmywater2_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/2 Starting processing com.qqgame.hlddz-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qqgame.hlddz ......
+Success to get info from Play Store
+The lastest version of com.qqgame.hlddz-1.apk is  1.2.0  
+Done processing com.qqgame.hlddz-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 10 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-11-04-13-12-52.csv
+**************************************************************

@@ -1,0 +1,18 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/1 Starting processing com.amazon.kindle-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.amazon.kindle ......
+Success to get info from Play Store
+The lastest version of com.amazon.kindle-1.apk is 
+Done processing com.amazon.kindle-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 0 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 0 Seconds
+Result Location:               /var/www/CV2/app/admin/scan_apk_version//results/AppInfo_2014-04-21-15-03-46.csv
+**************************************************************

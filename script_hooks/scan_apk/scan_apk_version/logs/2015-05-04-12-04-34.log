@@ -1,0 +1,42 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing com.ea.game.tetris2011_na-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ea.game.tetris2011_na ......
+Success to get info from Play Store
+The lastest version of com.ea.game.tetris2011_na-1.apk is  1.6.00  
+Done processing com.ea.game.tetris2011_na-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/4 Starting processing com.guildsoftware.vendetta-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.guildsoftware.vendetta ......
+Success to get info from Play Store
+The lastest version of com.guildsoftware.vendetta-1.apk is  1.8.334  
+Done processing com.guildsoftware.vendetta-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/4 Starting processing com.melodis.midomiMusicIdentifier.freemium-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier.freemium-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier.freemium-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/4 Starting processing es.socialpoint.MonsterLegends-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=es.socialpoint.MonsterLegends ......
+Success to get info from Play Store
+The lastest version of es.socialpoint.MonsterLegends-1.apk is 
+Done processing es.socialpoint.MonsterLegends-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 15 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-05-04-12-04-34.csv
+**************************************************************

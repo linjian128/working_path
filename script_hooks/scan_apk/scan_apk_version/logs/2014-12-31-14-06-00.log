@@ -1,0 +1,96 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/11 Starting processing com.cleanmaster.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.security ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.security-1.apk is    Varies with device  
+Done processing com.cleanmaster.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.fingerdance.empire-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fingerdance.empire ......
+Success to get info from Play Store
+The lastest version of com.fingerdance.empire-1.apk is  1.1.10  
+Done processing com.fingerdance.empire-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/11 Starting processing com.gamevil.mlbpi.ad.google.ww-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gamevil.mlbpi.ad.google.ww ......
+Success to get info from Play Store
+The lastest version of com.gamevil.mlbpi.ad.google.ww-1.apk is  2.1.4  
+Done processing com.gamevil.mlbpi.ad.google.ww-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/11 Starting processing com.melodis.midomiMusicIdentifier-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier ......
+Success to get info from Play Store
+The lastest version of com.melodis.midomiMusicIdentifier-1.apk is    Varies with device  
+Done processing com.melodis.midomiMusicIdentifier-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/11 Starting processing com.midasplayer.apps.papapearsaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.papapearsaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.papapearsaga-1.apk is    Varies with device  
+Done processing com.midasplayer.apps.papapearsaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/11 Starting processing com.rounds.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rounds.android ......
+Success to get info from Play Store
+The lastest version of com.rounds.android-1.apk is  3.2.4  
+Done processing com.rounds.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+7/11 Starting processing com.tarekmongy.FlappyCrush-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tarekmongy.FlappyCrush ......
+Success to get info from Play Store
+The lastest version of com.tarekmongy.FlappyCrush-1.apk is    Varies with device  
+Done processing com.tarekmongy.FlappyCrush-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/11 Starting processing com.tencent.pao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.pao ......
+[ERROR] : Cannot find info of com.tencent.pao-1.apk on https://play.google.com/store/apps/details?id=com.tencent.pao !!!
+Done processing com.tencent.pao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/11 Starting processing com.tencent.tmgp.vdefense-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.tmgp.vdefense ......
+[ERROR] : Cannot find info of com.tencent.tmgp.vdefense-1.apk on https://play.google.com/store/apps/details?id=com.tencent.tmgp.vdefense !!!
+Done processing com.tencent.tmgp.vdefense-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+10/11 Starting processing com.ucamera.ucam-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ucamera.ucam ......
+Success to get info from Play Store
+The lastest version of com.ucamera.ucam-1.apk is  5.1.5.122214  
+Done processing com.ucamera.ucam-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+11/11 Starting processing no.dirtybit.funrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=no.dirtybit.funrun ......
+Success to get info from Play Store
+The lastest version of no.dirtybit.funrun-1.apk is    Varies with device  
+Done processing no.dirtybit.funrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 18 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-31-14-06-00.csv
+**************************************************************

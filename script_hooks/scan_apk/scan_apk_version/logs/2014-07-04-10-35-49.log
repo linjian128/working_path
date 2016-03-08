@@ -1,0 +1,76 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing air.com.ifree.cardCHS-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.ifree.cardCHS ......
+[ERROR] : Cannot find info of air.com.ifree.cardCHS-1.apk on https://play.google.com/store/apps/details?id=air.com.ifree.cardCHS !!!
+Done processing air.com.ifree.cardCHS-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/9 Starting processing com.fourcall-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.fourcall ......
+[ERROR] : Cannot find info of com.fourcall-1.apk on https://play.google.com/store/apps/details?id=com.fourcall !!!
+Done processing com.fourcall-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+3/9 Starting processing com.haowan123.fanxian.platform553-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.haowan123.fanxian.platform553 ......
+[ERROR] : Cannot find info of com.haowan123.fanxian.platform553-1.apk on https://play.google.com/store/apps/details?id=com.haowan123.fanxian.platform553 !!!
+Done processing com.haowan123.fanxian.platform553-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/9 Starting processing com.joym.xiongdakuaipao-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.joym.xiongdakuaipao ......
+[ERROR] : Cannot find info of com.joym.xiongdakuaipao-1.apk on https://play.google.com/store/apps/details?id=com.joym.xiongdakuaipao !!!
+Done processing com.joym.xiongdakuaipao-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/9 Starting processing com.kuxun.scliang.plane-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kuxun.scliang.plane ......
+Success to get info from Play Store
+The lastest version of com.kuxun.scliang.plane-1.apk is  5.0.1  
+Done processing com.kuxun.scliang.plane-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+6/9 Starting processing com.tencent.weishi-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.weishi ......
+Success to get info from Play Store
+The lastest version of com.tencent.weishi-1.apk is  2.5.0  
+Done processing com.tencent.weishi-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+7/9 Starting processing com.tujia.hotel-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tujia.hotel ......
+Success to get info from Play Store
+The lastest version of com.tujia.hotel-1.apk is  3.1  
+Done processing com.tujia.hotel-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+8/9 Starting processing com.youyuan.yyhl-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.youyuan.yyhl ......
+[ERROR] : Cannot find info of com.youyuan.yyhl-1.apk on https://play.google.com/store/apps/details?id=com.youyuan.yyhl !!!
+Done processing com.youyuan.yyhl-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+9/9 Starting processing org.bqjh.game_wyx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.bqjh.game_wyx ......
+[ERROR] : Cannot find info of org.bqjh.game_wyx-1.apk on https://play.google.com/store/apps/details?id=org.bqjh.game_wyx !!!
+Done processing org.bqjh.game_wyx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 14 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-04-10-35-49.csv
+**************************************************************

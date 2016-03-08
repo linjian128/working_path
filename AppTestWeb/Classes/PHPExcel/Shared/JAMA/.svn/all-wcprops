@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA
+END
+LUDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA/LUDecomposition.php
+END
+CholeskyDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA/CholeskyDecomposition.php
+END
+SingularValueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA/SingularValueDecomposition.php
+END
+CHANGELOG.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA/CHANGELOG.TXT
+END
+QRDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA/QRDecomposition.php
+END
+EigenvalueDecomposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php
+END
+Matrix.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/Shared/JAMA/Matrix.php
+END

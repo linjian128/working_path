@@ -1,0 +1,94 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/Baidu  ......
+
+============================================================================
+1/11 Starting processing cn.eclicks.wzsearch-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=cn.eclicks.wzsearch ......
+Success to get info from Play Store
+The lastest version of cn.eclicks.wzsearch-1.apk is  4.3.5  
+Done processing cn.eclicks.wzsearch-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/11 Starting processing com.achievo.vipshop-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.achievo.vipshop ......
+[ERROR] : Cannot find info of com.achievo.vipshop-1.apk on https://play.google.com/store/apps/details?id=com.achievo.vipshop !!!
+Done processing com.achievo.vipshop-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/11 Starting processing com.androidesk-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.androidesk ......
+[ERROR] : Cannot find info of com.androidesk-1.apk on https://play.google.com/store/apps/details?id=com.androidesk !!!
+Done processing com.androidesk-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+4/11 Starting processing com.funshion.video.mobile-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.funshion.video.mobile ......
+[ERROR] : Cannot find info of com.funshion.video.mobile-1.apk on https://play.google.com/store/apps/details?id=com.funshion.video.mobile !!!
+Done processing com.funshion.video.mobile-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+5/11 Starting processing com.gau.go.launcherex-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.gau.go.launcherex ......
+Success to get info from Play Store
+The lastest version of com.gau.go.launcherex-1.apk is    Varies with device  
+Done processing com.gau.go.launcherex-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/11 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is  1.15.1  
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+7/11 Starting processing com.tencent.mobileqq-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mobileqq ......
+Success to get info from Play Store
+The lastest version of com.tencent.mobileqq-1.apk is  5.6.1  
+Done processing com.tencent.mobileqq-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+8/11 Starting processing com.ting.mp3.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ting.mp3.android ......
+[ERROR] : Cannot find info of com.ting.mp3.android-1.apk on https://play.google.com/store/apps/details?id=com.ting.mp3.android !!!
+Done processing com.ting.mp3.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+9/11 Starting processing com.xunlei.downloadprovider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.xunlei.downloadprovider ......
+Success to get info from Play Store
+The lastest version of com.xunlei.downloadprovider-1.apk is  5.1.2.2890  
+Done processing com.xunlei.downloadprovider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+10/11 Starting processing im.yixin-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=im.yixin ......
+Success to get info from Play Store
+The lastest version of im.yixin-1.apk is  3.5.0  
+Done processing im.yixin-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+11/11 Starting processing me.chunyu.ChunyuDoctor-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=me.chunyu.ChunyuDoctor ......
+Success to get info from Play Store
+The lastest version of me.chunyu.ChunyuDoctor-1.apk is  5.1.0  
+Done processing me.chunyu.ChunyuDoctor-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 27 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 27 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-06-15-16-21-58.csv
+**************************************************************

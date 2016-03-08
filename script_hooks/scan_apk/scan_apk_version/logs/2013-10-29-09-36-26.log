@@ -1,0 +1,114 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/13 Starting processing air.WatchESPN-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.WatchESPN ......
+Success to get info from Play Store
+The lastest version of air.WatchESPN-1.apk is  1.6.6.1  
+Done processing air.WatchESPN-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/13 Starting processing air.com.yazino.android.slots-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.yazino.android.slots ......
+Success to get info from Play Store
+The lastest version of air.com.yazino.android.slots-1.apk is  2.64.1  
+Done processing air.com.yazino.android.slots-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+3/13 Starting processing com.PinballGame-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.PinballGame ......
+Success to get info from Play Store
+The lastest version of com.PinballGame-1.apk is  1.8  
+Done processing com.PinballGame-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+4/13 Starting processing com.animoca.google.astroboydash-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.animoca.google.astroboydash ......
+Success to get info from Play Store
+The lastest version of com.animoca.google.astroboydash-1.apk is  1.4.2  
+Done processing com.animoca.google.astroboydash-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+5/13 Starting processing com.animoca.google.starGirl-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.animoca.google.starGirl ......
+Success to get info from Play Store
+The lastest version of com.animoca.google.starGirl-1.apk is  3.0.2  
+Done processing com.animoca.google.starGirl-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+6/13 Starting processing com.bigduckgames.flowbridges-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.bigduckgames.flowbridges ......
+Success to get info from Play Store
+The lastest version of com.bigduckgames.flowbridges-1.apk is  1.6  
+Done processing com.bigduckgames.flowbridges-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+7/13 Starting processing com.g6677.android.princessspas-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.g6677.android.princessspas ......
+Success to get info from Play Store
+The lastest version of com.g6677.android.princessspas-1.apk is  1.0.2  
+Done processing com.g6677.android.princessspas-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+8/13 Starting processing com.imangi.templerun2-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.imangi.templerun2 ......
+Success to get info from Play Store
+The lastest version of com.imangi.templerun2-1.apk is  1.5  
+Done processing com.imangi.templerun2-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 19 Seconds
+
+============================================================================
+9/13 Starting processing com.magisto-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magisto ......
+Success to get info from Play Store
+The lastest version of com.magisto-1.apk is  1.6.2974  
+Done processing com.magisto-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+10/13 Starting processing com.outfit7.talkingben-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.outfit7.talkingben ......
+Success to get info from Play Store
+The lastest version of com.outfit7.talkingben-1.apk is    Varies with device  
+Done processing com.outfit7.talkingben-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+11/13 Starting processing com.perblue.greedforglory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.perblue.greedforglory ......
+Success to get info from Play Store
+The lastest version of com.perblue.greedforglory-1.apk is    Varies with device  
+Done processing com.perblue.greedforglory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 26 Seconds
+
+============================================================================
+12/13 Starting processing com.teamlava.dragon-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.dragon ......
+Success to get info from Play Store
+The lastest version of com.teamlava.dragon-1.apk is  1.0.7.6  
+Done processing com.teamlava.dragon-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 29 Seconds
+
+============================================================================
+13/13 Starting processing com.teamlava.restaurantstory-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.restaurantstory ......
+Success to get info from Play Store
+The lastest version of com.teamlava.restaurantstory-1.apk is  1.5.5.7.7  
+Done processing com.teamlava.restaurantstory-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 32 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-10-29-09-36-26.csv
+**************************************************************

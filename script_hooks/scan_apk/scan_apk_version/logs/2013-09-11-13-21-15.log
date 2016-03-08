@@ -1,0 +1,25 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/2 Starting processing com.duomi.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.duomi.android ......
+[ERROR] : Cannot find info of com.duomi.android-1.apk on https://play.google.com/store/apps/details?id=com.duomi.android !!!
+Done processing com.duomi.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 1 Seconds
+
+============================================================================
+2/2 Starting processing com.yx-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.yx ......
+Success to get info from Play Store
+The lastest version of com.yx-1.apk is  2.11.0  
+Done processing com.yx-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 5 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-09-11-13-21-15.csv
+**************************************************************

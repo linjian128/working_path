@@ -1,0 +1,50 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/5 Starting processing com.com2us.kungfupet.normal2.freefull.google.global.android.common-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.com2us.kungfupet.normal2.freefull.google.global.android.common ......
+Success to get info from Play Store
+The lastest version of com.com2us.kungfupet.normal2.freefull.google.global.android.common-1.apk is  1.0.10  
+Done processing com.com2us.kungfupet.normal2.freefull.google.global.android.common-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+2/5 Starting processing com.foxugame.us-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.foxugame.us ......
+Success to get info from Play Store
+The lastest version of com.foxugame.us-1.apk is  3.0.007  
+Done processing com.foxugame.us-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+3/5 Starting processing com.ketchapp.circlethedot-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ketchapp.circlethedot ......
+Success to get info from Play Store
+The lastest version of com.ketchapp.circlethedot-1.apk is  1.0  
+Done processing com.ketchapp.circlethedot-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+4/5 Starting processing com.teamlava.bakerystory40-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.teamlava.bakerystory40 ......
+Success to get info from Play Store
+The lastest version of com.teamlava.bakerystory40-1.apk is  1.5.5.8  
+Done processing com.teamlava.bakerystory40-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 17 Seconds
+
+============================================================================
+5/5 Starting processing com.umoni.chick-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.umoni.chick ......
+Success to get info from Play Store
+The lastest version of com.umoni.chick-1.apk is  1.2.1  
+Done processing com.umoni.chick-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2014-12-31-14-48-04.csv
+**************************************************************

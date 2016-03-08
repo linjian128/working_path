@@ -1,0 +1,82 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.crossforward.audiobooks-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.crossforward.audiobooks ......
+Success to get info from Play Store
+The lastest version of com.crossforward.audiobooks-1.apk is 1.4
+Done processing com.crossforward.audiobooks-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.google.marvin.shell-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.marvin.shell ......
+Success to get info from Play Store
+The lastest version of com.google.marvin.shell-1.apk is 3.2.0
+Done processing com.google.marvin.shell-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+3/9 Starting processing com.google.marvin.talkingdialer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.google.marvin.talkingdialer ......
+Success to get info from Play Store
+The lastest version of com.google.marvin.talkingdialer-1.apk is 2.0.1
+Done processing com.google.marvin.talkingdialer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/9 Starting processing com.googlecode.eyesfree.walkytalky-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.googlecode.eyesfree.walkytalky ......
+Success to get info from Play Store
+The lastest version of com.googlecode.eyesfree.walkytalky-1.apk is 1.2.0
+Done processing com.googlecode.eyesfree.walkytalky-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+5/9 Starting processing com.marvin.rocklock-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.marvin.rocklock ......
+Success to get info from Play Store
+The lastest version of com.marvin.rocklock-1.apk is 2.0
+Done processing com.marvin.rocklock-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+6/9 Starting processing com.videon.android.mediaplayer-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.videon.android.mediaplayer ......
+Success to get info from Play Store
+The lastest version of com.videon.android.mediaplayer-1.apk is 6.4.23357
+Done processing com.videon.android.mediaplayer-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+7/9 Starting processing in.co.accessiblenews.ideal-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=in.co.accessiblenews.ideal ......
+Success to get info from Play Store
+The lastest version of in.co.accessiblenews.ideal-1.apk is 2.6
+Done processing in.co.accessiblenews.ideal-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+8/9 Starting processing org.benetech.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.benetech.android ......
+Success to get info from Play Store
+The lastest version of org.benetech.android-1.apk is 4.0.1.20121016
+Done processing org.benetech.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+9/9 Starting processing org.deadbeef.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=org.deadbeef.android ......
+Success to get info from Play Store
+The lastest version of org.deadbeef.android-1.apk is 1.19
+Done processing org.deadbeef.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 23 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 23 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-05-09-10-44-22.csv
+**************************************************************

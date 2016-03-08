@@ -1,0 +1,90 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/10 Starting processing com.active.aps.c25k-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.active.aps.c25k ......
+Success to get info from Play Store
+The lastest version of com.active.aps.c25k-1.apk is    Varies with device  
+Done processing com.active.aps.c25k-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 2 Seconds
+
+============================================================================
+2/10 Starting processing com.dataviz.docstogo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dataviz.docstogo ......
+Success to get info from Play Store
+The lastest version of com.dataviz.docstogo-1.apk is    Varies with device  
+Done processing com.dataviz.docstogo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+3/10 Starting processing com.dynamixsoftware.printershare-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.dynamixsoftware.printershare ......
+Success to get info from Play Store
+The lastest version of com.dynamixsoftware.printershare-1.apk is  9.5.1  
+Done processing com.dynamixsoftware.printershare-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 5 Seconds
+
+============================================================================
+4/10 Starting processing com.kongregate.mobile.epicskater.google-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.kongregate.mobile.epicskater.google ......
+Success to get info from Play Store
+The lastest version of com.kongregate.mobile.epicskater.google-1.apk is  1.1.9  
+Done processing com.kongregate.mobile.epicskater.google-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+5/10 Starting processing com.mobisystems.editor.office_registered-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobisystems.editor.office_registered ......
+Success to get info from Play Store
+The lastest version of com.mobisystems.editor.office_registered-1.apk is  7.5.2087  
+Done processing com.mobisystems.editor.office_registered-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 9 Seconds
+
+============================================================================
+6/10 Starting processing com.rerware.android.MyBackupPro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.rerware.android.MyBackupPro ......
+Success to get info from Play Store
+The lastest version of com.rerware.android.MyBackupPro-1.apk is  4.1.1  
+Done processing com.rerware.android.MyBackupPro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+7/10 Starting processing com.shazam.encore.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shazam.encore.android ......
+Success to get info from Play Store
+The lastest version of com.shazam.encore.android-1.apk is    Varies with device  
+Done processing com.shazam.encore.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+8/10 Starting processing com.shinycore.picsaypro-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.shinycore.picsaypro ......
+Success to get info from Play Store
+The lastest version of com.shinycore.picsaypro-1.apk is    Varies with device  
+Done processing com.shinycore.picsaypro-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 15 Seconds
+
+============================================================================
+9/10 Starting processing com.zenstudios.MarvelPinball-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zenstudios.MarvelPinball ......
+Success to get info from Play Store
+The lastest version of com.zenstudios.MarvelPinball-1.apk is  1.3  
+Done processing com.zenstudios.MarvelPinball-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+10/10 Starting processing net.kairosoft.android.ninja_en-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=net.kairosoft.android.ninja_en ......
+Success to get info from Play Store
+The lastest version of net.kairosoft.android.ninja_en-1.apk is  1.0.6  
+Done processing net.kairosoft.android.ninja_en-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 21 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-08-26-15-51-09.csv
+**************************************************************

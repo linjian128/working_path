@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/RichText
+END
+TextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/RichText/TextElement.php
+END
+Run.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/RichText/Run.php
+END
+ITextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ssg/dpd/epl/ubt/cms7/!svn/ver/41896/mainline/branches/ubt-arm/dev-tools/APPWebSite/Classes/PHPExcel/RichText/ITextElement.php
+END

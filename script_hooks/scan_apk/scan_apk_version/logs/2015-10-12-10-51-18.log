@@ -1,0 +1,58 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/6 Starting processing com.Studio17.drawrider-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.Studio17.drawrider ......
+Success to get info from Play Store
+The lastest version of com.Studio17.drawrider-1.apk is  6.1  
+Done processing com.Studio17.drawrider-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 4 Seconds
+
+============================================================================
+2/6 Starting processing com.f2zentertainment.pandemic-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.f2zentertainment.pandemic ......
+Success to get info from Play Store
+The lastest version of com.f2zentertainment.pandemic-1.apk is  1.1.12  
+Done processing com.f2zentertainment.pandemic-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+3/6 Starting processing com.jjacrappsllc.nflradiolive-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.jjacrappsllc.nflradiolive ......
+Success to get info from Play Store
+The lastest version of com.jjacrappsllc.nflradiolive-1.apk is  1.4  
+Done processing com.jjacrappsllc.nflradiolive-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 11 Seconds
+
+============================================================================
+4/6 Starting processing com.lonewolfgames.losttreasure-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.lonewolfgames.losttreasure ......
+Success to get info from Play Store
+The lastest version of com.lonewolfgames.losttreasure-1.apk is  1.5  
+Done processing com.lonewolfgames.losttreasure-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 16 Seconds
+
+============================================================================
+5/6 Starting processing com.magiccubesgames.VBC-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.magiccubesgames.VBC ......
+Success to get info from Play Store
+The lastest version of com.magiccubesgames.VBC-1.apk is  1.50  
+Done processing com.magiccubesgames.VBC-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 20 Seconds
+
+============================================================================
+6/6 Starting processing com.midasplayer.apps.diamonddiggersaga-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.midasplayer.apps.diamonddiggersaga ......
+Success to get info from Play Store
+The lastest version of com.midasplayer.apps.diamonddiggersaga-1.apk is 
+Done processing com.midasplayer.apps.diamonddiggersaga-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 24 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 24 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2015-10-12-10-51-18.csv
+**************************************************************

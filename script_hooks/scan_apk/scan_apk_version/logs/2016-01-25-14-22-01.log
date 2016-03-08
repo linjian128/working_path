@@ -1,0 +1,74 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/8 Starting processing com.cleanmaster.mguard-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.cleanmaster.mguard ......
+Success to get info from Play Store
+The lastest version of com.cleanmaster.mguard-1.apk is    Varies with device  
+Done processing com.cleanmaster.mguard-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+2/8 Starting processing com.psafe.msuite-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.psafe.msuite ......
+Success to get info from Play Store
+The lastest version of com.psafe.msuite-1.apk is    Varies with device  
+Done processing com.psafe.msuite-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 13 Seconds
+
+============================================================================
+3/8 Starting processing com.qihoo.security-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.qihoo.security ......
+Success to get info from Play Store
+The lastest version of com.qihoo.security-1.apk is    Varies with device  
+Done processing com.qihoo.security-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+4/8 Starting processing com.sgiggle.production-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.sgiggle.production ......
+Success to get info from Play Store
+The lastest version of com.sgiggle.production-1.apk is    Varies with device  
+Done processing com.sgiggle.production-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+5/8 Starting processing com.tencent.mm-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.tencent.mm ......
+Success to get info from Play Store
+The lastest version of com.tencent.mm-1.apk is    Varies with device  
+Done processing com.tencent.mm-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 32 Seconds
+
+============================================================================
+6/8 Starting processing com.zynga.looney-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.zynga.looney ......
+Success to get info from Play Store
+The lastest version of com.zynga.looney-1.apk is    Varies with device  
+Done processing com.zynga.looney-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 39 Seconds
+
+============================================================================
+7/8 Starting processing jp.naver.line.android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=jp.naver.line.android ......
+Success to get info from Play Store
+The lastest version of jp.naver.line.android-1.apk is    Varies with device  
+Done processing jp.naver.line.android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 44 Seconds
+
+============================================================================
+8/8 Starting processing no.dirtybit.funrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=no.dirtybit.funrun ......
+Success to get info from Play Store
+The lastest version of no.dirtybit.funrun-1.apk is    Varies with device  
+Done processing no.dirtybit.funrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 49 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 49 Seconds
+Result Location:               /home/Git-Apk/code_resource/script_hooks/scan_apk/scan_apk_version/results/AppInfo_2016-01-25-14-22-01.csv
+**************************************************************

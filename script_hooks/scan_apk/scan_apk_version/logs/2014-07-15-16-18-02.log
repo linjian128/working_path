@@ -1,0 +1,82 @@
+Start processing app in list /home/Git-Apk/Updated_list from /home/Git-Apk/All_Apk  ......
+
+============================================================================
+1/9 Starting processing com.adsk.sketchbookhd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.adsk.sketchbookhd ......
+Success to get info from Play Store
+The lastest version of com.adsk.sketchbookhd-1.apk is  2.9.4  
+Done processing com.adsk.sketchbookhd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/9 Starting processing com.basevelocity.radarscope-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.basevelocity.radarscope ......
+Success to get info from Play Store
+The lastest version of com.basevelocity.radarscope-1.apk is  2.2.2  
+Done processing com.basevelocity.radarscope-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 7 Seconds
+
+============================================================================
+3/9 Starting processing com.disney.checkoutchallenge_goo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.disney.checkoutchallenge_goo ......
+Success to get info from Play Store
+The lastest version of com.disney.checkoutchallenge_goo-1.apk is  1.0  
+Done processing com.disney.checkoutchallenge_goo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 10 Seconds
+
+============================================================================
+4/9 Starting processing com.eamobile.nbajam_na_wf-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.eamobile.nbajam_na_wf ......
+Success to get info from Play Store
+The lastest version of com.eamobile.nbajam_na_wf-1.apk is  02.00.41  
+Done processing com.eamobile.nbajam_na_wf-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 14 Seconds
+
+============================================================================
+5/9 Starting processing com.ninjakiwi.bloonstd5-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd5 ......
+Success to get info from Play Store
+The lastest version of com.ninjakiwi.bloonstd5-1.apk is  2.10  
+Done processing com.ninjakiwi.bloonstd5-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 18 Seconds
+
+============================================================================
+6/9 Starting processing com.smgstudio.otttd-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.smgstudio.otttd ......
+Success to get info from Play Store
+The lastest version of com.smgstudio.otttd-1.apk is  1.2.1  
+Done processing com.smgstudio.otttd-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 21 Seconds
+
+============================================================================
+7/9 Starting processing com.turner.cardwars-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.turner.cardwars ......
+Success to get info from Play Store
+The lastest version of com.turner.cardwars-1.apk is  1.0.8  
+Done processing com.turner.cardwars-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 25 Seconds
+
+============================================================================
+8/9 Starting processing com.ubisoft.redlynx.trialsfrontier.ggp-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ubisoft.redlynx.trialsfrontier.ggp ......
+Success to get info from Play Store
+The lastest version of com.ubisoft.redlynx.trialsfrontier.ggp-1.apk is  2.0.1  
+Done processing com.ubisoft.redlynx.trialsfrontier.ggp-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 31 Seconds
+
+============================================================================
+9/9 Starting processing com.ultimateguitar.tabs-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs ......
+Success to get info from Play Store
+The lastest version of com.ultimateguitar.tabs-1.apk is  3.6.2  
+Done processing com.ultimateguitar.tabs-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 35 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 35 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2014-07-15-16-18-02.csv
+**************************************************************

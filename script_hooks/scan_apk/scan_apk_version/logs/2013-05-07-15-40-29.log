@@ -1,0 +1,42 @@
+Start processing app in list /share/Git-Apk/Updated_list from /share/Git-Apk/All_Apk  ......
+
+============================================================================
+1/4 Starting processing air.com.bitrhymes.bingo-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=air.com.bitrhymes.bingo ......
+Success to get info from Play Store
+The lastest version of air.com.bitrhymes.bingo-1.apk is 1.13.0
+Done processing air.com.bitrhymes.bingo-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 3 Seconds
+
+============================================================================
+2/4 Starting processing com.FunForMobile.main-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.FunForMobile.main ......
+Success to get info from Play Store
+The lastest version of com.FunForMobile.main-1.apk is 3.02
+Done processing com.FunForMobile.main-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 6 Seconds
+
+============================================================================
+3/4 Starting processing com.aceviral.angrygranrun-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.aceviral.angrygranrun ......
+Success to get info from Play Store
+The lastest version of com.aceviral.angrygranrun-1.apk is 1.5.0.8
+Done processing com.aceviral.angrygranrun-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 8 Seconds
+
+============================================================================
+4/4 Starting processing com.mobage.ww.a1257.Dot_Android-1.apk ......
+Getting apk info from https://play.google.com/store/apps/details?id=com.mobage.ww.a1257.Dot_Android ......
+Success to get info from Play Store
+The lastest version of com.mobage.ww.a1257.Dot_Android-1.apk is 2.1.0
+Done processing com.mobage.ww.a1257.Dot_Android-1.apk
+Time Spent:   0 Days 0 Hours 0 Minutes 12 Seconds
+
+============================================================================
+
+
+**************************************************************
+All Done
+Total Time:   0 Days 0 Hours 0 Minutes 12 Seconds
+Result Location:               /srv/www/htdocs/CV2/app/admin/scan_apk_version//results/AppInfo_2013-05-07-15-40-29.csv
+**************************************************************
