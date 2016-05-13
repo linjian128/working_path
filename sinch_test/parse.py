@@ -31,3 +31,7 @@ while 1:
 		with open(file_name +'.txt', 'a') as op:
 			op.write(call_log_arry[i])
 #print call_log_arry[1]
+  
+  
+  
+  
